@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜Science and Technology for the Built Environment</title>
+  <link href="https://elweeeen.github.io/journals-feed/stbe.xml" rel="self" />
+  <id>urn:jstage-journals:feed:stbe</id>
+  <updated>2026-07-26T00:00:00+09:00</updated>
+  <entry>
+    <title>高層建築におけるスタック効果の緩和に関する包括的数値評価：建築的・機械的・気候的要因の影響</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2643576" />
+    <id>urn:doi:10.1080/23744731.2026.2643576</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Meng Liu</name>
+    </author>
+    <author>
+      <name>Xiaoqiang Jiang</name>
+    </author>
+    <author>
+      <name>Jie Sun</name>
+    </author>
+    <author>
+      <name>Lingqian Wu</name>
+    </author>
+    <author>
+      <name>Xiaohuai Zhang</name>
+    </author>
+    <author>
+      <name>Li Hua</name>
+    </author>
+    <author>
+      <name>Wei Yang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Comprehensive numerical assessment of stack effect mitigation in high-rise buildings: impacts of architectural, mechanical, and climatic factors&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meng Liu, Xiaoqiang Jiang, Jie Sun, Lingqian Wu, Xiaohuai Zhang, Li Hua, Wei Yang ／ Science and Technology for the Built Environment p.1-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;スタック効果は高層建築の熱性能と火災安全性に大きな影響を与える重大な課題である。本研究では気流モデリングソフトウェアCONTAMを用いて、建物内のスタック効果と気圧差を定量的に評価することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;シミュレーションでは、建物高さ、HVAC運用戦略、エレベーターゾーニング構成、地域気候条件、気密化対策の性能などを主要変数として検討した。さらに新興のマルチカーロープレス（MCR）エレベーターシステムの影響についても検討を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;スタック誘起気流は鉛直温度差および建物高さに対して強い感応性を示した。HVAC加圧戦略と転送階ゾーニングは鉛直方向の空気流動とエネルギー需要に大きな影響を及ぼし、特に低層部ロビー付近の空気漏洩経路が浸入パターンを支配することが明らかになった。気候変動はスタック気圧勾配に実質的な差をもたらし、MCRシステムではシャフト表面積削減を通じた潜在的な利点が示唆された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;気候特有の戦略、正確なエレベーターゾーニング、戦略的な気密層の実装を包括する統合的なアプローチにより、超高層建築のエネルギー効率および環境性能を向上させることが重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2643576"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>空気浄化技術と熱環境が浮遊カビエアロゾル除去効率に与える影響の評価</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2664367" />
+    <id>urn:doi:10.1080/23744731.2026.2664367</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Chenqiu Du</name>
+    </author>
+    <author>
+      <name>Yufu Bai</name>
+    </author>
+    <author>
+      <name>Bingjie Lu</name>
+    </author>
+    <author>
+      <name>Emmanuel Essah</name>
+    </author>
+    <author>
+      <name>M T Chen</name>
+    </author>
+    <author>
+      <name>Juan Wang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Evaluating the effects of purification technology and thermal environment on removal efficiency for airborne mold aerosols&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chenqiu Du, Yufu Bai, Bingjie Lu, Emmanuel Essah, M T Chen, Juan Wang ／ Science and Technology for the Built Environment p.1-14&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;室内微生物はエアロゾル伝播と吸入曝露を通じて人間の健康に悪影響を与えている。しかし、適切な浄化技術とその実際の効果については、まだ十分に検討されていない。本研究では、生物エアロゾルに対する異なる浄化技術の性能と、実運用時の熱環境条件の影響を評価することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;Aspergillus nigerを人工汚濁物質として用い、空気採取と培養可能法を組み合わせた方法によって浮遊エアロゾルの濃度を測定した。温度13～33°C（5°C刻み）、相対湿度25～85%（10%刻み）の条件下で、合計35パターンの実験を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;濾過、光触媒、オゾン、プラズマの各浄化技術を比較した結果、プラズマが最も高い除菌率を示し、その値は約82.1±4.17%で自然減衰の2.13倍であった。プラズマ処理においては温度よりも相対湿度の影響が有意であり、最適条件は23°C、相対湿度55%において最高の除菌率が得られた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本研究は生物エアロゾルに対する有効な浄化技術を定量的に明らかにした。これらの知見は浄化効率の評価基準開発に貢献し、建物内の空気汚染物質と実際の運用熱環境条件を考慮した浄化技術の実用的な応用を進展させるものである。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2664367"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>都市環境における熱とPM2.5への個人曝露</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2666491" />
+    <id>urn:doi:10.1080/23744731.2026.2666491</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Yousaf Shahid</name>
+    </author>
+    <author>
+      <name>ZM Khan</name>
+    </author>
+    <author>
+      <name>Abigail Andrews</name>
+    </author>
+    <author>
+      <name>Ge Gao</name>
+    </author>
+    <author>
+      <name>Jie Gong</name>
+    </author>
+    <author>
+      <name>Holly Josephs</name>
+    </author>
+    <author>
+      <name>Sunyoung Kim</name>
+    </author>
+    <author>
+      <name>Y LI</name>
+    </author>
+    <author>
+      <name>Vijay Maddila</name>
+    </author>
+    <author>
+      <name>Gediminas Mainelis</name>
+    </author>
+    <author>
+      <name>Jenna Myers</name>
+    </author>
+    <author>
+      <name>Deborah Plotnik</name>
+    </author>
+    <author>
+      <name>Carmén del Rosario</name>
+    </author>
+    <author>
+      <name>Jennifer Senick</name>
+    </author>
+    <author>
+      <name>Phaneendra Sivangula</name>
+    </author>
+    <author>
+      <name>Clinton J. Andrews</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Personal exposures to heat and PM2.5 in urban environments&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yousaf Shahid, ZM Khan, Abigail Andrews, Ge Gao, Jie Gong, Holly Josephs, Sunyoung Kim, Y LI, Vijay Maddila, Gediminas Mainelis, Jenna Myers, Deborah Plotnik, Carmén del Rosario, Jennifer Senick, Phaneendra Sivangula, Clinton J. Andrews ／ Science and Technology for the Built Environment p.1-18&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;暑熱と大気汚染への曝露評価は従来、規制当局の監視測定所のデータに主に依存していました。しかし、この手法では居住者が日常的に経験する様々なマイクロ環境における実際の条件を正確に反映できません。本研究は、分散型屋外ネットワーク、室内モニター、ウェアラブル個人計測装置を統合することで、低所得公営住宅住民が実際に経験する暑熱とPM2.5への曝露実態を把握することを目的としました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;青少年、高齢者、住宅当局職員など異なる参加者グループ間での曝露を定量化するため、超過基準指標を用いて曝露の強度と継続期間の両方を測定しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;分析の結果、参加者間で顕著な曝露の異質性が明らかになりました。特に高齢者は最も高いPM2.5曝露に直面し、青少年は広範に変動するまたはより高い熱曝露を示しました。ウェアラブル・局所モニターと規制当局モニターの比較では、熱条件は一致しましたが、PM2.5値には高い局所的な変動が観測されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;既存のHVAC設計では規制基準に基づいた平均条件を想定していますが、実際の生活条件がこれらの設計仮定と大きく異なることが明らかになりました。空調設計や都市設計手法が、個人計測データに基づいて推進される必要があることが示唆されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2666491"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>複数バッチ差分ベースカーネル正準変量分析による空調ユニットの双方向動的故障検出</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2670949" />
+    <id>urn:doi:10.1080/23744731.2026.2670949</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Hao Zhao</name>
+    </author>
+    <author>
+      <name>Hanyuan Zhang</name>
+    </author>
+    <author>
+      <name>Yuyu Zhang</name>
+    </author>
+    <author>
+      <name>Linyuan Shang</name>
+    </author>
+    <author>
+      <name>Xiuxia Yang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Multiple batches differential-based kernel canonical variate analysis for a two-directional dynamic fault detection in air handling units&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hao Zhao, Hanyuan Zhang, Yuyu Zhang, Linyuan Shang, Xiuxia Yang ／ Science and Technology for the Built Environment p.1-22&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;空気処理機（AHU）は暖冷房・換気・空調システムの中核要素ですが、運転日内の時間方向の動特性と異なる運転日間のバッチ間の動特性という双方向の複雑な動特性を示す非線形システムです。既存の故障検知手法はこれらの複合的な動特性に対応するのに十分ではないため、AHUの故障検知能力を高める新たな手法の開発が求められています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数バッチ差分分析に基づくカーネル正準変量分析（MDBKCVA）戦略を開発しました。複数の正常バッチデータセットをペアリングして差分を計算し、計算複雑度を低減するために代表的な正常差分バッチデータセットから三次元差分学習データセットを構成します。複数バッチ分析技術により展開差分行列に変換してバッチ間の動特性と変数間の相関に対処し、カーネルトリックを正準変量分析に統合したKCVA監視モデルで非線形性と時間方向の動特性を解決します。得られた潜在変数から3つの監視指標を構成しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;ASHRAE RP-1312データセットを用いた実験と比較により、提案されたMDBKCVAの故障検知能力を評価しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2670949"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建物への水素統合：既存ガス接続からの漏洩調査</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2672887" />
+    <id>urn:doi:10.1080/23744731.2026.2672887</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Mason Bushell</name>
+    </author>
+    <author>
+      <name>Aleksandr Fridlyand</name>
+    </author>
+    <author>
+      <name>Yan Zhao</name>
+    </author>
+    <author>
+      <name>Jess Komar</name>
+    </author>
+    <author>
+      <name>Paul Glanville</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Hydrogen integration in buildings: investigating leakage from common gas connections&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mason Bushell, Aleksandr Fridlyand, Yan Zhao, Jess Komar, Paul Glanville ／ Science and Technology for the Built Environment p.1-12&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;水素は建築環境の脱炭素化に向けた有望なエネルギー源となる可能性を持つが、ガス配管システムからの漏洩が導入上の課題である。本研究は、天然ガスに30体積%の水素を混合したブレンドガスが建築用ガス配管継手を通じて漏洩するメカニズム、特に水素の優先的漏洩の有無を明らかにすることを目的としている。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;屋内配管システムの模擬区間を一般的なガス継手で組み立て、複数日にわたり異なる構成下で静的漏洩試験を繰り返し実施した。配管内の圧力減衰を継続的に監視し、試験終了時にガス組成を分析して、メタンと水素の漏洩比率を確認した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;正しく組み立てられた継手は、屋内圧力下において天然ガスおよび水素ブレンドに対して最小限の漏洩を示した。ただし波状ステンレス鋼圧縮継手（平均漏洩率4.6 × 10⁻⁵ mol·m⁻³·min⁻¹）と摩耗したテーパーねじ継手（平均漏洩率3.4 × 10⁻⁵ mol·m⁻³·min⁻¹）では無視できない漏洩が確認された。水素ブレンドの漏洩率は純メタンと同程度であり、H2:CH4体積比が初期値の3:7で維持されたことから、水素の優先的漏洩は生じていないと判断された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;適切に組み立てられたガス継手は水素ブレンドの使用に対応可能であることが示唆される。一方、波状ステンレス鋼圧縮継手や摩耗したテーパーねじ継手については、既存配管の点検・更新時に注意が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2672887"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>中央冷却水プラントモデルを用いた学習型制御器の設計</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2679909" />
+    <id>urn:doi:10.1080/23744731.2026.2679909</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Zhong Guo</name>
+    </author>
+    <author>
+      <name>Prabir Barooah</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A central chilled water plant model for designing learning-based controllers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Zhong Guo, Prabir Barooah ／ Science and Technology for the Built Environment p.1-15&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;本論文は、集約冷却コイル、複数の異種冷凍機、冷却塔、および冷却水蓄熱システムから構成される中央冷却水プラント（CCWP）のモデリングフレームワークを提案する研究である。既存のモデルでは、通常運転範囲外の入力条件に対して極めて大きな誤差が生じるという課題がある。本研究はこの課題を克服し、広い運転条件に対応可能で、かつ学習ベースの制御器訓練に適したモデルの開発を目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;制約付き最適化手法を用いて既存文献のコンポーネントモデルを改善した。冷却コイル、冷凍機、冷却塔など熱交換器群の容量制約を設計に組み込み、いかなる入力に対してもこれらの容量を尊重する計算結果が得られるようにした。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案モデルは既存モデルと比べてより広い有効範囲を持ち、特に通常運転条件を超える入力に対してもロバストな特性を示す。Matlabで実装され、コード公開を行っており、閉ループ制御を備えた中央冷却水プラントのシミュレーション例が提示されている。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ロバストな特性を備えたモデルは、通常運転条件を超える入力を選択する可能性のある学習ベースのコントローラー訓練に不可欠である。この機能は現在利用可能なモデルには欠けており、公開される提案モデルは実務での制御研究に活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2679909"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>寒冷地病院における医療従事者の温熱快適性に関する実験研究</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2680599" />
+    <id>urn:doi:10.1080/23744731.2026.2680599</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Shengle Zhu</name>
+    </author>
+    <author>
+      <name>Yuanfeng Lu</name>
+    </author>
+    <author>
+      <name>Zai Zhang</name>
+    </author>
+    <author>
+      <name>Tian Tian</name>
+    </author>
+    <author>
+      <name>Yi Ren</name>
+    </author>
+    <author>
+      <name>Wenjuan Mu</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Experimental study on thermal comfort of medical staff in cold region hospitals&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shengle Zhu, Yuanfeng Lu, Zai Zhang, Tian Tian, Yi Ren, Wenjuan Mu ／ Science and Technology for the Built Environment p.1-15&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;室内熱環境は医療スタッフの健康維持、快適性および業務パフォーマンスに重要な要素です。しかし既往研究の大半は患者を対象としており、医療従事者とその多様で変動的な労働環境についての熱環境研究は限定的でした。本研究は冬季の病院熱環境を調査対象とし、中国甘粛省蘭州市の病院において外来科、超音波検査科、手術病棟、内科病棟に勤務する382名の医療スタッフを対象に実測調査とアンケート調査を実施しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;測定環境要素として気温、相対湿度、気流速度、放射温度計温度、CO2濃度、音圧レベルの6項目を対象としました。熱的快適性の評価には予測平均投票（PMV）モデルと回帰分析による解析手法を適用し、医療従事者からのアンケート調査により得られた熱感覚の実態と比較検討を行いました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;PMVは医療従事者の熱感覚を体系的に過小評価することが示され、本調査対象における適用可能性が限定的であることが明らかになりました。グリフィス法により推定された中立温度は22.7°Cから23.1°Cの範囲でした。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;寒冷地域に立地する病院において、部門別の熱環境管理が医療従事者の多様な熱的要求をより適切に満たす可能性があることが示唆されています。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2680599"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>両端で切断された湿潤傾斜管における受動蒸発冷却のモデル化</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2686923" />
+    <id>urn:doi:10.1080/23744731.2026.2686923</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Abdul Najim</name>
+    </author>
+    <author>
+      <name>Mahesh Shinde</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Modeling of the passive evaporative cooling in a wet inclined tube truncated at both ends&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Abdul Najim, Mahesh Shinde ／ Science and Technology for the Built Environment p.1-11&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;湿った傾斜円形管（両端開放）における受動的蒸発冷却プロセスを調査している。浮力駆動気流の下で、管内での蒸発に伴う温度・湿度変化のメカニズムを明らかにすることが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;一次元エネルギーおよび物質収支に基づく解析モデルを開発し、既発表研究の実験データとの比較により検証した。管長（28.3～56.6 mm）、傾斜角（15°～75°）、直径（5～15 mm）をパラメータとして変化させ分析している。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;管長の増加は、湿潤表面積の拡大と気流滞留時間の増加により、管出口での空気温度を低下させ相対湿度を増加させる。一方、傾斜角または内径の増加は、浮力と断面積の増大により質量流量が増加し、滞留時間は短縮するが、容積流量の顕著な増加により蒸発速度と冷却容量は結果として増加する。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建物冷却や生鮮野菜・果実の収穫後保存への応用において、受動的蒸発冷却媒体の最適化に用いるための、メカニズムの洞察と予測フレームワークを提供する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2686923"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>キッチン天井補給空気システムのマルチモーダル予測モデルとパラメータ設計</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2688047" />
+    <id>urn:doi:10.1080/23744731.2026.2688047</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Kailiang Huang</name>
+    </author>
+    <author>
+      <name>Run Bai</name>
+    </author>
+    <author>
+      <name>Guijun Liu</name>
+    </author>
+    <author>
+      <name>Guohui Feng</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Multimodal prediction model and parameter design for kitchen ceiling make-up air system&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kailiang Huang, Run Bai, Guijun Liu, Guohui Feng ／ Science and Technology for the Built Environment p.1-14&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既存のキッチン補給空気システムの設計は、個別のキッチンの条件や現場データに基づいた予測を十分に活用していない。本研究では、機械学習を用いたデータ駆動型アプローチにより、キッチン環境において人体の快適性と室内空気質を両立させる最適な補給空気システムの設計手法を確立することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;実験とCFDシミュレーションにより546件のデータセットを構築した。XGBoostの特徴相互作用と多層パーセプトロン（MLP）の非線形写像をスタッキング手法で統合した新規のXMSフレームワークを開発し、人体周辺温度とPM2.5粒子濃度を予測することで、給気口面積と気流経路の最適化を実現する手法を確立した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;XMSアルゴリズムは従来の多項式回帰モデルと比較してRMSEを19.3%削減し、決定係数R²を5.8%向上させた。実験対象のキッチン（面積7.521 m²、排気量0.183 m³/s）において、給気口面積0.008～0.014 m²と気流経路5.9～6.9 mの設定により、人体温度を290 K以上に保ちながら呼吸域のPM2.5濃度を低く維持できることが実証された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;多様なキッチン条件に適応した天井補給空気システムの最適選定が可能になり、実務設計者の意思決定を支援する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2688047"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>次世代冷媒を用いた低コスト高効率ルームエアコンのシミュレーション駆動型設計手法とプロトタイプ開発</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2688048" />
+    <id>urn:doi:10.1080/23744731.2026.2688048</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Chao Ding</name>
+    </author>
+    <author>
+      <name>Nihar Shah</name>
+    </author>
+    <author>
+      <name>Won Young Park</name>
+    </author>
+    <author>
+      <name>Thomas Burke</name>
+    </author>
+    <author>
+      <name>Nihan Karalı</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Simulation driven design approach and prototype development for low-cost high-efficiency room air conditioners using next generation refrigerants&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chao Ding, Nihar Shah, Won Young Park, Thomas Burke, Nihan Karalı ／ Science and Technology for the Built Environment p.1-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;冷媒転換に対応するため、HVACシステムの再設計が急務である。発展途上国および新興経済国の中小エアコンメーカーは、次世代冷媒を用いた安価で省エネルギーなシステムを設計するための技術的能力に課題を抱えている。本研究は、これらのメーカーを対象とした低コスト・高効率なミニスプリット型エアコンの開発を目指すものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;R32、R454B、R290といった次世代冷媒を用いたプロトタイプの開発に、シミュレーション駆動設計手法を採用した。VapCyc®およびCoilDesigner®を用いて物理ベースのシステムモデルを構築し、部品レベルのシミュレーションとシステム最適化を実施した。最適設計はISO 5151条件下の精密空調室で検証された。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;開発したすべてのプロトタイプは、基準ユニットと比べて33%高いEER（エネルギー効率比）を実現し、冷房季節エネルギー効率はほぼ2倍に達した。材料費の増加は2～16%に留まった。同等のコストでピーク負荷と排出量をおよそ半減できる可能性が示唆されている。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;シミュレーション駆動手法により、グリッド信頼性への制約、環境規制、および手頃な価格という市場需要に対応しながら、高性能なエアコンシステムの実用的な設計手法が得られる。新興市場のメーカーが持続可能な冷却技術への転換を加速する道筋を提供するものである。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2688048"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜Energy and Buildings</title>
+  <link href="https://elweeeen.github.io/journals-feed/enbuild.xml" rel="self" />
+  <id>urn:jstage-journals:feed:enbuild</id>
+  <updated>2026-07-27T00:00:00+09:00</updated>
+  <entry>
+    <title>EUにおける住宅建築物のエネルギー改修の促進要因と阻害要因：体系的文献レビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117923" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117923</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Victor Mannoni</name>
+    </author>
+    <author>
+      <name>Sandra Karina Löschke</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Drivers and barriers to the energy renovation of residential buildings in the EU: a systematic literature review&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Victor Mannoni, Sandra Karina Löschke ／ Energy and Buildings 369巻 p.117923-117923&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅のエネルギー改修は、家庭のエネルギー貧困削減とEU2050年気候中立目標達成に不可欠である。しかし、EU全域の改修率は目標を下回っており、既存研究やポリシーアプローチでは、プロセス・人間・プロジェクトの各側面が個別に扱われ、統合的な検討が限定的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;システム志向的アプローチによるシステマティック文献レビューを実施し、EU研究・ポリシー文脈における29件の研究を分析した。プロセス関連、人間関連、プロジェクト関連の3次元で62の促進要因と阻害要因を特定し、EUポリシー文書に整合した分析枠組みを開発した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;文献とEUポリシーフレームワークの間に持続的な断絶が存在することが明らかになった。プロセス関連要因と人的要因は強く関連する一方、プロジェクト関連要因は断絶したままであり、統合的なレトロフィット・ガバナンスと実装戦略のギャップが浮き彫りになった。証拠基盤は事例固有研究に支配され、国際比較分析が限定的である。2024年改正EPBD評価では、3アプローチ統合の強みが識別された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;住宅エネルギー改修を加速させるため、人的・プロセス・プロジェクト関連アプローチをより統合的・多次元的・文脈に敏感に展開する必要がある。ポリシー野心と実装実績の乖離を是正し、既存住宅ストックの大規模変革を実現する統合的研究・政策アプローチが求められる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117923"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>皮膚温度を入力とした行動的熱適応によるエネルギー効率的HVAC制御</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117933" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117933</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Yu Dong</name>
+    </author>
+    <author>
+      <name>Yuan Shi</name>
+    </author>
+    <author>
+      <name>Yanfeng Liu</name>
+    </author>
+    <author>
+      <name>Cong Song</name>
+    </author>
+    <author>
+      <name>Bintian Lin</name>
+    </author>
+    <author>
+      <name>Jørn Toftum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Skin temperature as input to behavioral thermal adaptation for energy-efficient HVAC control&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yu Dong, Yuan Shi, Yanfeng Liu, Cong Song, Bintian Lin, Jørn Toftum ／ Energy and Buildings 369巻 p.117933-117933&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;居住者の適応行動への理解不足は、建築物のエネルギー使用量削減の可能性を大きく制限する。本研究では、皮膚温度と熱的適応行動（窓操作、衣服調整、扇風機使用、姿勢変化）の関係を調査し、生理学ベースの予測モデルおよびHVAC制御戦略の開発を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;12名の参加者を18～33℃の温度環境に曝露する半制御実験を実施した。窓操作、衣服調整、扇風機使用、姿勢変化の4つの自発的適応行動を記録し、これらと環境パラメータ、皮膚温度、主観的熱感覚との関連性を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;行動起動前後の皮膚温度変化は行動調整の有効性を効果的に定量化でき、衣服調整と扇風機使用が中～高程度の有効性、姿勢変化と暑熱条件下での窓操作が低い有効性を示した。行動起動は順序依存性と状態依存性を示し、参加者は段階的な対応パターンに従う傾向を示した。熱快適性において、行動調整のある参加者とない参加者の平均皮膚温度に有意な差は認められなかった。行動の有効性とHVAC補償需要を統合した皮膚温度ベースの行動調整モデルを開発し、「行動優先、エネルギー補償は後」という階層制御戦略を実装した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;行動有効性の定量的評価方法と階層的な制御戦略が提示されており、適応的でエネルギー効率的な建築運用の設計に活用できる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117933"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ブラジルの社会住宅における居住者の適応行動と温熱知覚</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117943" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117943</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Marina Ribeiro Viana</name>
+    </author>
+    <author>
+      <name>Brenda da Costa Loeser</name>
+    </author>
+    <author>
+      <name>Christhina Candido</name>
+    </author>
+    <author>
+      <name>Enedir Ghisi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Occupants' adaptive behaviour and thermal perception in social housing buildings in Brazil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Marina Ribeiro Viana, Brenda da Costa Loeser, Christhina Candido, Enedir Ghisi ／ Energy and Buildings 369巻 p.117943-117943&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;社会住宅の設計不備が熱的側面で劣悪な室内環境をもたらしており、居住者の適応能力は限定されている。本研究はブラジルの高温多湿地域における社会住宅を対象に、居住者の適応行動戦略、温熱知覚、および主観的温熱応答の影響要因を明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;混合研究法により、103名の居住者に対して室内環境計測、インタビュー、温熱快適性調査を実施した。ロジスティック回帰モデルにより物理的・社会経済的要因の影響を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏季の室内環境は高温で、平均実効温度は31.22°Cに達し、69.35%の居住者が温かい/暑い感覚を報告した。温熱感覚は実効温度、相対湿度、年齢、扇風機使用と有意に関連し、温熱快適性は知覚される安全性や居住期間などの多面的要因と関連していた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;温熱快適性の向上には、物理環境の改善に加え、居住者の社会的・心理的・行動的側面を統合したアプローチが重要であることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117943"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>在室者の年齢と活動度が置換換気システムの性能に及ぼす影響</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117944" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117944</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Farah Youssef</name>
+    </author>
+    <author>
+      <name>Stéphane Hallé</name>
+    </author>
+    <author>
+      <name>Katherine D’Avignon</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Effect of occupant age and activity level on the performance of a displacement ventilation system&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Farah Youssef, Stéphane Hallé, Katherine D’Avignon ／ Energy and Buildings 369巻 p.117944-117944&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;下吹き出し換気（DV）システムは人体発熱による熱プルームに駆動される方式で、システム性能は発熱量に大きく影響される。従来、小学校教室などの設計では成人データが用いられてきたが、成人より発熱量が低く室内での位置も低い思春期前児童が在室した場合の動作が十分に検討されていなかった。本研究では、児童特有の発熱量を考慮した熱収支モデルにより、HVAC設計に必要な児童の顕熱・潜熱生成値を算出することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;8歳児を表現する加熱円柱2本を配置したDV調和室の数値流体力学（CFD）モデルを構築し、実験に基づいて検証した。検証済みのモデルを用いて、低・中・高の3段階の代謝率条件における児童と成人女性の性能を比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;児童が在室すると鉛直温度成層が約1.9℃低下し、特に低活動レベルで気流パターンが大きく変化した。児童低活動時には給気流線がほぼ等温特性を示すようになり、室内空気質の性能が低下し、空気齢が11%増加、人間活動域における換気効率が10%低下した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;成人用に設計されたDVシステムが児童の利用環境に用いられた場合、特に低活動条件下では気流・温度成層化・空気質に著しく影響することが明らかとなった。本研究で示された児童の顕熱・潜熱表は、教室などの児童利用空間におけるHVAC設計シミュレーションおよび温熱快適性評価の実用的な参考資料として活用可能である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117944"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>寒冷気候における太陽熱補助地中熱ヒートポンプシステムと単一・二重U字型垂直地中熱交換器のフィールドスケール実験的特性評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117948" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117948</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Philip Adebayo</name>
+    </author>
+    <author>
+      <name>Roman Shor</name>
+    </author>
+    <author>
+      <name>Aggrey Mwesigye</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Field-scale experimental characterization of a solar-assisted ground source heat pump system coupled with single and double U-loop vertical ground heat exchangers in a cold climate&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Philip Adebayo, Roman Shor, Aggrey Mwesigye ／ Energy and Buildings 369巻 p.117948-117948&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来の地中熱ヒートポンプシステムの研究は豊富だが、太陽熱支援型（SAGSHP）システムの現地実験研究は少ない。本研究ではカナダ・カルガリーの2つのテストサイトで、150m単一および二重U字ループ地中熱交換器を統合したSAGSHPシステムのパフォーマンスを現地計器実験で調査した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2つのテストサイトで計器装備による現地実験を実施した。土壌層と地下水の状況は異なるが、2024年11月から2026年2月までの期間でシステムデータを収集した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;太陽熱利用時、地中熱交換器ループ出口温度は最大1.8℃上昇した。二重U字ループシステムの月平均暖房COP は4.5～5.05で、外気温度最低となった2025年2月に最低値を示した。ループ出口温度は常に初期地中温度を上回り、太陽熱蓄熱を示唆している。単一U字ループシステムは2026年1月・2月で時間平均暖房COP が2.53～6.76の範囲で、最高値は太陽熱利用可能時間帯に対応した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;太陽熱の利用可能性がシステムパフォーマンスに大きく影響することが実験で実証された。太陽熱蓄熱による地中温度維持が、従来の地中熱ヒートポンプより高いCOP実現に貢献することが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117948"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>エネルギー性能証書、介護品質評価、および規制上の情報ギャップ：イギリスの介護施設に関する全国的なリンク分析</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117954" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117954</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Amit Kaushik</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Energy performance certificates, care quality ratings, and the regulatory information gap: A national linked analysis of english care homes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amit Kaushik ／ Energy and Buildings 369巻 p.117954-117954&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;イングランドのケアホーム（約40万人対応）は、ケア品質監督のCQCとエネルギー効率評価のEPC制度という2つの独立した規制体制の下にある。両体制は形式的なつながりなく機能している。本研究は、CQCとEPC記録をリンクさせた初の国家規模データセットを構築し、両評価体制の関連性を明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;11,768のケアホーム（登録施設の79.4%）について、CQCとEPCの行政データセットをマッチング・リンクした。マッチングデータに対して統計分析、クラスター分析、空間分析を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;平均EPCアセットレーティングスコアは55.6（バンドC）で、83.8%が天然ガス暖房、年間CO₂排出量は約144万トンであった。CQC総合評価とEPCスコア間に統計的有意な関連性がなく、両指標は施設の異なる側面を評価していることが示された。燃料タイプがEPCスコアの最強相関要因であり、ガス暖房主流型（86.7%）、電気暖房型（9.0%）、石油暖房型（4.3%）の3セグメントが同定された。エネルギー性能が低い地域の地理的クラスタリングが有意に認められた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;各セグメントは異なる脱炭素化経路を示唆している：燃料転換、建物深層改修、オフグリッド再生可能熱である。地理的に限定した場所ベースの介入設計により、15%の施設対応で年間CO₂排出量17.1%の削減が見込まれる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117954"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>気候感応型多目的最適化フレームワークによる建物外壁改修の意思決定支援：方法論と概念実証</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117962" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117962</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Konstantinos Alexakis</name>
+    </author>
+    <author>
+      <name>Vasilis Benekis</name>
+    </author>
+    <author>
+      <name>Panagiotis Kokkinakos</name>
+    </author>
+    <author>
+      <name>Spiros Mouzakitis</name>
+    </author>
+    <author>
+      <name>Dimitris Askounis</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A climate-sensitive multi-objective optimisation framework for building envelope retrofit decision support: Methodology and proof-of-concept&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Konstantinos Alexakis, Vasilis Benekis, Panagiotis Kokkinakos, Spiros Mouzakitis, Dimitris Askounis ／ Energy and Buildings 369巻 p.117962-117962&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物外皮改修の最適化研究が単一の標準気象年データに依存しており、改修建物は25～50年間、変動する気候条件で運用されます。現在の最適改修戦略が将来の気候変動と微気候変化下で有効であり続けるかが課題です。既存研究の75.2%が単一気象ファイルで最適化し、複数シナリオに対応するフレームワークが欠落しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;EnergyPlus、NSGA-II、将来気象生成ツール（CMIP6/SSP）、多基準意思決定法を統合したウェブベースプラットフォームを開発しました。DOE小規模オフィス（1980年以前竣工、アトランタ）に対して、気候シナリオと微気候条件の直交設計により、7つの気象シナリオでエネルギー、温熱不快性、改修コストを最適化しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;気象シナリオの選択が最適構成を根本的に変化させます。現在気候と将来気候シナリオはパレート最適解の22.7%のみを共有し、35の構成は全シナリオで最適です。不透光部位の断熱は高い堅牢性（r &amp;gt; 0.85）、窓ガラスは高感度（r = 0.41）を示し、温暖化に伴い改修効果は縮小します。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;単一気象ファイル最適化は将来条件下で堅牢性を欠く可能性があります。気候適応型改修には、複数シナリオを検討する体系的フレームワークが必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117962"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ドイツの住宅部門における改善型ヒートポンプの導入効果の定量化：シミュレーションベースシナリオ分析</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117963" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117963</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Karim Yassin</name>
+    </author>
+    <author>
+      <name>Sahil Vishram Vadadkar</name>
+    </author>
+    <author>
+      <name>Beatrice Rodenbücher</name>
+    </author>
+    <author>
+      <name>Hannes Fugmann</name>
+    </author>
+    <author>
+      <name>Norman Trötschler</name>
+    </author>
+    <author>
+      <name>Lukas Joos</name>
+    </author>
+    <author>
+      <name>Stefan Reichert</name>
+    </author>
+    <author>
+      <name>Hans‐Martin Henning</name>
+    </author>
+    <author>
+      <name>Andreas Velte</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Quantifying the impact of improved heat pumps in Germany's residential sector: A simulation-based scenario analysis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Karim Yassin, Sahil Vishram Vadadkar, Beatrice Rodenbücher, Hannes Fugmann, Norman Trötschler, Lukas Joos, Stefan Reichert, Hans‐Martin Henning, Andreas Velte ／ Energy and Buildings 369巻 p.117963-117963&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ヒートポンプによる住宅加熱の電化はエネルギー転換戦略の重要な課題です。既存の評価では、ヒートポンプの性能が静的または平均的な効率値で仮定されてきました。コンポーネント技術の継続的進展が効率向上をもたらすと期待される一方で、こうした改善がコンポーネントレベルから建築・国内エネルギーシステムレベルまで、どのような影響を及ぼすかは定量化されていません。本研究は、このギャップに対処することを目的とします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;周波数コンバータ・コンプレッサシステムの実験室計測に基づき、コンポーネント効率の向上を建築・国内電力需要への影響に結びつけるボトムアップフレームワークを構築しました。実験を通じ、周波数コンバータの効率がコンプレッサ回転速度に依存することを確認しました。運転条件に応じた効率改善を仮定し、改善されたヒートポンプ性能マップを作成し、動的建築シミュレーションに組み込みました。さらに、ドイツの代表的な住宅建築ストックモデルを用いて国レベルに集計し、脱炭素化シナリオ下での2045年を投影しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;検討された効率改善は平均約2%の増加を示しました。これにより国内電力需要をテラワット時間規模で削減でき、2045年までに年間3 TWh以上の削減効果に達することが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;実験的根拠に基づくコンポーネント改善が、建築・システムレベルでの意義ある効果を持つことが実証されました。本研究が示すような透明性の高い技術評価フレームワークは、今後の設備技術の導入判断に有用な知見を提供します。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117963"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>革新的な動的建物統合型太陽光発電シェーディング装置の性能シミュレーション</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117981" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117981</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Alessandro Dama</name>
+    </author>
+    <author>
+      <name>Cahyo Adisaputro</name>
+    </author>
+    <author>
+      <name>Emanuele Piccoli</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Building integrated performance simulation of an innovative dynamic BIPV shading device&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alessandro Dama, Cahyo Adisaputro, Emanuele Piccoli ／ Energy and Buildings 369巻 p.117981-117981&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;本研究は、動的かつ可変式のブラインドとPV（太陽光パネル）を統合した建物一体型光起電力（BIPV）シェーディング装置の性能評価方法を提示する。イタリア・ミラノの一般的なオフィスモジュール（南向きファサード）をケーススタディとして、異なる窓壁比率（WWR）および異なる制御方式を備えたBIPVシステムの有効性を検証することを主な目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;シェーディング制御戦略はBuilding Controls Virtual Test Bed（BCVTB）上に実装された。EnergyPlus（熱計算）とRadiance（昼光評価）を動的に結合し、固定シェーディングおよび室内温度・日射量に基づくラメラ角度の自動調整の2つの制御方式を比較した。暖房、冷房、照明需要、PV発電を含めた全体的なエネルギー性能を統合的に評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;動的制御システムは、PVなしの場合でも全体的なエネルギー需要を削減する効果を示した。さらにPV発電と組み合わせることにより、ニアゼロエネルギー建築（NZEB）目標の達成が可能であることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;動的シェーディング制御とBIPVシステムの組み合わせは、建物のエネルギー性能向上とNZEB達成に有効な手法である。室内温度および日射量に基づいた自動制御方式の導入により、固定シェーディングと比べてさらなるエネルギー削減が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117981"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ドイツのヒートポンプ設置費用がなぜ高いのか：ヨーロッパ規模の比較分析からの実証</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117998" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117998</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Marek Miara</name>
+    </author>
+    <author>
+      <name>Jan Rosenow</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Why are heat pump installation costs so much higher in Germany? Evidence from a European comparison&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Marek Miara, Jan Rosenow ／ Energy and Buildings 369巻 p.117998-117998&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ヒートポンプは住宅暖房の脱炭素化を実現する重要な技術であり、ヨーロッパ全域での導入が進められている。しかし既存戸建住宅への空気熱源ヒートポンプ設置費用は、ドイツ（23,000～40,000ユーロ以上）が同等のヨーロッパ諸国（9,000～20,000ユーロ）より著しく高い。本研究は、この大きな費用格差の原因を定量的に分析することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2022年から2025年の市場データ、消費者団体分析、エンジニアリングコスト研究、および現地調査を用いて分析を実施した。イギリスとの仕様適合二国間比較により、格差を識別可能な費用要素に分解した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;機器価格、基礎工事、電気接続工事、労務費などの根本的なコスト構造が格差の約半分を占める。付加価値税（ドイツ19%、イギリス非課税）の差がさらに3分の1を占める。残りは補助金制度のインセンティブ効果と市場動向による。ドイツは手厚いパーセンテージベースの支援制度を実施しているにもかかわらず、実質的な費用負担はイギリスより高い「補助金パラドックス」が生じている。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ヒートポンプ導入の費用削減には、補助金の単純な増額よりも、技術標準化と補助金設計の改革が重要である。パーセンテージ型から固定給付型への転換や市場構造の改善により、より効果的なコスト低減が実現する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117998"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>熱帯建築におけるバイオベース材料の使用が気候に及ぼす影響：タイの戸建住宅における事例研究</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117939" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117939</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Bergpob Viriyaroj</name>
+    </author>
+    <author>
+      <name>Shabbir H. Gheewala</name>
+    </author>
+    <author>
+      <name>Matti Kuittinen</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Climate implications of using bio-based materials in tropical buildings: a case study in Thai detached houses&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bergpob Viriyaroj, Shabbir H. Gheewala, Matti Kuittinen ／ Energy and Buildings 369巻 p.117939-117939&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築・建設セクターは世界全体の温室効果ガス排出量に大きく貢献しており、地球温暖化を2℃以下に抑制する国際目標の達成には排出削減が急務である。東南アジアの高都市化地域、特にタイは建設慣行における排出削減に課題を抱えており、2065年までのカーボンニュートラル達成を目指している。タイではコンクリートフレーム構造が小規模住宅建設の主流であり、2023年の総建築面積の49%が戸建て住宅である。本研究は、コンクリートおよび鋼材をバイオベース建設材料に置き換えることで、戸建て住宅からの排出削減手法を検討した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;削減戦略を検討するため、2種類のバイオベース設計を作成した。タイの規制エネルギー基準が小規模住宅を対象としていないため、将来のエネルギー状況の不確実性に対応するよう、3つのエネルギーシナリオを設定して研究を進めた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;太陽光発電統合シナリオにおける拡張バイオベース設計は、従来のコンクリート・鋼材設計と比較して最高の削減効果を達成し、平屋で64%、2階建てで56%の排出削減を実現した。元の断熱性能を基準としたシナリオでは、平屋で73%、2階建てで68%の削減に達した。タイが2065年までに将来の住宅すべてに拡張バイオベース設計を採用した場合、最大473 MtCO2eの排出回避が可能である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建築設計段階でコンクリートおよび鋼材をバイオベース建設材料に置き換えることで、大幅な排出削減が実現可能である。特に、高性能な断熱や太陽光発電などのエネルギー効率改善とバイオベース材料の併用によって、削減効果がさらに高まることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117939"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>屋上太陽光発電システムによる都市ヒートアイランド現象の緩和：5つのケッペン気候区分における比較検討</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.117950" />
+    <id>urn:doi:10.1016/j.enbuild.2026.117950</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Guang Hu</name>
+    </author>
+    <author>
+      <name>Guang Hu</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Rooftop solar photovoltaic Systems for Urban Heat Island Mitigation: A comparative multi-climate review across five Köppen climate zones&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Guang Hu, Guang Hu ／ Energy and Buildings 369巻 p.117950-117950&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市ヒートアイランド現象は世界中の都市で熱的快適性の低下やエネルギー消費増加による課題となっている。屋上太陽光発電（PV）システムは再生可能電力を発電しながら都市表面のエネルギーバランスを変化させる戦略として期待されている。本研究では、屋上PVが異なる気候条件下で建物の冷房負荷と都市ヒートアイランド強度に与える影響を体系的に定量化することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;異なるケッペン気候区分に代表される5都市を対象に、公表されている実験的・数値的・衛星由来データを比較検証した。現地測定データとPVGIS衛星太陽資源データ、WRFメソスケール数値モデル、建物エネルギーモデル（BEP-BEM）フレームワークを統合して分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;屋上PVは昼間の屋根表面温度を5～20 K低減し、天井への熱流束を最大63%低減する。大規模導入により地表近傍大気を0.2～1.0 K冷却し、建物冷房負荷は4.4～16%低減される。都市環境でのPVセル温度は52～78 °Cに達し、効率低下は5～18%、発電量は194～395 kWh/m²/年である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本分析は太陽エネルギー導入と都市熱緩和戦略を統合する際の気候区分別ガイダンスを提供する。ただし単一の代表都市に基づいており、極地および亜寒帯気候が除外されているという限界がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117950"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

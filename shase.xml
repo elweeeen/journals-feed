@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜空気調和・衛生工学会 論文集（空衛）</title>
+  <link href="https://elweeeen.github.io/journals-feed/shase.xml" rel="self" />
+  <id>urn:jstage-journals:feed:shase</id>
+  <updated>2026-07-26T00:00:00+09:00</updated>
+  <entry>
+    <title>空冷ヒートポンプ式チラーの効率向上</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/347/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.347_1</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>児保 茂樹</name>
+    </author>
+    <author>
+      <name>岩本 靜男</name>
+    </author>
+    <content type="html">&lt;p&gt;児保 茂樹, 岩本 靜男 ／ 空気調和・衛生工学会 論文集 51巻347号 p.1-8&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;地球環境負荷低減を背景に、空冷ヒートポンプ式チラー（空冷HPチラー）は省エネ化と設備・工事コスト削減の両立が可能として期待されている。しかし、2024年の実績から年平均気温の上昇が確認され、外気温が40℃近くになると機器効率が大幅に低下する課題が発生している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;効率低下対策として散水モデルが開発されたが、設備追加と水質管理の手間から普及が進んでいない。本研究では、補給水を継続実施する物件を対象に、散水に代わる補給水パネルを空冷HPチラーの吸込口近くに設置する新手法を検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;補給水パネルの設置により、散水モデルと同等の効果が得られることを確認した。ただし、設置条件による効果の差異が存在することも示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;既に冷却塔に補給水を行う運用体制がある物件では、補給水パネルの吸込口付近への設置により、複雑な散水設備を追加することなく、外気温上昇時の効率低下に対応できる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/347/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>地球温暖化適応に向けた都市気候と建物排熱の数値解析による暑熱リスク抑制手法の時空間評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/348/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.348_1</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>足永 靖信</name>
+    </author>
+    <author>
+      <name>上野 貴広</name>
+    </author>
+    <content type="html">&lt;p&gt;足永 靖信, 上野 貴広 ／ 空気調和・衛生工学会 論文集 51巻348号 p.1-8&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市で発生する人工排熱（冷房室外機などからの放出熱）の動態把握は、ヒートアイランド現象の解明と対策に不可欠である。本研究は、建物内の冷房需要予測と都市スケールの流体力学（CFD）解析を統合したUrban CFD解析手法を導入し、人工排熱が都市気温、湿度、暑さ指数（WBGT）に与える時間的・空間的な影響を高解像度で定量的に明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;都市空間の伝熱モデルと非定常CFDモデルで構成されるUrban CFD解析システムを開発した。建物冷房需要と屋外温湿度、WBGTの実測データを収集してモデル検証を行い、予測精度を確認した。その後、人工排熱をゼロに設定した仮想シナリオとの比較解析により、排熱の影響を定量的に評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;人工排熱による気温および比湿の変化を定量化した。日中に気温と比湿に対する排熱の感度が低下する傾向があり、この特性は日変化および鉛直分布の解析から明確に示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;都市熱環境の緩和を目指す実務では、人工排熱の時間帯別の特性を設計・運用戦略に反映させることの重要性が示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/348/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>太陽光発電を利用したデータセンターに関する研究</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/350/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.350_1</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>HU JIAMING</name>
+    </author>
+    <author>
+      <name>赤林 伸一</name>
+    </author>
+    <author>
+      <name>有波 裕貴</name>
+    </author>
+    <content type="html">&lt;p&gt;HU JIAMING, 赤林 伸一, 有波 裕貴 ／ 空気調和・衛生工学会 論文集 51巻350号 p.1-9&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;固定価格買取制度（FIT）の期間満了後を見据え、太陽光発電からの直接電力供給および蓄電池システムのみを電力源とする脱炭素型データセンター（DC）の構築に関する検討を行った。年間を通じてデータセンターの電力需要を太陽光発電由来の電力で完全に満たすことを条件とした、エネルギー自立型システムの実現可能性を検討することが主な目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;太陽光発電量および電力負荷変動の時系列シミュレーションに基づき、太陽光発電設備容量および蓄電池容量の最適化を行った。その際、設備投資額、運用コストおよび電力収支を総合的に考慮し、投資回収年数を指標として経済性評価を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;太陽光発電と蓄電池システムの組み合わせにより、年間を通じた脱炭素型データセンターの電力自給が技術的に検討可能であることが示唆される。設備投資額、運用コスト、および電力収支のバランスを評価することで、同システムの導入可否を判断するための基礎情報が得られることが明らかとなった。建築設備実務に携わる者にとって、このような分析手法は今後の脱炭素化への対応に有用である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/350/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>個別分散空調システムにおける潜熱・顕熱分離空調システムの協調制御に関する研究</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/350/51_23/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.350_23</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>鈴木 智博</name>
+    </author>
+    <author>
+      <name>下田 吉之</name>
+    </author>
+    <author>
+      <name>松浦 秀太</name>
+    </author>
+    <author>
+      <name>塩地 純夫</name>
+    </author>
+    <content type="html">&lt;p&gt;鈴木 智博, 下田 吉之, 松浦 秀太, 塩地 純夫 ／ 空気調和・衛生工学会 論文集 51巻350号 p.23-33&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ビル用マルチ空調機（VRF）は普及が進んでいますが、エネルギー効率と湿度制御を同時に実現することが課題でした。湿度制御はデシカント空調機で対応する方法もありますが、両者の協調制御に関する研究は限定的でした。そこで本研究では、VRFシステムとデシカント外調機を統合した協調制御手法の開発を目指しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ヒートポンプ式デシカント外調機とビル用マルチ空調機を連携させ、CO₂換気制御、調湿台数制御、顕熱処理最適化、室外機輪番制御を組み合わせた協調制御手法を構築しました。大学講義室における実測評価により、システムの性能を検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案した協調制御システムにより、消費電力量を11.2％削減することができました。同時に、室温26℃、湿度45～55％という快適な環境を維持することが確認されました。また、室外機の輪番制御単独においても、消費電力量を7.6％削減する効果が得られました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;VRFとデシカント外調機の協調制御により、エネルギー効率と快適性の両立が実現可能であることが示されました。特に室外機輪番制御は、簡易な制御手法でも省エネ効果が期待できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/350/51_23/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>スマートビルにおける建築設備の高度化に関する考察</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/350/51_35/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.350_35</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>宮田 翔平</name>
+    </author>
+    <author>
+      <name>青山 剛士</name>
+    </author>
+    <author>
+      <name>熊尾 隆丈</name>
+    </author>
+    <author>
+      <name>村澤 達</name>
+    </author>
+    <author>
+      <name>田中 勝彦</name>
+    </author>
+    <author>
+      <name>赤司 泰義</name>
+    </author>
+    <content type="html">&lt;p&gt;宮田 翔平, 青山 剛士, 熊尾 隆丈, 村澤 達, 田中 勝彦, 赤司 泰義 ／ 空気調和・衛生工学会 論文集 51巻350号 p.35-45&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物に対する要求が高度化・複雑化する傾向が強まっており、特に建築設備分野での貢献が期待されている。このような複雑で広範な要求に応えるシステムとしてスマートビルが注目されているが、その実現方法と具体的な導入・展開の道筋は未だ確立されていない状況にある。本研究は、建築設備の高度なアプリケーション実現には、詳細なシミュレーション機能を備えたエミュレータが有用であるという見地から、エミュレータの活用を志向したシステムアーキテクチャの提案と実装方策の検討を目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;一般的なスマートビルシステムアーキテクチャに対し、エミュレータとアプリケーションをどのように位置づけるかという論点に基づいて検討を行った。建築設備に求められる高度なアプリケーションについて具体的に調査・議論し、エミュレータがもたらし得る価値を明らかにした。同時に、高効率建物であるZEBの構築事例を参照しながら、日本の産業界におけるスマートビル実現のための課題と要件を詳細に分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;スマートビルの実現においてエミュレータとアプリケーションの適切な位置づけが極めて重要であることが示された。エミュレータがもたらす多面的な価値が明らかにされ、それを通じて実現可能な高度なアプリケーション開発の可能性と有効性が提示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/350/51_35/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>後付け型空調熱源最適運転計画支援システムによる設備オペレーター支援への有効性に関する研究</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/350/51_47/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.350_47</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>笠井 愛</name>
+    </author>
+    <author>
+      <name>安東 和奏</name>
+    </author>
+    <author>
+      <name>武田 和樹</name>
+    </author>
+    <author>
+      <name>田中 翔大</name>
+    </author>
+    <author>
+      <name>村上 公哉</name>
+    </author>
+    <author>
+      <name>橘 雅哉</name>
+    </author>
+    <author>
+      <name>小川 彰彦</name>
+    </author>
+    <content type="html">&lt;p&gt;笠井 愛, 安東 和奏, 武田 和樹, 田中 翔大, 村上 公哉, 橘 雅哉, 小川 彰彦 ／ 空気調和・衛生工学会 論文集 51巻350号 p.47-55&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既存建築物のエネルギー効率向上を図るため、オペレーター支援を目的とした後付け型熱源最適運転計画支援システムの開発を進めている。第一段階として実証実験用システムを製作し、既存建築物での有効性を検証することが本報の目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;後付け型システムとすることで既存の中央監視設備などの改修を最小限に抑える工夫を施した。システムはオペレーターの運転計画における判断を支援する構成として設計した。2024年度に大規模業務施設に導入し、夏・秋・冬期の実証実験を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;実証期間中のシステム効率（COP）向上は夏期平均6.4%、秋期平均13.5%、冬期平均2.3%であった。実証期間外では実績COPとソフトウェアで算出した計画COPを比較し、夏期平均9.8%、冬期平均3.6%のCOP向上が確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;後付け型システムにより既存の中央監視設備等の大規模な改修を伴わずに熱源運転の最適化が実現できる。オペレーターの支援機能により判断を効率化しながら、季節に応じた省エネルギー効果が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/350/51_47/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ZEB事例における空冷モジュールチラーの実働性能評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/350/51_67/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.350_67</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>黒田 颯生</name>
+    </author>
+    <author>
+      <name>住吉 大輔</name>
+    </author>
+    <content type="html">&lt;p&gt;黒田 颯生, 住吉 大輔 ／ 空気調和・衛生工学会 論文集 51巻350号 p.67-74&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ZEB（ネット・ゼロ・エネルギー・ビル）認定建物に導入された空冷モジュールチラーについて、実運用における成績係数（COP）がメーカー公表値とどの程度乖離しているか、その原因を明らかにすることが目的である。設計段階での機器性能評価の妥当性を検証する必要がある。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;4件のZEB建物に導入された空冷モジュールチラーを対象に、夏期・冬期を通じた実運用期間中のCOPを実測した。得られた実働COPとメーカー提供の性能特性を比較し、機器近傍での吸込空気温度測定を含めて乖離要因を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;実働COPはメーカー特性より総じて低く、特に外気温度が高い条件では0.5～1.0程度低下した。機器近傍の吸込空気温度測定値を用いた分析でも乖離を完全には説明できず、従来指摘されている日射やショートサーキットによる吸込空気温度上昇だけでは、実運用における性能低下を説明しきれないことが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;設計段階でメーカー性能特性をそのまま用いることには課題がある可能性が示唆される。実環境における機器実働性能を踏まえた評価と設計への反映が重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/350/51_67/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>大規模病院の熱源システムにおける運用制御とエネルギー性能の分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/351/51_9/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.351_9</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>杢野 佑真</name>
+    </author>
+    <author>
+      <name>吉永 美香</name>
+    </author>
+    <content type="html">&lt;p&gt;杢野 佑真, 吉永 美香 ／ 空気調和・衛生工学会 論文集 51巻351号 p.9-16&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;大規模病院施設などの複雑なエネルギー供給システムでは、熱源機の運転効率やエネルギー消費状況の継続的な把握が重要である。本研究では、建築管理システム（BEMS）の長期運転データを活用し、冷温水供給システムの実際の運転状況を検証し、供給温度の設定値からの乖離原因を特定することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;愛知県長久手市の大規模病院施設を対象に、約1年間のBEMS日報データを詳細に分析した。水冷チラーの出力とCOP、冷温水往温度の測定値と設定値の乖離、および各配管系統の圧力・流量特性を検討し、温度制御不良の原因を多角的に究明した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;同種の水冷チラー2台の運用で、1台におけるCOP低下が確認された。冷水往温度が設定温度より1℃以上高くなる時間帯は、往還ヘッダ間の逆バイパス発生と、チラーの負荷変化に対する追従遅延が主原因であった。温水側も同様に往温度乖離があり、逆バイパスと流量制御時の熱交換器出口温度低下が原因と判明した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;BEMSデータを用いた長期の運転検証は、熱源機のCOP低下や温度制御の不安定性といった問題を体系的に発見する手段となる。逆バイパスや機器追従の遅延などの配管系統の運転課題が、供給温度の乖離として表れることが実証された。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/351/51_9/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>継続的なセンシングを用いた換気設備の状態基準メンテナンスの効果検証</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/353/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.353_1</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>谷口 景一朗</name>
+    </author>
+    <author>
+      <name>佐藤 大輔</name>
+    </author>
+    <author>
+      <name>松井 伸樹</name>
+    </author>
+    <author>
+      <name>赤司 泰義</name>
+    </author>
+    <content type="html">&lt;p&gt;谷口 景一朗, 佐藤 大輔, 松井 伸樹, 赤司 泰義 ／ 空気調和・衛生工学会 論文集 51巻353号 p.1-10&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;全熱交換換気設備は、時間に基づいて定期的にメンテナンスを行う従来の時間基準メンテナンス（TBM）では、設備の実際の状態を反映できず効率が悪いという課題がある。本研究は、センサ情報を活用して設備の劣化状態に基づいてメンテナンスを実施する状態基準メンテナンス（CBM）が、換気性能の維持にどの程度効果があるかを明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;設備の主要構成要素の劣化進行と故障発生をモデル化し、フォルトツリー解析により性能低下との因果関係を整理した。その上で15年間のモンテカルロシミュレーションを実施し、グローバルモニタリング（建物全体の室内環境を監視）、ローカルモニタリング（機器を直接監視）、両者の併用の3つの手法を比較検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;主要機器を直接監視するローカルモニタリングが、最も有効換気量の変動を抑え、メンテナンス回数も少ないことが確認された。提案した性能評価チャートにより有効換気量と利用者人数の不確かさを一つの指標で可視化できた。屋内測位システムで利用者数を監視し、利用者の変動に応じて換気量を調整すれば、性能の不確かさを低減させながら省エネルギー化を同時に実現できることが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;換気設備の主要構成機器に対するローカルモニタリングの導入により、メンテナンス業務の効率化と設備性能の確保が両立する。利用者モニタリングとの組み合わせで、必要な換気量を柔軟に調整でき、エネルギー削減と室内環境性能維持を同時に達成できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/353/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜Journal of Building Performance Simulation</title>
+  <link href="https://elweeeen.github.io/journals-feed/jbps.xml" rel="self" />
+  <id>urn:jstage-journals:feed:jbps</id>
+  <updated>2026-07-27T00:00:00+09:00</updated>
+  <entry>
+    <title>ハイブリッド改善型NSGA-IIアルゴリズムによる建物エネルギーモデルの自動多目的キャリブレーション機能を備えたEnergyPlusツールの開発</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2703021" />
+    <id>urn:doi:10.1080/19401493.2026.2703021</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Fuad Baba</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Development of an EnergyPlus calibration tool for automated multi-objective calibration of building energy models using a hybrid enhanced NSGA-II algorithm&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Fuad Baba ／ Journal of Building Performance Simulation p.1-22&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築エネルギーモデルの較正精度は、建物の熱的性能とエネルギー消費の予測信頼性に直結する。既存の較正手法は、EnergyPlusの入力データ修正、測定データ統合のためのカスタムプログラミング、複雑な計算処理などの広範な手動作業を必要としており、特に複数の制御対象（室内温度、エネルギー消費量など）や複数室を対象とする多目的較正問題において実行難度が高い。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;プログラミング知識不要で較正できる自動ツールを開発した。ユーザーが測定データをアップロードしてEnergyPlusの出力を選択することで、RMSE（二乗平均平方根誤差）とNMBE（正規化平均偏差）を用いた精度評価が直接可能となる。新開発のハイブリッド強化NSGA-II（HE-NSGA-II）アルゴリズムをEnergyPlusに統合し、複数の目的関数の同時最適化を実現した。HE-NSGA-IIは、Halton初期化、改良された遺伝的演算子、エリート保存と停滞駆動多様性注入により、標準NSGA-IIの性能を大幅に強化している。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;検証シナリオ全体を通じて、HE-NSGA-IIは較正に必要な世代数を36～42%削減し、計算時間を66～69%短縮した。同時にRMSEを59～67%改善し、モデルの予測精度が飛躍的に向上した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2703021"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建物利用者中心の制御は一般化可能か？商業建築物における暖冷房セットポイント最適化のための実用的な占有率ベースフレームワーク</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2706831" />
+    <id>urn:doi:10.1080/19401493.2026.2706831</id>
+    <updated>2026-07-27T00:00:00+09:00</updated>
+    <author>
+      <name>Alexandre Santana Cruz</name>
+    </author>
+    <author>
+      <name>Mohamed Ouf</name>
+    </author>
+    <author>
+      <name>Mazdak Nik‐Bakht</name>
+    </author>
+    <author>
+      <name>Pierre Paquette</name>
+    </author>
+    <author>
+      <name>Steve Lupien</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Can occupant-centric control be generalizable? A practical occupancy-based framework for heating and cooling setpoint optimization in commercial buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alexandre Santana Cruz, Mohamed Ouf, Mazdak Nik‐Bakht, Pierre Paquette, Steve Lupien ／ Journal of Building Performance Simulation p.1-24&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;在室性の確率的性質をHVAC制御に統合する実用的なフレームワークを提案する。本フレームワークは、カーネル密度推定、ランダムフォレスト、累積相対度数を組み合わせることで、室への到着時刻、出発時刻、および在室時間を精度よく予測する。これらの予測値を制御シーケンスに活用することで、HVACのスケジューリング性能と省エネルギー性能の向上を目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;提案フレームワークは在室、無人、スタンバイ、室スタンバイの4つの運転モードを備えている。HVACのスケジューリングと設定温度選定をこれらのモードに基づいて改善する。性能評価は二段階的手法により実施され、複数のデータセット・気候ゾーンにおける在室モデルの評価を含む。EnergyPlusを用いた小規模オフィスプロトタイプ上で、従来のスケジュールベースシステムとの比較検討を行った。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;複数気候ゾーンにおいて強い一般化性を示し、快適性への悪影響を最小限に抑えながら、最大14%のエネルギー削減を達成した。暖房主体気候ではより高い削減効果が見られ、冷房主体気候でも許容範囲内の偏差に留まった。削減効果は主に在室パターンに起因し、運転開始の遅延、運転停止の早期化、適応的な設定温度制御により実現した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;在室予測に基づくHVAC制御により、従来のスケジュールベースシステムと比較して最大14%のエネルギー削減が期待できる。快適性を損なわないため、オフィス建築の実運用への適用可能性が高い。気候条件別の性能差を考慮した設計・運用の検討が求められる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2706831"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>居住者行動の多様性の監視とモデリング：必要な計測期間と住戸数の検討</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2667382" />
+    <id>urn:doi:10.1080/19401493.2026.2667382</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Kevin Campagna</name>
+    </author>
+    <author>
+      <name>William O’Brien</name>
+    </author>
+    <author>
+      <name>Aurélie Foucquier</name>
+    </author>
+    <author>
+      <name>Anaïs Machard</name>
+    </author>
+    <author>
+      <name>Dorothée Charlier</name>
+    </author>
+    <author>
+      <name>Monika Woloszyn</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Monitoring and modelling occupant behaviour diversity: how long and how many dwellings are needed?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kevin Campagna, William O’Brien, Aurélie Foucquier, Anaïs Machard, Dorothée Charlier, Monika Woloszyn ／ Journal of Building Performance Simulation 19巻4号 p.721-742&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築性能シミュレーションの精度向上には、居住者行動の正確なモデル化が不可欠である。しかし、行動の時間的・空間的多様性は現在のところ十分に把握・モデル化されていない。本研究では、行動モデル開発に必要な監視期間、住戸当たりの室数、および監視対象室数を決定するための実用的な方法論とガイドラインの開発を目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;76戸のフランス住宅を対象に、夏季の窓開放行動を監視したデータセットを用いた。モデル化では、時間帯の効果を正弦・余弦変換で表現し、開窓・閉窓モデル間の相関を保持しながら居住者行動の空間的多様性を多変量正規分布でモデル化した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;個々の住戸における行動多様性を把握するには全室の計測が必須であり、2ヶ月間の監視期間が必要であることが明らかになった。一方、集団レベルでの行動多様性を表現するには数百戸規模の監視が必要であり、これは既存のほとんどの調査キャンペーンの規模を超えている。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;個々の住戸の居住者行動を正確にモデル化する場合、複数月の全室計測が有効であることが示唆される。集団の行動多様性を把握する場合は、相当な規模の監視体制が必要な点が課題となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2667382"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>シーリングファン誘起気流の検証的過渡CFD研究：方法、モデル、効率</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2678829" />
+    <id>urn:doi:10.1080/19401493.2026.2678829</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Kuibo Wu</name>
+    </author>
+    <author>
+      <name>Hee Joo Poh</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Validated transient CFD study of ceiling fan-induced airflow: methods, models and efficiency&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kuibo Wu, Hee Joo Poh ／ Journal of Building Performance Simulation p.1-16&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;シーリングファンは室内の熱的快適性を向上させながら建築全体のエネルギー消費を削減できる有用な設備です。しかし、ファンが生成する非定常な気流と乱流の挙動についてはまだ理解が十分でありませんでした。本研究では、ファン誘起気流を正確に予測するため、三次元非定常計算流体力学（CFD）モデルの開発と検証を行いました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;制御チャンバーでの実験計測値を用いて検証を行いました。3つの移動メッシュ手法（動的リメッシング、スライディングメッシュ、オーバーセットメッシュ）と4つの乱流モデル（標準k-ε、RNG k-ε、SST k-ω、遷移k-kl-ω）を、精度と計算効率の観点から評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;気流速度と乱流強度はブレード通過周波数に関連する周期的な変動を示し、ファンからの距離が増加するに従って減衰することが明らかになりました。オーバーセットメッシュと動的リメッシングの両手法は計測流場を正確に再現しましたが、オーバーセット手法は計算コストを2.5倍削減しながら同等の精度を達成しました。乱流モデルではSST k-ωが実験データとの最も一貫性ある一致を示しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本研究はファン支援室内気流のCFDモデリングのための実用的な指針を提供します。効率的かつ信頼性の高いモデリング手法が確立されました。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2678829"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ロジスティック回帰を用いたデータ効率的個人化温熱嗜好モデル</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2686633" />
+    <id>urn:doi:10.1080/19401493.2026.2686633</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Bonghoon Jeong</name>
+    </author>
+    <author>
+      <name>Donghyun Kim</name>
+    </author>
+    <author>
+      <name>Joosang Lee</name>
+    </author>
+    <author>
+      <name>Dongjun Park</name>
+    </author>
+    <author>
+      <name>Sihyeon Kim</name>
+    </author>
+    <author>
+      <name>Taeyeon Kim</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Data-efficient personalized thermal preference models using a logistic regression-based method&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bonghoon Jeong, Donghyun Kim, Joosang Lee, Dongjun Park, Sihyeon Kim, Taeyeon Kim ／ Journal of Building Performance Simulation p.1-19&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;居住者中心の室内環境制御システムの研究が進展し、個人ごとの温熱快適性ニーズへの対応がますます重要となっている。しかし、居住者の温熱応答の多様性と環境パラメータ間の複雑な相互作用により、精密な予測モデルの構築は困難である。従来のデータ駆動型アプローチは膨大で均衡のとれたデータセットを必要とすることが制約である。本研究では、限定的なデータでも高い予測性能を維持できる「データ効率性」に優れたロジスティック回帰モデルを提案する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ロジスティック回帰を用いた予測モデルを開発した。このモデルは、少数のサンプルから学習しても信頼性の高い予測性能を維持するデータ効率性に優れている。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;10データポイントでの学習時に64.0%の精度を、80データポイントでの学習時に80.4%の精度を達成した。データサンプル数の増加に伴い、予測精度が向上することが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;提案モデルは、居住者中心の室内環境制御システムに対して実用的で解釈可能なフレームワークを提供する。少数のデータサンプルで学習可能なため、システム導入時のデータ収集負担を軽減しながら予測信頼性を確保できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2686633"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>2100年までの住宅エネルギー性能シミュレーションと気候予測の進展を考慮した時間単位気象データ統合ワークフロー</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2689622" />
+    <id>urn:doi:10.1080/19401493.2026.2689622</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Kwasi Hyiah Agyei-Agyemang</name>
+    </author>
+    <author>
+      <name>Victor Andrew Ocampo</name>
+    </author>
+    <author>
+      <name>Eric Bibeau</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Simulation of energy performance of a residential building through the year 2100 and the workflow to integrate evolving climate projections with historical hourly meteorological data&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kwasi Hyiah Agyei-Agyemang, Victor Andrew Ocampo, Eric Bibeau ／ Journal of Building Performance Simulation p.1-23&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来の建築エネルギーシミュレーションは気候変動を考慮しない過去の気象データに依存していた。本研究は、2100年までの将来気候を対象に、建築エネルギーおよび再生可能エネルギーシミュレーション用のEnergyPlus互換気象時間値ファイルを自動生成するオープンソースPythonワークフローの開発を目指すものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;品質管理された過去データ（CWEEDS、GHCNh、NSRDB）とバイアス補正されたNA-CORDEX気候投影を、Quantile Delta Mappingおよび類似度ベースの時間的ダウンスケーリング手法で組み合わせた。EPW形式への準拠のため、機械学習による日射分解ステップが導入されている。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;本パイプラインはCSVおよびEPWファイルを生成し、将来気候シナリオ下での建築性能および再生可能エネルギーポテンシャルの時間値による直接的評価を可能にする。検証では、妥当な温暖化（例えばRCP8.5シナリオ下でウィニペグにおける+3～6℃の上昇）と一貫した太陽光発電シミュレーション結果が確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本手法により、実務者は将来の気候シナリオを組み込んだ建築エネルギー性能評価および再生可能エネルギー導入可能性の検討が可能になる。オープンソースのツールにより、実装に向けた基盤が整備されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2689622"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>都市気候と建築性能シミュレーション間の相互運用性実現フレームワーク：ユーザビリティとワークフロー統合への統一的アプローチ</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2693512" />
+    <id>urn:doi:10.1080/19401493.2026.2693512</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Alfonso Palacios-Carrasco</name>
+    </author>
+    <author>
+      <name>Elvira Maeso-González</name>
+    </author>
+    <author>
+      <name>Juan Jesús Fernández-Lozano</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Bridging fragmentation across urban climate and building performance simulation: a cross-domain framework for interoperability, usability, and workflow integration&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alfonso Palacios-Carrasco, Elvira Maeso-González, Juan Jesús Fernández-Lozano ／ Journal of Building Performance Simulation p.1-23&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市地域は気候変動に起因する環境負荷と温室効果ガス排出が集中し、気候リスク管理と計画の重要な対象となっている。都市気象、水文、エネルギー、土地利用システム間の複雑な相互作用を適切に把握するには、これらを統合的にシミュレーションするモデリングツールが不可欠である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;WRF、ENVI-met、PALM等10個の都市気候モデリングツールを対象に系統的レビューを実施した。空間・時間解像度、物理過程表現、データ・セットアップ要件、ユーザビリティ、相互運用性の可能性、採用実績を含む定性的枠組みで各ツールを評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;各ツール間の機能分散が継続的に存在することが示された。各ツールは特定領域で強みを持つ一方、都市計画ワークフロー向けのスケール間統合機能は限定的であり、ツール間の連携が不十分であることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;モジュラー相互運用性、透過的インターフェース、変数交換の仕組み、スケール認識型前処理、ユーザー指向出力の実装が重要である。社会経済的・脆弱性情報を統合した気候リスク評価ワークフローの構築と、都市気象シミュレーション結果を建物・地区パフォーマンスシミュレーションへ接続させることで、意思決定支援が強化される可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2693512"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>代理モデリングからAIへ：機械学習が建築シミュレーションを変革する</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2694582" />
+    <id>urn:doi:10.1080/19401493.2026.2694582</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Ralph Evins</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;From surrogate modelling to AI: how machine learning is transforming building simulation&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ralph Evins ／ Journal of Building Performance Simulation p.1-9&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;代理モデルは、計算負荷が大きい物理ベースシミュレーションを機械学習回帰モデルで代替し、ほぼ瞬時に評価できる技術である。代理モデルの導入により、従来は実現困難だったインタラクティブ設計や大規模解析といった新しい実務用途が可能になる。また、急速に発展する生成AI技術は、建築性能シミュレーション分野をも根本的に変革しようとしている。本論文は、代理モデル開発の最新動向と、生成AIツールがもたらす機会および課題について探索することを目的としている。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;機械学習技術は驚くほど高い精度の代理モデルの構築を実現できるが、当初の目的に対する適合性を十分に確認する必要がある。生成AIツールは建築性能シミュレーション分野に多大なメリットをもたらす可能性がある一方で、同時に深刻な課題も引き起こすリスクがある。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;低炭素設計と改修に対する大規模な社会的需要に対応するため、学術および実務のコミュニティが協力して、これらのツールの力を適切に活用しながら指針を提供する必要がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2694582"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>居住者の窓開閉行動の因果モデリングによる室内温度予測</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2695416" />
+    <id>urn:doi:10.1080/19401493.2026.2695416</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>H Kim</name>
+    </author>
+    <author>
+      <name>S Kim</name>
+    </author>
+    <author>
+      <name>Cheol Soo Park</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Causal modelling of occupant window behaviour for indoor temperature prediction&lt;/em&gt;&lt;/p&gt;&lt;p&gt;H Kim, S Kim, Cheol Soo Park ／ Journal of Building Performance Simulation p.1-16&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来のデータドリブンモデルは、測定データから人間と建物の相互作用パターンを把握してきました。しかし相関分析だけでは、居住者がなぜ特定の行動をとるのか、またその行動が室内熱環境にどのような影響を及ぼすのかを十分に説明できません。本研究では、窓開放を室内条件に駆動される行動として、また屋外-室内間の建築環境を改変する介入として理解し、因果性に基づくモデルを開発することを目的としました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;韓国ソウルの4軒の住宅世帯を対象に実測データを取得し、窓開放行動にロジスティック回帰モデルを組み込んだ構造的因果モデル（SCM）を構築しました。このモデルを従来の相関ベースのモデルと比較検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;SCMと相関ベースモデルは同等の適合度を示しましたが、SCMのみが熱の物理的連続性と行動に依存した空気交換を分離でき、窓操作に関する反事実的評価（異なる条件下での起こり得る結果の予測）が可能になりました。世帯ごとの窓開放開始温度は21.60～28.02 °Cの範囲で変動し、代替条件では0.154 °Cの温度変化が見られました。さらに、データ不足による認識論的不確実性と行動本質による偶然的不確実性を区別できることが示されました。この不確実性は窓開放確率が0.5に接近するときに最大となり、その地点で居住者行動の予測可能性が最も低いことが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2695416"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ヨーロッパにおける建築性能シミュレーション用将来気象年の評価と選択</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2697216" />
+    <id>urn:doi:10.1080/19401493.2026.2697216</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>Thomas K. Thiis</name>
+    </author>
+    <author>
+      <name>Arnkell Jonas Petersen</name>
+    </author>
+    <author>
+      <name>Eugénio Rodrigues</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Evaluation and selection of future meteorological years for building performance simulations in Europe&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thomas K. Thiis, Arnkell Jonas Petersen, Eugénio Rodrigues ／ Journal of Building Performance Simulation p.1-23&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物シミュレーション用の未来気象年（FMY）の生成と選択には、気候モデルの選択、シナリオの解釈、空間的一貫性など複数の方法論上の課題がある。本研究は、これらの課題に対応する評価・選択フレームワークを提示し、ヨーロッパの5,028地点での適用を実証する。工学指向の選択基準により、建物シミュレーション実務に適した気候データの提供を目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オープンソースの未来気象生成ツール（FWG）を用いて、過去の標準気象年（TMY）にCORDEX-CMIP5およびCMIP6モデルアンサンブルから導出された月別気候デルタを合成した。すべてのデータセットはオープンアクセスで提供され、気候モデルの組み合わせ選択には性能駆動型フレームワークを適用した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;スケーラブルで透明性の高いFMY生成方法論を構築し、RCMベースのRCP及びGCMベースのSSPシナリオに対応した。建築工学の応用に適した気候モデルの組み合わせを選択するための性能駆動型フレームワークを開発し、気候変動下における建物の暖冷房負荷シミュレーションを直接支援するシナリオ別ガイダンススキームを提供した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;気候科学と建築工学の実務間における再現可能で気候一貫性のあるデータ供給が可能になった。これにより、設計段階から気候変動シナリオを考慮した建物の暖冷房負荷計画が実施可能となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2697216"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>統合型多目的最適化フレームワークによる性能駆動型気候レジリエント設計：ブンダノン美術館とブリッジの事例研究</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2699271" />
+    <id>urn:doi:10.1080/19401493.2026.2699271</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>김지원</name>
+    </author>
+    <author>
+      <name>Yuqing Huang</name>
+    </author>
+    <author>
+      <name>Kaiyaom Ma</name>
+    </author>
+    <author>
+      <name>Mackenzie Wilhelm</name>
+    </author>
+    <author>
+      <name>Minghao Xu</name>
+    </author>
+    <author>
+      <name>Yiqun Pan</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Performance-driven climate resilient design via an integrated multi-objective optimization framework: a case study of Bundanon Art Museum &amp;amp;amp; Bridge&lt;/em&gt;&lt;/p&gt;&lt;p&gt;김지원, Yuqing Huang, Kaiyaom Ma, Mackenzie Wilhelm, Minghao Xu, Yiqun Pan ／ Journal of Building Performance Simulation p.1-19&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気候変動による自然災害のリスク増加に対し、一般的なレジリエンス戦略では個別サイトの固有課題への対応に不足している。本研究はニューサウスウェールズ州の遠隔地にある文化施設を対象に、山火事・洪水・停電に対応した、シミュレーション駆動型のカスタマイズ設計手法を開発することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;4つの相互関連するモジュールをシミュレーションおよび最適化した。パッシブシステムは採光シャフト、適応型シェーディング、自然換気で構成される。アクティブシステムは可変風量（VAV）空調と冷媒可変流量（VRF）のハイブリッドシステムである。建物の構体炭素削減は直交集成板（CLT）構造の採用で実現し、再生可能エネルギー統合は太陽光発電と蓄電池システムにより行われた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;統合設計により、昼光利用率が20%から77.5%に、適応的熱快適性が46%から82%に向上した。暖房負荷はほぼ80%削減され、初期構体炭素が38%低減された。620 kWの太陽光発電アレイと860 kWhのバッテリー蓄電システムにより、年間エネルギー需要の79%が賄われた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本フレームワークは、山火事や停電などの気候変動リスクが高い遠隔地の文化施設設計に対応する。レジリエンス性とエネルギー自給自足性を両立させる拡張可能なモデルを提供する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2699271"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜日本建築学会 環境系論文集</title>
+  <link href="https://elweeeen.github.io/journals-feed/aije.xml" rel="self" />
+  <id>urn:jstage-journals:feed:aije</id>
+  <updated>2026-07-26T00:00:00+09:00</updated>
+  <entry>
+    <title>火災報告に基づく建物用途ごとの火災成長率αの階層ベイズ推定</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_1/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.1</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>出口 嘉一</name>
+    </author>
+    <author>
+      <name>樋本 圭佑</name>
+    </author>
+    <content type="html">&lt;p&gt;出口 嘉一, 樋本 圭佑 ／ 日本建築学会環境系論文集 91巻839号 p.1-8&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;火災成長率は避難安全性の検証において重要な入力データであるが、様々な用途の室について十分なデータが存在しない場合が多い。本研究では、データ入手可能性が限定的な場合も含めて、階層ベイズ推定法により火災成長率の確率分布を推定した。そして、現在の避難安全性検証方法で用いられている火災成長率が、推定された分布のどの水準に位置するかを明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;様々な用途の室における火災成長率を対象に、階層ベイズ推定を適用した。階層ベイズ推定により、限定的なデータからも堅牢な確率分布の推定が可能となる。推定された火災成長率の分布と、避難安全性検証方法で用いられている火災成長率を比較分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;階層ベイズ推定による回帰結果は堅牢であることが確認された。ほとんどの用途において、内装仕上げが準不燃材料であると仮定した場合、検証方法で用いられている火災成長率は、推定された分布の75～95パーセンタイル間に位置していた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;現行の避難安全性検証方法で用いられている火災成長率は、準不燃材料を前提とした場合、実績データの分布から見て高い水準に設定されていることが示された。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>パッシブハウスにおけるカーボンニュートラル化への実証過程とその評価（その２）：太陽光発電と蓄電池によるエネルギー自立の評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/840/91_107/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.107</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>持田 正憲</name>
+    </author>
+    <author>
+      <name>西川 豊宏</name>
+    </author>
+    <content type="html">&lt;p&gt;持田 正憲, 西川 豊宏 ／ 日本建築学会環境系論文集 91巻840号 p.107-114&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;近年、エネルギー自給型建築（ZEH）の実現が求められている。本研究は、太陽光発電と電力需要の地域特性を考慮しながら、蓄電池の最適容量設定を明らかにすることを目的とする。具体的には、6つの異なる立地環境における年間エネルギー独立性100%達成の可能性を検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;実建物を対象に、6つの地域における1年間のエネルギー供給・需要データを収集する。太陽光発電量と電力需要の関係を分析し、蓄電池容量がエネルギー独立性に及ぼす影響を定量的に評価する。地域ごとの気候・需要特性の違いが蓄電池容量設計に与える影響を検討する。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;地域の気候・需要特性に応じた蓄電池容量の適切な設定が、ZEH達成の重要な要素であることが示唆される。実建物での検証結果は、設備計画段階における蓄電池選定の判断材料となり得る。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/840/91_107/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>外部変動風の影響を考慮した換気量評価手法に関する研究（その２）：風洞実験による多開口単室を対象とした通風時の換気量評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/840/91_115/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.115</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>丹原 千里</name>
+    </author>
+    <author>
+      <name>小林 知広</name>
+    </author>
+    <author>
+      <name>盛 紹宇</name>
+    </author>
+    <author>
+      <name>山澤 春菜</name>
+    </author>
+    <author>
+      <name>小林 典彰</name>
+    </author>
+    <author>
+      <name>宮澤 昇平</name>
+    </author>
+    <content type="html">&lt;p&gt;丹原 千里, 小林 知広, 盛 紹宇, 山澤 春菜, 小林 典彰, 宮澤 昇平 ／ 日本建築学会環境系論文集 91巻840号 p.115-124&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;エネルギー節約への関心の高まりに伴い、自然通風が建築設備の重要な技術として注目されている。著者らは先行研究においてラージエディシミュレーション（LES）を用いてクロス通風における外部風変動の影響を検証している。本研究では、建築物の片側に複数の開口を有するモデルを対象として、流量特性のみならず、モデル内部および開口部における気流特性と速度分布をより詳細に調査することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;LESを数値解析手法として採用し、片側に複数の開口を有する建築モデルの通風特性を解析した。モデル内部および開口部における気流特性と速度を測定対象とした。異なる計算方法を複数用いて通風流量を算出し、各方法による結果の比較検討を行った。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;異なる計算方法による流量の比較分析の結果、風圧係数の差が有意と考えられるには小さすぎる条件下においても、通風が発生することが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/840/91_115/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建設現場における燃料・電力由来のCO 2 排出量に関する傾向分析と予測式の構築</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/840/91_125/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.125</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>勝二 理智</name>
+    </author>
+    <author>
+      <name>川端 裕司</name>
+    </author>
+    <content type="html">&lt;p&gt;勝二 理智, 川端 裕司 ／ 日本建築学会環境系論文集 91巻840号 p.125-135&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建設現場からのCO2排出を効果的に削減するため、排出の特性と変動要因を理解することが前提となります。本研究は統計的手法を用いて、燃料および電力由来のCO2排出（スコープ1およびスコープ2）のトレンドを分析し、排出に影響する複数の要因を明らかにすることを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;多変量分析によって回帰方程式を開発し、CO2排出の変動要因を検討しました。同時にクラスター分析を適用して、異なる建物用途間における排出特性の違いを調査しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;調査結果により、排出量が契約金額で示される建設規模に応じて変動することが明らかになりました。大規模プロジェクトでは、地下階の有無がスコープ1排出に顕著な影響を与えることが判明しています。建物用途によって異なる排出特性が存在し、開発された回帰方程式は排出量の変動の約70%を説明できます。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建設規模、地下階の有無、建物用途といった建物属性が排出量の主要な決定要因であることから、これらを考慮した排出量予測および削減対策の策定が有用と考えられます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/840/91_125/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>鉄道高架下保育施設と在来保育施設の音環境の比較と子どもの行動観察調査</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_20/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.20</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>岡庭 拓也</name>
+    </author>
+    <author>
+      <name>冨田 隆太</name>
+    </author>
+    <content type="html">&lt;p&gt;岡庭 拓也, 冨田 隆太 ／ 日本建築学会環境系論文集 91巻839号 p.20-30&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;近年、高架鉄道下に位置する保育所が増加している。本論文は、高架鉄道下に位置する保育所と従来型保育所の音環境の違いを明らかにすることを目的とした。さらに、音環境の違いに伴う子どもの反応にどのような差異が存在するかを検討した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;高架鉄道下に位置する保育所と従来型保育所において、音環境の測定および比較調査を実施した。特に低周波帯域の音圧レベルに注目し、両施設の音響環境の特性を分析した。加えて、児童の昼寝時における音刺激への反応を直接観察することで、音環境が子どもの行動に与える影響を評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;低周波帯域の音圧レベルを用いた比較において、高架鉄道下保育所と従来型保育所の音環境の違いがより顕著に現れることが示された。児童の観察から、昼寝中に環境音に反応して目を覚ます傾向が確認され、音環境が子どもの睡眠状態に影響を与えることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;高架鉄道下に位置する保育所では、特に低周波音が子どもの睡眠を妨害する可能性がある。したがって、設計段階で低周波域の音響対策を組み込むことが重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_20/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>住宅の温熱環境と医療費との関係の推定</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_31/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.31</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>藤田 浩司</name>
+    </author>
+    <author>
+      <name>吉田 吏志</name>
+    </author>
+    <author>
+      <name>松本 里紗</name>
+    </author>
+    <author>
+      <name>高橋 奈緒子</name>
+    </author>
+    <author>
+      <name>岩前 篤</name>
+    </author>
+    <content type="html">&lt;p&gt;藤田 浩司, 吉田 吏志, 松本 里紗, 高橋 奈緒子, 岩前 篤 ／ 日本建築学会環境系論文集 91巻839号 p.31-39&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;高断熱住宅が提供する健康便益を経済的に評価するため、室内熱環境と医療費の関係を定量化する研究が行われている。本研究では、10年単位の年齢別推定式を開発し、室内温度管理による医療費削減の可能性を明らかにすることを目的としている。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;室内温度などの熱環境指標から医療費を推定する、10年単位の年齢別予測式を構築した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;65歳以上の高齢者では他の年齢層より医療費が高く、室内温度上昇による削減効果が大きいことが示された。小児については気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎に関連した医療費が高く、温かい室内環境がこれらの疾患に対して顕著なコスト削減効果を有することが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;適切な室内温度管理は、高齢者と小児層の医療費削減に貢献する。特に呼吸器疾患およびアレルギー性疾患のリスク管理において、室内熱環境の改善が医療経済学的価値を持つことが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_31/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ルームエアコンディショナを熱源とした全館空調システムのエネルギー消費性能</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_40/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.40</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>梅本 大輔</name>
+    </author>
+    <author>
+      <name>関谷 佳子</name>
+    </author>
+    <author>
+      <name>井口 雅登</name>
+    </author>
+    <author>
+      <name>細井 昭憲</name>
+    </author>
+    <author>
+      <name>桑沢 保夫</name>
+    </author>
+    <author>
+      <name>秋元 孝之</name>
+    </author>
+    <content type="html">&lt;p&gt;梅本 大輔, 関谷 佳子, 井口 雅登, 細井 昭憲, 桑沢 保夫, 秋元 孝之 ／ 日本建築学会環境系論文集 91巻839号 p.40-48&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ルームエアコンディショナーと給気ファンを組み合わせた中央空調システムが近年提案されている一方で、こうしたシステムのエネルギー消費性能を評価する方法は未だ十分に確立されていない。本研究では、理論計算と実際の住宅における現地測定を通じて、これらシステムのエネルギー消費性能評価方法を確立することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;理論計算による性能予測と、実際の住宅に設置されたシステムにおける現地測定を実施した。両者の結果を比較検討することにより、評価方法の妥当性を検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;現行のエネルギー消費効率基準に規定されたルームエアコンディショナーの既存評価方法を当該複合システムに適用することで、エネルギー消費量を妥当な精度で推定できることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;給気ファン併用型の中央空調システムについても、既存のルームエアコンディショナー評価基準の手法を用いることで、エネルギー消費量の評価が可能である。これにより、実務者は新規システムの性能判断に際して、既確立された評価手法を活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_40/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>温暖な地域における全電化ZEHの電力消費実態と家庭用蓄電システムの効果的な運用に関する研究</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_49/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.49</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>千葉 陽輔</name>
+    </author>
+    <author>
+      <name>秋元 孝之</name>
+    </author>
+    <author>
+      <name>横山 計三</name>
+    </author>
+    <author>
+      <name>柏原 誠一</name>
+    </author>
+    <author>
+      <name>渡辺 直哉</name>
+    </author>
+    <content type="html">&lt;p&gt;千葉 陽輔, 秋元 孝之, 横山 計三, 柏原 誠一, 渡辺 直哉 ／ 日本建築学会環境系論文集 91巻839号 p.49-59&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;全電化型ゼロエネルギーハウス（ZEH）においてエネルギー自給率の向上と脱炭素化は重要な課題である。太陽光発電（PV）と蓄電池システム（SBS）の組合せによるシステムの構築が期待されているが、経済性と環境負荷低減の両側面から総合的に評価する必要がある。本研究は、SBS運用による経済効果とCO2削減効果を定量的に検討し、実務的な設計・運用知見を提示することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;対象ZEHハウスの最大グループは年間7～8 MWh/yearの電力を消費し、SBS搭載ユニットにおけるPV電力自給率は30～60%の範囲であった。電気料金とFIT価格がブレークイーブン・ポイント付近にあり、SBS運用の経済採算性が電力市場の価格動向に大きく影響される。昼間充電モード採用によりCO2排出量が削減される。運用モードと残容量設定に関する実践的な知見が提示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;昼間充電モードによるCO2削減効果が明らかにされている。SBS運用モード選択と残容量管理設定に関する知見に基づき、ZEH設計・運用段階における蓄電池戦略の検討と最適化、ならびに環境負荷低減とエネルギー自給率向上の両立に活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_49/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>センサリーマップ作成のための博物館内の環境刺激に関する調査</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/840/91_60/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.60</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>木下 晏里沙</name>
+    </author>
+    <author>
+      <name>小内 美空</name>
+    </author>
+    <author>
+      <name>高瀬 雄土</name>
+    </author>
+    <author>
+      <name>吉澤 望</name>
+    </author>
+    <author>
+      <name>上野 佳奈子</name>
+    </author>
+    <content type="html">&lt;p&gt;木下 晏里沙, 小内 美空, 高瀬 雄土, 吉澤 望, 上野 佳奈子 ／ 日本建築学会環境系論文集 91巻840号 p.60-71&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;発達障害のある来館者にとって、美術館内の音環境や照度、混雑などの環境要因が感覚的負担となり、訪問体験を阻害する課題がある。本研究は、感覚刺激となり得る環境要素を可視化したセンサリーマップの作成手法を確立し、来館者が事前に適応策を講じられ、かつ施設側が環境整備を促進できる基盤を構築することを目的としている。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;美術館の中でも特に音響・照度・混雑などの変動が大きい鑑賞・体験型施設を対象に現地実測調査を実施した。照度、騒音レベル、色彩環境、室温・湿度など感覚刺激となり得る複数の環境要素を抽出し定量的に評価・分析した。これらのデータから刺激が集中しやすい空間の特性を検討・整理するとともに、利用者の快適性と安全性を支える休憩スペースに必要とされる条件を明確化した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;美術館内における各種感覚刺激の空間分布と強度が明らかになった。特に刺激が高い領域の物理的・配置的特性が指摘され、発達障害のある利用者にとって不可欠な休憩スペースの設計条件が示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/840/91_60/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>VR観光体験内容の相違が観光行動や観光地の評価に及ぼす影響に関する研究</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_9/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.9</id>
+    <updated>2026-07-26T00:00:00+09:00</updated>
+    <author>
+      <name>森分 斗環</name>
+    </author>
+    <author>
+      <name>西名 大作</name>
+    </author>
+    <author>
+      <name>杉田 宗</name>
+    </author>
+    <author>
+      <name>金田一 清香</name>
+    </author>
+    <author>
+      <name>高 煒萱</name>
+    </author>
+    <content type="html">&lt;p&gt;森分 斗環, 西名 大作, 杉田 宗, 金田一 清香, 高 煒萱 ／ 日本建築学会環境系論文集 91巻839号 p.9-19&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;VR技術を活用した観光体験の提供が注目されているが、利用目的に応じた効果的なVR空間の設計方法は十分に明らかになっていない。本研究は、観光利用を想定したVR空間において、「訪問意欲を喚起する」および「観光満足度を得る」という異なる目標を実現するために必要な空間特性を明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;経験内容（観光情報や風景の充実度）と移動可能性（VR空間内での移動の自由度）の程度が異なる複数のVR空間を制作した。被験者にこれらのVR空間の中からいずれかを選択し、自由に巡検させた後、体験内容に対する評価および各観光地点に対する評価を調査した。複数のVR空間の評価結果を比較分析することで、目標別に必要な空間特性を検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/839/91_9/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

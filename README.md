@@ -5,19 +5,16 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 
 ## 購読URL
 
-```
-https://elweeeen.github.io/journals-feed/feed.xml
-```
+まとめて読むか、誌ごとに分けて読むかを選べます。
 
-## 対象誌
-
-| 誌名 | 発行 |
+| 誌名 | 購読URL |
 |---|---|
-| 日本建築学会 環境系論文集 | 日本建築学会 |
-| 空気調和・衛生工学会 論文集 | 空気調和・衛生工学会 |
-| Energy and Buildings | Elsevier |
-| Journal of Building Performance Simulation | Taylor & Francis |
-| Science and Technology for the Built Environment | Taylor & Francis |
+| **全誌まとめ** | https://elweeeen.github.io/journals-feed/feed.xml |
+| 日本建築学会 環境系論文集 | https://elweeeen.github.io/journals-feed/aije.xml |
+| 空気調和・衛生工学会 論文集 | https://elweeeen.github.io/journals-feed/shase.xml |
+| Energy and Buildings | https://elweeeen.github.io/journals-feed/enbuild.xml |
+| Journal of Building Performance Simulation | https://elweeeen.github.io/journals-feed/jbps.xml |
+| Science and Technology for the Built Environment | https://elweeeen.github.io/journals-feed/stbe.xml |
 
 ## 各記事に載せている内容
 

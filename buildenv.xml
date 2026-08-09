@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜Building and Environment</title>
+  <link href="https://elweeeen.github.io/journals-feed/buildenv.xml" rel="self" />
+  <id>urn:jstage-journals:feed:buildenv</id>
+  <updated>2026-08-09T00:00:00+09:00</updated>
+  <entry>
+    <title>自然換気建築における室内空気品質の多目的制御のためのフィールド情報統合強化学習</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115044" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115044</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Bangwoo Han</name>
+    </author>
+    <author>
+      <name>Keejung Hong</name>
+    </author>
+    <author>
+      <name>Gunhee Lee</name>
+    </author>
+    <author>
+      <name>Jongwoo Kim</name>
+    </author>
+    <author>
+      <name>Junemo Koo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Field-informed reinforcement learning for multi-objective indoor air quality control in naturally ventilated buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bangwoo Han, Keejung Hong, Gunhee Lee, Jongwoo Kim, Junemo Koo ／ Building and Environment 304巻 p.115044-115044&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;自然通風建築の室内空気質管理において、二酸化炭素（CO₂）の削減と室外からの微粒子物質（PM2.5）流入は相互に矛盾する課題となります。本研究は、物理特性を組み込んだニューラルネットワーク代理モデルと深層強化学習を統合し、自然通風と空気清浄の協調運用による多目的室内空気質管理の実現を目指しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;実際の執務室での長期測定データから、入居者挙動や気象条件を反映した物理ベース代理環境を構築しました。深層強化学習エージェントによりPareto最適な制御方針を導出し、多数のシード値での不確実性分析とSHAP解析により政策の堅牢性と意思決定プロセスの解釈性を評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;30日間の検証期間における各制御方針の評価では、深層強化学習によるPareto最適ポリシーが従来の実測運用およびルールベース制御を上回りました。換気重視政策ではCO₂を776ppmから619ppmへ削減し、清浄重視政策ではPM2.5を17.1μg/m³から6.3μg/m³へ削減しました。これに対し単純なベースライン手法は両物質のトレードオフから逃れられず、違反数が多数発生しましたが、中程度のRL導出ポリシーではこれらを大幅に抑制できました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;物理ベースの機械学習制御は、シミュレーション最適化と実建築運用の橋渡しとなり、解釈性に優れた室内空気質管理の意思決定支援が可能です。適用に際しては、定量的な結果やモデルパラメータの直接的な転用ではなく、手法の枠組み自体の応用が重要とされています。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115044"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>過熱評価における指標バイアスが建物性能シミュレーション結果に与える影響</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115057" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115057</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Alexis Cvetkov-Iliev</name>
+    </author>
+    <author>
+      <name>Günsu Merin Abbas</name>
+    </author>
+    <author>
+      <name>Luyi Xu</name>
+    </author>
+    <author>
+      <name>Vasilis Soulios</name>
+    </author>
+    <author>
+      <name>Lisanne Havinga</name>
+    </author>
+    <author>
+      <name>Pieter-Jan Hoes</name>
+    </author>
+    <author>
+      <name>Roel Loonen</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Indicator bias in overheating assessment: Implications for building performance simulation outcomes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alexis Cvetkov-Iliev, Günsu Merin Abbas, Luyi Xu, Vasilis Soulios, Lisanne Havinga, Pieter-Jan Hoes, Roel Loonen ／ Building and Environment 304巻 p.115057-115057&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気候変動に伴い、建築物の室内過熱が建築性能シミュレーションと設計の重要課題となっています。室内過熱を評価する指標は複数存在し、温度閾値や熱曝露期間などで異なる設定を持ちます。設計実務者は指標選択時に様々な方法論的判断を行いますが、その選択が過熱評価と設計意思決定に与える影響は未解明です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;文献レビューから過熱指標の分類フレームワークを導出しました。5つの主要特性により108種類の指標バリエーションを生成しています。これらをオランダのテラスハウスの10,000パターンに適用し、EnergyPlusによるシミュレーション結果を分析しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;温度閾値の選択が最も影響度の高い要因で、設計提案に小〜中程度のバイアスをもたらします。過熱を基準とするフィルタリングや最適化は、用いる指標によって異なる「最適」建物特性を導き出します。床の熱質量や断熱レベルなど、室内温度変動の振幅に影響する建物特性が特にこのバイアスの影響を受けます。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;過熱指標の選択が熱的快適性評価と設計意思決定に潜在的なバイアスをもたらすことが示されました。設計者が指標を選択する際は、その方法論的特性が最終的な建物提案に及ぼす影響を認識することが重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115057"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>人間の熱プルームに誘起される室内粒子動態の空間的ばらつき</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115058" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115058</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Alexandru Cernei</name>
+    </author>
+    <author>
+      <name>Ilinca Năstase</name>
+    </author>
+    <author>
+      <name>Matei-Răzvan Georgescu</name>
+    </author>
+    <author>
+      <name>Thomas Fagniez</name>
+    </author>
+    <author>
+      <name>Frédéric Thévenet</name>
+    </author>
+    <author>
+      <name>Marie Verrièle</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Spatial variability of indoor particle dynamics induced by the human thermal plume&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alexandru Cernei, Ilinca Năstase, Matei-Răzvan Georgescu, Thomas Fagniez, Frédéric Thévenet, Marie Verrièle ／ Building and Environment 304巻 p.115058-115058&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;人体から発生する浮力駆動型の熱プリュームは、体周辺の気流と粒子の動きに影響を与えます。本研究は、この熱プリュームが室内の粒子輸送と見かけの除去特性に及ぼす影響を明らかにするため、女性型の熱マネキン（MONICA）を用いた実験的調査を実施しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;容積40m³の制御されたチャンバー（IRINA）内で、よく混合された状態と非混合状態の両条件下における実験を行いました。粒子径別の参照計測装置と、マネキン上下周辺に配置された分布型センサーネットワークを組み合わせ、加熱と非加熱の双方で測定を実施しました。さらに過渡的な実験とCFDシミュレーションにより、流れ場の可視化と観察結果の解釈を補完しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;室全体の粒子沈着損失係数は加熱による顕著な差が見られず、熱プリュームの室平均沈着速度への影響は限定的でした。一方、局所的な測定では、特にマネキン上部で見かけの粒子除去が25%まで増加し、加熱時には近体領域での粒子検出時間が35～50%短縮されました。遠方での測定はほぼ変化しませんでした。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;在室者が発生する気流が室内エアロゾル輸送と曝露評価に重要な役割を担うことが示唆されました。特に気流が十分に混合されない室内環境では、換気設計において人体が発生する熱プリュームの影響を考慮することが必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115058"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>オフィス環境における感覚的影響と総合快適性：温熱、音響、視覚刺激強度の複合効果</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115068" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115068</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Tanmay Dave</name>
+    </author>
+    <author>
+      <name>Rune Korsholm Andersen</name>
+    </author>
+    <author>
+      <name>Pawel Wargocki</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Sensory influence and overall comfort: Combined effects of thermal, acoustic, and visual stimulus intensity in office environments&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tanmay Dave, Rune Korsholm Andersen, Pawel Wargocki ／ Building and Environment 304巻 p.115068-115068&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既往研究では、室内環境品質に影響する温度、騒音、グレア、空気質などの要因をそれぞれ独立して検討してきたが、人間の知覚が本来多感覚的であることが見落とされてきた。本研究は、温熱、音響、視覚刺激が同時に作用する場合の室内環境評価への影響を、独立効果から相互作用に至るまで体系的に評価することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;模擬オフィス環境に29名の被験者を70分間滞在させ、温度（23°C対28°C）、騒音（静穏対騒音）、照明グレア（あり対なし）の組み合わせを統制した実験を実施した。データ分析には累積リンク混合モデル（CLMM）を用いた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;基本的な感覚評価は大部分が独立していたが、快適性などの高次評価では感覚間の相互作用が有意に生じた。温度が総合的な快適性に最も強い影響を及ぼした。物理量から快適性をモデル化すると単純な加算効果のみが見られたが、主観的な領域別快適性評価から推定すると有意な相互作用が検出された。特に複数領域での不快が併存する場合には天井効果が観察された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;単純な直線的なIEQモデルは不適切であり、今後の建物設計・評価ツールは非線形な統合メカニズムと文脈依存的な感覚の優位性を考慮する必要がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115068"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>都市マイクロクライメート評価における熱伝導・対流アプローチの影響：表面温度から屋外熱的快適性へ</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115070" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115070</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Margot Ruiz</name>
+    </author>
+    <author>
+      <name>Ziang Cui</name>
+    </author>
+    <author>
+      <name>Diwen Yao</name>
+    </author>
+    <author>
+      <name>Xenia Stavropulos-Laffaille</name>
+    </author>
+    <author>
+      <name>Auline Rodler</name>
+    </author>
+    <author>
+      <name>Marjorie Musy</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Impact of conduction and convection approaches for urban microclimate assessment: from surface temperatures to outdoor thermal comfort&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Margot Ruiz, Ziang Cui, Diwen Yao, Xenia Stavropulos-Laffaille, Auline Rodler, Marjorie Musy ／ Building and Environment 304巻 p.115070-115070&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市表面温度はマイクロクライメートシミュレーションと屋外快適性・建築エネルギー消費に大きな影響を与えます。放射・伝導・対流・蒸発など複数の物理現象を考慮する必要があり、計算が複雑になります。本研究ではSOLENE-Microclimatモデルを用いて、異なる伝導・対流モデルが都市表面温度予測に及ぼす影響を評価することが目的です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;3つの伝導モデルと4つの対流モデルを、異なる都市形態を持つ3つのケーススタディで比較検討しました。評価対象はフランスの舗装面、シンガポールの工業地区の街路峡谷、欧州の典型的な街区です。夏季の高温・低風速条件下で、シミュレーション結果を現地測定値と比較しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;伝導・対流モデルの選択は、表面温度の日較差と時間的変動に影響します。伝導モデルでは3R4Cモデルが街区規模における精度と計算複雑性のバランスに優れています。対流モデルについては、屋根・壁・地面などの表面タイプと時間帯により最適なモデルが異なるため、統一的な推奨は困難です。平均放射温度と普遍熱気候指数の感度分析により、これらのモデル選択の影響は無視できません。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;都市微気候シミュレーションにおいて、伝導・対流モデルの選択は表面温度および屋外熱快適性評価の結果に大きく影響します。街区規模での計算では3R4Cモデルが実用的な選択肢となります。対流モデルは評価対象の表面種別と評価時間帯を考慮して選定する必要があります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115070"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>健康的かつエネルギー効率的な建築改修：CFD、デジタルツイン、および利用者中心型インテリジェンスのシステマティックレビュー</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115073" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115073</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Esmaeel Fatahian</name>
+    </author>
+    <author>
+      <name>Samira Awwal</name>
+    </author>
+    <author>
+      <name>Rakesh Mishra</name>
+    </author>
+    <author>
+      <name>Leigh Fleming</name>
+    </author>
+    <author>
+      <name>Hossein Fatahian</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Healthy and energy-efficient building retrofits: A systematic review of CFD, digital twins, and occupant-centred intelligence&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Esmaeel Fatahian, Samira Awwal, Rakesh Mishra, Leigh Fleming, Hossein Fatahian ／ Building and Environment 304巻 p.115073-115073&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築改修は炭素削減とエネルギー効率向上に必須だが、断熱強化や気密化などの施工は、室内気流、汚染物質、熱快適性、結露、過熱、健康に複合的に影響する。本レビューはCFD、デジタルツイン、居住者行動モデリング、機械学習が健康と利便性の両立した改修戦略をいかに支援できるか体系的に検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;PRISMA準拠の体系的レビューにより、改修性能評価にCFD、デジタルツイン、またはハイブリッドアプローチを適用した文献を収集・分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;従来エネルギーモデルは年間需要推定に有用だが、局所気流パターン、汚染物質集積、熱層流化、換気有効性、居住者曝露リスク予測に不十分である。CFDは気流、熱伝達、汚染物質、湿度移動、換気性能、感染伝播を詳細に示す。窓開けやドア開閉などの居住者行動は特に気密化建物で気流と汚染経路に大きく影響する。デジタルツインはセンサー、予測シミュレーション、適応制御を統合した継続的性能最適化を、機械学習はCFD高速化とリアルタイム意思決定を実現する。改修は冬季快適性と暖房削減をもたらす一方、換気不足時は過熱、CO₂上昇、VOC蓄積、結露、感染リスク増加を招く。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;改修適性指数（RSI）の導入が提案され、エネルギー効率、室内空気質、熱快適性、健康保護、経済性、利用者受容性を統合評価することで、健全で回復力のある居住者中心の改修を実現する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115073"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建築改修における多目的最適化と意思決定：フレームワーク、トレンド、研究ギャップの体系的レビュー</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115074" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115074</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Bahador Ziaeemehr</name>
+    </author>
+    <author>
+      <name>Mehdi Ghobadi</name>
+    </author>
+    <author>
+      <name>Michael Lacasse</name>
+    </author>
+    <author>
+      <name>Hua Ge</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Multi-Objective Optimization and Decision-Making in Building Retrofits: A Systematic Review of Frameworks, Trends, and Research Gaps&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bahador Ziaeemehr, Mehdi Ghobadi, Michael Lacasse, Hua Ge ／ Building and Environment p.115074-115074&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築改修の最適化に関する学術研究をシステマティックにレビューした研究である。2020年から2026年に発表された論文を対象に、改修戦略の選択から最終的な実装方案の決定に至るまで、最適化と意思決定のフレームワークがどのように構造化・統合されているかを明らかにすることが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;対象論文を改修戦略、最適化アルゴリズム、計算ツール、気候条件、および感度分析（SA）・機械学習（ML）・多目的最適化（MOO）・多基準意思決定（MCDM）などの解析手法の組み合わせという複数の観点で分類し、その統合状況を整理した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;外皮の断熱・窓・気密性・シェーディング改修が最も多く最適化対象とされ、HVAC改善と再生可能エネルギー導入がこれに続く。NSGA-IIアルゴリズムが支配的である。SA、ML、MOO、MCDMの統合は進展しているが、代理モデルの検証不足、計算コスト報告の不統一、不確実性評価の不充分さといった課題が残される。また、経済・LCA評価は単純化されたままであり、将来気候シナリオの組み込みも不十分である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;動的な炭素・コスト評価、具現化炭素の評価、不確実性の定量化、将来気候への適応性、利害関係者を含めた意思決定プロセスの構築など、透明性と整合性を有する統合的な評価フレームワークの構築が、レジリエンスのある実装可能な改修計画を支援するために重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115074"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ヘンプ・フラックス・コットン由来生分解性断熱材上のカビの成長と微生物揮発性有機化合物(mVOCs)の放出可能性</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115076" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115076</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Nouha Zine Filali</name>
+    </author>
+    <author>
+      <name>Nadine Locoge</name>
+    </author>
+    <author>
+      <name>Yves Andrès</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Fungal Growth on a Hemp-Flax-Cotton Biobased Insulation Materials and their Potential to Emit Microbial Volatile Organic Compounds (mVOCs)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nouha Zine Filali, Nadine Locoge, Yves Andrès ／ Building and Environment p.115076-115076&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;バイオベース断熱材は建物脱炭素化と優れた湿度・熱性能をもたらす一方、湿潤環境では真菌増殖とmVOC放出を促進し室内空気質を悪化させる懸念があります。本研究は、経年劣化がバイオベース材料の真菌増殖感受性とVOC放出に与える影響を評価することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;麻・亜麻・綿混合の断熱材を3ヶ月間加速老化処理（週ごとに相対湿度11±4%と60±2%を交互に、温度25±0.8°C）しました。ネイティブ材と老化材に乾式エアロゾル法で真菌胞子を接種し、95±1%高湿度で30日間培養しました。真菌増殖、VOC・mVOC放出をTD-GC-MS/FIDとHPLCで測定し、培養1、7、9、15、30日目に分析しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;両材料ともに強い真菌増殖が観察され、胞子濃度は初期接種菌の100〜1000倍に達しました。材料のVOC放出は非常に低く、老化処理による変化は軽微でした。30日間の培養中、既存の74種VOC放出は減少しましたが、新たに検出された10種化合物（1〜13 µg m⁻² h⁻¹）は7〜9日目に出現し、9日目でピークを示した後、段階的に低下しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;バイオベース断熱材は高湿度環境下での真菌増殖リスクが高く、経年劣化による感受性の大きな変化がないため新材・既設材ともに対策が必要です。真菌増殖初期（7〜9日目）のmVOC放出がピークとなることから、設計・施工段階での湿度管理と通風計画が室内空気質維持の重要な要素になります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115076"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>異なる発生源位置におけるリビング内粒子分布のCFD解析：空気換気率と換気形式の影響</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115078" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115078</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>Peng Qin</name>
+    </author>
+    <author>
+      <name>Anneloes De Lange</name>
+    </author>
+    <author>
+      <name>T. van Hooff</name>
+    </author>
+    <author>
+      <name>A.A.L. Traversari</name>
+    </author>
+    <author>
+      <name>Marcel Loomans</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;CFD modeling of particle distribution in a living room for varying source locations: Impact of air-change rate and ventilation configuration&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Peng Qin, Anneloes De Lange, T. van Hooff, A.A.L. Traversari, Marcel Loomans ／ Building and Environment p.115078-115078&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;室内粒子状物質による空気質の低下は建築環境における主要な課題である。従来、室内空気質計算では完全混合を仮定しているが、実務では均一な濃度分布は実現困難である。放射源の位置と換気方式が粒子の空間分布に及ぼす影響を系統的に解明することが必要とされている。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;リビングルームを対象に、118箇所の粒子放射源位置、3段階の換気回数（ACH = 1.0、2.0、6.0 h⁻¹）、および3つの換気構成（3吸気3排気、1吸気3排気、3吸気1排気）の組み合わせを検討した。CFD解析により流速と温度分布を実験結果で検証した上で、粒子分布への影響を調査している。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;放射源位置の相違が粒子分布に顕著な影響を与えることが明らかになった。3吸気3排気構成でACH=2.0 h⁻¹の場合、呼吸面（1.2 m高さ）での表面平均濃度は放射源位置によって最大215%の変動を示した。全体的に、換気回数の増加は換気構成の変更よりも表面平均濃度低減の効果が大きい。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;室内粒子分布の理解が深まることで、健全な室内環境を設計するための基盤が得られる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115078"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建築物の具現化排出量は将来の気候経路に整合しているか？：建築部門の性能測定とサイエンスベース目標設定のための手法</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115089" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115089</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <author>
+      <name>William Craft</name>
+    </author>
+    <author>
+      <name>Philip Oldfield</name>
+    </author>
+    <author>
+      <name>Mehdi Robati</name>
+    </author>
+    <author>
+      <name>I.M. Chethana S. Illankoon</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Are building embodied emissions aligned with future climate pathways? A method for measuring building-sector performance and defining science-based targets&lt;/em&gt;&lt;/p&gt;&lt;p&gt;William Craft, Philip Oldfield, Mehdi Robati, I.M. Chethana S. Illankoon ／ Building and Environment p.115089-115089&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築のライフサイクル全体での温室効果ガス排出量（特に製造段階の先行排出）の測定技術は進化しています。しかし、将来の技術革新や社会経済的な施策、建設トレンドの変化がこれらの排出量にどう影響するかについては、国・地域レベルの予測が十分ではありません。本研究は将来志向型のライフサイクル評価を用いて、建築セクターの全ライフサイクル排出量を測定する新たな方法論を開発し、気候変動目標との比較から科学的根拠に基づいたカーボン削減目標を設定することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オーストラリアのオフィスビルセクターを対象とした2024年から2049年のケーススタディにおいて、将来志向型ライフサイクル評価手法を適用しました。気候変動シナリオ（1.5℃および2.0℃経路）に対応した排出量経路と比較分析を行い、削減ギャップを定量化しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;2049年の総排出量は137.8 Mt CO2eであり、そのうち45%が先行排出です。1.5℃経路との削減ギャップは79.7 Mt CO2e、2.0℃経路では56.9 Mt CO2eとなります。低炭素コンクリート・バイオマス素材の導入、建物の長寿命化、改修促進による対策では最大47.1 Mt CO2eの削減が可能ですが、目標達成には不十分です。2.0℃経路達成には、先行排出を年37%削減し、2032年までに10 kg CO2e/m²以下を達成することが必要です。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;低炭素材料や木質化などの技術的対策だけでは排出削減が不十分であり、既存建築の大規模改修と新規建設の抑制といった需要側の対策が必須です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115089"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

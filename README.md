@@ -13,6 +13,7 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 | 日本建築学会 環境系論文集 | https://elweeeen.github.io/journals-feed/aije.xml |
 | 空気調和・衛生工学会 論文集 | https://elweeeen.github.io/journals-feed/shase.xml |
 | Energy and Buildings | https://elweeeen.github.io/journals-feed/enbuild.xml |
+| Building and Environment | https://elweeeen.github.io/journals-feed/buildenv.xml |
 | Journal of Building Performance Simulation | https://elweeeen.github.io/journals-feed/jbps.xml |
 | Science and Technology for the Built Environment | https://elweeeen.github.io/journals-feed/stbe.xml |
 

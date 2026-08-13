@@ -16,6 +16,7 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 | Building and Environment | https://elweeeen.github.io/journals-feed/buildenv.xml |
 | Journal of Building Performance Simulation | https://elweeeen.github.io/journals-feed/jbps.xml |
 | Science and Technology for the Built Environment | https://elweeeen.github.io/journals-feed/stbe.xml |
+| CIBSE Journal（英国・業界誌） | https://elweeeen.github.io/journals-feed/cibse.xml |
 
 ## 各記事に載せている内容
 
@@ -23,6 +24,11 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 - 著者・掲載誌
 - **AI が作成した日本語要約**（背景・目的／方法／結果／実務への示唆）
 - 出版社ページへのリンク（DOI）
+
+CIBSE Journal は学術誌ではなく業界誌のため、要約が
+**何の話か／要点／日本との違い** の3項目になります。英国の法規・気候が前提の記事なので、
+日本にそのまま当てはめると誤読する点を明示しています。掲載欄に入る
+`Case Studies` / `Technical` の区分で絞り込めます。
 
 ## 要約について
 

@@ -3,7 +3,42 @@
   <title>建築環境・設備 新着論文｜Energy and Buildings</title>
   <link href="https://elweeeen.github.io/journals-feed/enbuild.xml" rel="self" />
   <id>urn:jstage-journals:feed:enbuild</id>
-  <updated>2026-08-08T00:00:00+09:00</updated>
+  <updated>2026-08-13T00:00:00+09:00</updated>
+  <entry>
+    <title>脱炭素化実現可能性評価は関税と炭素係数の変動に耐えられるか：イギリス初等学校改修4事例の現況データ再ベース監査</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118063" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118063</id>
+    <updated>2026-08-13T00:00:00+09:00</updated>
+    <author>
+      <name>Harshul Singhal</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Do feasibility-stage decarbonisation conclusions survive tariff and carbon-factor drift? A controlled current-data rebasing audit of four calibrated UK primary-school retrofit cases&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Harshul Singhal ／ Energy and Buildings p.118063-118063&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;完了した施設改修のフィージビリティ調査は、エネルギー転換係数や電気ガス料金が変わっても投資計画に残されることが多い。本研究は、改修計画の物理的なエネルギー削減量と改修内容は固定しながら、変更された転換係数や料金のみで再評価する監査手法を開発した。これにより、物理的な改修効果と外部環境変化による評価の変動を区別できる。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;イギリスの2022年小学校改修4件を対象とした。OpenStudio/EnergyPlusで作成した建築エネルギーシミュレーションモデルを12ヶ月分の実績ユーティリティデータで較正し、ASHRAE Guideline 14の精度基準を満たした。同じ物理的な改修内容について2022年と2026年のエネルギー転換係数を適用し、比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;2022年の転換係数ではCO₂削減率は56.7～67.8%（平均62.6%）であった。2026年の転換係数で再評価すると削減率は72.5～78.8%（平均76.3%）に上昇した。経済性では、ガス加熱の3件は2022年料金では13.3～16.4%のコスト増加見込みが、2026年第1四半期平均料金では5.1～13.1%の削減に転じた。油暖房の事例は33.0%削減が見られた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;既に策定された改修フィージビリティの結果は、改修内容が変わらなくても、エネルギー転換係数や料金体系の変化によって削減効果や経済性が大きく変わる可能性がある。進行中の改修事業の経済性判断や計画妥当性を再検討する際には、最新の転換係数と料金で改めて評価することが重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118063"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>エミュレータ型負荷試験における施設間再現性の向上</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118076" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118076</id>
+    <updated>2026-08-13T00:00:00+09:00</updated>
+    <author>
+      <name>Niccolò Giannetti</name>
+    </author>
+    <author>
+      <name>Yoichi Miyaoka</name>
+    </author>
+    <author>
+      <name>Chitose Tanaka</name>
+    </author>
+    <author>
+      <name>S. Sholahudin</name>
+    </author>
+    <author>
+      <name>Arnas Lubis</name>
+    </author>
+    <author>
+      <name>Kiyoshi Saito</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Enhanced interlaboratory reproducibility of emulator-type load-based tests&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Niccolò Giannetti, Yoichi Miyaoka, Chitose Tanaka, S. Sholahudin, Arnas Lubis, Kiyoshi Saito ／ Energy and Buildings p.118076-118076&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;試験室エミュレータを用いた動的負荷試験において、戻り空気条件の追従性を確保することが重要課題です。本研究は、フィードフォワード補償法を開発して、試験結果の再現性と測定の標準化を向上させることを目指しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;試験施設内における熱と物質輸送の遅延を線形化モデルで表現し、室内エミュレータから調湿室の再調整ユニットへの温度・湿度制御信号を補正するアルゴリズムを構築しました。制御の不安定化を防ぎながら試験環境の精度を高めるモデル定式化を行い、複数機関での試験を通じて有効性を実証しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;10 kW天井カセット型ユニットへの適用で、戻り空気条件の追従性が大幅に向上し、遅延を60秒以下、温度偏差を0.1 K以内に収束させることができました。遅延補償により同一試験環境での繰り返し測定の結果ばらつきが減少し、冷房・暖房両方の試験条件において成績係数（COP）の機関間偏差が2%以内に抑制されています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本方法は追加の機器投資を必要としないため、既存の試験装置に導入することで、動的試験の精度と再現性を向上させることができます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118076"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>住宅における長期電力予測のための統計モデルの開発</title>
     <link href="https://doi.org/10.1016/j.enbuild.2026.117972" />

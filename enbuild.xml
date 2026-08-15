@@ -3,7 +3,23 @@
   <title>建築環境・設備 新着論文｜Energy and Buildings</title>
   <link href="https://elweeeen.github.io/journals-feed/enbuild.xml" rel="self" />
   <id>urn:jstage-journals:feed:enbuild</id>
-  <updated>2026-08-13T00:00:00+09:00</updated>
+  <updated>2026-08-15T00:00:00+09:00</updated>
+  <entry>
+    <title>自治会における集団的エネルギー意思決定のガバナンスメカニズム：二段階委任合意モデル</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118059" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118059</id>
+    <updated>2026-08-15T00:00:00+09:00</updated>
+    <author>
+      <name>Xinyi Mu</name>
+    </author>
+    <author>
+      <name>Dujuan Yang</name>
+    </author>
+    <author>
+      <name>Qi Han</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Governance mechanisms for collective energy decisions in homeowner associations: a two-stage delegation-consensus model&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Xinyi Mu, Dujuan Yang, Qi Han ／ Energy and Buildings 370巻 p.118059-118059&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;オランダの共同住宅所有者協会（VvE）では、エネルギー改修の集団意思決定が定足数・多数派決定ルール、出席率の低さ、優先事項の多様性により停滞する傾向にある。本研究は、2段階のエージェント・ベース・モデルを開発してこれらの課題への対応方策を探索した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;第1段階では不在の所有者が出席者の中から最も信頼度の高い人に決定権を委任する。第2段階では加重代表者がファジィコンセンサス手法で改修案の合意形成を進める。オランダの住宅調査データから世帯プロファイルを設定し、モンテカルロシミュレーション実験を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;50～65％の出席率のみで委任が全権益を手続き的に代表した。コンセンサス手法は委任時93.2％、非委任時87.4％の高い支持率を達成し、直接投票（67.7～80.9％）を上回った。しかし出席者が一定の場合、委任の効果は小さく（+4.0pp）、その価値は代表性確保にあり、合意の質改善ではないことが判明した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本フレームワークは小規模な住宅集団における統治意思決定の試行や検証に活用できる探索的なシミュレーション・ツールとして構想されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118059"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>脱炭素化実現可能性評価は関税と炭素係数の変動に耐えられるか：イギリス初等学校改修4事例の現況データ再ベース監査</title>
     <link href="https://doi.org/10.1016/j.enbuild.2026.118063" />

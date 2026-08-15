@@ -3,7 +3,48 @@
   <title>建築環境・設備 新着論文｜Building and Environment</title>
   <link href="https://elweeeen.github.io/journals-feed/buildenv.xml" rel="self" />
   <id>urn:jstage-journals:feed:buildenv</id>
-  <updated>2026-08-13T00:00:00+09:00</updated>
+  <updated>2026-08-15T00:00:00+09:00</updated>
+  <entry>
+    <title>都市環境における歩行者快適性への風の影響：風不快感、熱ストレス、および雨曝露</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115120" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115120</id>
+    <updated>2026-08-15T00:00:00+09:00</updated>
+    <author>
+      <name>Aytaç Kubilay</name>
+    </author>
+    <author>
+      <name>Andreas Rubin</name>
+    </author>
+    <author>
+      <name>Dominik Strebel</name>
+    </author>
+    <author>
+      <name>Dominique Derome</name>
+    </author>
+    <author>
+      <name>Jan Carmeliet</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Impact of wind on pedestrian comfort in the urban environment: wind discomfort, heat stress and rain exposure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Aytaç Kubilay, Andreas Rubin, Dominik Strebel, Dominique Derome, Jan Carmeliet ／ Building and Environment p.115120-115120&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;高層建築が密集する都市環境では、風、熱、降雨が複合的に歩行者快適性に影響します。本研究はスイスのジュネーブを対象に、これら3つの環境要素の相互作用を総合的に評価することを目的とします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;計算流体力学ツール（urbanMicroclimateFoamおよびwindDrivenRainFoam）を用いた多スケール解析を実施しました。風快適性、熱波時の熱ストレス、年間雨暴露量を定量的に評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;高層建築による下降流やコーナー流れが街路風速を局所的に加速させ、一部区域の風不快性と雨暴露を増加させる一方で、通風改善により熱波時の熱条件は改善しました。調査区域全体では、39%で風不快性、91.5%で強い熱ストレスが確認されました。風と熱の不快性が重複するのは8%に限定され、複数ストレッサーの重複ゾーンは限定的ですが、利用者が集中する場所に空間的に集中する傾向を示しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;歩行者快適性は多次元的であり、ある不快性の軽減が他の不快性を増加させる可能性があります。設計段階では、複数のストレッサーが重複する区域、特に待機スペースや休憩スペースへの対応を優先すべきです。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115120"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>レーダーベースの呼吸検出による感情応答型照明システム：多様な占有状況下におけるロボット及び人間被験者を用いた実験室研究</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115122" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115122</id>
+    <updated>2026-08-15T00:00:00+09:00</updated>
+    <author>
+      <name>Elham Rastegari</name>
+    </author>
+    <author>
+      <name>Bruce Ferwerda</name>
+    </author>
+    <author>
+      <name>RatnaKala Sithravel</name>
+    </author>
+    <author>
+      <name>Myriam Aries</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Radar‑Based Breathing Detection Towards Emotion‑Responsive Lighting: Laboratory Studies with Robot Simulations and Human Occupants Under Varied Occupancy&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Elham Rastegari, Bruce Ferwerda, RatnaKala Sithravel, Myriam Aries ／ Building and Environment p.115122-115122&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築環境は人間の健康とパフォーマンスに大きく影響します。特に照明は視覚的な効果だけでなく、自律神経系の調節に関わる生理・心理的プロセスに作用し、呼吸数がその指標となります。本研究は、ミリ波レーダーを用いて、室内環境における①在室検出、②呼吸数推定、③感情認識システムの指標としての呼吸数の活用可能性を検証しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ロボット実験と人間実験の2つのアプローチで調査しました。ロボット実験では、胸部の動きをシミュレートするCAT-botsを使用し、異なる在室人数（0～2人）とレーダーからの距離で在室検出と呼吸数推定を体系的に評価しました。人間実験では、参加者（個別または2人ペア）が異なる距離でレーダーから座り、感情喚起動画視聴時の呼吸数変化を測定しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;在室検出は両実験で高い性能を示し、加重F1スコアは0.90以上でした。呼吸数推定は臨床的に許容できる±3 bpm以内で80%の精度を達成しました。統計分析では、覚醒度が高い・低い動画間で呼吸数に有意差がみられた一方、感情の価数（快感度）による差は有意ではありませんでした。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;レーダーベースの在室・呼吸監視技術は室内環境での実用性が示唆されました。しかし、推定精度に比べて覚醒度関連の差が小さいことから、感情反応型照明システムへの適用には、さらなる検討と技術改善が必要であることが明確に指摘されています。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115122"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>構築環境における音響知覚の主観的評価と非音響的時間要因の関連性：システマティックレビュー</title>
     <link href="https://doi.org/10.1016/j.buildenv.2026.115105" />

@@ -3,7 +3,42 @@
   <title>建築環境・設備 新着論文｜Science and Technology for the Built Environment</title>
   <link href="https://elweeeen.github.io/journals-feed/stbe.xml" rel="self" />
   <id>urn:jstage-journals:feed:stbe</id>
-  <updated>2026-08-08T00:00:00+09:00</updated>
+  <updated>2026-08-16T00:00:00+09:00</updated>
+  <entry>
+    <title>2025年ASHRAE冬季会議で発表された建築環境における革新的研究</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2692150" />
+    <id>urn:doi:10.1080/23744731.2026.2692150</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>Haotian Liu</name>
+    </author>
+    <author>
+      <name>Li Song</name>
+    </author>
+    <author>
+      <name>Som Shrestha</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Innovative research in the built environment presented at the 2025 ASHRAE Winter Conference&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Haotian Liu, Li Song, Som Shrestha ／ Science and Technology for the Built Environment 32巻6号 p.667-667&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2692150"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>リアルタイムデータ検証の拡張：パフォーマンス評価構築のためのフレームワーク</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2703438" />
+    <id>urn:doi:10.1080/23744731.2026.2703438</id>
+    <updated>2026-08-15T00:00:00+09:00</updated>
+    <author>
+      <name>Sterling Butler</name>
+    </author>
+    <author>
+      <name>T. H. English</name>
+    </author>
+    <author>
+      <name>Rob Best</name>
+    </author>
+    <author>
+      <name>Jacy DeVault</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Extending real-time data validation: a framework for building performance assessments&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sterling Butler, T. H. English, Rob Best, Jacy DeVault ／ Science and Technology for the Built Environment p.1-15&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;スマートメーターなどの高度な計測インフラが普及する中、時系列データの品質と粒度に基づいた建物性能評価を実施するための包括的なフレームワークを提案する。実時間の電力計測データを活用することで、エネルギーモデルの検証と改善、さらに運用戦略の最適化の可能性が飛躍的に拡大している。建築家、設備エンジニア、施設管理者が、エネルギーモデルと実際の建物挙動の乖離を緩和し、より正確な性能予測を実現することが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;利用可能なデータの粒度を段階別にカテゴリー分けし、各段階で実施可能な診断・評価の内容を体系化した。敷地全体、建物全体、個別システム、機器レベルの4スケールにおいて、異なるデータ解像度に対応した評価アプローチを提示する。月次請求データからサブメータの詳細な時間値データまで、実例に基づき、データ粒度の向上に応じた診断精度の改善を実証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;データ解像度の向上に伴い、より詳細な診断、モデルの較正、エネルギー最適化戦略の実施が段階的に可能になることを実例で示した。このスケーラブルなフレームワークが実務レベルで機能することが実証された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;提案されたフレームワークは、エンジニアや施設管理者が計測データの質に応じて現実的な性能評価を選択・実施する際の指針となる。データ駆動型の設計思想と性能検証の重要性を業界全体に周知し、エネルギーモデルと実運用のギャップ解消に貢献する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2703438"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Purdue zEDGE Tiny Houseにおけるエネルギー消費と室内環境品質のリアルタイム評価</title>
     <link href="https://doi.org/10.1080/23744731.2026.2654350" />

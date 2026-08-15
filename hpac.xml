@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜HPAC Engineering</title>
+  <link href="https://elweeeen.github.io/journals-feed/hpac.xml" rel="self" />
+  <id>urn:jstage-journals:feed:hpac</id>
+  <updated>2026-08-16T00:00:00+09:00</updated>
+  <entry>
+    <title>荷重計算は法規準拠しているか</title>
+    <link href="https://www.hpac.com/industry-perspectives/article/55381771/are-your-load-calculations-code-compliant" />
+    <id>urn:hpac:55381771</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>- **掲載**: HPAC Engineering｜Industry Perspectives</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Are Your Load Calculations Code-Compliant?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- **掲載**: HPAC Engineering｜Industry Perspectives ／ HPAC Engineering｜Industry Perspectives&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国ではASHRAE Standard 183がエネルギーコード（IECC、ASHRAE 90.1）に採用されたことで、HVAC設計の基本となる冷暖房負荷計算が、単なる計算方法の推奨から法定の最低要件へと位置付けられ、より詳細で物理的に正確な手法を強制するようになった。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 従来主流だった放射時間法（RTS）は簡便だが、内部表面相互作用や地盤条件を適切に表現できず、新基準の適合性に問題を生じさせる可能性がある - 熱バランス法により表面・空気・システム間の熱移動を時間的変化を含めて精密に計算でき、ヒートポンプや熱回収システムなど時間応答が重要な機器システムの設計精度が向上する - 建物の3次元幾何形状を明示的に表現し、室内各表面への日射分布と相互作用を詳細に反映させることが基準適合に必須となった - 従来の保守的な仮定と経験則は、最新建築の内部発熱低減と断熱改善による実際の負荷低減を反映していないため、機器の過剰化を招きやすい - 年間8,760時間のシミュレーション分析により、ピーク負荷の計算だけでなく、季節・時間帯別の負荷変動と実運用性能が予測でき、システム選定の最適化が可能&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpac.com/industry-perspectives/article/55381771/are-your-load-calculations-code-compliant"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>新ASHRAE会長の目標？レジリエンスのためのレトロフィッティング</title>
+    <link href="https://www.hpac.com/industry-perspectives/news/55389637/ashrae-presidents-new-goal-existing-buildings" />
+    <id>urn:hpac:55389637</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>- **掲載**: HPAC Engineering｜Industry Perspectives</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;New ASHRAE President's Goal? Retrofitting for Resilience&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- **掲載**: HPAC Engineering｜Industry Perspectives ／ HPAC Engineering｜Industry Perspectives&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;気候変動の急速な進行に対応し、既存建築物を中心とした省エネ化とレジリエンス向上を実現するためのASHRAEの総合戦略と具体的な実行方針を示した会長演説です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 2050年に存在する建築物の80%以上が現在すでに建設されているため、既存建築物のレトロフィットが気候変動対策の重要課題である - 世界で年間約2.5億㎡の新築建築物が強制的なエネルギーコードなしで建設され、長期的な高排出・低レジリエンスを招いている状況に対応が必要である - 建築物評価ツール（BCAT）により各地域の気候リスク、施工慣行、労働力確保状況を評価し、建築基準コードの策定・運用支援を行っている - 既存建築物のコミッショニングを通じ段階的に省エネ改善を進め、ASHRAE基準等を網羅した新しいガイダンスポータルを構築している - 建築設備技術者育成のためビデオゲーム形式の教育プラットフォームを開発し、所有者・運用者・設計者など多様なステークホルダーの協働体制を構築している&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では州や地域によって建築基準コードの内容が大きく異なり、強制的なエネルギーコードが存在しない地域も多い。気候リスク（ハリケーン、洪水、干ばつ）や電力事情が日本と異なり、既存建築物改修時のコンプライアンス要件も地域ごとに異なるため、米国の事例を日本にそのまま適用することは難しい。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpac.com/industry-perspectives/news/55389637/ashrae-presidents-new-goal-existing-buildings"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>山火事、データセンター、およびエンジニア</title>
+    <link href="https://www.hpac.com/industry-perspectives/blog/55392497/wildfires-data-centers-and-engineers" />
+    <id>urn:hpac:55392497</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>- **掲載**: HPAC Engineering｜Industry Perspectives</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Wildfires, Data Centers, and Engineers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- **掲載**: HPAC Engineering｜Industry Perspectives ／ HPAC Engineering｜Industry Perspectives&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;カナダのワイルドファイアの煙が米国北東部を襲い、複数都市で危険なレベルの室内空気質が悪化したことをきっかけに、米国建築設備業界がワイルドファイアスモークから建物居住者を守るための対策を本格化させた。ASHRAE Guideline 44-2024に基づく実装戦略と建築設備技術者の社会的責任について述べた記事。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;・ASHRAE Guideline 44-2024は、ワイルドファイアスモークの建物内侵入を防ぎ、居住者の健康曝露リスクを軽減することを目的とした実装指針 ・対策として、高濃度スモーク時の屋外空気取入削減、効果的なフィルレーション設置、建物の隙間シール、IAQ監視機器の導入、携帯式HEPA/高MERV フィルターの配備、HVAC適切保守を推奨 ・建築設備技術者は、これらの公衆衛生課題の解決に直接関与できる専門家であり、業界として社会的使命を担う ・米国ではデータセンター建設が急速に増加し、建設数は次に活発な国の10倍に達している ・ユタ州ではデータセンターのエネルギー使用量が既に州内の他全地域の合計を超過&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国は大陸規模のワイルドファイアと処方焼却による大量の煙が建築設備設計に大きな影響を与える気候リスクを持つ。また米国は、急速に増加するデータセンターに対応するエネルギー電力インフラの整備が急務であり、集中地域でのエネルギー需給バランスが重大な課題となっている。これらの前提条件が日本と大きく異なるため、ASHRAE基準をそのまま日本の建築基準や実務に適用することは適切でない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpac.com/industry-perspectives/blog/55392497/wildfires-data-centers-and-engineers"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>大型AHUシステムにおけるろ過・エネルギートレードオフの再検討</title>
+    <link href="https://www.hpac.com/industry-perspectives/article/55395442/rethinking-the-filtration-energy-trade-off-in-large-ahu-systems" />
+    <id>urn:hpac:55395442</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>- **掲載**: HPAC Engineering｜Industry Perspectives</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Rethinking the Filtration-Energy Trade-Off in Large AHU Systems&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- **掲載**: HPAC Engineering｜Industry Perspectives ／ HPAC Engineering｜Industry Perspectives&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国ニューヨークのリンカーンセンター・パフォーミングアーツに設置された大型空調ユニット（AHU No. 7）を対象に実施された比較試験の報告である。従来の高効率MERV 16フィルター単体構成と、MERV 13フィルターにプラズマ場イオン化モジュールを組み合わせたハイブリッド構成を、実運用環境下で比較検証し、省エネルギーと空気清浄性能の両立を実証した研究成果である。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ハイブリッド構成（MERV 13フィルター+5,500ボルト非熱的誘電体バリア放電プラズマモジュール）により、ファンモータの消費電力を36.4%削減、瞬時消費電力30.4%低減、電流値35.6%低減を達成 - サブミクロン粒子（特に0.3μm以下の生物学的粒子）の除去効率が従来構成比で74%向上し、従来フィルターでは対応困難な微粒子層も不活化可能 - プラズマステージが反応性酸素種を発生させ、細菌・ウイルス・カビ胞子を機械的捕集でなく化学的酸化により不活化 - ASHRAE Standard 241における同等クリーン気流要件をハイブリッド構成で実運用条件下で満たすことが実証され、感染症対策と省エネルギー実現の両立が可能 - 従来の「高効率フィルター化=圧力損失増加=高エネルギー消費」というトレードオフを設計アーキテクチャの変更で克服できることを示唆&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ASHRAE Standard 241は北米の感染性エアロゾル制御規格であり、日本の法基準や実務基準と異なる。ニューヨーク市のLocal Law 97カーボン排出規制など米国特有の規制体系が背景にあり、日本の電力構成、気候帯、室内環境基準の実務が異なるため、当該技術の相対的メリット評価が変わる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.hpac.com/industry-perspectives/article/55395442/rethinking-the-filtration-energy-trade-off-in-large-ahu-systems"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -3,7 +3,20 @@
   <title>建築環境・設備 新着論文｜Journal of Building Performance Simulation</title>
   <link href="https://elweeeen.github.io/journals-feed/jbps.xml" rel="self" />
   <id>urn:jstage-journals:feed:jbps</id>
-  <updated>2026-08-08T00:00:00+09:00</updated>
+  <updated>2026-08-15T00:00:00+09:00</updated>
+  <entry>
+    <title>ニューラルネットワークベースモデル予測制御による住宅用4資産エネルギー協調最適化：ビークル・トゥ・ホーム統合と炭素認識型給電制御</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2712297" />
+    <id>urn:doi:10.1080/19401493.2026.2712297</id>
+    <updated>2026-08-15T00:00:00+09:00</updated>
+    <author>
+      <name>Sellami Ali</name>
+    </author>
+    <author>
+      <name>Benlahcene Djaouida</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Neural network-based model predictive control for residential four-asset energy co-optimization with vehicle-to-home integration and carbon-aware dispatch&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sellami Ali, Benlahcene Djaouida ／ Journal of Building Performance Simulation p.1-23&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;HVAC（暖冷房機械設備）制御と屋上太陽光発電、蓄電池、V2H対応電気自動車の統合制御は、多くの相互作用を持つ複雑な最適化問題です。従来のルールベースアプローチでは、複数の目的間のトレードオフを効率的に扱うことが困難でした。本研究は建物の熱快適性を最優先としながら、時間帯別電気料金と実時間炭素強度の変動下で、4つのエネルギー資産を統合最適化することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;物理情報を組み込んだニューラルネットワークベースのモデル予測制御（NN-MPC）フレームワークを構築しました。物理損失関数で学習したフィードフォワード型ニューラルネットワークが従来のオンライン最適化の代わりとなり、推論時間を秒単位からサブミリ秒へと大幅に削減します。アルジェ気候データを用いた1年間のモンテカルロシミュレーション（30回実行）を実施し、ルールベースおよび混合整数線形計画法コントローラと比較評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案するNN-MPCは従来手法と比べ、熱快適性の偏差を50.8%削減し、電気代を7.5%削減、グリッド消費を21.4%削減、炭素排出量を26.3%削減しました。最適化アルゴリズムの理論的最適値の87%を達成しながら、計算コストは2,400倍以上低減されており、実用性の高さを示しています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;NN-MPC手法により複数のエネルギー資産の統合制御が技術的に実現可能であることが実証されました。推論の高速化によるリアルタイム制御性と計算コストの大幅な削減は、設備制御システムの実装レベルでの採用可能性を示唆しています。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2712297"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>申し訳ございませんが、翻訳対象の英語タイトルが記載されていません。翻訳したい論文のタイトルを教えていただけますか？</title>
     <link href="https://doi.org/10.1080/19401493.2026.2705019" />

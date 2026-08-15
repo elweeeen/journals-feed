@@ -18,6 +18,7 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 | Science and Technology for the Built Environment | https://elweeeen.github.io/journals-feed/stbe.xml |
 | CIBSE Journal（英国・業界誌） | https://elweeeen.github.io/journals-feed/cibse.xml |
 | Consulting-Specifying Engineer（米国・業界誌） | https://elweeeen.github.io/journals-feed/cse.xml |
+| HPAC Engineering（米国・業界誌） | https://elweeeen.github.io/journals-feed/hpac.xml |
 
 ## 各記事に載せている内容
 
@@ -26,10 +27,11 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 - **AI が作成した日本語要約**（背景・目的／方法／結果／実務への示唆）
 - 出版社ページへのリンク（DOI）
 
-CIBSE Journal と Consulting-Specifying Engineer は学術誌ではなく業界誌のため、要約が
-**何の話か／要点／日本との違い** の3項目になります。それぞれ英国・米国の法規・気候が
-前提の記事なので、日本にそのまま当てはめると誤読する点を明示しています。掲載欄に入る
-区分（`Case Studies` / `Technical` / `Case Study` / `Sustainability`）で絞り込めます。
+CIBSE Journal / Consulting-Specifying Engineer / HPAC Engineering は学術誌ではなく
+業界誌のため、要約が **何の話か／要点／日本との違い** の3項目になります。それぞれ英国・
+米国の法規・気候が前提の記事なので、日本にそのまま当てはめると誤読する点を明示しています。
+掲載欄に入る区分（`Case Studies` / `Technical` / `Case Study` / `Sustainability` /
+`Industry Perspectives`）で絞り込めます。
 
 ## 要約について
 

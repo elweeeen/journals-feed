@@ -3,7 +3,17 @@
   <title>建築環境・設備 新着論文｜Consulting-Specifying Engineer</title>
   <link href="https://elweeeen.github.io/journals-feed/cse.xml" rel="self" />
   <id>urn:jstage-journals:feed:cse</id>
-  <updated>2026-08-14T00:00:00+09:00</updated>
+  <updated>2026-08-16T00:00:00+09:00</updated>
+  <entry>
+    <title>省エネルギーで持続可能なオフィスビルの重要な考慮事項</title>
+    <link href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings-2/" />
+    <id>urn:cse:key-considerations-for-energy-efficient-and-sustainable-office-buildings-2</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Key considerations for energy efficient and sustainable office buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のオフィスビル設計にて、LEED等の認証基準やコード要件に対応した持続可能設計の実装課題について、複数の設備設計者へのインタビュー。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- EV充電施設導入では火災リスク対応と既存電気インフラの容量確保が課題。保険会社が0.30 GPM/sqftの散水密度や火災報知システム連動自動遮断を要求する場合もある - スマートウィンドウやグリーンルーフなど、HVAC負荷を削減しつつ居住者快適性を高める技術の採用が拡大 - 太陽光発電導入では屋上面積の制約が主課題で、蓄電池との組合せやコミュニティ太陽光制度による対応が進む - 2021年版国際省エネコード（IECC）ではエネルギー回収装置が義務化され、復帰エンタルピー比50%以上が基準値 - DC Water Headquarters（ワシントンDC、150,000 GSF）がLEED Platinum認証を取得し、エネルギー原単位26 kBtu/sqft/yearで48%削減を実現&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;- 米国ではNFPA基準に加え保険会社が独自の上乗せ要件を課し、保険加入の可否が実質的に設計仕様を規定する - 高層建築の給水・消火設備設計で、ポンプシステムと水理計算による検証方法が異なる可能性 - 省エネコードは州単位での採用で全国統一基準がなく、地域差が大きい - 気候条件や電力供給体系に関する具体的な日米比較は記事からは判断できない&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings-2/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>病院におけるサステナビリティの役割</title>
     <link href="https://www.csemag.com/where-does-sustainability-play-a-role-in-hospitals-learn-more/" />
@@ -311,15 +321,5 @@
       <name>Consulting-Specifying Engineer</name>
     </author>
     <content type="html">&lt;p&gt;&lt;em&gt;How to balance sustainability and operability in health care design&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の医療施設における省エネルギー設計と持続可能性の実装について、患者安全とのバランスを取りながら進める実務的なアプローチの紹介。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 占有・未占有状態を自動判定し、加暖冷機器の運転を制御することで実質的なエネルギー削減を実現 - 太陽光発電を導入する際は、建物の実際のエネルギー消費量に合わせた規模設定が重要で、メーター計測による柔軟な段階的拡張に対応 - 患者1人あたり200～300ガロン/日の水使用量に対応するため、用途別に異なる水質・温度・圧力要件を満たす必要がある - NFPA 110基準により電力供給が中断した場合の10秒以内の復旧が必須で、リチウムイオン電池やニッケル亜鉛電池を採用したUPS設計が標準化 - 脱炭素化推進のため電気ボイラーと再生可能エネルギーを組み合わせ、初期投資増加を認容&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国はNFPA 110など独自の医療施設基準体系を有し、日本の関連法規と基準内容が異なる。太陽光発電の余剰電力に関する買取制度の有無・条件が米国と日本で大きく異なるため、システム規模の設計哲学が異なる。24時間稼働医療施設への電力供給要件の厳格性や対象機器の範囲も法域によって異なる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/how-to-balance-sustainability-and-operability-in-health-care-design/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>エネルギー効率と持続可能なオフィスビルディングの主要な検討項目</title>
-    <link href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings/" />
-    <id>urn:cse:key-considerations-for-energy-efficient-and-sustainable-office-buildings</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Consulting Specifying Engineer Staff</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Key considerations for energy efficient and sustainable office buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting Specifying Engineer Staff ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のオフィスビル設計における持続可能性と効率化の実装動向。LEED認証やエネルギーコード強化への対応、EV充電施設導入、室内環境改善などを専門家が具体例と課題を交えて解説した業界記事である。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- EV充電ステーション導入では火災リスク対応と既存電気インフラの過負荷防止が主要課題で、保険会社が法定要件を上回る基準を求めることがある - グリーンルーフやスマートウィンドウなど最新技術により断熱性と空調効率を両立している - 占有率の変動に対応した需要制御換気やスマートセンサーなど占有者駆動型システムが採用されている - 高層ビルの消火設備は揚水ポンプによる水圧管理が不可欠で、水理模型により検証される - 2021年IECCで50%以上のエンタルピー回収比率を持つエネルギー回収システムが強制化され、今後の設計標準となっている&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国ではエネルギー保存コード（IECC）が州別に法的強制力を持つ一方、日本は異なる省エネ基準体系である。EV火災リスク評価が保険会社主導で設計要件を定める米国特有の制度構造がある。給湯機器の性能は地下水温度などの地域条件に大きく依存し、フロリダとイリノイの気候差も日本の条件と直接比較できない。LEED等米国中心の認証基準と日本のCABEE等では評価体系が異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜Consulting-Specifying Engineer</title>
+  <link href="https://elweeeen.github.io/journals-feed/cse.xml" rel="self" />
+  <id>urn:jstage-journals:feed:cse</id>
+  <updated>2026-08-14T00:00:00+09:00</updated>
+  <entry>
+    <title>病院におけるサステナビリティの役割</title>
+    <link href="https://www.csemag.com/where-does-sustainability-play-a-role-in-hospitals-learn-more/" />
+    <id>urn:cse:30984</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Where does sustainability play a role in hospitals? Learn more&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の医療施設における持続可能性設計の実務。LEED認証やネットゼロフレームワークの活用、24時間運用に必要な高度な環境制御と再生可能エネルギー統合の課題について、設計実務者らが解説している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- LEED v5への移行とILFI Zero Energy/Carbonプログラムの増加により、単なる認証取得から実質的なカーボン削減へシフトしている - 医療施設は24時間の厳密な温湿度管理のため同時冷暖房が必然的に発生し、ヒートリカバリーとヒートポンプチラーを活用した廃熱利用が重要 - BIPV（建材一体型太陽光）や二面受光パネルなど、従来の屋上設置を超えた多様なオンサイト発電方式の導入が進行中 - 非営利医療機関が大半であるため、Power Purchase Agreement（PPA）を通じた再生可能エネルギー導入が主流 - グリッド側の需要パターン変化と買戻し制限への対抗として、バッテリー蓄電やバックアップ発電（燃料電池など）によるレジリエンス確保が必須&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では北極圏に近いアラスカなど極寒地での-50℃以下の設計が実務課題となり、空気源ヒートポンプの最低稼働温度制限への対応が必要。電力網がピーク需要パターンを季節ごとに変えており、冬季の需要集中と料金高騰への対策が急務。都市インフラの急速な変化に伴う水圧変動への設計対応も日本と異なる。建築コードが低流量フィクスチャーへの対応で後手に回っており、配管設計の複雑さが増している。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/where-does-sustainability-play-a-role-in-hospitals-learn-more/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：モータとドライブの交換におけるコツ</title>
+    <link href="https://www.csemag.com/case-study-tips-for-replacing-a-motor-or-drive/" />
+    <id>urn:cse:31326</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Joe Doughney</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>and Tyler Roschen</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Tips for replacing a motor or drive&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Joe Doughney, PE, and Tyler Roschen, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ノースカロライナの浄水処理施設におけるモーターと可変速度駆動機（VFD）の交換・改造事例を示す記事です。既存機器の再利用可能性と、新規導入時の設計上の注意点をまとめています。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 小型モーターへのダウンサイジング時、VFDは保守的には最大2:1の容量比率で再利用可能で、ポンプや送風機など単純用途では10:1まで対応できる - 新モーターのフルロード電流に合わせてVFD内の制御部品を見直す必要があり、パッシブハーモニックフィルターなど付属機器の交換・更新が必要になることもある - VFD非対応設計の既存モーターをVFD駆動化する際は、出力dV/dtフィルターを装備することでモーター絶縁の劣化リスクを低減できる - 新VFDの出力dV/dtフィルターは電圧スパイク和高周波成分を減少させ、運転音の静粛化につながる - VFD製造者への事前相談が、適切な仕様設定と機器の信頼性確保に不可欠である&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;記事で扱う米国の電源規格（460V、hp単位）、浄水処理施設の設計基準、配電システムは日本と異なります。日本の低圧配電規格や国際単位制との相違のほか、施設規模の法的基準や気候条件の影響についても異なると考えられますが、記事からは判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-tips-for-replacing-a-motor-or-drive/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ネットゼロエネルギーを念頭に置いたK-12学校の設計</title>
+    <link href="https://www.csemag.com/design-k-12-schools-with-net-zero-energy-in-mind/" />
+    <id>urn:cse:31352</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Design K-12 schools with net zero energy in mind&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のK-12学校（幼稚園から高等学校までの教育機関）を対象に、ネットゼロエネルギーおよびネットゼロカーボンの目標達成を実現する設計・運用方針と先進的な技術手法について、米国の建築設備エンジニア5名が解説する座談会。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ネットゼロエネルギーやネットゼロカーボン対応への要求がLEED認証より優先される傾向が強まり、地熱システムと太陽光パネル、蓄電池を統合した設計が標準化しつつある - 全電化HVAC、地熱ヒートポンプ、熱貯蔵システム、DOAS（専用外気システム）と高度な自動制御・フォルトディテクション機能により、エネルギー消費を最小限に抑える - エネルギー回収換気装置の進化により、デシカント乾燥機による潜熱回収とホイール変調制御が実現され、寒冷地においても高い効率が保証される - 建物外皮の気密性強化と詳細な設計調整により、熱橋や空気漏れに起因する結露・室内空気質低下を防止し、耐久性を向上させる - BAS（建物管理システム）、エネルギーダッシュボード、CO2・粒子状物質センサーを統合し、運用段階のエネルギー実績を測定・検証・可視化する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国ではネットゼロ達成が制度として義務付けられ、タックスクレジットによって地熱システム導入が支援されている。日本は気候区分が細分化され、地域差に応じた湿度管理ニーズが異なるため、デシカント乾燥機やエネルギー回収ホイール制御の有効性が米国と相異なる可能性がある。また、米国の電力グリッド構成と日本の電力供給体制および再生可能エネルギー導入率の差異が、蓄電池の役割やピークカット戦略の設計思想に影響を与える。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/design-k-12-schools-with-net-zero-energy-in-mind/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>認知的ウォークスルーを活用した病院照明の最適化：ケーススタディ</title>
+    <link href="https://www.csemag.com/case-study-how-to-use-a-cognitive-walkthrough-to-optimize-hospital-lighting/" />
+    <id>urn:cse:31537</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Grant Kightlinger</name>
+    </author>
+    <author>
+      <name>CLD</name>
+    </author>
+    <author>
+      <name>IALD</name>
+    </author>
+    <author>
+      <name>IES; Lauri Tredinnick</name>
+    </author>
+    <author>
+      <name>CLD</name>
+    </author>
+    <author>
+      <name>IALD</name>
+    </author>
+    <author>
+      <name>LC</name>
+    </author>
+    <author>
+      <name>LEED AP</name>
+    </author>
+    <author>
+      <name>and Seth Ely</name>
+    </author>
+    <author>
+      <name>IES</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How to use a cognitive walkthrough to optimize hospital lighting&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Grant Kightlinger, CLD, IALD, IES; Lauri Tredinnick, CLD, IALD, LC, LEED AP, and Seth Ely, IES ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国テキサス州のHouston Methodist Walter Towerという病院の患者室における照明制御システム設計について述べています。看護スタッフと患者の両者のニーズ、すなわちスタッフの業務効率と患者の快適性・睡眠妨害の抑制を同時に満たすための照明制御戦略が主要なテーマです。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 患者室の照明を3つのゾーン（入口、ナースシンク、患者ベッド）に分けて独立制御することで、スタッフの業務効率と患者の睡眠妨害の抑制を両立させている - 投薬エリアでは100フットキャンドルの高照度を確保し、日中・夜間で利用者の好みに応じた設定変更が可能な機能を搭載 - 入口からの一括オン・オフ制御と入口・ベッドヘッドボードからの選択的な調光制御を組み合わせた多段階の操作体系を採用 - 夜間の患者チェック、投薬投与、手洗い、医療機器操作、緊急対応（コードブルー時に全灯最大点灯）など、看護業務の複数シナリオに対応した照明設計 - 看護スタッフとの協働ワークショップと認知的ウォークスルー分析を通じた実際の業務ニーズ把握と制御システムの最適化&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国の病院照度基準（100フットキャンドル≒1,000ルクス超）が日本の照度基準と異なります。米国の建築法規や医療施設基準も日本と相異なり、それが照明制御システムの要件に影響している可能性があります。米国のエネルギー事情や気候条件下での設計哲学も日本と異なる場合がありますが、その他の詳細については記事からは判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-to-use-a-cognitive-walkthrough-to-optimize-hospital-lighting/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>下水処理施設の設計におけるエネルギーコンプライアンス達成の事例研究</title>
+    <link href="https://www.csemag.com/case-study-achieving-energy-compliance-in-the-design-of-a-wastewater-treatment-plant/" />
+    <id>urn:cse:31545</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Bryan Bucchianeri</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>and Macey McEnaney</name>
+    </author>
+    <author>
+      <name>EIT</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Achieving energy compliance in the design of a wastewater treatment plant&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bryan Bucchianeri, PE, and Macey McEnaney, EIT ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;マサチューセッツ州ケープコッドにおける新規下水処理施設の設計・建設プロジェクト。地域の水路への窒素負荷削減と地下水放出許可基準への適合を目指す40年の複数段階事業において、州内の厳格で多層的なエネルギーコード要件への対応が主要な設計課題となった事例。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 施設はSBRタンク、浸透池、生物脱臭制御システムを備え、スクリーニング・砂礫除去などの前処理、SBR支援機器、管理・保守機能を備えた複数棟の構造物で構成 - マサチューセッツ州は2021年IECCの基本コード、性能重視のストレッチコード、新規の温室効果ガス削減目標に対応したMunicipal Opt-In Specialized Energy Codeという3層のエネルギー規制を適用 - ストレッチコード225 CMR 23.00では基本コードの10クレジットに対して15クレジットの達成が要求される - 管理建物ではDOAS＋静板式エネルギー回収コアとVRF熱回収システムを採用し、加熱・冷却効率とDOAS性能クレジットを同時充足 - 処理支援建物ではNFPA 820基準が優先し、快適暖冷房ではなく外気温度調整と換気冷却による対応&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国は州単位のエネルギーコード規制が複数層をなし、2025年から2050年にかけて5年ごとに温室効果ガス削減目標が段階的に強化される点で、日本の規制体系と異なる。また、産業用途のNFPA規格に基づく防火・安全基準が設計駆動となるなど、基本的な前提条件が異なる。米国の気候条件や電力事情との関係は記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-achieving-energy-compliance-in-the-design-of-a-wastewater-treatment-plant/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：ある施設の電気自動車充電インフラストラクチャの選択</title>
+    <link href="https://www.csemag.com/case-study-how-one-facility-chose-it-ev-charging-infrastructure/" />
+    <id>urn:cse:31727</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Lilly Vang</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>and Joshua Hunter</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How one facility chose its EV charging infrastructure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Lilly Vang, PE, and Joshua Hunter, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;水処理施設にEV充電インフラを整備する電気設計。フルタイムスタッフ14名用と来客・臨時職員用14台分の充電スタンドが必要な案件。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 直流急速充電器（DCFC）として180kW級14台と50kW級7台を配置。職員には各自専用スタンド、来客には共有スタンドを用意 - 充電需要を2,416A（480V、70%多様性係数適用）と算出。2,500kVA変圧器で12.47kVから480Vに降圧供給 - 各充電器は連続負荷と扱い、125%の電流余裕で設計。多様性係数はNEC第625条の電力制御システム（PCS）導入が前提 - バッテリー充電時に電流が低下する充電テーパー現象を制御し、充電器の熱管理と電池寿命を保護 - 充電器の高調波歪み（180kW型で5%未満、50kW型で3%未満）低減対策としてアクティブハーモニックフィルタ（120A、100kVAR）を設置&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国ではNEC（National Electrical Code）という統一的な電気規程があり、連続負荷の125%設計要件や多様性係数の適用基準が明確に規定されている。日本の低圧電気規程（IEC規格ベース）では規定が異なる可能性がある。また、180kW以上級の大型DCFCの標準化やそのシステム設計手法、高調波歪みの許容値（5%など）も、各国の電力網特性と規制体系の差が反映されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-one-facility-chose-it-ev-charging-infrastructure/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>新規データセンター向けキャンパス消防用水システムの事例研究</title>
+    <link href="https://www.csemag.com/case-study-campus-fire-water-system-for-new-data-center/" />
+    <id>urn:cse:31746</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Jonathan Sajdak</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>Stantec</name>
+    </author>
+    <author>
+      <name>Houston</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Campus fire water system for new data center&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jonathan Sajdak, PE, Stantec, Houston ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国ネバダ州に建設されるデータセンターキャンパスの消火設備システム設計。市営給水システムがない地域での独立した消防用水供給の実現方法を解説します。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- スプリンクラーシステムは0.3 gpm/平方フィート（2,500平方フィート対象）に20%余裕係数と500 gpmホースストリーム加算で負荷計算し、配管での圧力損失を勘案して95 psiの揚程を確保 - 敷地内の最大流量需要である2,000 gpm（IFC基準の消火栓流量）を満たす1,500 gpm定格の消防ポンプを設定し、NFPA 20に準拠した133%容量での運転を計画 - 電気式・ディーゼル式の2台消防ポンプと2つの貯水タンクで2N冗redundancy を構成し、単一障害点を排除して年間保守中も運用継続を実現 - 手動Class Iスタンドパイプシステムは消防隊による圧力補助で機能させ、1,000 gpm流量に対応 - 自動給水が不可能なため、貯水タンクは最大流量継続時間2時間分の容量を確保&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では市営給水システムの非存在が地域設計の前提となり、消防給水の独立性が厳格に求められます。またInternational Fire Code（IFC）とNFPA 20といった米国規格で規制されており、日本の消防法・建築基準法の流量・圧力計算体系や冗長性要求度合いと異なります。さらにデータセンターなど重要インフラに対する信頼性基準も米国独特です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-campus-fire-water-system-for-new-data-center/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：消火栓流量試験による給水システムの欠陥の特定</title>
+    <link href="https://www.csemag.com/case-study-identifying-water-supply-deficiencies-through-fire-hydrant-flow-testing/" />
+    <id>urn:cse:31773</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Jarron Gass</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>CFPS</name>
+    </author>
+    <author>
+      <name>CDM Smith</name>
+    </author>
+    <author>
+      <name>Pittsburgh</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Identifying water supply deficiencies through fire hydrant flow testing&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jarron Gass, PE, CFPS, CDM Smith, Pittsburgh ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;1990年代に建築された既存建物の拡張工事で、消火栓流量試験を実施したところ、当初建設時から水道供給圧力が約20psi低下していることが判明し、既存および新設のスプリンクラーシステムの給水信頼性が損なわれた事例とその対応について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 流量試験により、過去の記録と比較して約20psi低い静圧・残圧を検出。複数の消火栓で同一の結果が得られ、異常ではなく実際の運用状態であることを確認 - 水道事業体との調査で、減圧弁が約20psi低く再調整されていた。これは老朽化した配水管における主管破裂頻発を軽減するための意図的な措置だった - 低下した水圧では、スプリンクラーシステムが設計流量条件下で必要な最小残圧を確保できず、既存建物の消火システムの信頼性にも影響 - 対応として新規消防ポンプの設置および既存スプリンクラーシステムの改修を実施し、現行火災防護基準への適合を回復 - 流量試験データは配水システム実態の把握、水理解析モデルの検証・調整、消火栓・給水設計の精度向上に有用で、プロジェクト期間短縮や費用削減にも寄与&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では減圧弁による運用圧力調整が行われており、その目的が老朽配水管の保護にあることが顕著な特徴。日本の水道事業体における同様の圧力管理戦略、配水システムの老朽化対応方針、および火災対応時の水圧要件設定基準が異なる可能性がある。また米国での減圧弁運用がどの程度一般的かは記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-identifying-water-supply-deficiencies-through-fire-hydrant-flow-testing/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>チラーを用いた電気加熱によるコスト削減提案：ケーススタディ</title>
+    <link href="https://www.csemag.com/case-study-proposal-can-save-money-by-using-chillers-for-electric-heating/" />
+    <id>urn:cse:31780</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Chris Delaney</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>CEM</name>
+    </author>
+    <author>
+      <name>CBCP</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Proposal can save money by using chillers for electric heating&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chris Delaney, PE, CEM, CBCP ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ニューヨーク市の5階建て混合用途建物がガス焚きボイラーシステムから屋上設置の空気熱源チラーヒートポンプとクローズド型クーリングタワーに置き換える電化改修プロジェクトの設計実例です。ニューヨーク市のローカルロー97への適合と建物脱炭素化を目指しています。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 既存ガスボイラー（効率約80%）を室外空気熱源チラーヒーター（最大4倍効率）に置き換え、年間自然ガス消費1,278,549kBtuを廃止し電力消費を削減 - 既存開放型クーリングタワーをクローズド型に置き換え、プロピレングリコール混合水により凍結防止と水処理負荷を軽減 - 既存水冷式空調ユニットを水冷式ヒートポンプに置き換え、廃止したダクト電熱器による補助加熱を排除して消費電力削減 - 新規高性能窓で周囲壁の断熱性能向上によりペリメータラジエータを廃止、年間炭素排出を約132tCO2e削減 - 屋上チラー設置には荷重支持設計、防水処理、振動絶縁、騒音制御など構造技術者との綿密な調整が必須&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ニューヨーク州の冬季気温が低く、クーリングタワーの凍結防止対策が必須であるのに対し、日本では大半の地域でこの対策が不要です。米国では建物電化に対応する電力系統容量が前提とされていますが、日本では電力会社の引き込み容量制限がより厳格です。ローカルロー97のような建物所有者に炭素排出削減を義務付ける規制が日本にはありません。ニューヨーク市の電力排出係数は日本の電力網排出係数と大きく異なり、分析結果の適用に注意が必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-proposal-can-save-money-by-using-chillers-for-electric-heating/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：地下駐車場におけるEV充電器</title>
+    <link href="https://www.csemag.com/case-study-ev-chargers-in-an-underground-parking-structure/" />
+    <id>urn:cse:31954</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Christopher Unangst</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>CSP</name>
+    </author>
+    <author>
+      <name>PMP</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: EV chargers in an underground parking structure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Christopher Unangst, PE, CSP, PMP ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;既存の高層マンション建物の地下駐車場にEV充電器を大規模導入する際のリスク管理手法と、火災安全対策の具体的な実装事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 駐車スペースの約半数にLevel 2電動車両充電器の設置を計画し、電力会社に建物の負荷計算を提出して供給可能性を確認 - 電気設備火災とEVバッテリー過充電による火災という2つの主要リスクを特定し、設置業者の適切な資格保有と認定機器の使用により対策 - システムの完全切断装置の設置により緊急時対応体制を確保 - スプリンクラーシステムをExtra Hazard Group 1に昇格するとともに、空気吸込み式スモークデテクタと機械換気システムを導入して多層防御を構築 - 複数の保護措置について費用効果を比較検討し、建物所有者のリスク許容度に基づいて最適な対策方針を決定&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;- NFPA 88A駐車施設標準に基づく「Ordinary Hazard Group」などの火災危険度分類体系が日本の建築基準法には存在せず、リスク評価の枠組みが根本的に異なる - 地下駐車場のEV充電設置に対する火災安全基準が日本の規制体系と大きく相違し、スプリンクラーシステムの設計基準値の考え方も異なる可能性がある - 米国の電力会社による需要家側の負荷計算に基づいた供給可能性判断プロセスと、日本の電力事業者の運用慣行および仕組みが異なる&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-ev-chargers-in-an-underground-parking-structure/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AI データセンターにおけるサステナビリティの改善</title>
+    <link href="https://www.csemag.com/how-to-improve-sustainability-at-ai-data-centers/" />
+    <id>urn:cse:32027</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;How to improve sustainability at AI data centers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のハイパースケール型データセンターおよびハイパフォーマンスコンピューティング施設が、稼働性基準（Uptime Institute）への適合に加えて、LEED Gold認証取得と炭素排出削減を組み合わせた統合的なサステナビリティ目標を実現する設計事例と技術戦略について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エコノマイザーの運転期間延長、液冷却、排熱回収などの技術導入により、従来の冷房設計より省エネルギーと排出削減を両立 - 低温冷水系統と高温系統の並列運用、および直膨式外気除湿により、各冷却負荷に応じた最適な温度設定と省エネルギー化が可能 - データセンターのエネルギー削減が発電所の水消費とCO2排出削減に波及する点を踏まえた、発電側を含めた統合的なシステム最適化設計の重要性 - ハイパースケール企業による太陽光・風力発電への大型直接投資と、燃料電池の活用による長期的な炭素中立電力確保戦略 - データセンターの低品位排熱を地域熱供給ネットワークに活用し、ヒートポンプシステムの効率向上と地域エネルギー統合を実現&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では国内に数百の大規模発電所が分散し、世代・燃料・規模・立地により水消費量とCO2原単位が大きく異なる。このため、データセンター側の冷却水使用を戦略的に増加させることで、発電所全体の環境負荷を削減する場合がある点が前提。また、2035～2040年の再生可能エネルギー普及予測と過渡期における天然ガス火力増加という米国のエネルギー政策シナリオが背景。大規模キャンパスに隣接する土地で再生可能エネルギー施設を直接開発できる土地制約の小ささ、および電力系統の相互接続制度が日本と異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/how-to-improve-sustainability-at-ai-data-centers/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：VAVを用いたオフィスビルの室内空気質改善</title>
+    <link href="https://www.csemag.com/case-study-how-an-office-building-tackled-air-quality-with-vav/" />
+    <id>urn:cse:32106</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Autumn Beer and Valerie Lecaros</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How an office building tackled air quality with VAV&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autumn Beer and Valerie Lecaros ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;フロリダの操業ビル（オフィス・実験室・会議室・休憩室など複数用途を兼ねる施設）におけるマルチゾーンVAVシステムの換気設計と制御事例。ASHRAE Standard 62.1を適用して、オキュパント多様性比などの指標を用いた外気量の最適化と、直接デジタル制御によるエネルギー効率の向上を実現した戦略について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 1台のAHUで21ゾーン、ロビー・廊下・事務室・実験室・会議室など10種類の異なる空間タイプに対応し、総供給風量12,550cfmを供給する大規模マルチゾーンVAVシステムの構成 - オキュパント多様性比（D=0.78）の概念により、全室同時使用の最悪想定（45名）を実際の使用想定（35名）に修正することで、必要外気量を効率的に低減 - ブレークルームがクリティカルゾーンとなり（外気比28%）、これに基づいてシステム全体の外気供給量が決定される構造と、各ゾーン個別の外気補正係数（Ez=0.8）の適用方法 - ブレークルームの供給風量調整（400cfmから500cfm）による段階的な最適化で、システム全体の外気比率を28%から23%に低減し、総外気量を2,850cfmまで削減する手法 - 室外空気ダンパーの電動制御と直接デジタル制御システムにより、占有時間帯では適切な換気、非占有時間帯では無駄な吸入を削減してエネルギー効率と室内環境質を両立&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ASHRAE 62.1で標準化されているオキュパント多様性比や効率係数を用いた確率統計的な外気量低減手法は、日本の建築基準法や設計基準では体系的に定められていない。また、フロリダの高温多湿気候、米国の電力事情、室内環境基準などの前提条件が日本と異なるため、本事例の制御戦略を日本の実務にそのまま適用することは適切でない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-an-office-building-tackled-air-quality-with-vav/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：キャンパス建築によるサステナビリティへのアプローチ—3つの事例</title>
+    <link href="https://www.csemag.com/case-study-learn-three-ways-a-campus-building-approached-sustainability/" />
+    <id>urn:cse:32162</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Nancy Kohout</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>LEED AP</name>
+    </author>
+    <author>
+      <name>and Grace Turner</name>
+    </author>
+    <author>
+      <name>EIT</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Learn three ways a campus building approached sustainability&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nancy Kohout, PE, LEED AP, and Grace Turner, EIT ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ミシガン大学のEdward and Rosalie Ginsberg Buildingを事例に、脱炭素化戦略がリスク管理と運用効率の向上にもたらす効果を解説した記事。同建築は大学初のカーボンニュートラルビルディングで、LEED v4 Gold認証取得を目指している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エネルギー削減：高効率な機械・電気・給排水設備と500フィート深の地熱ボアホールの組み合わせで、外気温の変動から遮断され、電力需要と関連コストを大幅に低減 - オール電化：地熱ヒートポンプシステムにより、ガスなど他燃料の価格変動リスクを完全に回避でき、将来的に再生可能エネルギーやエネルギー貯蔵の導入に柔軟に対応 - 外皮性能：基準値より50%高い断熱性能と限定的なトリプルグレージング窓で、室内環境を長く保持しながら日採光を活用し、外皮からの熱損失を最小化 - 低炭素材料：ハイブリッド木造と低炭素コンクリート採用で、同規模建物比で具現化炭素フットプリント23%削減を実現 - 脱炭素戦略は単なる環境対応ではなく、運用コスト削減、エネルギー価格変動への耐性強化、デザイン品質の向上を同時に達成する統合的な経営判断&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国は広大な土地が利用可能で、500フィート深の地熱ボアホール施工が経済的に実現可能な地域が多く存在。電力供給システムが州単位で独立しており、再生可能エネルギー導入計画が地域ごとに大きく異なるため、建物の長期運用想定が米国と日本で異なる。日本の建築基準法では冷暖房設計条件が都市ごとに細かく規定され、米国のような一つの手法を広く適用することは難しい。天然ガスの供給インフラ整備状況と価格体系も米国と日本では異なるため、エネルギー戦略の最適解が変わる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-learn-three-ways-a-campus-building-approached-sustainability/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>下水廃熱回収の事例研究</title>
+    <link href="https://www.csemag.com/case-study-sewage-waste-heat-recovery/" />
+    <id>urn:cse:32180</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Matthew Goss</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>PMP</name>
+    </author>
+    <author>
+      <name>CEM</name>
+    </author>
+    <author>
+      <name>CEA</name>
+    </author>
+    <author>
+      <name>CDSM</name>
+    </author>
+    <author>
+      <name>LEED AP and Jaclyn Kinson</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Sewage waste heat recovery&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Matthew Goss, PE, PMP, CEM, CEA, CDSM, LEED AP and Jaclyn Kinson, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ニューヨークのブルックリンで実施される地区熱供給ネットワーク（KEDNY）プロジェクト。複数の商業施設と住宅開発に対して、地熱・廃熱・下水廃熱を活用した低炭素の冷暖房システムの構築が提案されたもの。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ワンパイプ型アンビエントループ（40°F～80°F）を中心に、地熱交換ボアフィールド、スーパーマーケット冷媒廃熱、建物下水廃熱の複数の低炭素熱源から供給する地区熱供給システムを計画 - SHARC（下水廃熱回収）システムを導入し、住宅から排出される下水（68°F）を建屋内の12,000ガロン保管タンクに集約してアンビエントループと熱交換 - 下水内の固形物をマセレータで粉砕処理し、フィルタを経てから熱交換器に通す多段処理方式を採用 - アンビエントループ温度が下水より低い時は建物廃熱を取得し、高い時は冷却媒体として利用 - 隣接する廃水資源回収施設との接続も検討したが、配管敷設距離と行政許認可の複雑さから敷地内自給方式を選択&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国北東部の冷涼気候に合わせた4°C～27°Cの温度設定がある。下水廃熱を地区熱供給に組み込む法制度（UTENJA）が整備されており、廃水インフラ所有者との調整プロセスが明確になっている。敷地内に大容量の下水貯蔵タンク（45,000リットル超）を設置できる敷地条件の余裕が前提とされている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-sewage-waste-heat-recovery/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>産業施設における持続可能性の向上</title>
+    <link href="https://www.csemag.com/see-how-to-advance-sustainability-at-industrial-facilities/" />
+    <id>urn:cse:32234</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;See how to advance sustainability at industrial facilities&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の産業施設におけるエネルギー効率化と脱炭素化の実装戦略に関する実務家の座談記事。LEED認証やネットゼロエネルギー達成に向けた技術選定と設計手法を解説している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エネルギーモデリングと集中制御システムでプロセス冷却を最適化し、エネルギー原単位を約20%削減する戦略 - 大規模産業施設では、3.8MW太陽光発電と1.5MWh蓄電池でネットゼロエネルギーを達成 - 往復機関やガスタービンからの廃熱を蒸気タービン冷凍機や吸収式冷凍機経由でプロセス加熱・冷却に循環活用 - 冷却機の運転排熱を給湯システムへ活用するなど、設備間廃熱循環で建物全体効率を向上 - 産業施設の性能目標はプロジェクトタイプと事業ケースで異なり、プロセス運用要件が設計方針を決定&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国産業施設の設計では、大規模屋上を活かした太陽光発電が有効であり、ネットゼロエネルギー達成やLEED Platinum取得が法的要件として確立している。州単位の脱炭素化マンデート、マイクログリッド構想、天然ガスインフラの整備状況が日本と大きく異なる。政府助成による資金確保と返済不要という前提条件も、日本のプロジェクト経済性評価と異なる。建物規模と敷地面積の相関、電力系統の独立性に関する詳細から、日本の建築基準や電力供給体制との具体的な比較は記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/see-how-to-advance-sustainability-at-industrial-facilities/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：UC バークレーのクリーンエネルギーキャンパス</title>
+    <link href="https://www.csemag.com/case-study-uc-berkeley-clean-energy-campus/" />
+    <id>urn:cse:32255</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Dan Luddy</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>LEEP AP</name>
+    </author>
+    <author>
+      <name>and Blaine D. Conner</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: UC Berkeley clean energy campus&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dan Luddy, PE, LEEP AP, and Blaine D. Conner, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;カリフォルニア大学バークレー校が70年前の天然ガスコジェネレーション・蒸気配管システムをオールエレクトリックな低温温水システムに置き換える脱炭素化プロジェクト。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 既存蒸気配管での給水損失20%、熱エネルギー損失37%が発生しており、システム更新が必須 - 2026〜2030年の第1段階で、エネルギー集約的な30棟の研究・実験室建物を改築し、キャンパス全体のGHG排出量を60%削減 - 電動加熱冷却プラント（EHCP）に水-水ヒートポンプを採用し、冷却廃熱を回収して同時加熱冷却を実現 - 熱エネルギー貯蔵タンクで電力グリッドのカーボン強度に応じた運用最適化とピークカット対応 - 高温蒸気が必要な施設（滅菌オートクレーブなど）には局所電動蒸気発生器を配置し段階的に対応&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国の大学制度では理事会による機関的な脱炭素達成要件が法的拘束力をもつこと、および電力グリッドのカーボン強度が運用最適化の判断基準になる点が異なる。既存インフラの大幅な損失率（給水・熱損失合計で相当規模）が特有の課題かどうかについては、記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-uc-berkeley-clean-energy-campus/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>医療デザインにおける持続可能性と運用性のバランス</title>
+    <link href="https://www.csemag.com/how-to-balance-sustainability-and-operability-in-health-care-design/" />
+    <id>urn:cse:how-to-balance-sustainability-and-operability-in-health-care-design</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting-Specifying Engineer</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;How to balance sustainability and operability in health care design&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の医療施設における省エネルギー設計と持続可能性の実装について、患者安全とのバランスを取りながら進める実務的なアプローチの紹介。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 占有・未占有状態を自動判定し、加暖冷機器の運転を制御することで実質的なエネルギー削減を実現 - 太陽光発電を導入する際は、建物の実際のエネルギー消費量に合わせた規模設定が重要で、メーター計測による柔軟な段階的拡張に対応 - 患者1人あたり200～300ガロン/日の水使用量に対応するため、用途別に異なる水質・温度・圧力要件を満たす必要がある - NFPA 110基準により電力供給が中断した場合の10秒以内の復旧が必須で、リチウムイオン電池やニッケル亜鉛電池を採用したUPS設計が標準化 - 脱炭素化推進のため電気ボイラーと再生可能エネルギーを組み合わせ、初期投資増加を認容&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国はNFPA 110など独自の医療施設基準体系を有し、日本の関連法規と基準内容が異なる。太陽光発電の余剰電力に関する買取制度の有無・条件が米国と日本で大きく異なるため、システム規模の設計哲学が異なる。24時間稼働医療施設への電力供給要件の厳格性や対象機器の範囲も法域によって異なる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/how-to-balance-sustainability-and-operability-in-health-care-design/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>エネルギー効率と持続可能なオフィスビルディングの主要な検討項目</title>
+    <link href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings/" />
+    <id>urn:cse:key-considerations-for-energy-efficient-and-sustainable-office-buildings</id>
+    <updated>2026-08-14T00:00:00+09:00</updated>
+    <author>
+      <name>Consulting Specifying Engineer Staff</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Key considerations for energy efficient and sustainable office buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting Specifying Engineer Staff ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のオフィスビル設計における持続可能性と効率化の実装動向。LEED認証やエネルギーコード強化への対応、EV充電施設導入、室内環境改善などを専門家が具体例と課題を交えて解説した業界記事である。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- EV充電ステーション導入では火災リスク対応と既存電気インフラの過負荷防止が主要課題で、保険会社が法定要件を上回る基準を求めることがある - グリーンルーフやスマートウィンドウなど最新技術により断熱性と空調効率を両立している - 占有率の変動に対応した需要制御換気やスマートセンサーなど占有者駆動型システムが採用されている - 高層ビルの消火設備は揚水ポンプによる水圧管理が不可欠で、水理模型により検証される - 2021年IECCで50%以上のエンタルピー回収比率を持つエネルギー回収システムが強制化され、今後の設計標準となっている&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国ではエネルギー保存コード（IECC）が州別に法的強制力を持つ一方、日本は異なる省エネ基準体系である。EV火災リスク評価が保険会社主導で設計要件を定める米国特有の制度構造がある。給湯機器の性能は地下水温度などの地域条件に大きく依存し、フロリダとイリノイの気候差も日本の条件と直接比較できない。LEED等米国中心の認証基準と日本のCABEE等では評価体系が異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,24 +1,38 @@
 # 建築環境・設備 新着論文フィード
 
-建築環境・設備分野の学術誌から新着論文を集め、日本語のタイトルと要約を付けた
+建築環境・設備分野の学術誌6誌と業界誌3誌から新着を集め、日本語のタイトルと要約を付けた
 Atom フィードを配信しています。RSS リーダー（Inoreader など）で購読できます。
 
 ## 購読URL
 
-まとめて読むか、誌ごとに分けて読むかを選べます。
+まとめて読むか、誌ごとに分けて読むかを選べます。誌ごとのURLは
+`https://elweeeen.github.io/journals-feed/` にファイル名をつけたものです。
 
-| 誌名 | 購読URL |
-|---|---|
-| **全誌まとめ** | https://elweeeen.github.io/journals-feed/feed.xml |
-| 日本建築学会 環境系論文集 | https://elweeeen.github.io/journals-feed/aije.xml |
-| 空気調和・衛生工学会 論文集 | https://elweeeen.github.io/journals-feed/shase.xml |
-| Energy and Buildings | https://elweeeen.github.io/journals-feed/enbuild.xml |
-| Building and Environment | https://elweeeen.github.io/journals-feed/buildenv.xml |
-| Journal of Building Performance Simulation | https://elweeeen.github.io/journals-feed/jbps.xml |
-| Science and Technology for the Built Environment | https://elweeeen.github.io/journals-feed/stbe.xml |
-| CIBSE Journal（英国・業界誌） | https://elweeeen.github.io/journals-feed/cibse.xml |
-| Consulting-Specifying Engineer（米国・業界誌） | https://elweeeen.github.io/journals-feed/cse.xml |
-| HPAC Engineering（米国・業界誌） | https://elweeeen.github.io/journals-feed/hpac.xml |
+### 学術誌（査読を通った論文）
+
+| 誌名 | 国・発行 | 刊行ペースの目安 | ファイル名 |
+|---|---|---|---|
+| [日本建築学会 環境系論文集](https://www.jstage.jst.go.jp/browse/aije) | 日本／日本建築学会 | 月7本前後 | `aije.xml` |
+| [空気調和・衛生工学会 論文集](https://www.jstage.jst.go.jp/browse/shase) | 日本／空気調和・衛生工学会 | 月1本前後 | `shase.xml` |
+| [Energy and Buildings](https://www.journals.elsevier.com/energy-and-buildings) | オランダ／Elsevier | 月140本前後（うち抄録公開は3割） | `enbuild.xml` |
+| [Building and Environment](https://www.journals.elsevier.com/building-and-environment) | 英国／Elsevier | 月105本前後（うち抄録公開は3割） | `buildenv.xml` |
+| [Journal of Building Performance Simulation](https://www.tandfonline.com/toc/tbps20/current) | 英国／Taylor & Francis（IBPSA 学会誌） | 月4本前後 | `jbps.xml` |
+| [Science and Technology for the Built Environment](https://www.tandfonline.com/toc/uhvc21/current) | 米国／Taylor & Francis（ASHRAE 査読誌） | 月8本前後 | `stbe.xml` |
+
+### 業界誌（査読なし。実在建物の事例と技術解説）
+
+| 誌名 | 国・性格 | 取り込む区分 | 配信ペース | ファイル名 |
+|---|---|---|---|---|
+| [CIBSE Journal](https://www.cibsejournal.com/) | 英国／CIBSE（英国建築設備技術者協会）会員誌 | Case Studies、Technical | 月2本前後 | `cibse.xml` |
+| [Consulting-Specifying Engineer](https://www.csemag.com/) | 米国／設備設計コンサルタント向け | Case Study、Sustainability | 月1〜2本 | `cse.xml` |
+| [HPAC Engineering](https://www.hpac.com/) | 米国／商業・産業・公共建築の HVAC | Industry Perspectives | 月1〜2本 | `hpac.xml` |
+
+**全誌まとめは `feed.xml`**（最新50件）。
+
+業界誌は誌全体ではなく上の区分だけを取り込んでいます。製品発表・買収・表彰・会議案内は
+除いているため、配信ペースは誌の発行量より少なくなります。
+
+刊行ペースは 2026-08-16 時点の実測にもとづく目安で、保証ではありません。
 
 ## 各記事に載せている内容
 

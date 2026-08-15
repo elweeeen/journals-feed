@@ -13,8 +13,15 @@
   .sub { opacity: .7; font-size: .9rem; margin-top: 0; }
   code { background: rgba(128,128,128,.16); padding: .15em .45em; border-radius: 4px;
          font-size: .9em; word-break: break-all; }
+  h2 { font-size: 1.15rem; margin-top: 2rem; }
+  h3 { font-size: 1rem; margin-top: 1.6rem; margin-bottom: .2rem; opacity: .85; }
+  /* 表が広いので、はみ出すぶんは表の中だけを横スクロールさせる。
+     ページ全体が横に動くと読みづらいため。 */
+  .scroll { overflow-x: auto; }
   table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .92rem; }
-  th, td { text-align: left; padding: .45rem .5rem; border-bottom: 1px solid rgba(128,128,128,.3); }
+  th, td { text-align: left; padding: .45rem .5rem; border-bottom: 1px solid rgba(128,128,128,.3);
+           vertical-align: top; }
+  td code { white-space: nowrap; }
   .note { border-left: 3px solid rgba(128,128,128,.45); padding: .1rem 0 .1rem 1rem;
           margin: 1.5rem 0; font-size: .92rem; opacity: .9; }
 </style>
@@ -28,23 +35,49 @@
 <p>まとめて読むか、誌ごとに分けて読むかを選べます。RSSリーダー（Inoreader など）に
 URLを登録してください。</p>
 
-<table>
-  <tr><th>誌名</th><th>購読URL</th></tr>
-  <tr><td><strong>全誌まとめ</strong></td><td><code>feed.xml</code></td></tr>
-  <tr><td>日本建築学会 環境系論文集</td><td><code>aije.xml</code></td></tr>
-  <tr><td>空気調和・衛生工学会 論文集</td><td><code>shase.xml</code></td></tr>
-  <tr><td>Energy and Buildings</td><td><code>enbuild.xml</code></td></tr>
-  <tr><td>Building and Environment</td><td><code>buildenv.xml</code></td></tr>
-  <tr><td>Journal of Building Performance Simulation</td><td><code>jbps.xml</code></td></tr>
-  <tr><td>Science and Technology for the Built Environment</td><td><code>stbe.xml</code></td></tr>
-  <tr><td>CIBSE Journal（英国・業界誌）</td><td><code>cibse.xml</code></td></tr>
-  <tr><td>Consulting-Specifying Engineer（米国・業界誌）</td><td><code>cse.xml</code></td></tr>
-  <tr><td>HPAC Engineering（米国・業界誌）</td><td><code>hpac.xml</code></td></tr>
-</table>
-
-<p>URLはいずれも <code>https://elweeeen.github.io/journals-feed/</code> に上のファイル名を
-つけたものです。たとえば空衛だけを読むなら
+<p><strong>全誌まとめ</strong>は <code>feed.xml</code>（最新50件）。誌ごとに分けるなら下の表の
+ファイル名を使います。URLはいずれも <code>https://elweeeen.github.io/journals-feed/</code> に
+ファイル名をつけたもので、たとえば空衛だけを読むなら
 <code>https://elweeeen.github.io/journals-feed/shase.xml</code> です。</p>
+
+<h3>学術誌（査読を通った論文）</h3>
+<div class="scroll">
+<table>
+  <tr><th>誌名</th><th>国・発行</th><th>刊行ペースの目安</th><th>ファイル名</th></tr>
+  <tr><td><a href="https://www.jstage.jst.go.jp/browse/aije">日本建築学会 環境系論文集</a></td>
+      <td>日本／日本建築学会</td><td>月7本前後</td><td><code>aije.xml</code></td></tr>
+  <tr><td><a href="https://www.jstage.jst.go.jp/browse/shase">空気調和・衛生工学会 論文集</a></td>
+      <td>日本／空気調和・衛生工学会</td><td>月1本前後</td><td><code>shase.xml</code></td></tr>
+  <tr><td><a href="https://www.journals.elsevier.com/energy-and-buildings">Energy and Buildings</a></td>
+      <td>オランダ／Elsevier</td><td>月140本前後（抄録公開は3割）</td><td><code>enbuild.xml</code></td></tr>
+  <tr><td><a href="https://www.journals.elsevier.com/building-and-environment">Building and Environment</a></td>
+      <td>英国／Elsevier</td><td>月105本前後（抄録公開は3割）</td><td><code>buildenv.xml</code></td></tr>
+  <tr><td><a href="https://www.tandfonline.com/toc/tbps20/current">Journal of Building Performance Simulation</a></td>
+      <td>英国／Taylor &amp; Francis（IBPSA 学会誌）</td><td>月4本前後</td><td><code>jbps.xml</code></td></tr>
+  <tr><td><a href="https://www.tandfonline.com/toc/uhvc21/current">Science and Technology for the Built Environment</a></td>
+      <td>米国／Taylor &amp; Francis（ASHRAE 査読誌）</td><td>月8本前後</td><td><code>stbe.xml</code></td></tr>
+</table>
+</div>
+
+<h3>業界誌（査読なし。実在建物の事例と技術解説）</h3>
+<div class="scroll">
+<table>
+  <tr><th>誌名</th><th>国・性格</th><th>取り込む区分</th><th>配信ペース</th><th>ファイル名</th></tr>
+  <tr><td><a href="https://www.cibsejournal.com/">CIBSE Journal</a></td>
+      <td>英国／CIBSE（英国建築設備技術者協会）会員誌</td>
+      <td>Case Studies、Technical</td><td>月2本前後</td><td><code>cibse.xml</code></td></tr>
+  <tr><td><a href="https://www.csemag.com/">Consulting-Specifying Engineer</a></td>
+      <td>米国／設備設計コンサルタント向け</td>
+      <td>Case Study、Sustainability</td><td>月1〜2本</td><td><code>cse.xml</code></td></tr>
+  <tr><td><a href="https://www.hpac.com/">HPAC Engineering</a></td>
+      <td>米国／商業・産業・公共建築の HVAC</td>
+      <td>Industry Perspectives</td><td>月1〜2本</td><td><code>hpac.xml</code></td></tr>
+</table>
+</div>
+
+<p>業界誌は誌全体ではなく上の区分だけを取り込んでいます。製品発表・買収・表彰・会議案内は
+除いているため、配信ペースは誌の発行量より少なくなります。刊行ペースは 2026-08-16 時点の
+実測にもとづく目安で、保証ではありません。</p>
 
 <h2>各記事の内容</h2>
 <ul>

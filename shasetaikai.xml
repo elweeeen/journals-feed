@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建築環境・設備 新着論文｜空気調和・衛生工学会大会 学術講演論文集</title>
+  <link href="https://elweeeen.github.io/journals-feed/shasetaikai.xml" rel="self" />
+  <id>urn:jstage-journals:feed:shasetaikai</id>
+  <updated>2026-08-16T00:00:00+09:00</updated>
+  <entry>
+    <title>成人のトイレ利用行動に基づくトイレ洗浄水量の予測</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.01/0/2024.01_45/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.01.0_45</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="給排水衛生" />
+    <author>
+      <name>高田 宏</name>
+    </author>
+    <author>
+      <name>村川 三郎</name>
+    </author>
+    <author>
+      <name>坂本 和彦</name>
+    </author>
+    <author>
+      <name>池田 大輔</name>
+    </author>
+    <content type="html">&lt;p&gt;高田 宏, 村川 三郎, 坂本 和彦, 池田 大輔 ／ 令和６年度大会（佐賀）学術講演論文集　第１巻　給排水・衛生 編 p.45-48&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;在宅勤務などの多様な働き方や節水機器の普及に対応するため、生活スタイルと衛生器具仕様からトイレ洗浄水量を予測することを目指しています。建築物や地域における雨水利用システムの設計に向けた基礎知見の取得が目的です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;既往研究のトイレ利用行動データから成人モデルを設定し、生活スタイル（平日勤務・平日在宅・休日在宅）、器具仕様（従来型・節水型）、人数規模（100～2,000人）の複数シナリオでMSWCプログラムを実行しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;瞬時流量は従来型・平日勤務で最大となり8時台にピークを迎えます。時間使用水量は節水型で従来型比20～30%削減されます。日使用水量は節水型で従来型より10.9～13.3㎥削減され、平日勤務が従来型で3.9㎥上回ります。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;勤務形態の変化により、1日のトイレ洗浄水量の使用箇所が約半分変わることが示されました。雨水利用システム設計には、生活行為の変化を反映した予測が必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.01/0/2024.01_45/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>「エミュレーター式負荷試験装置」による空調機の性能評価 第２報：地球温暖化によるパッケージエアコンの年間性能への影響評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_105/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_105</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>宮岡 洋一</name>
+    </author>
+    <author>
+      <name>水野 亜杜</name>
+    </author>
+    <author>
+      <name>田原 大暉</name>
+    </author>
+    <author>
+      <name>ジャンネッティ ニコロ</name>
+    </author>
+    <author>
+      <name>齋藤 潔</name>
+    </author>
+    <content type="html">&lt;p&gt;宮岡 洋一, 水野 亜杜, 田原 大暉, ジャンネッティ ニコロ, 齋藤 潔 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.105-108&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;空調機の性能評価において、現行JIS規格では圧縮機回転数を固定した試験が行われていますが、実際の使用では外気温度や空調負荷に応じて回転数が変動します。本研究は、「エミュレーター式負荷試験装置」を用いて実運転状態を模擬した動的試験を実施し、年間性能を精度よく評価することを目的としています。また、地球温暖化による外気温度上昇の影響を評価します。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;4馬力のパッケージエアコンを供試機として、複数の外気温度と部分負荷率の組み合わせで動的試験を実施し、COP関係式を作成しました。気象庁の気象観測統計から東京・那覇・仙台における平年値（1991～2020年）と近年値（2022～2023年）を収集し、年間消費電力量とAPFを算出しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;メーカー公表APFは6.2に対し、動的試験による東京のAPFは平年値で4.63、近年値で4.17でした。地球温暖化による外気温度上昇に伴い、特に東京と仙台で冷房期間の消費電力量が増加し、APFが低下することが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;現行JIS規格による性能評価は実運転時の性能を過大評価している可能性があります。気候変動に対応した、より実態に即した空調機の評価・選定手法の確立が課題です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_105/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>空調計装における入出力試験自動化システムの開発とその評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_109/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_109</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>藤田 裕司</name>
+    </author>
+    <author>
+      <name>井澤 哲美</name>
+    </author>
+    <author>
+      <name>佐藤 冬樹</name>
+    </author>
+    <author>
+      <name>太田 恵大</name>
+    </author>
+    <content type="html">&lt;p&gt;藤田 裕司, 井澤 哲美, 佐藤 冬樹, 太田 恵大 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.109-112&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;空調計装システムの市場規模は継続的に拡大が見込まれており、今後の需要増加が期待されています。しかし、システムの複雑化に伴い設計・試験・現場調整業務が肥大化する一方で、この業務に従事する就業者数が減少しており、人材不足が深刻な課題となっています。このため、RPA（Robotic Process Automation）などの自動化技術を導入して業務の効率化を図ることが求められています。本研究では、空調計装システムの入出力試験業務における定常作業の完全自動化を目指しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;RPA ツールのPower Automate Desktop（PAD）と、Pythonで記述した入出力試験テストコードを組み合わせたシステムを開発しました。PADは中央監視WEBのブラウザ操作と信号値の取得を自動実行し、テストコードはPLC（子）の入出力信号を直接制御・確認して良否判定を行います。試験仕様書から信号情報を自動抽出し、従来は手作業で実施していた全6段階の試験手順をシステムが自動で実行するように構築しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;66項目の管理項目を対象とした評価実験を実施した結果、全ての試験が自動で完了しました。1項目あたりの試験時間は約50秒（全体で約60分）となり、正常なソフトウェアでは全て「良」判定、意図的に誤りを埋め込んだソフトウェアではその誤りのみ「否」判定が出力されました。試験項目の抜け漏れ防止と良否判定の正確性が確認されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;試験実行中に試験実施者が別業務に従事できるようになり、リソースをより付加価値の高い設計業務に割き当てることが可能となります。1項目あたりの試験時間は従来の手作業より長くなりますが、試験項目の漏れ防止による全体業務時間の短縮と、夜間の自動実行が可能になることで、全体的な業務効率は大幅に向上すると考えられます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_109/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>フレキシブルダクト施工支援ロボットの開発</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_113/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_113</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>園田 浩太郎</name>
+    </author>
+    <author>
+      <name>小林 雅明</name>
+    </author>
+    <author>
+      <name>吉岡 誠記</name>
+    </author>
+    <author>
+      <name>新村 浩一</name>
+    </author>
+    <author>
+      <name>茂木 健一</name>
+    </author>
+    <author>
+      <name>川井 義信</name>
+    </author>
+    <content type="html">&lt;p&gt;園田 浩太郎, 小林 雅明, 吉岡 誠記, 新村 浩一, 茂木 健一, 川井 義信 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.113-116&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建設現場における人手不足対応と生産性向上が喫緊の課題であり、i-Construction 2.0では2040年までに最低3割の省人化を目標としている。フレキシブルダクト施工では高所作業が作業者の大きな負担となるため、ロボット技術を活用して高所作業を低減し、施工作業全体の効率化を図ることが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;リフト機構、鋲打機、支持材供給機構を備えたロボットを開発した。呼び径φ200mm、吊りピッチ1,000mm、50mのダクト施工に対して、実現場を想定した天井スラブ模擬環境で検証試験を実施した。従来工法（高所作業車2台・2名）とロボット工法（ロボット1台・1名）を、通常フレキダクトと背ビレ付きフレキダクトの両パターンで比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;ロボット工法により高所作業車の使用時間が従来工法比で60%以上削減された。工数削減効果は通常フレキダクト使用時で約6%、背ビレ付きフレキダクト使用時で約21%となった。地上からの操作のみで1名でダクト吊り込み作業が可能であることが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_113/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>自動風量計測ロボットの開発 （第2報）計測準備作業の効率化とフィールドテスト</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_117/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_117</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>小林 雅明</name>
+    </author>
+    <author>
+      <name>園田 浩太郎</name>
+    </author>
+    <author>
+      <name>阿部 晃大</name>
+    </author>
+    <author>
+      <name>新村 浩一</name>
+    </author>
+    <content type="html">&lt;p&gt;小林 雅明, 園田 浩太郎, 阿部 晃大, 新村 浩一 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.117-120&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建設現場における風量計測作業の省力化を目的に開発された自動計測ロボットについて、運用効率化システムの開発と実現場への適用結果を報告する。特に準備作業の簡略化と多様な建物形状への対応可能性を検証した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;自動走行ロボット（AMR）を採用した自走式と手押し台車式の2機種を開発した。図面データからティーチング位置を自動生成する「図面連携システム」を構築し、停止位置精度を検証した。その後、オフィスビル、実験施設、工場など異なる用途の実建物10件で試験運用を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;図面連携システムにより、従来の事前準備作業は約88%削減できた。停止誤差は許容範囲内で、実現場試験運用では37～96%の工数削減を達成した。自走式で約7～9割、台車式で約4～7割の削減率が得られ、基準階オフィスビルだけでなく異なる室形状の各階での適用も実現した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;図面データ活用により計測点設定作業が大幅に簡略化され、初心者でも運用マニュアルに基づき利用可能である。自走式と台車式の併用により、間仕切りの多い箇所から大部屋まで様々な建物形状に対応でき、実務での工数削減効果が確認できた。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_117/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>吸込ボックスの形状が遠心送風機性能に与える影響</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_121/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_121</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>石野 貴広</name>
+    </author>
+    <content type="html">&lt;p&gt;石野 貴広 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.121-124&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;遠心送風機にエルボを接続すると風量が減少し騒音が増加する。実務では空間制約から流路拡大を伴う吸込ボックスが使用されるが、その形状が送風機性能に与える影響は明らかにされていない。本研究は吸込ボックス形状、ガイドベーン、ボックス内旋回流が送風機性能に及ぼす影響を実験で調査した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;リミットロード送風機（SRP31型）で複数の吸込ボックス形状をテスト。ピトー管式風量計で吐出風量を計測し、ガイドベーン設置および旋回流条件での性能を比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;単純なボックスサイズ拡大は消費電力削減に効果がない。角の斜め処理で変動が低減され、ガイドベーン設置により消費電力が低減される。旋回流の影響はガイドベーンで緩和される。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;吸込ボックスの最適設計にはサイズ拡大より形状工夫が重要。角斜め処理とガイドベーン設置により安定運転と省エネが同時に達成できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_121/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>プッシュプル換気と逆転置換空調の新たなコラボ 第一報 現状調査とシステム計画</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_125/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_125</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>横尾 正輝</name>
+    </author>
+    <author>
+      <name>前川 雅之</name>
+    </author>
+    <author>
+      <name>後藤 知行</name>
+    </author>
+    <author>
+      <name>北村 邦彦</name>
+    </author>
+    <content type="html">&lt;p&gt;横尾 正輝, 前川 雅之, 後藤 知行, 北村 邦彦 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.125-128&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;工場クリーンルームで生産機械から発生するVOCをプッシュプル換気で除去している。省エネルギーのため換気回数削減を進めており、現在は50%の削減を目指している。作業環境改善が本報告の目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;既設システムのVOC濃度と温度分布を調査した。VOCと空気の比重差を利用する逆転置換空調を考案し、プッシュプル換気と組み合わせるシステムを計画した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;既設ではVOC濃度が床面高さに関わらず均一分布していた。生産機械直上では200ppm超の濃度が測定された。新システムでプッシュプル換気の風量比率を16%から73%に増加し、逆転置換空調と組み合わせることで床上1.6m以上の濃度低減を計画した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;2024年度内に工事完成予定で実証実験を予定している。他のクリーンルームへの水平展開が検討されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_125/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>3つの床吹出し空調方式における人体由来の汚染質濃度分布および温度分布の評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_129/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_129</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>藤原 碧海</name>
+    </author>
+    <author>
+      <name>山中 俊夫</name>
+    </author>
+    <author>
+      <name>吉原 隼</name>
+    </author>
+    <author>
+      <name>崔 ナレ</name>
+    </author>
+    <author>
+      <name>小林 知広</name>
+    </author>
+    <author>
+      <name>山澤 春菜</name>
+    </author>
+    <author>
+      <name>小林 典彰</name>
+    </author>
+    <author>
+      <name>永田 久子</name>
+    </author>
+    <author>
+      <name>岡本 茂</name>
+    </author>
+    <author>
+      <name>安井 さおり</name>
+    </author>
+    <author>
+      <name>杉田 雄希</name>
+    </author>
+    <content type="html">&lt;p&gt;藤原 碧海, 山中 俊夫, 吉原 隼, 崔 ナレ, 小林 知広, 山澤 春菜, 小林 典彰, 永田 久子, 岡本 茂, 安井 さおり, 杉田 雄希 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.129-132&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;UFADシステムの比較研究が不足しており、複数システムから選定する基準が明確でなかった。そこで3つのUFADシステム（FSDV、HFFD、SFFD）の性能を総合的に評価するため、全規模実験を実施した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;異なる換気量（120～480 m³/h）での実験を行い、CO2トレーサーガスを用いて人間由来汚染物質の濃度と温度分布を計測した。SFFDについてはCFD解析により室内気流特性を検証し、実験結果との整合性を確認した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;3つのシステムにおいて、温度分布と汚染物質濃度分布が換気量に応じて異なる特性を示した。CFD解析によりSFFDの気流現象が実験値とよく対応することが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;複数のUFADシステムの性能比較データが得られることで、設計段階での床下空気供給システムの選定判断に資することが期待される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_129/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>気流可視化による机上にヒーターを設置した熱気流システムの換気効果検証</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.04/0/2024.04_157/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.04.0_157</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="換気" />
+    <author>
+      <name>酒井 英二</name>
+    </author>
+    <author>
+      <name>紺野 康彦</name>
+    </author>
+    <author>
+      <name>菰田 裕士</name>
+    </author>
+    <author>
+      <name>池原 基博</name>
+    </author>
+    <author>
+      <name>小島 千里</name>
+    </author>
+    <content type="html">&lt;p&gt;酒井 英二, 紺野 康彦, 菰田 裕士, 池原 基博, 小島 千里 ／ 令和６年度大会（佐賀）学術講演論文集　第４巻　通風・換気 編 p.157-160&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;COVID-19対策として導入されたパーティションは飛沫防止効果がある一方で、机上の呼気由来の汚染質が滞留し室内換気に悪影響を与える可能性がある。このような課題を解決するため、机上にライン型ヒーターを設置して室内空気を加熱し、上昇気流を利用する新型の熱気流システムが開発された。本報では実験による気流の詳細な可視化と汚染質量の測定により、このシステムの換気効果を検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;机上の煙発生エリア（700mm×1000mm）に線香の煙を発生させ、汚染質として使用した。パーティション設置の有無とヒーター設置の有無による計4条件を比較検討。給気207m³/h（換気回数5.4回/h）の置換換気条件下で、LED光源による気流可視化とデジタル粉塵計による汚染質量の1分平均値を測定実施。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;パーティション設置のみでは机上の汚染質濃度が著しく上昇した。ヒーター設置により上昇気流が発生して煙が上部へ移動した。パーティション+ヒーター併用では、ヒーターの上昇気流がパーティションに沿ってスムーズに作用して、排気口での汚染質排出が最も効果的に促進される結果が得られた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;置換換気の条件下では、パーティション単独では机上の汚染質が滞留して換気性能が低下する課題がある。したがって、ヒーターによる上昇気流とパーティションの併用により、机上の汚染質の排出が効果的に促進される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.04/0/2024.04_157/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>実験集合住宅におけるスマートウェルネス住宅に関する研究 （第8報）住戸における温熱計測結果の可視化</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.06/0/2024.06_129/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.06.0_129</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="温熱環境" />
+    <author>
+      <name>原崎 ひかり</name>
+    </author>
+    <author>
+      <name>新藤 幹</name>
+    </author>
+    <author>
+      <name>志波 徹</name>
+    </author>
+    <author>
+      <name>田辺 新一</name>
+    </author>
+    <content type="html">&lt;p&gt;原崎 ひかり, 新藤 幹, 志波 徹, 田辺 新一 ／ 令和６年度大会（佐賀）学術講演論文集　第６巻　温熱環境評価 編 p.129-132&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築環境の分野において、測定データを居住者や施主が理解しやすく提示し、より効果的な空間利用や適切な冷暖房・換気運用を促すことが重要である。本研究はPythonを用いた可視化プラットフォームを構築し、実測データと計画段階での環境性能分析に活用することを目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;大阪府の実験住戸（130.74 m²）を対象に、2023年1月から12月まで全12室の室温を30分ごとに測定した。Pythonベースのプラットフォーム「VIKTOR」により、3Dモデルと温熱環境・電力消費データを可視化・分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;室温は代表日を通じて変動が小さく、冬季でもウェルネスZEH基準（18°C以上）をおおむね達成した。リビング・ダイニングでは約94%の時間が18°C以上で推移し、全季節で室間温度差が小さいことが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.06/0/2024.06_129/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>サーマルマネキンを用いた経気道・経皮暴露量評価に関する実験的研究 その１ 閉鎖空間でのトルエン暴露実験</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_145/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.07.0_145</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空気質" />
+    <author>
+      <name>住吉 栄作</name>
+    </author>
+    <author>
+      <name>原嶋 寛</name>
+    </author>
+    <author>
+      <name>伊藤 一秀</name>
+    </author>
+    <content type="html">&lt;p&gt;住吉 栄作, 原嶋 寛, 伊藤 一秀 ／ 令和６年度大会（佐賀）学術講演論文集　第７巻　空気質 編 p.145-148&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;2022年の化学物質規制改正により、自律的な暴露量管理が必須となりました。暴露は空間形状、換気、人体発熱など複合要因に影響されますが、被験者実験は倫理的に困難です。本研究はサーマルマネキンと数値解析を活用して、経気道・経皮暴露量の正確な評価手法の開発を目指しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;5.5m³大型チャンバーに座位のサーマルマネキンを設置し、25℃・50%RH・換気回数1.0回/hで制御しました。床上720mmからトルエンを0.182mg/minで発生させ、発熱なしと代謝量1metでの発熱の2ケースについて、呼吸域濃度をアクティブサンプリング（Tenax TA・GC/MS）で、皮膚表面濃度をパッシブサンプラーで測定しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;発熱なしで呼吸域濃度は平均0.75ppm、皮膚表面濃度は0.26～1.75ppmでした。発熱ありで呼吸域濃度は平均0.56ppm、皮膚表面濃度は0.30～0.45ppmで、ばらつきが小さくなりました。発熱により流れ場が安定し濃度分布が均質化したと推定されます。発熱ケースで皮膚表面濃度が呼吸域濃度より低く、人体発熱考慮時に経皮暴露と吸入暴露で濃度差が生じる可能性が示唆されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;人体発熱が暴露濃度分布に有意な影響を及ぼすため、正確な個人暴露量評価には人体温熱生理を考慮した数値モデルが重要です。サーマルマネキン実験とシミュレーション統合により、被験者実験を回避しつつ数値モデル予測精度を検証できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_145/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Advancement of Infection Risk Assessment in Indoor Spaces (Part 3): Validation of Simplified Droplet Dispersion Analysis Using Passive Scalar</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_21/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.07.0_21</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="空気質" />
+    <author>
+      <name>小川 夕季</name>
+    </author>
+    <author>
+      <name>保高 徹生</name>
+    </author>
+    <author>
+      <name>内藤 航</name>
+    </author>
+    <author>
+      <name>篠原 直秀</name>
+    </author>
+    <author>
+      <name>横野 遼太郎</name>
+    </author>
+    <author>
+      <name>中澤 武馬</name>
+    </author>
+    <author>
+      <name>笹井 雄太</name>
+    </author>
+    <author>
+      <name>田中 秀和</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;室内空間における感染リスク評価の高度化 （第3報）パッシブスカラーによる簡易的な飛沫拡散解析の有用性検証&lt;/em&gt;&lt;/p&gt;&lt;p&gt;小川 夕季, 保高 徹生, 内藤 航, 篠原 直秀, 横野 遼太郎, 中澤 武馬, 笹井 雄太, 田中 秀和 ／ 令和６年度大会（佐賀）学術講演論文集　第７巻　空気質 編 p.21-24&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;CFDによる精密な飛沫拡散解析は計算コストが高いため、簡易解析手法の開発が求められている。パッシブスカラーによる物質拡散解析の手法は開発されたが、実測との比較による有用性確認が不十分である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;評価室（4m×3.5m×2.4m）で模擬人体から飛沫を放出し、粒子数と風速を測定する実測試験を実施。空調機、空気清浄機、給排気口の配置と運転条件を8ケース変えて評価。CFD解析ではパッシブスカラー法で小径・中径・大径飛沫を分析し、用量反応モデルで感染確率を算出。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;パッシブスカラー解析の濃度分布が実測と概ね一致（±0.1%誤差内）。空調機単独稼働では飛沫が室全体に拡散するが、適切に配置・運転した空気清浄機併用で濃度が0.89～0.90倍に低下。空調フィルタ装着により大径飛沫濃度が0.49倍に減少。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;簡易解析で低コストかつ実測同等の精度で飛沫拡散と感染リスクを予測できる。空調機稼働時は空気清浄機との適切な連動やフィルタ装着により、飛沫濃度と感染リスクを低減可能。機器の最適配置と運転条件の導出に活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_21/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>オフィスの未来価値を創出する環境アプローチに関する研究 （第3報）ABWオフィスが執務者のWell-beingに与える影響のアンケート評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_169/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_169</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>中村 晃大</name>
+    </author>
+    <author>
+      <name>秋元 孝之</name>
+    </author>
+    <author>
+      <name>横山 計三</name>
+    </author>
+    <author>
+      <name>河原崎 結衣</name>
+    </author>
+    <author>
+      <name>佐々木 真人</name>
+    </author>
+    <author>
+      <name>内田 大貴</name>
+    </author>
+    <content type="html">&lt;p&gt;中村 晃大, 秋元 孝之, 横山 計三, 河原崎 結衣, 佐々木 真人, 内田 大貴 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.169-172&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従業員の心身健康と幸福感を重視する働き方が注目されており、作業内容に応じた空間選択が可能なABW（作業内容別就業）オフィスの導入が進んでいる。本研究は、多様な環境を備えたABWオフィスがもたらすウェルビーイングの効果を検証することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;固定席オフィスからABWオフィスへ移転した約970名の従業員を対象に、移転6ヶ月以降にアンケート調査を実施した。オフィスの快適性・知的生産性、心理的幸福度（PERMAモデル）、ワーク・エンゲージメントなど複数項目について移転前後を比較し、重回帰分析で環境要素とウェルビーイングの関係を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;座席選択満足度は27%から69%に向上し、全作業のしやすさが改善された。知的生産性向上者は20%から65%に増加した。PERMA分析では孤独感が有意に低下し、ポジティブ感情に正の相関を示した。重回帰分析で、空間環境の満足度が座席選択満足度に最も強く影響することが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;空間の多様性と選択性を確保することにより、執務者の満足感と作業効率が向上する。混雑度や温熱環境などの基本的環境要素への配慮と、個人の優先度に応じた場所選択が可能な設計がウェルビーイング向上の鍵となり得ることが示唆されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_169/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

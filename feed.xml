@@ -15,6 +15,19 @@
     <content type="html">&lt;p&gt;&lt;em&gt;Key considerations for energy efficient and sustainable office buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のオフィスビル設計にて、LEED等の認証基準やコード要件に対応した持続可能設計の実装課題について、複数の設備設計者へのインタビュー。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- EV充電施設導入では火災リスク対応と既存電気インフラの容量確保が課題。保険会社が0.30 GPM/sqftの散水密度や火災報知システム連動自動遮断を要求する場合もある - スマートウィンドウやグリーンルーフなど、HVAC負荷を削減しつつ居住者快適性を高める技術の採用が拡大 - 太陽光発電導入では屋上面積の制約が主課題で、蓄電池との組合せやコミュニティ太陽光制度による対応が進む - 2021年版国際省エネコード（IECC）ではエネルギー回収装置が義務化され、復帰エンタルピー比50%以上が基準値 - DC Water Headquarters（ワシントンDC、150,000 GSF）がLEED Platinum認証を取得し、エネルギー原単位26 kBtu/sqft/yearで48%削減を実現&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;- 米国ではNFPA基準に加え保険会社が独自の上乗せ要件を課し、保険加入の可否が実質的に設計仕様を規定する - 高層建築の給水・消火設備設計で、ポンプシステムと水理計算による検証方法が異なる可能性 - 省エネコードは州単位での採用で全国統一基準がなく、地域差が大きい - 気候条件や電力供給体系に関する具体的な日米比較は記事からは判断できない&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings-2/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>太陽が視野に入ったときのグレア不快感、温熱快適性および総合的快適性の評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118099" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118099</id>
+    <updated>2026-08-16T00:00:00+09:00</updated>
+    <author>
+      <name>Abel Sepúlveda</name>
+    </author>
+    <author>
+      <name>Caroline Karmann</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;When the sun is in occupants' field of view: assessing discomfort glare, thermal comfort, and overall comfort&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Abel Sepúlveda, Caroline Karmann ／ Energy and Buildings 370巻 p.118099-118099&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;オフィス環境における温熱快適性と不快グレアの相互作用を検討した。これまで両者は個別に研究されてきたが、実際の日光条件下での複合的な影響は不明である。視野内に太陽がある状況で、温熱と視覚環境が快適性にどのように影響するかを明らかにすることが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ドイツの制御試験施設で、36名を対象に2×2の被験者内実験を実施した。温熱条件として低温域（PMV：-1～0）と高温域（PMV：0～+1）を、グレア知覚として認識不可能と認識可能を組み合わせた。晴天で安定した空模様の下で、主観的快適性と生理的パラメータ（皮膚温度と心拍変動）を測定した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;温度がグレア不快感に及ぼす影響、またグレア不快感が温熱知覚に及ぼす影響は、いずれも有意ではなかった。グレア不快感は全体快適性に負の影響を、温熱的受容性と温度感覚は全体快適性に正の関連を示した。生理指標では、皮膚温度はグレア不快感との有意な関連を示さなかった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;視野内直射日光によるグレア不快感が、調査対象とした温熱変動よりも全体的な快適性認識に強く影響する可能性が示唆された。オフィス空間の執務者の快適性向上には、効果的な日射遮蔽システムの導入が有効であることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118099"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>荷重計算は法規準拠しているか</title>
     <link href="https://www.hpac.com/industry-perspectives/article/55381771/are-your-load-calculations-code-compliant" />
     <id>urn:hpac:55381771</id>
@@ -682,15 +695,5 @@
       <name>Cathy King</name>
     </author>
     <content type="html">&lt;p&gt;&lt;em&gt;The hidden damper danger: fire safety guidance&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;グレンフェル・タワー火災を背景に、英国が高層集合住宅などの高リスク建物を対象に防火ダンパーを含む火災安全情報の管理と記録を法的に義務付けた制度と、その実施基準の改訂について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 防火ダンパーはダクトが火災遮断壁や床を貫通する箇所に設置され、火災時の煙の広がりを遅延させる重要な部材である - Building Safety Act に基づき、建物内の全ダンパーの把握、年1回の検査・テスト、信頼性の高い図面・写真・登録簿の記録保持が必須とされている - BESA ガイダンス DW145（2024/25年改訂）では、火災戦略文書からのダンパー位置特定、貫通シールの完全性確保、メンテナンスアクセスを容易にした設計が強調されている - 現状として、基本要件を満たす建物は1%未満で、70%のダンパーが初回検査で機能不全と判定され、多数の人命が危険にさらされている - 検査は「引き渡し時検証」「12ヶ月後確認」「既存建物の発見・検証」「定期テスト」の4段階に分類され、個別のリスク評価に基づいて実施間隔を設定する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国では Building Safety Act という法律で建築の安全情報管理が強制されており、日本の関連法規との具体的な対応関係は記事からは判断できない。気候や電力事情についても記事に記載がなく判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/the-hidden-damper-danger-fire-safety-guidance/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>脱炭素化実現可能性評価は関税と炭素係数の変動に耐えられるか：イギリス初等学校改修4事例の現況データ再ベース監査</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.118063" />
-    <id>urn:doi:10.1016/j.enbuild.2026.118063</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Harshul Singhal</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Do feasibility-stage decarbonisation conclusions survive tariff and carbon-factor drift? A controlled current-data rebasing audit of four calibrated UK primary-school retrofit cases&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Harshul Singhal ／ Energy and Buildings p.118063-118063&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;完了した施設改修のフィージビリティ調査は、エネルギー転換係数や電気ガス料金が変わっても投資計画に残されることが多い。本研究は、改修計画の物理的なエネルギー削減量と改修内容は固定しながら、変更された転換係数や料金のみで再評価する監査手法を開発した。これにより、物理的な改修効果と外部環境変化による評価の変動を区別できる。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;イギリスの2022年小学校改修4件を対象とした。OpenStudio/EnergyPlusで作成した建築エネルギーシミュレーションモデルを12ヶ月分の実績ユーティリティデータで較正し、ASHRAE Guideline 14の精度基準を満たした。同じ物理的な改修内容について2022年と2026年のエネルギー転換係数を適用し、比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;2022年の転換係数ではCO₂削減率は56.7～67.8%（平均62.6%）であった。2026年の転換係数で再評価すると削減率は72.5～78.8%（平均76.3%）に上昇した。経済性では、ガス加熱の3件は2022年料金では13.3～16.4%のコスト増加見込みが、2026年第1四半期平均料金では5.1～13.1%の削減に転じた。油暖房の事例は33.0%削減が見られた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;既に策定された改修フィージビリティの結果は、改修内容が変わらなくても、エネルギー転換係数や料金体系の変化によって削減効果や経済性が大きく変わる可能性がある。進行中の改修事業の経済性判断や計画妥当性を再検討する際には、最新の転換係数と料金で改めて評価することが重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118063"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -19,6 +19,16 @@ Atom フィードを配信しています。RSS リーダー（Inoreader など�
 | [Journal of Building Performance Simulation](https://www.tandfonline.com/toc/tbps20/current) | 英国／Taylor & Francis（IBPSA 学会誌） | 月4本前後 | `jbps.xml` |
 | [Science and Technology for the Built Environment](https://www.tandfonline.com/toc/uhvc21/current) | 米国／Taylor & Francis（ASHRAE 査読誌） | 月8本前後 | `stbe.xml` |
 
+### 大会論文（年1回まとめて公開されるものを、毎朝少しずつ）
+
+| 誌名 | 国・発行 | 規模 | 配信ペース | ファイル名 |
+|---|---|---|---|---|
+| [空気調和・衛生工学会大会 学術講演論文集](https://www.jstage.jst.go.jp/browse/shasetaikai) | 日本／空気調和・衛生工学会 | 年611〜775本 | 1日10本（約78日で完走） | `shasetaikai.xml` |
+
+年1回まとめて数百本が公開されるため、そのままでは読みきれません。いったん貯めておき、
+**毎朝少しずつ配信**しています。分野（空調・熱源・換気など）が記事の区分として付くので、
+RSSリーダー側で絞り込めます。査読論文とは性格が違うため、**全誌まとめには含めていません**。
+
 ### 業界誌（査読なし。実在建物の事例と技術解説）
 
 | 誌名 | 国・性格 | 取り込む区分 | 配信ペース | ファイル名 |

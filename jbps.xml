@@ -3,7 +3,42 @@
   <title>建築環境・設備 新着論文｜Journal of Building Performance Simulation</title>
   <link href="https://elweeeen.github.io/journals-feed/jbps.xml" rel="self" />
   <id>urn:jstage-journals:feed:jbps</id>
-  <updated>2026-08-15T00:00:00+09:00</updated>
+  <updated>2026-08-25T00:00:00+09:00</updated>
+  <entry>
+    <title>モデル予測制御に基づく建物熱蓄熱のエネルギー柔軟性評価フレームワーク</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2706838" />
+    <id>urn:doi:10.1080/19401493.2026.2706838</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>Rossella Alesci</name>
+    </author>
+    <author>
+      <name>Massimo Fiorentini</name>
+    </author>
+    <author>
+      <name>Ettore Zanetti</name>
+    </author>
+    <author>
+      <name>Rossano Scoccia</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A model predictive control-based framework for evaluating building thermal mass energy flexibility&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rossella Alesci, Massimo Fiorentini, Ettore Zanetti, Rossano Scoccia ／ Journal of Building Performance Simulation p.1-29&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;再生可能エネルギーの大量導入に対応する電力網の変動性に対抗するため、建物の熱容量が持つエネルギーフレキシビリティが重要な役割を果たす可能性がある。しかし、この柔軟性の大きさは外気温度などの境界条件に時々刻々と変化するため、動的かつ信頼性の高い定量評価手法の開発が課題である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;従来は簡略化されたR-C制御モデルか詳細モデルのいずれかが個別に用いられてきた。本研究は、高精度な建物・HVAC設備モデルと予測制御(MPC)をコシミュレーションにより統合するフレームワークを提案する。これにより詳細な熱動力学と最適制御を両立した柔軟性エンベロープ評価が実現された。床暖房を装備した2つの居住建物に適用した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;簡略化R-C基盤の手法は評価条件の71%で柔軟性を過小評価し、平均で20%の負の偏差があった。蓄熱効率は建物1で40～52%、建物2で46～55%の範囲を示した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;簡略化モデルの評価結果は実際より過小になる傾向があり、より精緻な柔軟性評価には詳細モデルとMPCの組み合わせアプローチが必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2706838"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Numerical framework for optimizing the thermal performance of building walls with shaped interfaces between material layers</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2714908" />
+    <id>urn:doi:10.1080/19401493.2026.2714908</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>William Dumontaud</name>
+    </author>
+    <author>
+      <name>Julien Berger</name>
+    </author>
+    <author>
+      <name>Benjamin Kadoch</name>
+    </author>
+    <content type="html">&lt;p&gt;William Dumontaud, Julien Berger, Benjamin Kadoch ／ Journal of Building Performance Simulation p.1-22&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築外壁におけるコンクリートと断熱層の界面形状がエネルギー性能に与える影響を明らかにすることが目的である。都市キャニオン環境での外断熱ファサードの熱応答特性を改善し、省エネ効果を高める界面設計の可能性を検討している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;有限差分法とDufort-Frankel法を組み合わせたGhost Fluid法により二次元非定常熱移動数値モデルを構築した。界面形状をベジェ曲線やRadial Basis Function曲線で定義し、NSGA-II遺伝的アルゴリズムで最適化した。都市キャニオン環境の非定常・非均質な境界条件下で、複数ストリートキャニオン配置をフランス全域で検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;最適化された界面形状により年間エネルギー効率が大幅に改善されることが明らかになった。最適形状は環境条件に対して高い感度を持つことが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;外壁界面形状の最適化によるエネルギー性能向上が期待でき、地域の環境条件に応じた形状設計が重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2714908"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>ニューラルネットワークベースモデル予測制御による住宅用4資産エネルギー協調最適化：ビークル・トゥ・ホーム統合と炭素認識型給電制御</title>
     <link href="https://doi.org/10.1080/19401493.2026.2712297" />

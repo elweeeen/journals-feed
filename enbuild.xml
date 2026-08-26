@@ -3,7 +3,232 @@
   <title>建築環境・設備 新着論文｜Energy and Buildings</title>
   <link href="https://elweeeen.github.io/journals-feed/enbuild.xml" rel="self" />
   <id>urn:jstage-journals:feed:enbuild</id>
-  <updated>2026-08-16T00:00:00+09:00</updated>
+  <updated>2026-08-27T00:00:00+09:00</updated>
+  <entry>
+    <title>シミュレーションに基づく間欠的利用高密度空間の運用熱レジリエンスフレームワーク：開発と湾岸モスク礼拝堂への応用</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118137" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118137</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <author>
+      <name>Issah M. Alhamad</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A simulation-based operational thermal resilience framework for intermittently occupied high-density spaces: development and application to Gulf mosque prayer halls&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Issah M. Alhamad ／ Energy and Buildings 370巻 p.118137-118137&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;モスクの礼拝ホールで短時間に大量の信者が集中する際、瞬時的な顕熱・潜熱負荷が発生します。従来の定常状態評価では、この過渡的な熱環境変化への対応能力を表現できません。信者数を組み込んだPMV快適ゾーンと簡約化された熱・湿気モデルを統合し、正規化快適容量指標（CCI*）を導入した評価フレームワークを開発しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;CCI*は指定期間内に快適性限界前に収容可能な最大追加信者数を定量化します。標準ゾーン（|PMV| ≤ 0.5）とリラックスゾーン（|PMV| ≤ 0.7）の2つの基準を設定し、4つの運転条件下で評価しました。負荷除去なし、設計通り瞬時供給、1次HVACレスポンス、占有期間中の外気浸入を伴う応答です。公開モスク測定データでパラメータ範囲を検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;相対湿度55%での標準ゾーン上限は約23.5°C、初期24°Cではマージンがほぼゼロです。22°C予冷で収容可能信者数が著しく増加し、積極的HVAC対応でさらに向上します。応答遅延と外気浸入は能力を低下させ、送風を伴う気流制御は高温・高湿下で快適性を改善します。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;礼拝スケジュール連動の予冷、タイムリーなHVAC立ち上げ、予測可能な短時間占有ピークがある空間での気流制御が有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118137"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ウインドキャッチャーを用いた室内熱快適性達成のための環境最適化</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118093" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118093</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>Ghada Elshafei</name>
+    </author>
+    <author>
+      <name>Silvia Vilčeková</name>
+    </author>
+    <author>
+      <name>Martina Zeleňáková</name>
+    </author>
+    <author>
+      <name>Abdelazim Negm</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Towards environmental optimization for achieving indoor thermal comfort using windcatchers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ghada Elshafei, Silvia Vilčeková, Martina Zeleňáková, Abdelazim Negm ／ Energy and Buildings 370巻 p.118093-118093&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;熱帯乾燥気候における室内熱快適性の向上を目指し、ウィンドキャッチャーなどの受動的環境設計要素の有効性を検証する。緑建築のパラダイム発展に向け、窓壁面比率（WWR）や建物向きなどの最適設計パラメータを明らかにし、室内熱性能を向上させることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;エジプトの気象データを用いてDesignBuilderシミュレーションツールで気候条件を再現し、計算流体力学（CFD）により設計要因が室内環境（空気速度等）に与える影響を分析した。4つの異なる建築設計での効果を比較検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏季のカイロでは中空広場形（Hollow Square design）が最も効率的で、CO2排出量251.8kg、熱不快指数時間156.8hと最小値を示した。この設計は建物サイズが小さく、窓壁面比率が低く（20%）、建物向きが理想的であることが効率性の要因である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ウィンドキャッチャーによる受動的冷房の実効性は、建築形態、窓壁面比率、建物向き、風向・風速といった複合的な設計要因に左右される。熱帯乾燥気候地域での設計にあたっては、これらの要因を統合的に最適化することが室内熱快適性向上の鍵となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118093"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>破壊的事象下における建築環境のエネルギー・レジリエンス：ハザード、気候、公平性を考慮した系統的スコーピングレビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118111" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118111</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>Rakesh Ramesh</name>
+    </author>
+    <author>
+      <name>Hassam ur Rehman</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Energy resilience in the built environment under disruptive events: hazard-, climate- and equity-informed systematic scoping review&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rakesh Ramesh, Hassam ur Rehman ／ Energy and Buildings 370巻 p.118111-118111&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気候ハザードの増加に伴い、建物のエネルギーレジリエンスの重要性が高まっているが、既存研究は概念的に断片化し、建物物理と社会科学の統合が不足している。本研究は建築環境におけるエネルギーレジリエンスの定義と測定方法を技術的・気候的・公平性の観点から体系的に検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;Web of ScienceとScopusで2000年～2025年の研究を検索し、167件の論文と9つのレジリエンスフレームワーク（計176件）を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;3つの構造的課題が明らかになった。操作可能な定義を示した研究は25%にとどまり、29種類の異なる指標が学際的に共有されていない。ほとんどの研究が単一建物・短期間・事象ベースのメトリクスに依存し、複数ハザード軌跡や公平性への対応が限定的である。経験的証拠は高所得地域の熱関連ハザードに偏り、グローバルサウスの研究は10%未満である。受動的外皮性能がすべての気候文脈で最も一貫性のあるレジリエンス決定要因として浮上した一方、冷気候への対応研究が不足している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;調査から、ハザード・気候・公平性の次元を統合した6段階の評価フレームワークが提案されており、調和的なメトリクスと政策開発を支援する。特に冷気候における受動的生存可能性の標準化が重要な課題である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118111"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Long-term field performance of an innovative dew point evaporative cooling system as a low-energy cooling solution for a live edge data Centre</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118096" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118096</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>Cheng Zeng</name>
+    </author>
+    <author>
+      <name>Z. Wang</name>
+    </author>
+    <author>
+      <name>Zishang Zhu</name>
+    </author>
+    <author>
+      <name>Sulaimon Sikiru</name>
+    </author>
+    <author>
+      <name>Ma Xy</name>
+    </author>
+    <author>
+      <name>Xudong Zhao</name>
+    </author>
+    <content type="html">&lt;p&gt;Cheng Zeng, Z. Wang, Zishang Zhu, Sulaimon Sikiru, Ma Xy, Xudong Zhao ／ Energy and Buildings 370巻 p.118096-118096&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;小規模エッジデータセンターの普及に伴い、既存建築設備に統合されたこれらの施設は大規模専用データセンターに比べ冷却効率が劣っている。本研究は、英国の稼働中エッジデータセンターに導入された露点蒸発冷却（DPC）システムの建築統合型応用に関する1年間の現場調査結果を初めて報告するものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;パフォーマンスマッピング、通年の運用データ、季節別の温度プロファイル、時間単位の詳細分析、および微生物学的監視を実施してシステムの性能を評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;通常運用時、DPCシステムは湿度中立的な顕熱冷却を低電力で安定供給した。9月～11月の月平均COP は約37、年平均は約30であった。一方、7月の高温期ではCOPが約18に低下し、供給空気が戻り空気より温かくなる現象が生じた。この低下は熱交換器自体の限界ではなく、プラント筐体での熱ゲインと補助冷却ユニットとの相互作用による系統レベルの効果であることが判明した。微生物学的監視により、適切な管理プロトコルの下で水側リスクが制御可能であることが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;DPCは小規模エッジデータセンターのベース冷却として有効である。システムレベルの性能を正確に評価するため、設計段階での検討、制御戦略の最適化、および定期的な微生物管理を含む保守プロトコルの構築が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118096"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Life cycle assessment of biocomposite material substitutions in window frames to implement circular design approach</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118074" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118074</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Amirmehrab Falsafi</name>
+    </author>
+    <author>
+      <name>Amir Togiani</name>
+    </author>
+    <author>
+      <name>Mariam Abdulkareem</name>
+    </author>
+    <author>
+      <name>Jeremy Faludi</name>
+    </author>
+    <author>
+      <name>Juha Varis</name>
+    </author>
+    <author>
+      <name>Mika Horttanainen</name>
+    </author>
+    <content type="html">&lt;p&gt;Amirmehrab Falsafi, Amir Togiani, Mariam Abdulkareem, Jeremy Faludi, Juha Varis, Mika Horttanainen ／ Energy and Buildings 370巻 p.118074-118074&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建設業界は資源効率と低炭素化を通じて、窓製造の体化環境影響を削減し循環経済を実現することが求められています。本研究は、木・アルミ窓枠の構成部品をバイオコンポジット材で代替する場合の環境性能をライフサイクルアセスメント(LCA)で評価しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;1m²の窓について5つのシナリオを比較しました。基準の木・アルミ枠に対し、アルミ被覆・PVCガラスホルダー・Zamakハンドルをそれぞれリサイクル綿PP+30wt%漂白ソフトウッドクラフトパルプバイオコンポジットで代替するシナリオ、および全部品統合代替シナリオです。LCA for Experts、ecoinvent v3.11、ReCiPe 2016 midpointを用いて温暖化係数(GWP)、酸性化、化石資源枯渇、人間毒性を評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;基準シナリオではアルミニウムが最大の環境負荷となっています。アルミ代替でGWPが47.5から28.8 kg CO₂-eq/m²へ、化石資源枯渇が16.3から9.3 kg oil-eq/m²へと改善されました。全部品統合代替ではGWPが28.5 kg CO₂-eq/m²となり、基準比40%削減を達成し、機械的リサイクルでさらに23.9 kg CO₂-eq/m²まで低減されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;バイオコンポジット部品の代替は、窓製造の体化環境影響削減とサーキュラー設計を支援します。アルミニウム材料の低炭素化と廃棄末端での資源リサイクルが削減要因として重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118074"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thermal captives on campus: a mixed-methods assessment of maintenance workers' heat exposure and building climate resilience during a severe heatwave</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118104" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118104</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Jong-Won Lee</name>
+    </author>
+    <content type="html">&lt;p&gt;Jong-Won Lee ／ Energy and Buildings 370巻 p.118104-118104&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118104"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>既存ドイツ集合住宅の室内プロパンヒートポンプシステム改修に関する技術経済評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118106" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118106</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Mu Huang</name>
+    </author>
+    <author>
+      <name>Sebastian Gamisch</name>
+    </author>
+    <author>
+      <name>Björn Nienborg</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Techno-economic assessment of retrofitting in-apartment propane heat pump systems in existing German multi-family buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mu Huang, Sebastian Gamisch, Björn Nienborg ／ Energy and Buildings 370巻 p.118106-118106&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118106"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>環境センシングに基づくホテル客室空調の稼働時間推定のための深層系列学習モデル</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118118" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118118</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Reza Serati</name>
+    </author>
+    <author>
+      <name>Gayan Kulatilleke</name>
+    </author>
+    <author>
+      <name>Siamak Layeghy</name>
+    </author>
+    <author>
+      <name>Farid Ariai</name>
+    </author>
+    <author>
+      <name>Sara Dolničar</name>
+    </author>
+    <author>
+      <name>Marius Portmann</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Deep sequence learning models for hotel room air conditioner runtime estimation via ambient sensing&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reza Serati, Gayan Kulatilleke, Siamak Layeghy, Farid Ariai, Sara Dolničar, Marius Portmann ／ Energy and Buildings 370巻 p.118118-118118&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ホテルは高い給・冷熱エネルギー消費を持つ建物です。多くのホテルではエアコンがゲストにより操作されるため、その運転は建物管理者に見えず、予測困難です。ルームレベルのエアコン運転時間の直接測定には追加計器類が必要で、多くのホテルでは費用・プライバシー・運用上の制約から実装が困難です。本研究は既存システムに改変を加えず、室内温湿度センサーのデータを用いてエアコン運転状態を推定する方法を提案しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;従来の非侵襲型負荷監視（NILM）は電気的負荷特性に依存し、住宅やオフィスで検証されてきました。本研究はホテル向けにGTN、BiLSTM、1D CNNの3種類の深層学習モデルを用い、オーストラリア・メルボルンのホテル17ルームから収集された約330万件のラベル付き1分単位データを評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;温度と湿度を組み合わせたBiLSTMが最高性能を示し、F1スコア97.5%、日次運転誤差の中央値4分を達成しました。温度のみのモデルでは中央値誤差が3分と更に改善されています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;環境温湿度センシングと深層時系列学習を組み合わせることで、ホテルのルームレベルのエアコン運転推定に対して実用的かつ低コストなアプローチが実現できます。既存のセンサインフラを活用することで、追加投資を抑えながらエネルギー管理を強化することが可能になります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118118"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>早期採用者：アイルランドの太陽光発電導入住宅に関する調査</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118123" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118123</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Daniel T. Dransfield</name>
+    </author>
+    <author>
+      <name>Evan Finegan</name>
+    </author>
+    <author>
+      <name>Niamh Power</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Early adopters: An examination of solar PV electrified homes in Ireland&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Daniel T. Dransfield, Evan Finegan, Niamh Power ／ Energy and Buildings 370巻 p.118123-118123&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅用太陽光発電は持続可能なエネルギー社会の重要な要素です。早期導入事例から得られる知見は政策立案やグリッド運用に有用です。本研究は、アイルランドの59軒の早期採用PV住宅を対象に、スマートメーターとPVシステムデータを統合し、電力利用と太陽光自家消費の実態を調査しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;家計調査と高解像度スマートメーター、PVシステムデータを統合し、技術採用パターン、電力需要プロファイル、自己消費率を分析しました。12種類のデータ源と25種類のファイル形式による標準化課題が生じ、調和されたデータプロトコルの必要性が示唆されました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;平均年間電力使用量は9279 kWh（国家平均の2.2倍）、ベースロードは国家基準より低値でした。53%の住宅が夜間ピークを示し、平均自己消費率は57%です。蓄電池保有で自己消費率が約16ポイント上昇する一方、スマート料金では低下し、EV保有時の充電最適化が進んでいません。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;太陽光導入拡大で、柔軟な負荷を再生可能エネルギーと整合させ、自己消費率と自給率を最大化し、ピーク需要を抑制することが重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118123"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>住宅用ヒートポンプの給湯・暖房運転におけるAI基盤予測制御の実験室および季節長フィールド評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118071" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118071</id>
+    <updated>2026-08-23T00:00:00+09:00</updated>
+    <author>
+      <name>Lilli Frison</name>
+    </author>
+    <author>
+      <name>Simon Gölzhäuser</name>
+    </author>
+    <author>
+      <name>Etienne Ouss</name>
+    </author>
+    <author>
+      <name>Hugues Bosche</name>
+    </author>
+    <author>
+      <name>Manon Dampfhoffer</name>
+    </author>
+    <author>
+      <name>Marina Reyboz</name>
+    </author>
+    <author>
+      <name>Aurore Lomet</name>
+    </author>
+    <author>
+      <name>Malte Vahlenkamp</name>
+    </author>
+    <author>
+      <name>Nicolas Réhault</name>
+    </author>
+    <author>
+      <name>Martial Mermillod</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Laboratory and season-long field evaluation of AI-based predictive control for residential heat pumps in DHW and space-heating operation&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Lilli Frison, Simon Gölzhäuser, Etienne Ouss, Hugues Bosche, Manon Dampfhoffer, Marina Reyboz, Aurore Lomet, Malte Vahlenkamp, Nicolas Réhault, Martial Mermillod ／ Energy and Buildings 370巻 p.118071-118071&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅用ヒートポンプは従来、固定加熱曲線やヒステリシスベースのDHW制御といった静的ルールで運転されており、建物や使用条件の変化に対応できず、無駄な温度上昇と貯蔵ロスが発生していました。本論文はDHW生産と暖房供給温度制御のAI予測制御戦略を提案します。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;DHW制御では機械学習による需要予測とModelicaシミュレーションを組み合わせ、消費電力を最小化するスケジューリングを実施しました。暖房制御では注意機構付きLSTMによる温度予測器を組み込んだ最適化制御を開発し、フィールド試験で検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;DHWの実験室試験では、個別住宅で5～6％、集合住宅で38～43％の電気エネルギー削減とヒートポンプのCOP向上を実現しました。暖房制御の実運用試験では日々の電力消費量が8％削減、平均COPが3.95から4.15に上昇、快適性偏差が0.3Kから0.1Kに改善されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;気象・使用パターン予測に基づいた最適制御により、ヒートポンプの効率向上と快適性維持を同時に実現できることが示されました。様々な建物タイプや気候条件での実運用検証が今後の課題です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118071"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建築エネルギーシミュレーションにおける効率的な不確実性定量化に向けた BIM ベース適応型サロゲートフレームワーク</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118098" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118098</id>
+    <updated>2026-08-23T00:00:00+09:00</updated>
+    <author>
+      <name>Arash Babamiri</name>
+    </author>
+    <author>
+      <name>Reihaneh Aghamolaei</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A BIM-based adaptive surrogate framework for efficient uncertainty quantification in building energy simulation&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Arash Babamiri, Reihaneh Aghamolaei ／ Energy and Buildings 370巻 p.118098-118098&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118098"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>簡略化モデルを用いた意思決定支援ツール構築に関する体系的レビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118079" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118079</id>
+    <updated>2026-08-22T00:00:00+09:00</updated>
+    <author>
+      <name>Seif Qiblawi</name>
+    </author>
+    <author>
+      <name>Marianne Touchie</name>
+    </author>
+    <author>
+      <name>Elie Azar</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A systematic review of building decision-support tools utilizing simplified models&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Seif Qiblawi, Marianne Touchie, Elie Azar ／ Energy and Buildings 370巻 p.118079-118079&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;簡易モデルは計算負荷が小さく入力データが限定されながらも建築性能の複雑な挙動を近似でき、早期設計段階の意思決定支援ツール統合が増加している。本研究は、簡易モデルを統合した建築関連の意思決定支援ツール（熱・エネルギー、快適性、構造、レジリエンス分析）に関する初の体系的レビューである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;1400以上の論文から22の研究を選定し詳細に分析した。エンジン選択、インターフェース設計、エンジン・ツール統合に焦点を当てた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;オープンデータ共有、参加型設計、計算コスト・入力柔軟性のトレードオフバランスに関するガイドラインの必要性が文献のギャップとして浮かび上がった。エンジン・ツール統合を4つのタイプに分類し、ツール開発の選択ガイダンスを示している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;より利用しやすく効果的な意思決定支援ツール開発のための指針が示される。エンジン・ツール統合の4つのタイプ分類により、ツール開発時の統合方式の選定が可能になる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118079"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>太陽が視野に入ったときのグレア不快感、温熱快適性および総合的快適性の評価</title>
     <link href="https://doi.org/10.1016/j.enbuild.2026.118099" />

@@ -3,7 +3,29 @@
   <title>建築環境・設備 新着論文｜空気調和・衛生工学会 論文集（空衛）</title>
   <link href="https://elweeeen.github.io/journals-feed/shase.xml" rel="self" />
   <id>urn:jstage-journals:feed:shase</id>
-  <updated>2026-07-26T00:00:00+09:00</updated>
+  <updated>2026-08-21T00:00:00+09:00</updated>
+  <entry>
+    <title>サブ秒スケールの高解像計測に基づく搬送系動的モデル開発</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/354/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.354_1</id>
+    <updated>2026-08-21T00:00:00+09:00</updated>
+    <author>
+      <name>岸田 立</name>
+    </author>
+    <author>
+      <name>宮田 翔平</name>
+    </author>
+    <author>
+      <name>兼子 泰明</name>
+    </author>
+    <author>
+      <name>矢島 和樹</name>
+    </author>
+    <author>
+      <name>赤司 泰義</name>
+    </author>
+    <content type="html">&lt;p&gt;岸田 立, 宮田 翔平, 兼子 泰明, 矢島 和樹, 赤司 泰義 ／ 空気調和・衛生工学会 論文集 51巻354号 p.1-10&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築設備の運用高度化への要求が高まっているが、現在のシミュレーション手法では過渡状態における動的応答特性を十分に表現できず、新規制御開発への応用が限定的である。本研究は搬送系のファンに焦点を当て、入力周波数の変化に対する風量応答の動特性を精確に再現するモデルの開発を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;0.5秒間隔の実測に基づいて動特性を分析した。軸トルクの収支関係を再現したファンモデルと、空気の慣性を組み込んだダクトモデルを構築することで、これら動特性を表現した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;開発したモデルは実測とよく一致した。特に消費電力の予測精度は起動時のほか低負荷域でも大幅に改善され、あるシナリオにおいて積算電力量の誤差を19.1%から1.1%へ削減することに成功した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;開発したモデルの精度向上により、周波数制御などの新規制御開発がより信頼性をもって推進できるようになる。消費電力を含めた性能予測精度の改善は、様々な運用シナリオの検討において有用である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/354/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>空冷ヒートポンプ式チラーの効率向上</title>
     <link href="https://www.jstage.jst.go.jp/article/shase/51/347/51_1/_article/-char/ja/" />

@@ -3,7 +3,29 @@
   <title>建築環境・設備 新着論文｜Science and Technology for the Built Environment</title>
   <link href="https://elweeeen.github.io/journals-feed/stbe.xml" rel="self" />
   <id>urn:jstage-journals:feed:stbe</id>
-  <updated>2026-08-16T00:00:00+09:00</updated>
+  <updated>2026-08-27T00:00:00+09:00</updated>
+  <entry>
+    <title>実車客室における換気気流の特性評価：実験的ベンチマーク</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2718003" />
+    <id>urn:doi:10.1080/23744731.2026.2718003</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <author>
+      <name>F. Arpino</name>
+    </author>
+    <author>
+      <name>Michele Bertone</name>
+    </author>
+    <author>
+      <name>Marco Dell’Isola</name>
+    </author>
+    <author>
+      <name>G. Grossi</name>
+    </author>
+    <author>
+      <name>Andrea Sciacchitano</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Characterization of the ventilation flow in a real car cabin: an experimental benchmark&lt;/em&gt;&lt;/p&gt;&lt;p&gt;F. Arpino, Michele Bertone, Marco Dell’Isola, G. Grossi, Andrea Sciacchitano ／ Science and Technology for the Built Environment p.1-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;商用自動車のキャビン内気流を実験的に調査し、数値流体解析（CFD）シミュレーションの妥当性を検証するベンチマークデータセットの構築を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;パネルベント吹出しモードを4段階のファン流量で運転し、5ホール圧力プローブと粒子画像速度計測法（PIV）を用いてキャビン内の3断面での速度分布を測定した。乱流運動エネルギー（TKE）とレイノルズ応力を評価し、不確実性分析を実施後、CFDツール検証に供した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;吹出口速度は4～5 m/sのピークを示し、ベント間の非対称性が認められた。ファン速度3設定時、吹出口から25cm下流でキャビン内ピーク速度は2 m/s、ジェット幅は吹出口の7cmから天井近くの16cmへ拡がった。ジェットコアの乱流運動エネルギーは0.4 m²/s²を超え、CFD検証では0.25 m/s以下の誤差で良好に一致した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;車室内ベント気流の詳細な分布特性とジェット挙動が示され、CFDの信頼性が実験的に確認されている。建築設備の通風・空調設計時にシミュレーション結果の妥当性評価に参考となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2718003"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>2025年ASHRAE冬季会議で発表された建築環境における革新的研究</title>
     <link href="https://doi.org/10.1080/23744731.2026.2692150" />

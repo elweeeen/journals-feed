@@ -3,7 +3,730 @@
   <title>建築環境・設備 新着論文｜空気調和・衛生工学会大会 学術講演論文集</title>
   <link href="https://elweeeen.github.io/journals-feed/shasetaikai.xml" rel="self" />
   <id>urn:jstage-journals:feed:shasetaikai</id>
-  <updated>2026-08-17T00:00:00+09:00</updated>
+  <updated>2026-08-27T00:00:00+09:00</updated>
+  <entry>
+    <title>ALC中層集合住宅における伸頂通気管端部形状の違いによる総合的な排水能力への影響</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.01/0/2024.01_89/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.01.0_89</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="給排水衛生" />
+    <author>
+      <name>柿澤 海斗</name>
+    </author>
+    <author>
+      <name>大塚 雅之</name>
+    </author>
+    <author>
+      <name>相澤 幸司</name>
+    </author>
+    <content type="html">&lt;p&gt;柿澤 海斗, 大塚 雅之, 相澤 幸司 ／ 令和６年度大会（佐賀）学術講演論文集　第１巻　給排水・衛生 編 p.89-92&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ALC鉄骨造中層集合住宅では、伸頂通気管端部の通気抵抗が大きいと排水立て管内の負圧が増大し、排水トラップの封水が失われるリスクが懸念されます。本研究は、伸頂通気管端部形状を変えて排水負荷実験を行い、必要排水能力と設計手法を検討することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;4層のALC中層集合住宅を想定した排水立て管システムで、3種の伸頂通気管端部（市販ベントキャップ100A、試作型A 65A、試作型B 50A）を設置しました。SHASE-S 218に準拠した定流量排水負荷実験と器具排水負荷実験を実施し、管内圧力、通気流量、封水損失を測定しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;定流量排水負荷実験では全条件で必要排水能力4.5L/sを達成しました。器具排水負荷実験で管内圧力は判定基準値±400Pa以内に収まり、脚断面積比1.0のPトラップは封水損失が基準値25mm以内でした。一方、脚断面積比0.82の床排水トラップは試作型B（50A）で最大25mmに達する可能性が認められました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;試作型B（50A）では過度な排水時に大きな負圧が発生するため、安全性を考慮して伸頂通気管端部口径は65A以上とすることが望ましいと考えられます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.01/0/2024.01_89/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>地域熱供給需要家における熱負荷及び熱源システムによる環境性と経済性に関する調査 (第2報) 熱源システムによる環境性と経済性に関する調査</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_105/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_105</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>鈴木 悠子</name>
+    </author>
+    <author>
+      <name>佐藤 博樹</name>
+    </author>
+    <author>
+      <name>田口 遥樹</name>
+    </author>
+    <author>
+      <name>赤松 奈美</name>
+    </author>
+    <author>
+      <name>佐藤 茂</name>
+    </author>
+    <author>
+      <name>後藤 吉博</name>
+    </author>
+    <content type="html">&lt;p&gt;鈴木 悠子, 佐藤 博樹, 田口 遥樹, 赤松 奈美, 佐藤 茂, 後藤 吉博 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.105-108&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;地域熱供給(DHC)需要家の実態から作成したモデル熱負荷を用いて、DHC方式と個別熱源システムの環境性と経済性を比較検討する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;延べ床面積80,000m²と40,000m²の20階オフィス建物を想定し、DHC方式、空冷ヒートポンプチラー方式、ガス吸収冷温水発生機方式、空冷PAC方式について年間空調シミュレーション(366日×24時間)を実施した。一次エネルギー消費量、システムCOP、CO2排出量で環境性を、50年間のライフサイクルコストで経済性を評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;環境性ではDHC方式が最も優れており、地域全体の負荷集積により熱源機を高効率運転できることが有効であった。経済性は50年目ではDHC方式が最も低コストとなったが、経過年数により優位方式が変動した。DHC方式は保守・修繕費と更新費が安く、PAC方式は初期費用は低いが更新費用が最も高い。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;環境性と経済性の両面でDHC方式の優位性が示された。経済性評価時には、設備スペース差による建物有効面積への影響も考慮が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_105/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>BEMSデータの有効活用によるシステムの日常的なモニタリング手法に関する研究 （第１報）不具合の疑いのあるデータ探索方法の試行</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_53/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_53</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>尹 奎英</name>
+    </author>
+    <author>
+      <name>高橋 直樹</name>
+    </author>
+    <author>
+      <name>小池 万里</name>
+    </author>
+    <author>
+      <name>丹羽 英治</name>
+    </author>
+    <content type="html">&lt;p&gt;尹 奎英, 高橋 直樹, 小池 万里, 丹羽 英治 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.53-56&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;BEMS普及により膨大な建築設備データが取得可能になったが、処理・分析の人材や財源が不足し、データが十分に活用されていない。日常的なシステムモニタリングのレベルで、不具合検知に着目したBEMSデータの活用方法を検討し、不具合の疑いのあるデータを探索する手法を確立することが目標である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;約40,000m²施設のBEMSデータ（4千計測点、2015年4月～2022年）を対象に、トレンド分離、1クラスサポートベクターマシン、ニューラルネットワーク回帰、自己符号化ニューラルネットワークの4つの探索手法を試行した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;各手法により長期的な変動や特異データを抽出でき、学習期間との比較により探索期間の異常を特定できた。閾値設定により分析対象期間を絞り込み、特異運転日を識別することが可能であることを確認した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;複数の手法を組み合わせることで、特異運転日の探索と分析作業の効率化が期待できる。適切な閾値設定により分析対象期間を効果的に絞り込むことが可能である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_53/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>オフィスにおける天井給気型置換換気の換気性能に関する研究 （その8）CFD 解析における開口条件が換気性能に及ぼす影響</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_157/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_157</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>加藤 稜也</name>
+    </author>
+    <author>
+      <name>山中 俊夫</name>
+    </author>
+    <author>
+      <name>矢本 勇樹</name>
+    </author>
+    <author>
+      <name>小林 知広</name>
+    </author>
+    <author>
+      <name>崔 ナレ</name>
+    </author>
+    <author>
+      <name>山澤 春菜</name>
+    </author>
+    <author>
+      <name>小林 典彰</name>
+    </author>
+    <author>
+      <name>石川 慎之助</name>
+    </author>
+    <author>
+      <name>松井 伸樹</name>
+    </author>
+    <author>
+      <name>岡本 哲也</name>
+    </author>
+    <author>
+      <name>荒川 武士</name>
+    </author>
+    <content type="html">&lt;p&gt;加藤 稜也, 山中 俊夫, 矢本 勇樹, 小林 知広, 崔 ナレ, 山澤 春菜, 小林 典彰, 石川 慎之助, 松井 伸樹, 岡本 哲也, 荒川 武士 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.157-160&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来型置換換気の設計・施工上の難易度を改善するため、天井給気型置換換気方式を提案している。前報では冬期・夏期の外皮負荷を考慮した実大実験を実施した。本報ではCFD解析により前報の実験結果を再現・精度検証し、給気口位置が本換気方式の性能に及ぼす影響を検討した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;STREAM V2023を用いた標準k-εモデルによるCFD解析を実施した。実大実験室を再現した解析空間において、実験再現では実測値に基づいて9条件、給気口位置（中心・壁沿い・角）と給気量（400～750m³/h）をパラメータとした給気口位置比較では各9条件を解析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;CFD解析の温度分布は実験値とよく一致した。給気口が壁沿いまたは角に位置する場合、中心配置と比べて床面衝突後に壁面を這い上がる気流が増加し、汚染物濃度分布が悪化する。この差異は給気口から壁面までの距離と単位角度あたりの給気流量の相違が原因である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;天井給気型置換換気の設計では給気口位置の選定が重要である。給気口と壁面の距離および給気流量の方向性を考慮した配置により、室内汚染物濃度の低減が実現される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_157/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>抗ウイルス空調機に関する研究 （第４報） 実測による性能確認</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_225/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_225</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>塚原 和佳奈</name>
+    </author>
+    <author>
+      <name>辻 裕次</name>
+    </author>
+    <author>
+      <name>中村 友久</name>
+    </author>
+    <author>
+      <name>古本 美希</name>
+    </author>
+    <author>
+      <name>栗原 隆</name>
+    </author>
+    <author>
+      <name>冨田 賢吾</name>
+    </author>
+    <author>
+      <name>堀 賢</name>
+    </author>
+    <author>
+      <name>和田 聡</name>
+    </author>
+    <author>
+      <name>上條 隆明</name>
+    </author>
+    <content type="html">&lt;p&gt;塚原 和佳奈, 辻 裕次, 中村 友久, 古本 美希, 栗原 隆, 冨田 賢吾, 堀 賢, 和田 聡, 上條 隆明 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.225-228&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;病院の4床病室におけるパンデミック対応を想定し、紫外線（UV-C）と高性能フィルタを組み合わせたウイルス不活化機能付き空調機の開発を目指す。ダクト内にUV-LED 275nmを組み込んだデバイスを配置し、効果的で実施可能な構造を検証するとともに、実測によるシステム性能の確認が必要である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;中性能フィルタ（捕集効率90%）と組み合わせたUVデバイスについて、光・流体シミュレーションで複数条件を検討した。デバイスの断面形状、長さ、内面反射率、LED全放射束の組み合わせ18パターンを分析し、最適構造を選定。その後、実大モデルの1/2縮小試験機を製作し、インフルエンザウイルス（H1N1）を用いてJEM1467規格に準拠した実測を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;シミュレーション分析から、断面300×500mm・長さ750mm・内面反射率92%・LED全放射束8.4Wの条件で、目標となる5mJ/cm²の積算線量が達成された。実測では試験開始45分以降で99%以上のウイルス不活化を確認し、実測結果がシミュレーション予測とほぼ一致した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;中性能フィルタとUVデバイスの組み合わせで、システム全体の不活化率目標90%を達成可能である。高反射材の使用が不可欠であり、ガルバニウム鋼板（反射率39%）では性能不足である。コスト・施工性の観点から検討した最適構造が、十分な性能を実現できることが確認された。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_225/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>パッシブデザインを活用した木造小規模オフィスにおけるZEB設計と評価 （第2報）夏期における床放射空調システムの温熱環境の検証</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_293/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_293</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>前岡 良輔</name>
+    </author>
+    <author>
+      <name>石崎 陽児</name>
+    </author>
+    <author>
+      <name>溝口 暉人</name>
+    </author>
+    <content type="html">&lt;p&gt;前岡 良輔, 石崎 陽児, 溝口 暉人 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.293-296&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;2050年カーボンニュートラル実現に向けてオフィスの木造化とZEB化が求められる一方、温熱環境は生産性に影響するため、省エネルギーと快適性の両立が重要です。本報では床放射空調システムを採用した木造小規模オフィスの夏期温熱環境を検証しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2023年8月22～28日に、室内温湿度・上下温度分布・PMV・空調給気温度・表面温度を測定しました。空調はパッケージエアコン熱源の全空気式床放射空調で、放射・対流空調併用です。112件の執務者アンケートも実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;室内温度は24～27℃で安定し、床放射蓄熱効果により外気変化への応答が緩やかです。上下温度分布はASHRAE-55快適範囲内で、放射・対流成分は始業時2：1から1：1に推移します。床放射空調は68％が快適と評価し、60％が15分で快適になりました。屋根放射と間欠空調の蓄熱負荷により立上り遅延が生じました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;床放射空調は温湿度安定性と均一温度分布で局所冷気を解消できます。屋根放射と蓄熱負荷対策が課題で、設計外気条件超過時は空調能力が不足する可能性があります。木造小規模オフィスではパッシブデザインと床放射空調の適切な設計が有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_293/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>テラスハウスタイプ集合住宅における断熱改修に関する研究 その４ 夏期における改修前後の温熱環境</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.06/0/2024.06_53/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.06.0_53</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="温熱環境" />
+    <author>
+      <name>吉田 正</name>
+    </author>
+    <author>
+      <name>坊垣 和明</name>
+    </author>
+    <author>
+      <name>内川 克幸</name>
+    </author>
+    <author>
+      <name>リジャル H.B.</name>
+    </author>
+    <author>
+      <name>高橋 徹</name>
+    </author>
+    <content type="html">&lt;p&gt;吉田 正, 坊垣 和明, 内川 克幸, リジャル H.B., 高橋 徹 ／ 令和６年度大会（佐賀）学術講演論文集　第６巻　温熱環境評価 編 p.53-56&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既存住宅の省エネ化はカーボンニュートラル実現に不可欠だが、改修の費用対効果が見えにくく進捗が遅い。本研究では改修前後の温熱環境測定により効果を可視化することを目指した。テラスハウス型集合住宅の外断熱改修における夏期の効果を検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;8戸のテラスハウスを対象に、改修前後（2022年および2023年7月～8月）の温湿度と壁表面温度を測定した。室内の暑さ指数（WBGT）を推計し、熱中症リスクを評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;改修後に外気温が1℃上昇したが、室温上昇は0.2℃に抑制された。冷房運転時には全室が安全な暑さ指数水準を維持した。一方、気密化により二酸化炭素濃度が3000ppm近くまで上昇し、換気不足が課題となった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;外断熱改修によるコンクリート内部化で熱容量が活用され、外気変動に対する室温緩和効果が得られる。気密化に伴い自然換気では不足するため、24時間換気システムの設置が必須である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.06/0/2024.06_53/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>脱炭素ライフを実践できる次世代型健康住宅の計画と評価 （第１報）建築計画・設備計画概要と住戸のエネルギー消費実績</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_285/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_285</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>松岡 竜也</name>
+    </author>
+    <author>
+      <name>山内 朗</name>
+    </author>
+    <author>
+      <name>村瀨 澄江</name>
+    </author>
+    <author>
+      <name>田内 裕人</name>
+    </author>
+    <author>
+      <name>中川 浩明</name>
+    </author>
+    <author>
+      <name>徐 天舒</name>
+    </author>
+    <author>
+      <name>平岡 麻紀</name>
+    </author>
+    <author>
+      <name>栗田 実</name>
+    </author>
+    <content type="html">&lt;p&gt;松岡 竜也, 山内 朗, 村瀨 澄江, 田内 裕人, 中川 浩明, 徐 天舒, 平岡 麻紀, 栗田 実 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.285-288&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;2050年カーボンニュートラル実現に向け、建築物からのCO2排出削減と生活様式の変革が急務である。都心部の密集した住環境にありながら、入居者がストレスなく脱炭素ライフを実践できる次世代型健康住宅の計画と評価を行うもの。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;東京都内に建設された86戸の賃貸共同住宅を対象とした。高断熱化（UA値0.25W/㎡･K）、トリプルガラス窓、自然通風ガラリ、太陽光発電（170kW）、ヒートポンプ給湯器、エネルギーマネジメントシステム（EMS）を導入。竣工後の季節ごとの代表日における電力消費実績を分析。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;基準一次エネルギー消費量比で40%の省エネと36%の創エネを達成し、BEI=0.24、Nearly ZEH-M認証を取得した。住戸種類別の電力消費分析では、最多の2LDK住戸で夜間のピーク消費が見られなかった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;高断熱・高気密性能とHP給湯器、太陽光発電の組み合わせが脱炭素化に有効である。EMSで給湯器の運転時間を制御し太陽光発電と同期させることで、自家消費促進とデマンド抑制が両立する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_285/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>既存建築ストックの脱炭素化に向けたスマートビル化に関する研究 （第3報）AIを利用した空調制御システムの開発と評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_517/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_517</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>田中 規敏</name>
+    </author>
+    <author>
+      <name>飯尾 裕一郎</name>
+    </author>
+    <author>
+      <name>菊池 卓郎</name>
+    </author>
+    <author>
+      <name>芝原 崇慶</name>
+    </author>
+    <author>
+      <name>中川 浩明</name>
+    </author>
+    <content type="html">&lt;p&gt;田中 規敏, 飯尾 裕一郎, 菊池 卓郎, 芝原 崇慶, 中川 浩明 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.517-520&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既存建築の脱炭素化に向け、AIを用いた熱源送水温度制御と空調開始時刻の自動調整システムを開発した。省エネ効果の評価と、運用データによる予測精度向上の検証を目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ディープニューラルネットワークで室温・消費電力を予測し、相関分析とRandom Forestで入力データを自動選択した。空調開始時刻は室温予測から業務開始までに適温になる最も遅い開始時刻を決定した。竣工後1年間のBase Modelに対し、直近1ヶ月または季節データによるファインチューニングを比較検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;熱源制御で冷房期間に約12%、空調開始時刻最適化で10月に約7.8%の電力削減を達成した。季節ごとのデータでのファインチューニング（Model-2）が最も精度良好で、Base Modelより改善した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;運用データによるファインチューニングが予測精度維持に有効であり、季節ごとのデータ活用が効果的である。AI制御の省エネ効果が実証されており、定期的な自動再学習の実施が重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_517/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>熱帯気候下における異なる建物タイプに対するハイブリッド太陽CCHP システムの分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.09.0_1</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <category term="エネルギー管理" />
+    <author>
+      <name>DU Ying</name>
+    </author>
+    <author>
+      <name>MIYATA Shohei</name>
+    </author>
+    <author>
+      <name>AKASHI Yasunori</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Analysis of Hybrid Solar CCHP Systems for Different Building Types in Tropical Climate&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DU Ying, MIYATA Shohei, AKASHI Yasunori ／ 令和６年度大会（佐賀）学術講演論文集　第９巻　エネルギー管理 編 p.1-4&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物エネルギー消費は全球化石燃料需要の40％を占めます。ハイブリッド太陽光CCHP（冷房・給湯・発電）システムの設計特性と熱帯地域での効果が十分に研究されていません。本研究は熱帯気候のアパート、モール、オフィスにおける太陽光熱複合（PVT）パネル統合型システムの最適設計と性能を比較することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;多目的粒子群最適化（MOPSO）法でPVTパネル、ガスエンジン、冷却機の構成を最適化しました。CO₂排出量と経済性をトレードオフとして評価し、TOPSIS法で最適解を決定しています。EnergyPlusで建物負荷を計算し、20年の運用シミュレーションを実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;すべての建物でPVTパネル導入によりCO₂排出量が大幅削減されました。アパートとモールは運用コストも削減されますが、オフィスは若干増加します。これはピーク負荷のタイミングが建物用途で異なるためです。全建物でガスボイラーと蓄熱槽は不要です。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建物用途に応じた機器容量設計が重要です。太陽光発電ピークがピーク負荷と一致するほど経済的メリットが大きくなります。熱帯地域での太陽光ハイブリッドシステムは環境・経済両面で効果的です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>既存建物の氷蓄熱システムを活用した電力需給調整に関する研究 （第2報）シミュレーションによるディマンド･リスポンス性能の評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_165/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_165</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>今井田 美桜</name>
+    </author>
+    <author>
+      <name>山口 弘雅</name>
+    </author>
+    <author>
+      <name>古賀 修</name>
+    </author>
+    <author>
+      <name>市山 諭</name>
+    </author>
+    <author>
+      <name>加藤 功太郎</name>
+    </author>
+    <author>
+      <name>田中 英紀</name>
+    </author>
+    <author>
+      <name>丹羽 英治</name>
+    </author>
+    <author>
+      <name>高橋 直樹</name>
+    </author>
+    <author>
+      <name>松田 侑樹</name>
+    </author>
+    <content type="html">&lt;p&gt;今井田 美桜, 山口 弘雅, 古賀 修, 市山 諭, 加藤 功太郎, 田中 英紀, 丹羽 英治, 高橋 直樹, 松田 侑樹 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.165-168&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;既存建物の氷蓄熱システムの省エネルギー性と電力需給調整機能の活用に着目し、前報で熱源機の更改設計コンセプトを提案した。本報では、提案システムの運転方法を反映したシミュレーション・モデルを構築し、電力需給調整性能を精緻に検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;兵庫県に立地する地上19階建てのオフィスビルを対象にLCEMツールでシステムシミュレーション・モデルを構築した。ブラインチラー製氷能力が異なるA案（150RT）とB案（300RT）の2案につき、中間期の上げDR、盛夏期の下げDR運転をシミュレーションした。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;中間期の上げDR時、A案は平均171kW・最大192kWの電力供出を得たのに対し、B案は平均368kW・最大438kWの供出を実現した。盛夏期の下げDR時、A案は平均25kW・最大90kW、B案は平均271kW・最大308kWの供出が得られた。DR運転時はCOPが低下した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;既存の氷蓄熱槽を活用して季節や時間帯に応じた電力需給調整が実現可能である。ブラインチラー容量が大きいシステムほど、より大きな供出電力が得られる。需給調整実施には省エネルギー性能の低下を許容する必要がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_165/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Impact of Increasing Humidity in Urban Areas on the Efficiency of Cooling Towers and Refrigeration Systems</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_17/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_17</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>長尾 有理</name>
+    </author>
+    <author>
+      <name>藤井 研一</name>
+    </author>
+    <author>
+      <name>近藤 靖史</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;都市の高湿度化による冷却塔や冷凍機の効率への影響&lt;/em&gt;&lt;/p&gt;&lt;p&gt;長尾 有理, 藤井 研一, 近藤 靖史 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.17-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市温暖化に伴う気象変化と空調設計の研究は多数ありますが、乾球温度の影響が中心となっています。湿球温度や絶対湿度の上昇が冷却塔や冷凍機に及ぼす影響についての研究は限定的でした。本研究は気象データから都市の高湿度化を分析し、熱源機器への影響を検討することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;気象庁の過去観測データを用いて、札幌から那覇までの10都市を対象に分析を実施しました。1990-1994年と2018-2022年の各5年間、および2023年の夏期を比較対象としています。Sprung式・Wagner式で湿球温度を算出し、実機の性能データから冷却塔出口水温とターボ冷凍機のCOPを計算しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;1990-1994年から2018-2022年で、広島を除く9都市の湿球温度は0.9℃～2.4℃上昇しました。2023年はさらに0.5℃～2.5℃上昇し、5都市で標準設計湿球温度27℃を超過しました。冷却塔出口水温も同様に上昇し、ターボ冷凍機のCOPは広島を除く9都市で0.04～0.10低下しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;都市の高湿度化により冷却塔の冷却効果が低下し、ターボ冷凍機の効率低下につながることが確認されました。今後、湿球温度がさらに高くなる頻度の増加を考慮した機器選定・設計が必要です。熱源機器への負荷増加に伴うエネルギー消費の増大が予想されるため、より高効率な運転制御システムの開発が重要と考えられます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_17/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>データ同化による地下水流れを伴う複層地盤熱物性推定</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_205/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_205</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>小司 優陸</name>
+    </author>
+    <author>
+      <name>葛 隆生</name>
+    </author>
+    <content type="html">&lt;p&gt;小司 優陸, 葛 隆生 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.205-208&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;浅層地中熱利用システムの性能は、土壌有効熱伝導率や地下水流速などの地盤熱物性値に依存している。熱応答試験により有効熱伝導率は推定可能だが、地下水流れが存在する場合の推定精度が十分でなく、地下水流速の推定方法は確立されていない。本研究では、データ同化手法を用いて、複層地盤における土壌有効熱伝導率の鉛直分布と地下水流速を同時推定する手法を提案した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;アンサンブルカルマンフィルタ（EnKF）というデータ同化手法を、地下水流れを考慮した準3次元ボアホール地中熱交換器モデルに適用した。観測システムシミュレーション実験により推定可能性を検証し、定常加熱と周期変動加熱の2ケースを実施した。U字管内流体温度を観測データとして使用した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;定常加熱条件では、地下水流れが存在しない層の土壌有効熱伝導率は真値に収束したが、地下水流がある層の熱伝導率と地下水流速は収束しなかった。一方、周期変動加熱条件では、100時間以上の観測データ同化により、土壌有効熱伝導率と地下水流速の推定値が真値に良好に収束した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_205/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>非住宅建築物におけるPV・建築設備・蓄電池を活用した電力需給調整手法に関する研究 －省CO₂・最大需要抑制を目的とした制御手法の検討－</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_45/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_45</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>澤崎 令汰</name>
+    </author>
+    <author>
+      <name>住吉 大輔</name>
+    </author>
+    <author>
+      <name>杉元 康浩</name>
+    </author>
+    <content type="html">&lt;p&gt;澤崎 令汰, 住吉 大輔, 杉元 康浩 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.45-48&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;分散型エネルギーリソースの普及と電力自由化が進む中、太陽光発電などの変動性再生可能エネルギーの大量導入に対応する需要側の電力調整力確保が急務である。建築設備はデマンドレスポンス（DR）リソースとしての活用が期待されており、複数設備の統合制御による需給調整が検討されている。本研究は、太陽光発電、空調、電気自動車（EV）を併用した統合制御手法を開発し、CO₂排出削減とピーク抑制を実現することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;福岡市の事務所建物（4階建て、太陽光発電20kW、日産リーフe+ 60kWh搭載）を対象に実証実験を実施した。夏期（7月9日～9月15日）と冬期（12月1日～2月29日）に、空調の予冷・予熱運転と段階的温度設定、CO₂排出係数に基づくEV充放電制御を行った。室内温熱環境、消費電力、CO₂排出量を計測・分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏期実験では空調制御により約1.71kg（全体の16%）のCO₂削減を達成した一方、EV充放電は放電範囲の限定と31%の充放電ロスにより効果が限定的であった。統合制御により夏期約426kg、冬期約751kgのCO₂削減を達成した。ただし冬期の予熱運転効果は限定的であった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;EV充放電を活用する際は建物の電気配線・負荷配置を考慮して放電範囲を確保する必要がある。CO₂排出係数の時間変動を考慮した空調の段階的温度制御が有効である。充放電ロスの低減と放電量の確保が重要な課題である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_45/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Performance Evaluation of an Eco-School with Ground Source Heat Pump System: Verification of Operational Results 12 Years after Completion</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_65/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.02.0_65</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="熱源" />
+    <author>
+      <name>中井 悠太</name>
+    </author>
+    <author>
+      <name>若山 尚之</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;地中熱ヒートポンプシステムを導入したエコスクールに関する研究 竣工12年を経過した運用実績に関する検証&lt;/em&gt;&lt;/p&gt;&lt;p&gt;中井 悠太, 若山 尚之 ／ 令和６年度大会（佐賀）学術講演論文集　第２巻　蓄熱・熱源システム 編 p.65-68&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;地球温暖化対策として建築業界では省エネ化が求められており、学校では「エコスクール」が推進されています。本研究では福岡県の大濠高校（2010年竣工）の12年後の運用実績を分析し、エコスクール計画の実績とGSHPシステムの長期性能を明らかにします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;対象建築は延床面積28,039㎡、7階建ての中高一貫校で、地中熱、井水・雨水利用、太陽光パネルなど省エネ技術を導入しています。GSHPシステムは採熱管84本で基礎杭を利用し、2010～2022年度の運用実績を分析しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;一次エネルギー消費量は竣工時573MJ/㎡から2022年度798MJ/㎡に増加しました。上水使用量は井水・雨水利用により全体の22%に削減されています。GSHPシステムのCOPは冷房で5.2から4.7に、暖房でも4.7から4.5に低下し、杭温度は2℃上昇しています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;井水・雨水の有効活用が上水削減に有効であることが確認されました。一方、地中温度上昇によるシステム効率低下が懸念され、長期運用時の地中熱収支管理と採熱管メンテナンスが重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_65/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>パッケージ型空調システムの居住者中心型協調最適化制御戦略に関する数値解析</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_1</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>Yunqing Fan</name>
+    </author>
+    <author>
+      <name>Furuhashi Takuya</name>
+    </author>
+    <author>
+      <name>Akagi Satoshi</name>
+    </author>
+    <author>
+      <name>Hamada Mamoru</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Numerical investigation of occupant-centric co-optimization control strategy for package air conditioning system&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yunqing Fan, Furuhashi Takuya, Akagi Satoshi, Hamada Mamoru ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.1-4&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>リキッドデシカントユニットの基礎試験とフィールド試験による加湿性能の検証</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_189/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_189</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>澁澤 朱音</name>
+    </author>
+    <author>
+      <name>前田 彩子</name>
+    </author>
+    <author>
+      <name>三宅 友香</name>
+    </author>
+    <author>
+      <name>馬場 大輔</name>
+    </author>
+    <author>
+      <name>谷野 正幸</name>
+    </author>
+    <author>
+      <name>川上 理亮</name>
+    </author>
+    <author>
+      <name>原田 政利</name>
+    </author>
+    <content type="html">&lt;p&gt;澁澤 朱音, 前田 彩子, 三宅 友香, 馬場 大輔, 谷野 正幸, 川上 理亮, 原田 政利 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.189-192&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_189/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>室内顕熱負荷低下時におけるマルチコイル空調システムの設計・運用に関する研究 Part1 設計レベルにおける検討</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_201/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_201</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>山村 佳澄</name>
+    </author>
+    <author>
+      <name>尹 奎英</name>
+    </author>
+    <content type="html">&lt;p&gt;山村 佳澄, 尹 奎英 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.201-204&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物の断熱性向上とLED化による顕熱負荷低下に伴い、潜熱負荷の割合が増加して従来のシングルコイル空調では潜熱処理が不十分になっています。本研究は顕熱と潜熱を別コイルで処理するマルチコイル空調システム、特にシリーズコイル方式の実用性を検証し、従来方式との設計レベルでの比較検討を行いました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;東京のオフィスビルを対象にしました。室温26℃相対湿度50%と室温28℃相対湿度50%の2条件で、シングルコイル、シリーズコイル、デュアルコイルの3システムの設計仕様を比較しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;顕熱負荷低下時にはマルチコイルのコイル冷却能力と給気風量が減少しました。シリーズコイル方式は給気温度の設定自由度が高く、コイル出口温度が高いため大温度差空調や中温冷水の適用が可能です。外気冷房時に静圧がシングルコイル比で8～9%増加するという課題があります。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;マルチコイル方式により給気温度を高めに設定できるため、給気風量の増加による感染症対策が実現できます。コイル出口温度の高温化により大温度差空調や中温冷水などの省エネ対策導入が可能です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_201/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>大学施設における個別分散型空調の運用実態把握と省エネルギー施策の効果分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_25/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_25</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>松浦 秀太</name>
+    </author>
+    <author>
+      <name>塩地 純夫</name>
+    </author>
+    <author>
+      <name>鈴木 智博</name>
+    </author>
+    <author>
+      <name>下田 吉之</name>
+    </author>
+    <author>
+      <name>小林 亮登</name>
+    </author>
+    <content type="html">&lt;p&gt;松浦 秀太, 塩地 純夫, 鈴木 智博, 下田 吉之, 小林 亮登 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.25-28&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;大阪大学箕面キャンパスを対象に、個別分散型空調（VRF）システムの運用実態を調査し、省エネルギー施策の効果を分析しました。利便性が高い一方で不適切な運転が生じやすいVRFの運用最適化が課題とされています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;室外機100台分の運転データを収集・分析し、外気温補正関数を適用して消費電力量を比較しました。設定温度の下限を25℃に制限する温度制御と、22時に全室内機を自動OFFする消し忘れ制御の2つの施策を2023年1月から実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;空調消費電力量は外気温補正後で12.9%削減されました。設定温度が環境省推奨値に近づき、深夜運転時間が54%程度削減されています。用途別分析では学生交流スペースで36.1%の削減を達成し、開放空間など室の特性に応じた運転実態の違いが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;運用改善というソフト対策のみで有意な省エネ効果が得られ、実装が比較的容易であるため他建物への展開が期待できます。利用者による不適切な操作が主要な課題であり、スイッチレス空調システムの導入が省エネルギー化に有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_25/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>CFD解析を活用した天井放射空調システムの設計・運用手法 （第２報）実測データを用いた設計手法の検証と運用手法の提案</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_257/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.03.0_257</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空調" />
+    <author>
+      <name>松本 理緒</name>
+    </author>
+    <author>
+      <name>柳 建安</name>
+    </author>
+    <author>
+      <name>白石 靖幸</name>
+    </author>
+    <author>
+      <name>田村 富士雄</name>
+    </author>
+    <author>
+      <name>山品 太輝</name>
+    </author>
+    <author>
+      <name>山本 真広</name>
+    </author>
+    <author>
+      <name>千田 紗恵</name>
+    </author>
+    <content type="html">&lt;p&gt;松本 理緒, 柳 建安, 白石 靖幸, 田村 富士雄, 山品 太輝, 山本 真広, 千田 紗恵 ／ 令和６年度大会（佐賀）学術講演論文集　第３巻　空調システム 編 p.257-260&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;放射冷暖房は効率性と快適性に優れるため、国内でも採用が増加している。しかし、従来の設計手法では想定した作用温度が実現できない、室温と非冷却表面温度（AUST）が等しくないなどの課題がある。本研究は、CFD解析を組み込んだ精緻な設計・運用手法を提案し、実測データで検証することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;埼玉県の庁舎3階オフィスを対象とした。ASHRAEの設計手法にCFD解析を統合した新たな設計フローを構築し、定常・非定常の両解析を実施した。実測データを用いてモデルの予測精度を検証し、パネルの再設計と運用改善を検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;CFD解析の予測精度はRMSE 0.30℃で十分であった。提案手法により、温熱環境を維持しながらパネルを68枚から44枚に削減でき、負担比率を53.4%から69.4%に増加できることが示された。従来手法との比較では、作用温度と表面温度の予測精度が向上した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;提案設計手法は従来手法の設計誤差を低減し、室内快適性を損なわないシステム最適化を実現できる。運用改善により既存システムの放射パネル負担比率向上と快適性向上が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.03/0/2024.03_257/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>室内空間における感染リスク評価の高度化 （第２報）空気清浄機および空調内フィルターによる模擬飛沫核の低減効果の実測</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_17/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.07.0_17</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="空気質" />
+    <author>
+      <name>篠原 直秀</name>
+    </author>
+    <author>
+      <name>木村 悦雄</name>
+    </author>
+    <author>
+      <name>内藤 航</name>
+    </author>
+    <author>
+      <name>保高 徹生</name>
+    </author>
+    <author>
+      <name>小川 夕季</name>
+    </author>
+    <author>
+      <name>笹井 雄太</name>
+    </author>
+    <author>
+      <name>中澤 武馬</name>
+    </author>
+    <author>
+      <name>田中 秀和</name>
+    </author>
+    <content type="html">&lt;p&gt;篠原 直秀, 木村 悦雄, 内藤 航, 保高 徹生, 小川 夕季, 笹井 雄太, 中澤 武馬, 田中 秀和 ／ 令和６年度大会（佐賀）学術講演論文集　第７巻　空気質 編 p.17-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ウイルス感染防止と室内汚染低減のため空気清浄機などが導入されている。効果の実測評価は重要だが実測例が少なく、シミュレーション精度向上に実測データが必要である。本研究は会議室での対面会話を想定し、クリーンブース内で空気清浄機の設置位置、空調、フィルター、マスク使用による飛沫核の挙動を実測した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;容積32.8 m³のクリーンブース内で人工唾液から模擬飛沫核を発生させた。クリーンブース内29地点にパーティクルカウンタを設置し10秒ごと測定。空気清浄機の設置位置8種、空調の有無と風量、フィルター有無、マスク着用の有無を変化させて曝露濃度比を比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;空気清浄機なし時の吐出源正面での曝露濃度比は7.4×10⁻³。適切な位置に設置すると4.1×10⁻⁴に低減でき最大19倍改善。空調送風で室内濃度が均質化。中性能フィルター使用で全地点4.4×10⁻⁴以下、マスク着用で1.6×10⁻⁴に低減。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;空気清浄機の設置位置が低減効果を大きく左右する。空調と中性能フィルター、マスク着用の組み合わせで飛沫核曝露を効果的に低減できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_17/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>人的資本向上を目指した働き方実現のための次世代ワークプレイス環境に関する研究 その3 ABWオフィスにおける座席変更行動の誘導実験</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_149/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_149</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>稲山 智也</name>
+    </author>
+    <author>
+      <name>高橋 幹雄</name>
+    </author>
+    <author>
+      <name>和田 一樹</name>
+    </author>
+    <author>
+      <name>徳村 朋子</name>
+    </author>
+    <author>
+      <name>高橋 祐樹</name>
+    </author>
+    <author>
+      <name>篠原 尚生</name>
+    </author>
+    <author>
+      <name>伊藤 彰悟</name>
+    </author>
+    <author>
+      <name>田辺 新一</name>
+    </author>
+    <author>
+      <name>竹田 雄紀</name>
+    </author>
+    <content type="html">&lt;p&gt;稲山 智也, 高橋 幹雄, 和田 一樹, 徳村 朋子, 高橋 祐樹, 篠原 尚生, 伊藤 彰悟, 田辺 新一, 竹田 雄紀 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.149-152&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ABWオフィスでは座席変更と知的生産性に正の相関があるとされながら、実際の座席変更は業務内容に応じて行われていないのが現状です。人的資本向上の観点から、オフィス空間の利用体験がモチベーション向上に与える影響を明らかにすることを目指しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オフィス勤務者20名を特定スペース繰り返し利用群と複数スペース利用群に分けました。ワーク・エンゲイジメントと行動のしやすさを毎日アンケートで調査しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;複数空間を利用した群は固定場所利用群よりも、ワーク・エンゲイジメント（活力・熱意・没頭）が有意に高くなりました。各オフィス空間は異なる特性を持ち、聴覚プライバシーと周囲の人数が座席選択に影響していました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;業務内容に応じたオフィス空間の自由な選択はワーク・エンゲイジメント向上に有効です。聴覚プライバシーの確保とチーム連携を両立させるレイアウト工夫が実務では重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_149/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>超高層複合テナントビルにおけるエネルギーマネジメント手法に関する研究 （第1報）建築・設備計画概要</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_249/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_249</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>清宮 拓磨</name>
+    </author>
+    <author>
+      <name>切石 薫</name>
+    </author>
+    <author>
+      <name>伊藤 欽章</name>
+    </author>
+    <author>
+      <name>横山 大毅</name>
+    </author>
+    <content type="html">&lt;p&gt;清宮 拓磨, 切石 薫, 伊藤 欽章, 横山 大毅 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.249-252&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;超高層ビルは容積集積によりエネルギー密度が高くなり、テナントビルはテナント対応と保守的運用でさらに消費量が増加しやすい。本研究は超高層複合テナントビルにおいて、汎用的で社会波及効果のあるエネルギーマネジメント手法を開発し、その効果を検証することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;東京都内の地上49階・高さ266m、延床236,639m²の複合テナントビル（オフィス、商業、ホテル等）を対象に、プラント・管理者・テナント三位一体のデマンドレスポンスシステムを構築した。オフィス空調はVAV方式とハイブリッド方式を採用し、AI制御によるINV周波数最適化とフォルト検知、商業施設の厨房・客席給排気制御、水の再利用などを実装した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;BEI（その他あり）で基準比31%の1次エネルギー削減を達成し、本報のエネルギーマネジメント手法導入により追加で3～5%の削減が予測される。現在コミッショニング実施中で、本格稼働に伴う効果の逐次検証を予定している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;複合テナントビルのエネルギー削減には、プラント・管理者・テナント間の連携、VAVなどの空調システム最適化、AI活用による機器制御精度向上、商業施設の運用に応じた換気制御、水資源の循環利用など、複数手法の統合的導入が有効である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_249/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>大規模複合都市開発における環境設備性能実現のための研究 （第3報）オフィス空調方式の決定プロセス</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_321/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_321</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>渋田 周平</name>
+    </author>
+    <author>
+      <name>佐々木 真人</name>
+    </author>
+    <author>
+      <name>嶋田 泰平</name>
+    </author>
+    <author>
+      <name>宮澤 達也</name>
+    </author>
+    <author>
+      <name>山本 博之</name>
+    </author>
+    <author>
+      <name>守屋 寛之</name>
+    </author>
+    <author>
+      <name>安住 大輔</name>
+    </author>
+    <content type="html">&lt;p&gt;渋田 周平, 佐々木 真人, 嶋田 泰平, 宮澤 達也, 山本 博之, 守屋 寛之, 安住 大輔 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.321-324&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;大規模複合都市開発で一次エネルギー消費30%削減を実現するため、A街区オフィスに中温冷水空調を導入した。地域冷暖房と連携し熱源効率を向上させる。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オフィス基準階約4,500㎡を6分割し、潜顕分離デュアルVAV空調機を採用した。冷水8℃/18℃、中温冷水13℃/20℃、温水48℃/38℃の4管方式で複数構成を検証し、AI運用支援プログラムを開発した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;中温冷水利用率は年間49%、ピーク時40%である。インテリアとペリメータに13℃冷水を併用する構成で一次エネルギー消費量22%削減、COP1.38を達成した。外気処理への中温冷水利用は省エネ効果が限定的である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;中温冷水導入で熱源効率向上とエネルギー削減が期待できる。潜顕分離デュアルVAV方式は快適性とコンパクト性を両立し、供給温度管理や冷温水切替え判断などの運用段階のコミッショニングが性能実現に重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_321/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>新聞社本社ビルにおける継続的な省エネルギー運用の取り組み （第1報）建物計画ならびに省エネルギー運用体制と取組の概要</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_481/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.08.0_481</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="性能検証" />
+    <author>
+      <name>松本 明広</name>
+    </author>
+    <author>
+      <name>山田 一樹</name>
+    </author>
+    <author>
+      <name>湯澤 秀樹</name>
+    </author>
+    <author>
+      <name>長谷川 巌</name>
+    </author>
+    <content type="html">&lt;p&gt;松本 明広, 山田 一樹, 湯澤 秀樹, 長谷川 巌 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.481-484&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;新聞社の本社ビルにおいて、竣工後10年間、設計者とビル管理者が協働して省エネ運用に取り組んでいます。設計図書に基づく通常の運用では、実際の負荷が想定より小さい場合があるため、設計の見直しを含めた運用改善が必要とされています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;改善を3つのフェーズに分けました。Phase-1ではBMSデータで基本性能を検証し、Phase-2では年4回の会議で負荷縮減を検討し、Phase-3では設定のチューニングを実施しました。建物の用途別負荷パターン分析に基づき、事務所・ホール・吹き抜けなど各部位の省エネ項目を実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;10年目の実績として、冷水デマンドは971RT（2015年比▲37%）、蒸気デマンドは1,193kW（▲70%）に削減されました。年間一次エネルギー消費量は1,147MJ/㎡（2015年比▲32%）に低減しています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;各用途の実際の負荷に合わせた機器運転に変更することで、大きな省エネ効果が得られます。長期的で体系的な改善取り組みと、建物管理者と設計者の協働体制が有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_481/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>室温制御によるDRの効果検証と同定熱モデルを用いた最適化に関する研究 （第4報）変動環境下における快適性に関する検討</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_153/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.09.0_153</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="エネルギー管理" />
+    <author>
+      <name>蘇 俊傑</name>
+    </author>
+    <author>
+      <name>長井 達夫</name>
+    </author>
+    <author>
+      <name>久保井 大輔</name>
+    </author>
+    <author>
+      <name>掛川 敏正</name>
+    </author>
+    <author>
+      <name>南部 秀貴</name>
+    </author>
+    <content type="html">&lt;p&gt;蘇 俊傑, 長井 達夫, 久保井 大輔, 掛川 敏正, 南部 秀貴 ／ 令和６年度大会（佐賀）学術講演論文集　第９巻　エネルギー管理 編 p.153-156&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;室温制御によるディマンドリスポンス(DR)では、冷房・暖房の制御時間を調整するため室温が時間的に変動します。こうした変動環境下での居住者の快適性を確保する必要があり、既往研究の調査とシミュレーションを通じて、設定温度範囲とDR運転方法が快適性に与える影響を検討しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;快適性の評価基準として、ASHRAE standard 55とZhangらの被験者実験結果を参考にしました。熱負荷計算プログラムNewHASPを改変し、設定温度24℃を中心とした±1℃と±2℃の2ケースで、猶予時間を変化させたシミュレーションを実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;許容温度幅2℃（23～25℃）のケース1では、すべての運転方法においてASHRAE基準を満たしました。許容温度幅4℃（22～26℃）のケース2ではASHRAE基準は満たしませんでしたが、Zhangの実験結果とほぼ同等でした。基準逸脱は猶予時間からDR運転への移行時に生じることが判明しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;設定温度幅を2℃以内に設定することで、DR運転時の快適性基準への適合が可能です。温度設定変更時の急激な温度変化を制御することが、居住者の快適性を確保する上で重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_153/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>集合住宅におけるDR実証に関する研究 居住者の行動変容と燃料電池の運転制御による電力需給の最適化</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_165/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.09.0_165</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="エネルギー管理" />
+    <author>
+      <name>松岡 佑磨</name>
+    </author>
+    <author>
+      <name>秋元 孝之</name>
+    </author>
+    <author>
+      <name>横山 計三</name>
+    </author>
+    <author>
+      <name>志波 徹</name>
+    </author>
+    <author>
+      <name>岡原 慶輔</name>
+    </author>
+    <author>
+      <name>庄司 祐子</name>
+    </author>
+    <author>
+      <name>田澤 悠奈</name>
+    </author>
+    <content type="html">&lt;p&gt;松岡 佑磨, 秋元 孝之, 横山 計三, 志波 徹, 岡原 慶輔, 庄司 祐子, 田澤 悠奈 ／ 令和６年度大会（佐賀）学術講演論文集　第９巻　エネルギー管理 編 p.165-168&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;電力需給のひっ迫に対応するため、Demand Response（DR）が注目されている。集合住宅における居住者の行動変容と燃料電池制御を組み合わせたDRにより、電力需要の最適化を目指す。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2023年6月～9月に大阪市の集合住宅で実証実験を実施した。スマホアプリやランキング表示のナッジ、ポイント報酬で行動変容を促し、燃料電池の出力制御と組み合わせ、再エネ余剰時の上げDRと需給ひっ迫時の下げDRを検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏期実験では10住戸中7住戸でDR時間帯の消費電力削減（最大5.54 kWh）を確認した。エアコンや照明などの日常使用機器が下げDRに適しており、需要最適化係数に基づく一次エネルギー換算係数によるDR効果の評価が可能であることが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;時間帯の電源特性を反映した需要最適化係数による評価が重要である。行動変容施策と制御装置の組み合わせにより電力需給の最適化が実現でき、運用時のDR効果を反映した評価手法が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_165/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>東京電機大学東京千住キャンパスの省CO2実現に向けた取組み その40 キャンパス全体の運用実態把握とコロナ前後の比較</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_17/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.09.0_17</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="エネルギー管理" />
+    <author>
+      <name>金澤 空大</name>
+    </author>
+    <author>
+      <name>射場本 忠彦</name>
+    </author>
+    <author>
+      <name>百田 真史</name>
+    </author>
+    <author>
+      <name>西川 雅弥</name>
+    </author>
+    <author>
+      <name>渡辺 聡</name>
+    </author>
+    <author>
+      <name>井山 義信</name>
+    </author>
+    <author>
+      <name>中村 弘和</name>
+    </author>
+    <author>
+      <name>矢部 邦男</name>
+    </author>
+    <content type="html">&lt;p&gt;金澤 空大, 射場本 忠彦, 百田 真史, 西川 雅弥, 渡辺 聡, 井山 義信, 中村 弘和, 矢部 邦男 ／ 令和６年度大会（佐賀）学術講演論文集　第９巻　エネルギー管理 編 p.17-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;GXの推進に伴い、既存建築物の省CO2化が重要な課題となっています。東京電機大学東京千住キャンパスは2012年の開設以来、継続的にBEMSデータを活用した省エネルギー化を進めてきました。本論文は過去12年間の運用実績をまとめるとともに、感染症流行の前後における建物利用状況とエネルギー消費の関係を比較分析しました。在館人数を利用者数の指標として、原単位ベースのエネルギー消費性能を評価しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;対象は1～5号館で構成されるキャンパス全体です。BEMSデータと各建物入館ゲートのカードリーダ検知による在館人数データを用いて、運用日数、負荷熱量、消費電力量、システムCOPを分析しました。コロナ前の2018年度、コロナ禍の2020年度、平常時への回復が進む2023年度の3時期について比較検討しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;12年間で単位床面積当たりの消費電力量は初年度比24％、ピーク電力は13％削減されました。冷水負荷熱量は2020年度に約91.0MJ/m²·年まで低下しましたが、2023年度は約176.3MJ/m²・年に増加しました。温水負荷熱量は継続的に減少傾向を示しています。コロナ禍では在館人数が大幅に減少したにもかかわらず、外気導入量増加により電力消費削減は限定的でした。用途別分析の結果、照明・コンセント、空気搬送、換気が在館人数との相関性が高く、熱源機は夜間蓄熱運転のため人数との関連性が小さいことが確認されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;用途によって在館人数とエネルギー消費の関係が異なることから、利用状況に応じた設備運用の最適化が省エネルギー化に有効と考えられます。特に相関性の高い照明・空気搬送・換気設備において、利用人数の変動に対応した制御の改善が期待できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_17/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>実験に基づくファンの秒スケールの過渡状態分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_53/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.09.0_53</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="エネルギー管理" />
+    <author>
+      <name>岸田 立</name>
+    </author>
+    <author>
+      <name>宮田 翔平</name>
+    </author>
+    <author>
+      <name>松尾 実</name>
+    </author>
+    <author>
+      <name>矢島 和樹</name>
+    </author>
+    <author>
+      <name>赤司 泰義</name>
+    </author>
+    <content type="html">&lt;p&gt;岸田 立, 宮田 翔平, 松尾 実, 矢島 和樹, 赤司 泰義 ／ 令和６年度大会（佐賀）学術講演論文集　第９巻　エネルギー管理 編 p.53-56&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築設備のシミュレーションは定常状態を前提としているが、デジタルツインやスマートビル運用の実現に向けて、機器の過渡状態における動的特性の再現が求められている。空調機の能力は動的条件では定常時に比べ10～30%低下することが報告されており、正確なシミュレーションには動的特性の把握が不可欠である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;エアハンドリングユニット（AHU）を用いて、ファンの起動・停止時およびインバータで周波数を変更した際の1秒単位のデータを測定した。風量、出力周波数、ファン前後差圧、消費電力を記録し、加速・減速時間を20秒および120秒の2条件で実験を行った。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;出力周波数と実測風量の間に0.858秒の時間遅れが存在した。この遅れにより周波数増加時は消費電力が増加し、減速時には減少する。三相誘導モータのすべりが変化して電流値が増減することが原因である。風量と差圧の関係は定常時の特性を保持していた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;過渡状態の動的特性は、汎用シミュレーションに適用できるファン特性の定式化に向けた基礎知見となる。他条件や様々なファンへの適用確認を通じて、スマートビル運用やエネルギー最適化シミュレーションの精度向上が期待される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.09/0/2024.09_53/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>段ボールダクトの高圧仕様への適用に関する検討 （第1報）耐圧試験によるダクト接続部・コーナー部・タイロッドの評価</title>
+    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.10/0/2024.10_489/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shasetaikai.2024.10.0_489</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <category term="都市環境" />
+    <author>
+      <name>品田 直也</name>
+    </author>
+    <author>
+      <name>田村 稔</name>
+    </author>
+    <author>
+      <name>早坂 孝光</name>
+    </author>
+    <content type="html">&lt;p&gt;品田 直也, 田村 稔, 早坂 孝光 ／ 令和６年度大会（佐賀）学術講演論文集　第10巻　都市・環境 編 p.489-492&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;段ボールダクトは環境負荷と施工費を削減できるが、耐圧強度の制限から低圧に限定される。本研究は高圧1ダクト対応を目的に、接続部・コーナー部・タイロッド仕様の検討を耐圧試験で行った。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;段階的な施工改善を加えながら3回の耐圧試験を実施。評価ダクトに圧力を段階的に負荷し、変形量と破損を測定した。評価指標は常用圧力+1,000Paで変形率2%以下、制限圧力+1,500Paで破損なしとした。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;初試験で接続部等の強化が不足していることが判明した。改良を重ねて、コの字補強金具（1.0mm厚）両端設置、コーナー部ALGC3重貼り、タイロッド取付強化により、+1,500Paまで破損なしを確認。ダクト幅650mm以下はタイロッド不要、700mm以上で必要となった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;高圧1ダクト仕様では、最大ダクト長1,300mmの制限と接続部補強金具設置が必須である。また、コーナー部強化とダクト幅に応じたタイロッド配置が重要な実装条件となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.10/0/2024.10_489/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>寸法制約のある物件を対象としたペレット状潜熱蓄熱材による遮熱効果の検証</title>
     <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.02/0/2024.02_149/_article/-char/ja/" />
@@ -409,80 +1132,5 @@
       <name>田辺 新一</name>
     </author>
     <content type="html">&lt;p&gt;原崎 ひかり, 新藤 幹, 志波 徹, 田辺 新一 ／ 令和６年度大会（佐賀）学術講演論文集　第６巻　温熱環境評価 編 p.129-132&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築環境の分野において、測定データを居住者や施主が理解しやすく提示し、より効果的な空間利用や適切な冷暖房・換気運用を促すことが重要である。本研究はPythonを用いた可視化プラットフォームを構築し、実測データと計画段階での環境性能分析に活用することを目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;大阪府の実験住戸（130.74 m²）を対象に、2023年1月から12月まで全12室の室温を30分ごとに測定した。Pythonベースのプラットフォーム「VIKTOR」により、3Dモデルと温熱環境・電力消費データを可視化・分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;室温は代表日を通じて変動が小さく、冬季でもウェルネスZEH基準（18°C以上）をおおむね達成した。リビング・ダイニングでは約94%の時間が18°C以上で推移し、全季節で室間温度差が小さいことが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.06/0/2024.06_129/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>サーマルマネキンを用いた経気道・経皮暴露量評価に関する実験的研究 その１ 閉鎖空間でのトルエン暴露実験</title>
-    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_145/_article/-char/ja/" />
-    <id>urn:doi:10.18948/shasetaikai.2024.07.0_145</id>
-    <updated>2026-08-16T00:00:00+09:00</updated>
-    <category term="空気質" />
-    <author>
-      <name>住吉 栄作</name>
-    </author>
-    <author>
-      <name>原嶋 寛</name>
-    </author>
-    <author>
-      <name>伊藤 一秀</name>
-    </author>
-    <content type="html">&lt;p&gt;住吉 栄作, 原嶋 寛, 伊藤 一秀 ／ 令和６年度大会（佐賀）学術講演論文集　第７巻　空気質 編 p.145-148&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;2022年の化学物質規制改正により、自律的な暴露量管理が必須となりました。暴露は空間形状、換気、人体発熱など複合要因に影響されますが、被験者実験は倫理的に困難です。本研究はサーマルマネキンと数値解析を活用して、経気道・経皮暴露量の正確な評価手法の開発を目指しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;5.5m³大型チャンバーに座位のサーマルマネキンを設置し、25℃・50%RH・換気回数1.0回/hで制御しました。床上720mmからトルエンを0.182mg/minで発生させ、発熱なしと代謝量1metでの発熱の2ケースについて、呼吸域濃度をアクティブサンプリング（Tenax TA・GC/MS）で、皮膚表面濃度をパッシブサンプラーで測定しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;発熱なしで呼吸域濃度は平均0.75ppm、皮膚表面濃度は0.26～1.75ppmでした。発熱ありで呼吸域濃度は平均0.56ppm、皮膚表面濃度は0.30～0.45ppmで、ばらつきが小さくなりました。発熱により流れ場が安定し濃度分布が均質化したと推定されます。発熱ケースで皮膚表面濃度が呼吸域濃度より低く、人体発熱考慮時に経皮暴露と吸入暴露で濃度差が生じる可能性が示唆されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;人体発熱が暴露濃度分布に有意な影響を及ぼすため、正確な個人暴露量評価には人体温熱生理を考慮した数値モデルが重要です。サーマルマネキン実験とシミュレーション統合により、被験者実験を回避しつつ数値モデル予測精度を検証できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_145/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Advancement of Infection Risk Assessment in Indoor Spaces (Part 3): Validation of Simplified Droplet Dispersion Analysis Using Passive Scalar</title>
-    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_21/_article/-char/ja/" />
-    <id>urn:doi:10.18948/shasetaikai.2024.07.0_21</id>
-    <updated>2026-08-16T00:00:00+09:00</updated>
-    <category term="空気質" />
-    <author>
-      <name>小川 夕季</name>
-    </author>
-    <author>
-      <name>保高 徹生</name>
-    </author>
-    <author>
-      <name>内藤 航</name>
-    </author>
-    <author>
-      <name>篠原 直秀</name>
-    </author>
-    <author>
-      <name>横野 遼太郎</name>
-    </author>
-    <author>
-      <name>中澤 武馬</name>
-    </author>
-    <author>
-      <name>笹井 雄太</name>
-    </author>
-    <author>
-      <name>田中 秀和</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;室内空間における感染リスク評価の高度化 （第3報）パッシブスカラーによる簡易的な飛沫拡散解析の有用性検証&lt;/em&gt;&lt;/p&gt;&lt;p&gt;小川 夕季, 保高 徹生, 内藤 航, 篠原 直秀, 横野 遼太郎, 中澤 武馬, 笹井 雄太, 田中 秀和 ／ 令和６年度大会（佐賀）学術講演論文集　第７巻　空気質 編 p.21-24&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;CFDによる精密な飛沫拡散解析は計算コストが高いため、簡易解析手法の開発が求められている。パッシブスカラーによる物質拡散解析の手法は開発されたが、実測との比較による有用性確認が不十分である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;評価室（4m×3.5m×2.4m）で模擬人体から飛沫を放出し、粒子数と風速を測定する実測試験を実施。空調機、空気清浄機、給排気口の配置と運転条件を8ケース変えて評価。CFD解析ではパッシブスカラー法で小径・中径・大径飛沫を分析し、用量反応モデルで感染確率を算出。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;パッシブスカラー解析の濃度分布が実測と概ね一致（±0.1%誤差内）。空調機単独稼働では飛沫が室全体に拡散するが、適切に配置・運転した空気清浄機併用で濃度が0.89～0.90倍に低下。空調フィルタ装着により大径飛沫濃度が0.49倍に減少。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;簡易解析で低コストかつ実測同等の精度で飛沫拡散と感染リスクを予測できる。空調機稼働時は空気清浄機との適切な連動やフィルタ装着により、飛沫濃度と感染リスクを低減可能。機器の最適配置と運転条件の導出に活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.07/0/2024.07_21/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>オフィスの未来価値を創出する環境アプローチに関する研究 （第3報）ABWオフィスが執務者のWell-beingに与える影響のアンケート評価</title>
-    <link href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_169/_article/-char/ja/" />
-    <id>urn:doi:10.18948/shasetaikai.2024.08.0_169</id>
-    <updated>2026-08-16T00:00:00+09:00</updated>
-    <category term="性能検証" />
-    <author>
-      <name>中村 晃大</name>
-    </author>
-    <author>
-      <name>秋元 孝之</name>
-    </author>
-    <author>
-      <name>横山 計三</name>
-    </author>
-    <author>
-      <name>河原崎 結衣</name>
-    </author>
-    <author>
-      <name>佐々木 真人</name>
-    </author>
-    <author>
-      <name>内田 大貴</name>
-    </author>
-    <content type="html">&lt;p&gt;中村 晃大, 秋元 孝之, 横山 計三, 河原崎 結衣, 佐々木 真人, 内田 大貴 ／ 令和６年度大会（佐賀）学術講演論文集　第８巻　性能検証・実態調査 編 p.169-172&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従業員の心身健康と幸福感を重視する働き方が注目されており、作業内容に応じた空間選択が可能なABW（作業内容別就業）オフィスの導入が進んでいる。本研究は、多様な環境を備えたABWオフィスがもたらすウェルビーイングの効果を検証することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;固定席オフィスからABWオフィスへ移転した約970名の従業員を対象に、移転6ヶ月以降にアンケート調査を実施した。オフィスの快適性・知的生産性、心理的幸福度（PERMAモデル）、ワーク・エンゲージメントなど複数項目について移転前後を比較し、重回帰分析で環境要素とウェルビーイングの関係を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;座席選択満足度は27%から69%に向上し、全作業のしやすさが改善された。知的生産性向上者は20%から65%に増加した。PERMA分析では孤独感が有意に低下し、ポジティブ感情に正の相関を示した。重回帰分析で、空間環境の満足度が座席選択満足度に最も強く影響することが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;空間の多様性と選択性を確保することにより、執務者の満足感と作業効率が向上する。混雑度や温熱環境などの基本的環境要素への配慮と、個人の優先度に応じた場所選択が可能な設計がウェルビーイング向上の鍵となり得ることが示唆されている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shasetaikai/2024.08/0/2024.08_169/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

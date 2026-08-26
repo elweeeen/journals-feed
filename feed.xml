@@ -3,7 +3,561 @@
   <title>建築環境・設備 新着論文</title>
   <link href="https://elweeeen.github.io/journals-feed/feed.xml" rel="self" />
   <id>urn:jstage-journals:feed</id>
-  <updated>2026-08-16T00:00:00+09:00</updated>
+  <updated>2026-08-27T00:00:00+09:00</updated>
+  <entry>
+    <title>シミュレーションに基づく間欠的利用高密度空間の運用熱レジリエンスフレームワーク：開発と湾岸モスク礼拝堂への応用</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118137" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118137</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <author>
+      <name>Issah M. Alhamad</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A simulation-based operational thermal resilience framework for intermittently occupied high-density spaces: development and application to Gulf mosque prayer halls&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Issah M. Alhamad ／ Energy and Buildings 370巻 p.118137-118137&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;モスクの礼拝ホールで短時間に大量の信者が集中する際、瞬時的な顕熱・潜熱負荷が発生します。従来の定常状態評価では、この過渡的な熱環境変化への対応能力を表現できません。信者数を組み込んだPMV快適ゾーンと簡約化された熱・湿気モデルを統合し、正規化快適容量指標（CCI*）を導入した評価フレームワークを開発しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;CCI*は指定期間内に快適性限界前に収容可能な最大追加信者数を定量化します。標準ゾーン（|PMV| ≤ 0.5）とリラックスゾーン（|PMV| ≤ 0.7）の2つの基準を設定し、4つの運転条件下で評価しました。負荷除去なし、設計通り瞬時供給、1次HVACレスポンス、占有期間中の外気浸入を伴う応答です。公開モスク測定データでパラメータ範囲を検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;相対湿度55%での標準ゾーン上限は約23.5°C、初期24°Cではマージンがほぼゼロです。22°C予冷で収容可能信者数が著しく増加し、積極的HVAC対応でさらに向上します。応答遅延と外気浸入は能力を低下させ、送風を伴う気流制御は高温・高湿下で快適性を改善します。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;礼拝スケジュール連動の予冷、タイムリーなHVAC立ち上げ、予測可能な短時間占有ピークがある空間での気流制御が有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118137"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>実車客室における換気気流の特性評価：実験的ベンチマーク</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2718003" />
+    <id>urn:doi:10.1080/23744731.2026.2718003</id>
+    <updated>2026-08-27T00:00:00+09:00</updated>
+    <author>
+      <name>F. Arpino</name>
+    </author>
+    <author>
+      <name>Michele Bertone</name>
+    </author>
+    <author>
+      <name>Marco Dell’Isola</name>
+    </author>
+    <author>
+      <name>G. Grossi</name>
+    </author>
+    <author>
+      <name>Andrea Sciacchitano</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Characterization of the ventilation flow in a real car cabin: an experimental benchmark&lt;/em&gt;&lt;/p&gt;&lt;p&gt;F. Arpino, Michele Bertone, Marco Dell’Isola, G. Grossi, Andrea Sciacchitano ／ Science and Technology for the Built Environment p.1-20&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;商用自動車のキャビン内気流を実験的に調査し、数値流体解析（CFD）シミュレーションの妥当性を検証するベンチマークデータセットの構築を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;パネルベント吹出しモードを4段階のファン流量で運転し、5ホール圧力プローブと粒子画像速度計測法（PIV）を用いてキャビン内の3断面での速度分布を測定した。乱流運動エネルギー（TKE）とレイノルズ応力を評価し、不確実性分析を実施後、CFDツール検証に供した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;吹出口速度は4～5 m/sのピークを示し、ベント間の非対称性が認められた。ファン速度3設定時、吹出口から25cm下流でキャビン内ピーク速度は2 m/s、ジェット幅は吹出口の7cmから天井近くの16cmへ拡がった。ジェットコアの乱流運動エネルギーは0.4 m²/s²を超え、CFD検証では0.25 m/s以下の誤差で良好に一致した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;車室内ベント気流の詳細な分布特性とジェット挙動が示され、CFDの信頼性が実験的に確認されている。建築設備の通風・空調設計時にシミュレーション結果の妥当性評価に参考となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2718003"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>温度差換気を用いるオフィスビルの各種設計条件と最適な自然換気口面積の関係</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_257/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.257</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>加藤 正宏</name>
+    </author>
+    <author>
+      <name>小林 知広</name>
+    </author>
+    <author>
+      <name>大西 直紀</name>
+    </author>
+    <author>
+      <name>弓野 沙織</name>
+    </author>
+    <content type="html">&lt;p&gt;加藤 正宏, 小林 知広, 大西 直紀, 弓野 沙織 ／ 日本建築学会環境系論文集 91巻843号 p.257-266&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;浮力を利用した自然通風は中規模建物で多く採用されている手法です。本研究では、最適化アルゴリズムと通風ネットワーク計算を組み合わせて、通風量を均一かつ最大にする開口面積を決定することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;開口面積、階数、内部発熱量、空調方式といった設計条件をパラメータとして変動させ、最適化計算を実施しました。各パラメータが自然通風開口部の最適値に及ぼす影響を詳細に分析しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;設計条件の変化に対応した最適開口面積の設計データが提示されました。これにより、要求される通風性能を満たす開口面積の決定基準が得られています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;異なる建物条件に対応した最適開口面積の設計データが利用可能となることで、浮力通風を採用する際の開口面積設計の合理化が期待できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_257/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Prediction of Pleasantness and Unpleasantness Assessment in Odor Addition for Sensory Deodorization</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_267/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.267</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>竹村 明久</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;感覚的消臭を意図した臭気へのにおい付加時の快・不快評価予測&lt;/em&gt;&lt;/p&gt;&lt;p&gt;竹村 明久 ／ 日本建築学会環境系論文集 91巻843号 p.267-275&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;感覚的消臭方法は複数の臭い成分を混合させることで消臭効果を得る手法である。しかし、異なる臭いの混合時に生じる相互作用は複雑であり、その混合結果を事前に予測することが困難である。そのため、効率的で信頼性の高い消臭設計対応が実務的な課題となっている。本研究は、消臭設計に必要な定量的かつ実用的な予測データの構築を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数の悪臭と添加臭の異なる組み合わせを対象に、3つの実験を系統的に実施した。各実験において、添加臭と悪臭の強度差と、混合臭と悪臭の嗜好度差の関係を詳細に検討し、混合時の定量的な規則性と傾向を追求した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;添加臭と悪臭の強度差と、混合臭と悪臭の嗜好度差との間には、臭いの組み合わせごとにほぼ線形の関係が存在することが明らかになった。同一種類の添加臭を用いた場合には類似した傾向が観察され、高濃度の悪臭条件では関係式の勾配がやや緩くなる特性が確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;消臭設計において、添加臭と悪臭の強度差に基づいて、混合臭の嗜好度変化を定量的に予測することが可能になり、試行錯誤を大幅に削減できる。得られた線形関係と勾配の特性は、消臭対象に応じた効果的な添加臭の種類選択と濃度設定に直接活用できる見通しが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_267/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>近隣環境による健康寿命への影響に関する階層構造分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_276/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.276</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>安藤 真太朗</name>
+    </author>
+    <author>
+      <name>前田 俊亮</name>
+    </author>
+    <author>
+      <name>川久保 俊</name>
+    </author>
+    <content type="html">&lt;p&gt;安藤 真太朗, 前田 俊亮, 川久保 俊 ／ 日本建築学会環境系論文集 91巻843号 p.276-283&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_276/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Trend Analysis of Shinkansen Railway Vibration in Elevated Bridge Sections Using Numerical Analysis and Examination of Applicability of Simplified Prediction Methods</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_284/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.284</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>野寄 真徳</name>
+    </author>
+    <author>
+      <name>横山 秀史</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;数値解析を用いた高架橋区間の新幹線鉄道振動の傾向分析と簡易予測法の適用性の検討&lt;/em&gt;&lt;/p&gt;&lt;p&gt;野寄 真徳, 横山 秀史 ／ 日本建築学会環境系論文集 91巻844号 p.284-295&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;新幹線による地盤振動は周辺環境に大きな影響を与えます。本研究では、高架橋区間における新幹線列車起因の地盤振動について、地盤特性と列車速度の条件を考慮し、全体加速度（OA値）と周波数特性を数値シミュレーションにより分析しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;数値シミュレーションを実施して地盤振動を計算し、その結果を簡便に予測できる方法の開発を検討しました。具体的には、多項式フィッティング法と人工ニューラルネットワーク（ANN）モデルを検討しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;地下深度の増加、列車速度の上昇、線路中心からの距離の短縮、N値の低下に伴い、OA値が増加することが明らかになりました。多項式フィッティング法とANNモデルは、数値シミュレーション結果を高精度で予測できることが確認されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;複雑な数値シミュレーション結果を多項式フィッティング法やANNモデルで簡便に予測可能であることが示されており、実務での振動評価に活用できる見通しがあります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_284/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Research on Quantitative Evaluation Methods for Condensation Prevention Performance Testing of Building Openings</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_296/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.296</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>齋藤 宏昭</name>
+    </author>
+    <author>
+      <name>齊藤 孝一郎</name>
+    </author>
+    <author>
+      <name>栗岩 賢史</name>
+    </author>
+    <author>
+      <name>喜田 高弘</name>
+    </author>
+    <author>
+      <name>上乗 正信</name>
+    </author>
+    <author>
+      <name>馬渕 賢作</name>
+    </author>
+    <author>
+      <name>斉藤 匠</name>
+    </author>
+    <author>
+      <name>岸本 尚子</name>
+    </author>
+    <author>
+      <name>井口 雅登</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;開口部の結露防止性能試験における定量的評価法に関する研究&lt;/em&gt;&lt;/p&gt;&lt;p&gt;齋藤 宏昭, 齊藤 孝一郎, 栗岩 賢史, 喜田 高弘, 上乗 正信, 馬渕 賢作, 斉藤 匠, 岸本 尚子, 井口 雅登 ／ 日本建築学会環境系論文集 91巻844号 p.296-304&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;開口部（窓など）システムの結露防止性能試験における結果のばらつきが問題となっていた。JIS A 1514の現行試験手順では再現性が十分でなく、試験の精度と定量性を向上させることが必要不可欠である。本研究は、より正確で再現性の高い評価方法の確立を目指すものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;試験室内における自然対流の検証方法と、表面に付着する結露水の質量測定方法について改善を検討した。また、複数の異なる実験室が同一試料を評価するラウンドロビン試験を実施し、提案手法の妥当性を実証的に検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案された試験方法により、従来よりも試験結果の再現性が向上することが明らかとなった。この成果は、結露防止性能試験に関する標準改定の経験的な基盤となるものである。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;JIS A 1514の改定を通じて、より精度の高い結露防止性能試験方法が実装される見通しが示された。これにより、建築実務における開口部の結露防止性能評価の信頼性が向上する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_296/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>申し訳ありませんが、翻訳対象の英語タイトルが記載されていないようです。コロンの後に英語のタイトルを提供していただければ、日本語に翻訳いたします。</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_305/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.305</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>清水 和真</name>
+    </author>
+    <author>
+      <name>森 太郎</name>
+    </author>
+    <author>
+      <name>大沢 飛智</name>
+    </author>
+    <author>
+      <name>林 基哉</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;後期高齢者の健康と住環境に関する研究：&lt;/em&gt;&lt;/p&gt;&lt;p&gt;清水 和真, 森 太郎, 大沢 飛智, 林 基哉 ／ 日本建築学会環境系論文集 91巻844号 p.305-315&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;高齢化が進む日本において、住宅などの生活環境が後期高齢者の季節性健康リスクおよび医療経済に及ぼす影響を解明することが重要課題である。本研究は、居住環境の物理特性（断熱性能、床面積、建築構造等）が季節別の死亡率および医療費に与える影響を、地域の気候特性を考慮して明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数の二次医療圏を対象にクラスター分析を実施した。地域気候に応じた住宅建築特性と季節別死亡率・医療費の関連性を検討し、後期高齢者の健康アウトカムに関連する因子を抽出した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;断熱改修施工は冬季死亡率の低下と関連していた。寒冷地では木造住宅が全原因死亡の夏季リスク低減と関連する一方で、住宅内死亡のリスクが増加していた。床面積が大きいほど医療費が低かった。これらの結果は、室内温熱環境の管理が後期高齢者の健康に大きく影響することを示唆している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;季節性健康リスク軽減には、地域気候に応じた断熱改修と空調設備の導入が有効である。これら物理的介入により、高齢者の健康リスクと医療経済の改善が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_305/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>パッシブデザイン手法が快適性と省エネルギー性能に及ぼす影響に関する研究（第2報）―オフィスビルを対象とした検討</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_316/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.316</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>菅 健太郎</name>
+    </author>
+    <author>
+      <name>大岡 龍三</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;パッシブデザイン手法が快適・省エネルギー性能に及ぼす影響度に関する研究（その２）：オフィスビルを対象とした検討&lt;/em&gt;&lt;/p&gt;&lt;p&gt;菅 健太郎, 大岡 龍三 ／ 日本建築学会環境系論文集 91巻844号 p.316-324&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来の住宅を対象とした研究から発展させ、事務所建築を対象にパッシブ設計戦略の効果を定量的に評価することを目指している。事務所では照明・機器・在室者からの内部熱負荷が住宅より大きく、かつ時間的に変動しやすいという特性を十分に考慮する必要がある。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;年間エネルギー消費と空間熱自立度（Spatial Thermal Autonomy：sTA）をパフォーマンス指標として採用した。照明、機器設備、在室密度を系統的に変化させることで、複数の設計条件を分析した。設計因子間の非線形性と相互作用を捉えるため、SHAP法に基づくグローバル感度分析を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;エネルギー消費とsTAでは支配的な影響因子が異なることが明らかになった。内部負荷が低下するほど、パッシブ設計戦略の相対的な重要性が高まることが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;評価指標によって支配的な設計因子が異なることから、目標指標を明確にしたうえで設計対策の優先順位を定める必要がある。また低内部負荷の事務所ではパッシブ設計戦略がより重要な役割を果たすことが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_316/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ウインドキャッチャーを用いた室内熱快適性達成のための環境最適化</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118093" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118093</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>Ghada Elshafei</name>
+    </author>
+    <author>
+      <name>Silvia Vilčeková</name>
+    </author>
+    <author>
+      <name>Martina Zeleňáková</name>
+    </author>
+    <author>
+      <name>Abdelazim Negm</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Towards environmental optimization for achieving indoor thermal comfort using windcatchers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ghada Elshafei, Silvia Vilčeková, Martina Zeleňáková, Abdelazim Negm ／ Energy and Buildings 370巻 p.118093-118093&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;熱帯乾燥気候における室内熱快適性の向上を目指し、ウィンドキャッチャーなどの受動的環境設計要素の有効性を検証する。緑建築のパラダイム発展に向け、窓壁面比率（WWR）や建物向きなどの最適設計パラメータを明らかにし、室内熱性能を向上させることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;エジプトの気象データを用いてDesignBuilderシミュレーションツールで気候条件を再現し、計算流体力学（CFD）により設計要因が室内環境（空気速度等）に与える影響を分析した。4つの異なる建築設計での効果を比較検討した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏季のカイロでは中空広場形（Hollow Square design）が最も効率的で、CO2排出量251.8kg、熱不快指数時間156.8hと最小値を示した。この設計は建物サイズが小さく、窓壁面比率が低く（20%）、建物向きが理想的であることが効率性の要因である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ウィンドキャッチャーによる受動的冷房の実効性は、建築形態、窓壁面比率、建物向き、風向・風速といった複合的な設計要因に左右される。熱帯乾燥気候地域での設計にあたっては、これらの要因を統合的に最適化することが室内熱快適性向上の鍵となる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118093"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>破壊的事象下における建築環境のエネルギー・レジリエンス：ハザード、気候、公平性を考慮した系統的スコーピングレビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118111" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118111</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>Rakesh Ramesh</name>
+    </author>
+    <author>
+      <name>Hassam ur Rehman</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Energy resilience in the built environment under disruptive events: hazard-, climate- and equity-informed systematic scoping review&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rakesh Ramesh, Hassam ur Rehman ／ Energy and Buildings 370巻 p.118111-118111&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気候ハザードの増加に伴い、建物のエネルギーレジリエンスの重要性が高まっているが、既存研究は概念的に断片化し、建物物理と社会科学の統合が不足している。本研究は建築環境におけるエネルギーレジリエンスの定義と測定方法を技術的・気候的・公平性の観点から体系的に検証する。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;Web of ScienceとScopusで2000年～2025年の研究を検索し、167件の論文と9つのレジリエンスフレームワーク（計176件）を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;3つの構造的課題が明らかになった。操作可能な定義を示した研究は25%にとどまり、29種類の異なる指標が学際的に共有されていない。ほとんどの研究が単一建物・短期間・事象ベースのメトリクスに依存し、複数ハザード軌跡や公平性への対応が限定的である。経験的証拠は高所得地域の熱関連ハザードに偏り、グローバルサウスの研究は10%未満である。受動的外皮性能がすべての気候文脈で最も一貫性のあるレジリエンス決定要因として浮上した一方、冷気候への対応研究が不足している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;調査から、ハザード・気候・公平性の次元を統合した6段階の評価フレームワークが提案されており、調和的なメトリクスと政策開発を支援する。特に冷気候における受動的生存可能性の標準化が重要な課題である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118111"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>小学校普通教室における窓開け換気による児童居住域温度と換気量</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/842/91_223/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.223</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>合原 妙美</name>
+    </author>
+    <author>
+      <name>岩下 剛</name>
+    </author>
+    <author>
+      <name>田辺 新一</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;小学校普通教室における「窓開け換気」による児童居住域温度と換気量&lt;/em&gt;&lt;/p&gt;&lt;p&gt;合原 妙美, 岩下 剛, 田辺 新一 ／ 日本建築学会環境系論文集 91巻842号 p.223-234&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;COVID-19パンデミック後の2023年度において、機械換気装置を備えていない教室が公式推奨に従いウインドウとドア開放による自然換気を推進している。本研究は、このような自然換気を中心とした実践的環境における換気効率と室内温熱環境の実態を定量的に把握することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;測定教室の1人当たり換気率は、春秋の中間期で29 m³/hであったが、冷暖房期では約20 m³/hに低下し、中間期比で約30%の低下を示した。室内温度環境は季節間で顕著な差が生じ、冷房期に児童の着座位置で気温が28°Cを超える時間が学校時間の9%、暖房期には18°C以下の時間が91%に達した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;外気条件に依存する自然換気の制約が明らかになり、季節ごとに異なる適切な換気戦略の構築が求められる。自然換気のみでは室内の温熱快適性を十分に確保することが困難であることが示唆された。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/842/91_223/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ご指示のプロンプトが矛盾しています。提供いただいているテキストは既に日本語です。</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/842/91_235/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.235</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>登尾 育海</name>
+    </author>
+    <author>
+      <name>森本 理仁</name>
+    </author>
+    <author>
+      <name>西村 智賢</name>
+    </author>
+    <author>
+      <name>杜 偉薇</name>
+    </author>
+    <author>
+      <name>村本 真</name>
+    </author>
+    <content type="html">&lt;p&gt;登尾 育海, 森本 理仁, 西村 智賢, 杜 偉薇, 村本 真 ／ 日本建築学会環境系論文集 91巻842号 p.235-246&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;伝統的な日本の左官工事では、職人が視覚によって表面品質を評価し、鏝の動きを予測しながら作業を行っている。本研究は、こうした職人の経験的判断をロボットアームが支援する形で、人間と機械が協働する連続塗り壁システムの開発を目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;深度画像と深層畳み込みニューラルネットワークを活用した自動品質評価手法を採用した。異なる画像解像度と照明条件下での塗り壁欠陥を含む学習用データセットを構築し、その評価結果に基づいてロボットが未塗装エリアを補塗する仕組みとしている。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;本システムにより、様々な環境条件下での連続的な運用が実現でき、人間の左官職人の作業負荷を軽減することが可能になった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;AI技術を用いた自動品質評価により、職人の経験的判断の一部を機械化できる可能性が示された。ロボット補助により、労働環境の改善と施工効率の向上が期待される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/842/91_235/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>推計気象分布の日照率を用いた日射量の推定</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_247/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.247</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>赤坂 裕</name>
+    </author>
+    <author>
+      <name>武田 和大</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;推計気象分布の日照率を用いた日射量の推定&lt;/em&gt;&lt;/p&gt;&lt;p&gt;赤坂 裕, 武田 和大 ／ 日本建築学会環境系論文集 91巻843号 p.247-256&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気象庁が提供するひまわり8号衛星に基づく日射時間情報を利用して、地上における時間単位の日射量を推定する方法を開発することを目的とした。衛星データは広い地域で利用可能であり、地上測定ネットワークの空間的な制限を補う可能性がある。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;気象庁の推定天気分布に含まれるひまわり8号ベースの日射時間データから、地上の時間単位日射量を推定するための計算式を開発し、係数を決定した。全国47の気象台における実測値と比較することで、提案式の推定精度を定量的に検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案した推定式による予測値は、地上で直接測定した日射時間を用いた従来の推定法よりも精度はやや低いものの、メソスケールモデル（MSM）ファイルを基に推定する方法よりは大幅に精度が優れていることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;衛星データに基づく推定式は、地上測定値が得られない地域での日射量推定の有用な補助手段となる。ただし、高精度が必要な設計時には、可能な限り地上測定値の活用が望ましい。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_247/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Long-term field performance of an innovative dew point evaporative cooling system as a low-energy cooling solution for a live edge data Centre</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118096" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118096</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>Cheng Zeng</name>
+    </author>
+    <author>
+      <name>Z. Wang</name>
+    </author>
+    <author>
+      <name>Zishang Zhu</name>
+    </author>
+    <author>
+      <name>Sulaimon Sikiru</name>
+    </author>
+    <author>
+      <name>Ma Xy</name>
+    </author>
+    <author>
+      <name>Xudong Zhao</name>
+    </author>
+    <content type="html">&lt;p&gt;Cheng Zeng, Z. Wang, Zishang Zhu, Sulaimon Sikiru, Ma Xy, Xudong Zhao ／ Energy and Buildings 370巻 p.118096-118096&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;小規模エッジデータセンターの普及に伴い、既存建築設備に統合されたこれらの施設は大規模専用データセンターに比べ冷却効率が劣っている。本研究は、英国の稼働中エッジデータセンターに導入された露点蒸発冷却（DPC）システムの建築統合型応用に関する1年間の現場調査結果を初めて報告するものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;パフォーマンスマッピング、通年の運用データ、季節別の温度プロファイル、時間単位の詳細分析、および微生物学的監視を実施してシステムの性能を評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;通常運用時、DPCシステムは湿度中立的な顕熱冷却を低電力で安定供給した。9月～11月の月平均COP は約37、年平均は約30であった。一方、7月の高温期ではCOPが約18に低下し、供給空気が戻り空気より温かくなる現象が生じた。この低下は熱交換器自体の限界ではなく、プラント筐体での熱ゲインと補助冷却ユニットとの相互作用による系統レベルの効果であることが判明した。微生物学的監視により、適切な管理プロトコルの下で水側リスクが制御可能であることが確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;DPCは小規模エッジデータセンターのベース冷却として有効である。システムレベルの性能を正確に評価するため、設計段階での検討、制御戦略の最適化、および定期的な微生物管理を含む保守プロトコルの構築が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118096"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>モデル予測制御に基づく建物熱蓄熱のエネルギー柔軟性評価フレームワーク</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2706838" />
+    <id>urn:doi:10.1080/19401493.2026.2706838</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>Rossella Alesci</name>
+    </author>
+    <author>
+      <name>Massimo Fiorentini</name>
+    </author>
+    <author>
+      <name>Ettore Zanetti</name>
+    </author>
+    <author>
+      <name>Rossano Scoccia</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A model predictive control-based framework for evaluating building thermal mass energy flexibility&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rossella Alesci, Massimo Fiorentini, Ettore Zanetti, Rossano Scoccia ／ Journal of Building Performance Simulation p.1-29&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;再生可能エネルギーの大量導入に対応する電力網の変動性に対抗するため、建物の熱容量が持つエネルギーフレキシビリティが重要な役割を果たす可能性がある。しかし、この柔軟性の大きさは外気温度などの境界条件に時々刻々と変化するため、動的かつ信頼性の高い定量評価手法の開発が課題である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;従来は簡略化されたR-C制御モデルか詳細モデルのいずれかが個別に用いられてきた。本研究は、高精度な建物・HVAC設備モデルと予測制御(MPC)をコシミュレーションにより統合するフレームワークを提案する。これにより詳細な熱動力学と最適制御を両立した柔軟性エンベロープ評価が実現された。床暖房を装備した2つの居住建物に適用した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;簡略化R-C基盤の手法は評価条件の71%で柔軟性を過小評価し、平均で20%の負の偏差があった。蓄熱効率は建物1で40～52%、建物2で46～55%の範囲を示した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;簡略化モデルの評価結果は実際より過小になる傾向があり、より精緻な柔軟性評価には詳細モデルとMPCの組み合わせアプローチが必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2706838"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Numerical framework for optimizing the thermal performance of building walls with shaped interfaces between material layers</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2714908" />
+    <id>urn:doi:10.1080/19401493.2026.2714908</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>William Dumontaud</name>
+    </author>
+    <author>
+      <name>Julien Berger</name>
+    </author>
+    <author>
+      <name>Benjamin Kadoch</name>
+    </author>
+    <content type="html">&lt;p&gt;William Dumontaud, Julien Berger, Benjamin Kadoch ／ Journal of Building Performance Simulation p.1-22&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築外壁におけるコンクリートと断熱層の界面形状がエネルギー性能に与える影響を明らかにすることが目的である。都市キャニオン環境での外断熱ファサードの熱応答特性を改善し、省エネ効果を高める界面設計の可能性を検討している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;有限差分法とDufort-Frankel法を組み合わせたGhost Fluid法により二次元非定常熱移動数値モデルを構築した。界面形状をベジェ曲線やRadial Basis Function曲線で定義し、NSGA-II遺伝的アルゴリズムで最適化した。都市キャニオン環境の非定常・非均質な境界条件下で、複数ストリートキャニオン配置をフランス全域で検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;最適化された界面形状により年間エネルギー効率が大幅に改善されることが明らかになった。最適形状は環境条件に対して高い感度を持つことが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;外壁界面形状の最適化によるエネルギー性能向上が期待でき、地域の環境条件に応じた形状設計が重要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2714908"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>多階建て建物における通風型太陽光ファサード：気流合流を伴う自然通風</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115114" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115114</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Hua Huang</name>
+    </author>
+    <author>
+      <name>Yao Tao</name>
+    </author>
+    <author>
+      <name>Long Shi</name>
+    </author>
+    <author>
+      <name>Yidan Shang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Ventilated solar façades in multi-storey buildings: natural ventilation with flow confluences&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hua Huang, Yao Tao, Long Shi, Yidan Shang ／ Building and Environment 304巻 p.115114-115114&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115114"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>室内環境におけるグリーンウォールのCO2フィトレメディエーション効率の実験的評価</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115131" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115131</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Gianluca Coccia</name>
+    </author>
+    <author>
+      <name>Feliciano Falcone</name>
+    </author>
+    <author>
+      <name>Luca Tarabelli</name>
+    </author>
+    <author>
+      <name>Costanzo Di Perna</name>
+    </author>
+    <author>
+      <name>Elisa Di Giuseppe</name>
+    </author>
+    <author>
+      <name>Marco D’Orazio</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Experimental assessment of the CO2 phytoremediation efficiency of living walls in indoor environments&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Gianluca Coccia, Feliciano Falcone, Luca Tarabelli, Costanzo Di Perna, Elisa Di Giuseppe, Marco D’Orazio ／ Building and Environment 304巻 p.115131-115131&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;グリーンウォール（LW）は室内空気質を改善し、CO₂蓄積を緩和する生物基盤システムである。パッシブ型グリーンウォールのCO₂浄化性能を評価することが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;フルスケール気候室に、3種類の植物で構成された2つのパッシブLWを設置。20～24°C、LED照明なし・50%・100%の条件下で減衰テストと脈動テストを実施し、CO₂除去速度定数と等価気流率を測定した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;照明により減衰定数が増加し、累積曝露が最大44%削減。等価気流率は13.0～27.6 m³/h⁻¹に増加した。脈動テストでは、温度と照度に応じて20～39%のCO₂増加削減を達成し、フル照明下では呼吸負荷が3.3から2.1占有者に低下した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;パッシブ型グリーンウォールは室内CO₂軽減に測定可能な効果を示している。照明の加算によって効果が向上し、ハイブリッド換気戦略を補完する手段として活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115131"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>昼夜放射冷却により駆動される放射蓄熱冷却システムの全規模実験評価</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115136" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115136</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Eduardo González-Cruz</name>
+    </author>
+    <author>
+      <name>Gloria Alemany Pérez</name>
+    </author>
+    <author>
+      <name>Borja Frutos</name>
+    </author>
+    <author>
+      <name>Carmen Alonso</name>
+    </author>
+    <author>
+      <name>Fernando Martín-Consuega</name>
+    </author>
+    <author>
+      <name>Álvaro Gutiérrez</name>
+    </author>
+    <author>
+      <name>Eduardo  L. Kruger</name>
+    </author>
+    <author>
+      <name>Lorenzo Pattelli</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Full-scale experimental assessment of a radiant-capacitive cooling system driven by nocturnal and diurnal radiative cooling&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Eduardo González-Cruz, Gloria Alemany Pérez, Borja Frutos, Carmen Alonso, Fernando Martín-Consuega, Álvaro Gutiérrez, Eduardo  L. Kruger, Lorenzo Pattelli ／ Building and Environment 304巻 p.115136-115136&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115136"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Life cycle assessment of biocomposite material substitutions in window frames to implement circular design approach</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118074" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118074</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Amirmehrab Falsafi</name>
+    </author>
+    <author>
+      <name>Amir Togiani</name>
+    </author>
+    <author>
+      <name>Mariam Abdulkareem</name>
+    </author>
+    <author>
+      <name>Jeremy Faludi</name>
+    </author>
+    <author>
+      <name>Juha Varis</name>
+    </author>
+    <author>
+      <name>Mika Horttanainen</name>
+    </author>
+    <content type="html">&lt;p&gt;Amirmehrab Falsafi, Amir Togiani, Mariam Abdulkareem, Jeremy Faludi, Juha Varis, Mika Horttanainen ／ Energy and Buildings 370巻 p.118074-118074&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建設業界は資源効率と低炭素化を通じて、窓製造の体化環境影響を削減し循環経済を実現することが求められています。本研究は、木・アルミ窓枠の構成部品をバイオコンポジット材で代替する場合の環境性能をライフサイクルアセスメント(LCA)で評価しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;1m²の窓について5つのシナリオを比較しました。基準の木・アルミ枠に対し、アルミ被覆・PVCガラスホルダー・Zamakハンドルをそれぞれリサイクル綿PP+30wt%漂白ソフトウッドクラフトパルプバイオコンポジットで代替するシナリオ、および全部品統合代替シナリオです。LCA for Experts、ecoinvent v3.11、ReCiPe 2016 midpointを用いて温暖化係数(GWP)、酸性化、化石資源枯渇、人間毒性を評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;基準シナリオではアルミニウムが最大の環境負荷となっています。アルミ代替でGWPが47.5から28.8 kg CO₂-eq/m²へ、化石資源枯渇が16.3から9.3 kg oil-eq/m²へと改善されました。全部品統合代替ではGWPが28.5 kg CO₂-eq/m²となり、基準比40%削減を達成し、機械的リサイクルでさらに23.9 kg CO₂-eq/m²まで低減されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;バイオコンポジット部品の代替は、窓製造の体化環境影響削減とサーキュラー設計を支援します。アルミニウム材料の低炭素化と廃棄末端での資源リサイクルが削減要因として重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118074"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thermal captives on campus: a mixed-methods assessment of maintenance workers' heat exposure and building climate resilience during a severe heatwave</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118104" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118104</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Jong-Won Lee</name>
+    </author>
+    <content type="html">&lt;p&gt;Jong-Won Lee ／ Energy and Buildings 370巻 p.118104-118104&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118104"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>既存ドイツ集合住宅の室内プロパンヒートポンプシステム改修に関する技術経済評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118106" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118106</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Mu Huang</name>
+    </author>
+    <author>
+      <name>Sebastian Gamisch</name>
+    </author>
+    <author>
+      <name>Björn Nienborg</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Techno-economic assessment of retrofitting in-apartment propane heat pump systems in existing German multi-family buildings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mu Huang, Sebastian Gamisch, Björn Nienborg ／ Energy and Buildings 370巻 p.118106-118106&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118106"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>環境センシングに基づくホテル客室空調の稼働時間推定のための深層系列学習モデル</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118118" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118118</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Reza Serati</name>
+    </author>
+    <author>
+      <name>Gayan Kulatilleke</name>
+    </author>
+    <author>
+      <name>Siamak Layeghy</name>
+    </author>
+    <author>
+      <name>Farid Ariai</name>
+    </author>
+    <author>
+      <name>Sara Dolničar</name>
+    </author>
+    <author>
+      <name>Marius Portmann</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Deep sequence learning models for hotel room air conditioner runtime estimation via ambient sensing&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reza Serati, Gayan Kulatilleke, Siamak Layeghy, Farid Ariai, Sara Dolničar, Marius Portmann ／ Energy and Buildings 370巻 p.118118-118118&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ホテルは高い給・冷熱エネルギー消費を持つ建物です。多くのホテルではエアコンがゲストにより操作されるため、その運転は建物管理者に見えず、予測困難です。ルームレベルのエアコン運転時間の直接測定には追加計器類が必要で、多くのホテルでは費用・プライバシー・運用上の制約から実装が困難です。本研究は既存システムに改変を加えず、室内温湿度センサーのデータを用いてエアコン運転状態を推定する方法を提案しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;従来の非侵襲型負荷監視（NILM）は電気的負荷特性に依存し、住宅やオフィスで検証されてきました。本研究はホテル向けにGTN、BiLSTM、1D CNNの3種類の深層学習モデルを用い、オーストラリア・メルボルンのホテル17ルームから収集された約330万件のラベル付き1分単位データを評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;温度と湿度を組み合わせたBiLSTMが最高性能を示し、F1スコア97.5%、日次運転誤差の中央値4分を達成しました。温度のみのモデルでは中央値誤差が3分と更に改善されています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;環境温湿度センシングと深層時系列学習を組み合わせることで、ホテルのルームレベルのエアコン運転推定に対して実用的かつ低コストなアプローチが実現できます。既存のセンサインフラを活用することで、追加投資を抑えながらエネルギー管理を強化することが可能になります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118118"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>早期採用者：アイルランドの太陽光発電導入住宅に関する調査</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118123" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118123</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Daniel T. Dransfield</name>
+    </author>
+    <author>
+      <name>Evan Finegan</name>
+    </author>
+    <author>
+      <name>Niamh Power</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Early adopters: An examination of solar PV electrified homes in Ireland&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Daniel T. Dransfield, Evan Finegan, Niamh Power ／ Energy and Buildings 370巻 p.118123-118123&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅用太陽光発電は持続可能なエネルギー社会の重要な要素です。早期導入事例から得られる知見は政策立案やグリッド運用に有用です。本研究は、アイルランドの59軒の早期採用PV住宅を対象に、スマートメーターとPVシステムデータを統合し、電力利用と太陽光自家消費の実態を調査しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;家計調査と高解像度スマートメーター、PVシステムデータを統合し、技術採用パターン、電力需要プロファイル、自己消費率を分析しました。12種類のデータ源と25種類のファイル形式による標準化課題が生じ、調和されたデータプロトコルの必要性が示唆されました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;平均年間電力使用量は9279 kWh（国家平均の2.2倍）、ベースロードは国家基準より低値でした。53%の住宅が夜間ピークを示し、平均自己消費率は57%です。蓄電池保有で自己消費率が約16ポイント上昇する一方、スマート料金では低下し、EV保有時の充電最適化が進んでいません。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;太陽光導入拡大で、柔軟な負荷を再生可能エネルギーと整合させ、自己消費率と自給率を最大化し、ピーク需要を抑制することが重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118123"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>住宅用ヒートポンプの給湯・暖房運転におけるAI基盤予測制御の実験室および季節長フィールド評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118071" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118071</id>
+    <updated>2026-08-23T00:00:00+09:00</updated>
+    <author>
+      <name>Lilli Frison</name>
+    </author>
+    <author>
+      <name>Simon Gölzhäuser</name>
+    </author>
+    <author>
+      <name>Etienne Ouss</name>
+    </author>
+    <author>
+      <name>Hugues Bosche</name>
+    </author>
+    <author>
+      <name>Manon Dampfhoffer</name>
+    </author>
+    <author>
+      <name>Marina Reyboz</name>
+    </author>
+    <author>
+      <name>Aurore Lomet</name>
+    </author>
+    <author>
+      <name>Malte Vahlenkamp</name>
+    </author>
+    <author>
+      <name>Nicolas Réhault</name>
+    </author>
+    <author>
+      <name>Martial Mermillod</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Laboratory and season-long field evaluation of AI-based predictive control for residential heat pumps in DHW and space-heating operation&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Lilli Frison, Simon Gölzhäuser, Etienne Ouss, Hugues Bosche, Manon Dampfhoffer, Marina Reyboz, Aurore Lomet, Malte Vahlenkamp, Nicolas Réhault, Martial Mermillod ／ Energy and Buildings 370巻 p.118071-118071&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅用ヒートポンプは従来、固定加熱曲線やヒステリシスベースのDHW制御といった静的ルールで運転されており、建物や使用条件の変化に対応できず、無駄な温度上昇と貯蔵ロスが発生していました。本論文はDHW生産と暖房供給温度制御のAI予測制御戦略を提案します。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;DHW制御では機械学習による需要予測とModelicaシミュレーションを組み合わせ、消費電力を最小化するスケジューリングを実施しました。暖房制御では注意機構付きLSTMによる温度予測器を組み込んだ最適化制御を開発し、フィールド試験で検証しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;DHWの実験室試験では、個別住宅で5～6％、集合住宅で38～43％の電気エネルギー削減とヒートポンプのCOP向上を実現しました。暖房制御の実運用試験では日々の電力消費量が8％削減、平均COPが3.95から4.15に上昇、快適性偏差が0.3Kから0.1Kに改善されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;気象・使用パターン予測に基づいた最適制御により、ヒートポンプの効率向上と快適性維持を同時に実現できることが示されました。様々な建物タイプや気候条件での実運用検証が今後の課題です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118071"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>建築エネルギーシミュレーションにおける効率的な不確実性定量化に向けた BIM ベース適応型サロゲートフレームワーク</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118098" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118098</id>
+    <updated>2026-08-23T00:00:00+09:00</updated>
+    <author>
+      <name>Arash Babamiri</name>
+    </author>
+    <author>
+      <name>Reihaneh Aghamolaei</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A BIM-based adaptive surrogate framework for efficient uncertainty quantification in building energy simulation&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Arash Babamiri, Reihaneh Aghamolaei ／ Energy and Buildings 370巻 p.118098-118098&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118098"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>簡略化モデルを用いた意思決定支援ツール構築に関する体系的レビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118079" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118079</id>
+    <updated>2026-08-22T00:00:00+09:00</updated>
+    <author>
+      <name>Seif Qiblawi</name>
+    </author>
+    <author>
+      <name>Marianne Touchie</name>
+    </author>
+    <author>
+      <name>Elie Azar</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;A systematic review of building decision-support tools utilizing simplified models&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Seif Qiblawi, Marianne Touchie, Elie Azar ／ Energy and Buildings 370巻 p.118079-118079&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;簡易モデルは計算負荷が小さく入力データが限定されながらも建築性能の複雑な挙動を近似でき、早期設計段階の意思決定支援ツール統合が増加している。本研究は、簡易モデルを統合した建築関連の意思決定支援ツール（熱・エネルギー、快適性、構造、レジリエンス分析）に関する初の体系的レビューである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;1400以上の論文から22の研究を選定し詳細に分析した。エンジン選択、インターフェース設計、エンジン・ツール統合に焦点を当てた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;オープンデータ共有、参加型設計、計算コスト・入力柔軟性のトレードオフバランスに関するガイドラインの必要性が文献のギャップとして浮かび上がった。エンジン・ツール統合を4つのタイプに分類し、ツール開発の選択ガイダンスを示している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;より利用しやすく効果的な意思決定支援ツール開発のための指針が示される。エンジン・ツール統合の4つのタイプ分類により、ツール開発時の統合方式の選定が可能になる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118079"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>サブ秒スケールの高解像計測に基づく搬送系動的モデル開発</title>
+    <link href="https://www.jstage.jst.go.jp/article/shase/51/354/51_1/_article/-char/ja/" />
+    <id>urn:doi:10.18948/shase.51.354_1</id>
+    <updated>2026-08-21T00:00:00+09:00</updated>
+    <author>
+      <name>岸田 立</name>
+    </author>
+    <author>
+      <name>宮田 翔平</name>
+    </author>
+    <author>
+      <name>兼子 泰明</name>
+    </author>
+    <author>
+      <name>矢島 和樹</name>
+    </author>
+    <author>
+      <name>赤司 泰義</name>
+    </author>
+    <content type="html">&lt;p&gt;岸田 立, 宮田 翔平, 兼子 泰明, 矢島 和樹, 赤司 泰義 ／ 空気調和・衛生工学会 論文集 51巻354号 p.1-10&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築設備の運用高度化への要求が高まっているが、現在のシミュレーション手法では過渡状態における動的応答特性を十分に表現できず、新規制御開発への応用が限定的である。本研究は搬送系のファンに焦点を当て、入力周波数の変化に対する風量応答の動特性を精確に再現するモデルの開発を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;0.5秒間隔の実測に基づいて動特性を分析した。軸トルクの収支関係を再現したファンモデルと、空気の慣性を組み込んだダクトモデルを構築することで、これら動特性を表現した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;開発したモデルは実測とよく一致した。特に消費電力の予測精度は起動時のほか低負荷域でも大幅に改善され、あるシナリオにおいて積算電力量の誤差を19.1%から1.1%へ削減することに成功した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;開発したモデルの精度向上により、周波数制御などの新規制御開発がより信頼性をもって推進できるようになる。消費電力を含めた性能予測精度の改善は、様々な運用シナリオの検討において有用である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/shase/51/354/51_1/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>省エネルギーで持続可能なオフィスビルの重要な考慮事項</title>
     <link href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings-2/" />
@@ -345,355 +899,5 @@
       <name>CBCP</name>
     </author>
     <content type="html">&lt;p&gt;&lt;em&gt;Case study: Proposal can save money by using chillers for electric heating&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chris Delaney, PE, CEM, CBCP ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ニューヨーク市の5階建て混合用途建物がガス焚きボイラーシステムから屋上設置の空気熱源チラーヒートポンプとクローズド型クーリングタワーに置き換える電化改修プロジェクトの設計実例です。ニューヨーク市のローカルロー97への適合と建物脱炭素化を目指しています。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 既存ガスボイラー（効率約80%）を室外空気熱源チラーヒーター（最大4倍効率）に置き換え、年間自然ガス消費1,278,549kBtuを廃止し電力消費を削減 - 既存開放型クーリングタワーをクローズド型に置き換え、プロピレングリコール混合水により凍結防止と水処理負荷を軽減 - 既存水冷式空調ユニットを水冷式ヒートポンプに置き換え、廃止したダクト電熱器による補助加熱を排除して消費電力削減 - 新規高性能窓で周囲壁の断熱性能向上によりペリメータラジエータを廃止、年間炭素排出を約132tCO2e削減 - 屋上チラー設置には荷重支持設計、防水処理、振動絶縁、騒音制御など構造技術者との綿密な調整が必須&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ニューヨーク州の冬季気温が低く、クーリングタワーの凍結防止対策が必須であるのに対し、日本では大半の地域でこの対策が不要です。米国では建物電化に対応する電力系統容量が前提とされていますが、日本では電力会社の引き込み容量制限がより厳格です。ローカルロー97のような建物所有者に炭素排出削減を義務付ける規制が日本にはありません。ニューヨーク市の電力排出係数は日本の電力網排出係数と大きく異なり、分析結果の適用に注意が必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-proposal-can-save-money-by-using-chillers-for-electric-heating/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>事例研究：地下駐車場におけるEV充電器</title>
-    <link href="https://www.csemag.com/case-study-ev-chargers-in-an-underground-parking-structure/" />
-    <id>urn:cse:31954</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Christopher Unangst</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <author>
-      <name>CSP</name>
-    </author>
-    <author>
-      <name>PMP</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Case study: EV chargers in an underground parking structure&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Christopher Unangst, PE, CSP, PMP ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;既存の高層マンション建物の地下駐車場にEV充電器を大規模導入する際のリスク管理手法と、火災安全対策の具体的な実装事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 駐車スペースの約半数にLevel 2電動車両充電器の設置を計画し、電力会社に建物の負荷計算を提出して供給可能性を確認 - 電気設備火災とEVバッテリー過充電による火災という2つの主要リスクを特定し、設置業者の適切な資格保有と認定機器の使用により対策 - システムの完全切断装置の設置により緊急時対応体制を確保 - スプリンクラーシステムをExtra Hazard Group 1に昇格するとともに、空気吸込み式スモークデテクタと機械換気システムを導入して多層防御を構築 - 複数の保護措置について費用効果を比較検討し、建物所有者のリスク許容度に基づいて最適な対策方針を決定&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;- NFPA 88A駐車施設標準に基づく「Ordinary Hazard Group」などの火災危険度分類体系が日本の建築基準法には存在せず、リスク評価の枠組みが根本的に異なる - 地下駐車場のEV充電設置に対する火災安全基準が日本の規制体系と大きく相違し、スプリンクラーシステムの設計基準値の考え方も異なる可能性がある - 米国の電力会社による需要家側の負荷計算に基づいた供給可能性判断プロセスと、日本の電力事業者の運用慣行および仕組みが異なる&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-ev-chargers-in-an-underground-parking-structure/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>AI データセンターにおけるサステナビリティの改善</title>
-    <link href="https://www.csemag.com/how-to-improve-sustainability-at-ai-data-centers/" />
-    <id>urn:cse:32027</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Consulting-Specifying Engineer</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;How to improve sustainability at AI data centers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国のハイパースケール型データセンターおよびハイパフォーマンスコンピューティング施設が、稼働性基準（Uptime Institute）への適合に加えて、LEED Gold認証取得と炭素排出削減を組み合わせた統合的なサステナビリティ目標を実現する設計事例と技術戦略について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エコノマイザーの運転期間延長、液冷却、排熱回収などの技術導入により、従来の冷房設計より省エネルギーと排出削減を両立 - 低温冷水系統と高温系統の並列運用、および直膨式外気除湿により、各冷却負荷に応じた最適な温度設定と省エネルギー化が可能 - データセンターのエネルギー削減が発電所の水消費とCO2排出削減に波及する点を踏まえた、発電側を含めた統合的なシステム最適化設計の重要性 - ハイパースケール企業による太陽光・風力発電への大型直接投資と、燃料電池の活用による長期的な炭素中立電力確保戦略 - データセンターの低品位排熱を地域熱供給ネットワークに活用し、ヒートポンプシステムの効率向上と地域エネルギー統合を実現&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国では国内に数百の大規模発電所が分散し、世代・燃料・規模・立地により水消費量とCO2原単位が大きく異なる。このため、データセンター側の冷却水使用を戦略的に増加させることで、発電所全体の環境負荷を削減する場合がある点が前提。また、2035～2040年の再生可能エネルギー普及予測と過渡期における天然ガス火力増加という米国のエネルギー政策シナリオが背景。大規模キャンパスに隣接する土地で再生可能エネルギー施設を直接開発できる土地制約の小ささ、および電力系統の相互接続制度が日本と異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/how-to-improve-sustainability-at-ai-data-centers/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>事例研究：VAVを用いたオフィスビルの室内空気質改善</title>
-    <link href="https://www.csemag.com/case-study-how-an-office-building-tackled-air-quality-with-vav/" />
-    <id>urn:cse:32106</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Autumn Beer and Valerie Lecaros</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How an office building tackled air quality with VAV&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autumn Beer and Valerie Lecaros ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;フロリダの操業ビル（オフィス・実験室・会議室・休憩室など複数用途を兼ねる施設）におけるマルチゾーンVAVシステムの換気設計と制御事例。ASHRAE Standard 62.1を適用して、オキュパント多様性比などの指標を用いた外気量の最適化と、直接デジタル制御によるエネルギー効率の向上を実現した戦略について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 1台のAHUで21ゾーン、ロビー・廊下・事務室・実験室・会議室など10種類の異なる空間タイプに対応し、総供給風量12,550cfmを供給する大規模マルチゾーンVAVシステムの構成 - オキュパント多様性比（D=0.78）の概念により、全室同時使用の最悪想定（45名）を実際の使用想定（35名）に修正することで、必要外気量を効率的に低減 - ブレークルームがクリティカルゾーンとなり（外気比28%）、これに基づいてシステム全体の外気供給量が決定される構造と、各ゾーン個別の外気補正係数（Ez=0.8）の適用方法 - ブレークルームの供給風量調整（400cfmから500cfm）による段階的な最適化で、システム全体の外気比率を28%から23%に低減し、総外気量を2,850cfmまで削減する手法 - 室外空気ダンパーの電動制御と直接デジタル制御システムにより、占有時間帯では適切な換気、非占有時間帯では無駄な吸入を削減してエネルギー効率と室内環境質を両立&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ASHRAE 62.1で標準化されているオキュパント多様性比や効率係数を用いた確率統計的な外気量低減手法は、日本の建築基準法や設計基準では体系的に定められていない。また、フロリダの高温多湿気候、米国の電力事情、室内環境基準などの前提条件が日本と異なるため、本事例の制御戦略を日本の実務にそのまま適用することは適切でない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-an-office-building-tackled-air-quality-with-vav/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>事例研究：キャンパス建築によるサステナビリティへのアプローチ—3つの事例</title>
-    <link href="https://www.csemag.com/case-study-learn-three-ways-a-campus-building-approached-sustainability/" />
-    <id>urn:cse:32162</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Nancy Kohout</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <author>
-      <name>LEED AP</name>
-    </author>
-    <author>
-      <name>and Grace Turner</name>
-    </author>
-    <author>
-      <name>EIT</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Learn three ways a campus building approached sustainability&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nancy Kohout, PE, LEED AP, and Grace Turner, EIT ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ミシガン大学のEdward and Rosalie Ginsberg Buildingを事例に、脱炭素化戦略がリスク管理と運用効率の向上にもたらす効果を解説した記事。同建築は大学初のカーボンニュートラルビルディングで、LEED v4 Gold認証取得を目指している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エネルギー削減：高効率な機械・電気・給排水設備と500フィート深の地熱ボアホールの組み合わせで、外気温の変動から遮断され、電力需要と関連コストを大幅に低減 - オール電化：地熱ヒートポンプシステムにより、ガスなど他燃料の価格変動リスクを完全に回避でき、将来的に再生可能エネルギーやエネルギー貯蔵の導入に柔軟に対応 - 外皮性能：基準値より50%高い断熱性能と限定的なトリプルグレージング窓で、室内環境を長く保持しながら日採光を活用し、外皮からの熱損失を最小化 - 低炭素材料：ハイブリッド木造と低炭素コンクリート採用で、同規模建物比で具現化炭素フットプリント23%削減を実現 - 脱炭素戦略は単なる環境対応ではなく、運用コスト削減、エネルギー価格変動への耐性強化、デザイン品質の向上を同時に達成する統合的な経営判断&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国は広大な土地が利用可能で、500フィート深の地熱ボアホール施工が経済的に実現可能な地域が多く存在。電力供給システムが州単位で独立しており、再生可能エネルギー導入計画が地域ごとに大きく異なるため、建物の長期運用想定が米国と日本で異なる。日本の建築基準法では冷暖房設計条件が都市ごとに細かく規定され、米国のような一つの手法を広く適用することは難しい。天然ガスの供給インフラ整備状況と価格体系も米国と日本では異なるため、エネルギー戦略の最適解が変わる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-learn-three-ways-a-campus-building-approached-sustainability/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>下水廃熱回収の事例研究</title>
-    <link href="https://www.csemag.com/case-study-sewage-waste-heat-recovery/" />
-    <id>urn:cse:32180</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Matthew Goss</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <author>
-      <name>PMP</name>
-    </author>
-    <author>
-      <name>CEM</name>
-    </author>
-    <author>
-      <name>CEA</name>
-    </author>
-    <author>
-      <name>CDSM</name>
-    </author>
-    <author>
-      <name>LEED AP and Jaclyn Kinson</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Sewage waste heat recovery&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Matthew Goss, PE, PMP, CEM, CEA, CDSM, LEED AP and Jaclyn Kinson, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ニューヨークのブルックリンで実施される地区熱供給ネットワーク（KEDNY）プロジェクト。複数の商業施設と住宅開発に対して、地熱・廃熱・下水廃熱を活用した低炭素の冷暖房システムの構築が提案されたもの。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ワンパイプ型アンビエントループ（40°F～80°F）を中心に、地熱交換ボアフィールド、スーパーマーケット冷媒廃熱、建物下水廃熱の複数の低炭素熱源から供給する地区熱供給システムを計画 - SHARC（下水廃熱回収）システムを導入し、住宅から排出される下水（68°F）を建屋内の12,000ガロン保管タンクに集約してアンビエントループと熱交換 - 下水内の固形物をマセレータで粉砕処理し、フィルタを経てから熱交換器に通す多段処理方式を採用 - アンビエントループ温度が下水より低い時は建物廃熱を取得し、高い時は冷却媒体として利用 - 隣接する廃水資源回収施設との接続も検討したが、配管敷設距離と行政許認可の複雑さから敷地内自給方式を選択&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国北東部の冷涼気候に合わせた4°C～27°Cの温度設定がある。下水廃熱を地区熱供給に組み込む法制度（UTENJA）が整備されており、廃水インフラ所有者との調整プロセスが明確になっている。敷地内に大容量の下水貯蔵タンク（45,000リットル超）を設置できる敷地条件の余裕が前提とされている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-sewage-waste-heat-recovery/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>産業施設における持続可能性の向上</title>
-    <link href="https://www.csemag.com/see-how-to-advance-sustainability-at-industrial-facilities/" />
-    <id>urn:cse:32234</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Consulting-Specifying Engineer</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;See how to advance sustainability at industrial facilities&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の産業施設におけるエネルギー効率化と脱炭素化の実装戦略に関する実務家の座談記事。LEED認証やネットゼロエネルギー達成に向けた技術選定と設計手法を解説している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- エネルギーモデリングと集中制御システムでプロセス冷却を最適化し、エネルギー原単位を約20%削減する戦略 - 大規模産業施設では、3.8MW太陽光発電と1.5MWh蓄電池でネットゼロエネルギーを達成 - 往復機関やガスタービンからの廃熱を蒸気タービン冷凍機や吸収式冷凍機経由でプロセス加熱・冷却に循環活用 - 冷却機の運転排熱を給湯システムへ活用するなど、設備間廃熱循環で建物全体効率を向上 - 産業施設の性能目標はプロジェクトタイプと事業ケースで異なり、プロセス運用要件が設計方針を決定&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国産業施設の設計では、大規模屋上を活かした太陽光発電が有効であり、ネットゼロエネルギー達成やLEED Platinum取得が法的要件として確立している。州単位の脱炭素化マンデート、マイクログリッド構想、天然ガスインフラの整備状況が日本と大きく異なる。政府助成による資金確保と返済不要という前提条件も、日本のプロジェクト経済性評価と異なる。建物規模と敷地面積の相関、電力系統の独立性に関する詳細から、日本の建築基準や電力供給体制との具体的な比較は記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/see-how-to-advance-sustainability-at-industrial-facilities/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>事例研究：UC バークレーのクリーンエネルギーキャンパス</title>
-    <link href="https://www.csemag.com/case-study-uc-berkeley-clean-energy-campus/" />
-    <id>urn:cse:32255</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Dan Luddy</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <author>
-      <name>LEEP AP</name>
-    </author>
-    <author>
-      <name>and Blaine D. Conner</name>
-    </author>
-    <author>
-      <name>PE</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Case study: UC Berkeley clean energy campus&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dan Luddy, PE, LEEP AP, and Blaine D. Conner, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;カリフォルニア大学バークレー校が70年前の天然ガスコジェネレーション・蒸気配管システムをオールエレクトリックな低温温水システムに置き換える脱炭素化プロジェクト。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 既存蒸気配管での給水損失20%、熱エネルギー損失37%が発生しており、システム更新が必須 - 2026〜2030年の第1段階で、エネルギー集約的な30棟の研究・実験室建物を改築し、キャンパス全体のGHG排出量を60%削減 - 電動加熱冷却プラント（EHCP）に水-水ヒートポンプを採用し、冷却廃熱を回収して同時加熱冷却を実現 - 熱エネルギー貯蔵タンクで電力グリッドのカーボン強度に応じた運用最適化とピークカット対応 - 高温蒸気が必要な施設（滅菌オートクレーブなど）には局所電動蒸気発生器を配置し段階的に対応&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国の大学制度では理事会による機関的な脱炭素達成要件が法的拘束力をもつこと、および電力グリッドのカーボン強度が運用最適化の判断基準になる点が異なる。既存インフラの大幅な損失率（給水・熱損失合計で相当規模）が特有の課題かどうかについては、記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-uc-berkeley-clean-energy-campus/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>医療デザインにおける持続可能性と運用性のバランス</title>
-    <link href="https://www.csemag.com/how-to-balance-sustainability-and-operability-in-health-care-design/" />
-    <id>urn:cse:how-to-balance-sustainability-and-operability-in-health-care-design</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <author>
-      <name>Consulting-Specifying Engineer</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;How to balance sustainability and operability in health care design&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Consulting-Specifying Engineer ／ Consulting-Specifying Engineer｜Sustainability&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の医療施設における省エネルギー設計と持続可能性の実装について、患者安全とのバランスを取りながら進める実務的なアプローチの紹介。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 占有・未占有状態を自動判定し、加暖冷機器の運転を制御することで実質的なエネルギー削減を実現 - 太陽光発電を導入する際は、建物の実際のエネルギー消費量に合わせた規模設定が重要で、メーター計測による柔軟な段階的拡張に対応 - 患者1人あたり200～300ガロン/日の水使用量に対応するため、用途別に異なる水質・温度・圧力要件を満たす必要がある - NFPA 110基準により電力供給が中断した場合の10秒以内の復旧が必須で、リチウムイオン電池やニッケル亜鉛電池を採用したUPS設計が標準化 - 脱炭素化推進のため電気ボイラーと再生可能エネルギーを組み合わせ、初期投資増加を認容&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国はNFPA 110など独自の医療施設基準体系を有し、日本の関連法規と基準内容が異なる。太陽光発電の余剰電力に関する買取制度の有無・条件が米国と日本で大きく異なるため、システム規模の設計哲学が異なる。24時間稼働医療施設への電力供給要件の厳格性や対象機器の範囲も法域によって異なる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/how-to-balance-sustainability-and-operability-in-health-care-design/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>構築環境における音響知覚の主観的評価と非音響的時間要因の関連性：システマティックレビュー</title>
-    <link href="https://doi.org/10.1016/j.buildenv.2026.115105" />
-    <id>urn:doi:10.1016/j.buildenv.2026.115105</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Chenrui Zhai</name>
-    </author>
-    <author>
-      <name>Tin Oberman</name>
-    </author>
-    <author>
-      <name>Jian Kang</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;The associations between non-acoustic temporal factors and subjective evaluations of sound perception in the built environment: A systematic review&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chenrui Zhai, Tin Oberman, Jian Kang ／ Building and Environment p.115105-115105&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;音環境の評価には季節や時間帯など非音響的な時間要因が影響することが知られていますが、これらと音知覚の関連性は体系的に理解されていません。本研究は107の既発表研究を分析し、非音響時間要因が音知覚に与える影響を明らかにすることを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;107の学術論文を対象に系統的レビューを実施し、知覚次元と時間的要因を分類するとともに、各研究のバイアスを評価することで、信頼度の高い証拠に基づいた分析を行いました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;分析により、音知覚は4つの次元に分類され、これに影響する時間要因が10種類抽出されました。短期暴露では刺激継続時間が長いほど煩わしさが増加する一方、中・長期暴露では平均滞在時間が長いほど煩わしさが低減する傾向があります。季節、曜日、時刻も音知覚に関連していることが示唆されています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;設備設計における音環境評価では、音響測定値のみならず、利用者の暴露時間や季節・時間帯といった時間的文脈を考慮することが重要である可能性があります。非音響時間要因を実務に統合するための枠組みが提示されています。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115105"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>リーズオフィスがNABERS UKエネルギー格付けで5つ星を獲得</title>
-    <link href="https://www.cibsejournal.com/case-studies/leeds-office-achieves-landmark-5-star-nabers-uk-energy-rating/" />
-    <id>urn:cibse:35629</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>mollytooherrudd</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Leeds office achieves 5-Star NABERS UK Energy Rating&lt;/em&gt;&lt;/p&gt;&lt;p&gt;mollytooherrudd ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国リーズの新築オフィスビルが、実運用時のエネルギー消費に基づくNABERS UK制度で新築として初の5つ星評価を獲得した事例。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- NABERS UKは設計仮定値ではなく実運用の12ヶ月測定データに基づき、継続改善を前提とする評価制度である - ガスボイラーと電気冷却のファンコイルユニット設計から、屋上Daikin製空気熱源ヒートポンプ（2台、各66%負荷）、トリプルグレージング、太陽光パネル（500㎡から700㎡）に変更 - 空気熱源ヒートポンプは冷房794kW、暖房632kWを供給し、4パイプファンコイルユニットに接続 - 運用最適化期間中の週単位監視で、制御改善により21.8%と40.9%のエネルギー削減を達成 - 流温削減、チラー水温度最適化（現行7℃/14℃の変更検討）、新鮮空気による受動冷却など継続改善を計画中&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;NABERS UKは実運用に基づく継続改善を制度設計の中心とし、脱化石燃料推進が政策・投資判断で重視される。気候面では英国は冬暖房が主負荷で−4℃での空気熱源ヒートポンプ運転が標準的だが、日本は地域差が大きい。電力脱炭素化の段階や電力コスト構造も異なるが、日本の建築規制や商慣行との詳細比較は記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/leeds-office-achieves-landmark-5-star-nabers-uk-energy-rating/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>改修現実：5.5つ星NABERS UK評価の達成</title>
-    <link href="https://www.cibsejournal.com/case-studies/retrofit-reality-achieving-a-5-5-star-nabers-uk-rating/" />
-    <id>urn:cibse:37015</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>mollytooherrudd</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Retrofit reality: achieving a 5.5 Star NABERS UK rating&lt;/em&gt;&lt;/p&gt;&lt;p&gt;mollytooherrudd ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;1970年代に建設された英国の事務所建築が、既存建物としてはじめてNABERS UK認定で5.5スターを達成し、さらに6スターを目指して改修と運用改善を続けている事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- LED照明（調光・人感センサー付き）とダブルグレージング導入により、2023年度のエネルギー原単位89.6kWh/㎡から5.0スター達成 - 2024年度に5.5スター達成し、エネルギー原単位はおよそ75.6kWh/㎡に低減 - 太陽光パネル21kW（41枚）を屋根に設置し、年間約13,075kWhの発電で年間電力需要の約25%をまかなう見込み - スマートソケット導入による待機電力の可視化・削減と、メーター細分化による主要消費源の監視を計画 - 直膨式ヒートポンプとエネルギーチャンピオン（HVAC専任者）によるスタッフ教育で、制御最適化と運用効率の継続的改善を実現&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;NABERS UKはオーストラリア発祥の評価システムであり、日本のBELS（建築物省エネルギー性能表示制度）や建築物省エネ法とは評価基準と算定ロジックが異なります。英国の温和な気候では冷房需要が限定的であるのに対し、日本の亜熱帯気候では冷暖房のバランスが大きく異なり、同じ改善施策の効果が異なる可能性があります。また、英国の電力網における再生可能エネルギー比率と日本のそれが異なるため、太陽光発電の削減効果の評価が異なります。さらに、英国のMEES Regulations（最低エネルギー効率基準）と日本の建築物省エネ法等の規制体系が異なります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/retrofit-reality-achieving-a-5-5-star-nabers-uk-rating/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>曲線を冷やす：ジュメイラ・マルサ・アル・アラブホテル</title>
-    <link href="https://www.cibsejournal.com/case-studies/cooling-the-curve-the-jumeirah-marsa-al-arab-hotel/" />
-    <id>urn:cibse:44238</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>mollytooherrudd</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Cooling the curve: the Jumeirah Marsa Al Arab hotel&lt;/em&gt;&lt;/p&gt;&lt;p&gt;mollytooherrudd ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ドバイの高級リゾートホテル「Jumeirah Marsa Al Arab」のMEP（機械・電気・配管）戦略に関する事例。複雑な曲線形状の建築と極めて厳しい沿岸気候環境に対応した設備設計と、それを実現するためのBIM活用法を紹介している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 曲線形の不規則な床面積を持つ建物で、縦横の配管・配線経路の早期戦略確立とパラメトリック3D BIM により、複数領域の自動・手動座標確認による設計エラーを削減 - ディストリクト冷熱の供給容量制限に対応するため、冷房多様度を標準の80%から65%に低減する負荷シミュレーション実施 - 温度差9K（供給5.5°C、還水14.5°C）の広い条件で配管径を縮小し、ポンプ動力と流体摩擦損失を低減 - 外気処理で全熱交換ホイールを使用し、34°C/32°Cwbの高温多湿空気を処理して冷房負荷を最大30%削減 - 淡水化給水を20°Cに冷却・貯蔵し、銅銀イオン化ユニットによるレジオネラ対策とグレーウォーター回収システムに対応した配管設計&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ドバイは冷房が支配的な課題であり、暖房がほぼ不要である。淡水化供給水の初期温度が40°Cと高く、海塩による腐食リスクも日本と異なる。ディストリクト冷熱システムの容量制限が厳しく、負荷抑制が設計・運用の最重要項目となる点も、日本の一般的な地域冷熱システムとは異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/cooling-the-curve-the-jumeirah-marsa-al-arab-hotel/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>未来を形作る：ヘンダーソン・ビル</title>
-    <link href="https://www.cibsejournal.com/case-studies/shaping-the-future-the-henderson-building/" />
-    <id>urn:cibse:44246</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>mollytooherrudd</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Shaping the future: the Henderson building&lt;/em&gt;&lt;/p&gt;&lt;p&gt;mollytooherrudd ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;香港に竣工した36階建てプレミアム・オフィスビル「The Henderson」の設備設計事例。曲線ガラスファサード建物で、AI制御エレベーター、太陽光応答型通気装置、テナント参加型スマートアプリなど先進的な設備・制御システムを実装している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- AI駆動型エレベーター制御：ビデオ分析で乗客数を監視し、過混雑なキャブを回避して配車効率化、不要な停止削減 - 太陽光応答型通気装置（SRV）：建物頂部の230m²太陽光パネルで駆動、西面ファサード近傍に空気クッション形成して過熱緩和 - マルチゾーン空調システム：各階4ゾーン独立制御でAHU故障時も90%の冷房能力維持、将来改造対応も可能 - 8台の可変速スクリュー冷凍機（冷房容量967kW）：外気37℃でも100%冷房能力維持、機械学習で運転最適化 - テナント向けスマートアプリ：窓開閉、ブラインド、VAV操作をテナント制御で、カーボンクレジット獲得の三者連携モデル&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;香港は台風対策が必須であり、ガラスファサードは通常基準（1.4倍）を上回る1.75倍の風圧増幅係数を適用し、シグナルNo.10（時速118km超）でも耐える設計仕様。年間を通じて外気温7～35℃、湿度66%超の高温高湿環境が続くため、デシカント除湿システムなど日本では一般的でない除湿対策が必須。さらに99.9999%の電力供給信頼性要求や、日本と異なる建築基準などの法規環境がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/shaping-the-future-the-henderson-building/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ATALタワー：スマートレトロフィットの実現</title>
-    <link href="https://www.cibsejournal.com/case-studies/the-atal-tower-making-smart-retrofit-work/" />
-    <id>urn:cibse:44578</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Alex Smith</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;The ATAL Tower: making smart retrofit work&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alex Smith ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;香港のATAL Towerは、既存工業用建物をオフィスに転用する際に、BIM、デジタルツイン、AIを組み合わせた統合的な設備管理システムでリノベーションした事例である。スマート技術を活用して高性能かつ運用効率の良い建物を実現した。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- BIMを設計段階から活用して既存構造の制約下で設備配置を最適化し、エネルギー性能と建物管理の応答性を向上させた - デジタルツインを施設管理者の意思決定支援ツールとして構築し、運用データの一元化と予測的な維持管理を実現した - AIを冷房プラント最適化に適用する際、物理ベースの機械学習を採用して透明性を確保し、人間監視下での推奨方式とした - HVAC、照明、室内環境品質、占有情報を統合管理し、個別システムの効率化よりもシステム間の連携による総合的な性能向上に重点を置いた - BEAM Plus でプラチナレーティングを達成し、省エネルギーと居住者快適性のバランスを実現した&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;記事は香港事例のため、亜熱帯気候による高冷房負荷、BEAM Plus などの認証基準、電力系統の特性が日本と異なる。冷房最適化やAI活用の優先順位は気候特性に依存する。英国の法規や気候については記事に直接的な記述がないため判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/the-atal-tower-making-smart-retrofit-work/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ダルウィッチ・カレッジの新展開</title>
-    <link href="https://www.cibsejournal.com/case-studies/a-new-chapter-at-dulwich-college/" />
-    <id>urn:cibse:44766</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Alex Smith</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;A new chapter at Dulwich College&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alex Smith ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の私立学校Dulwich Collegeが2024年に完成させたRaymond Chandler Libraryの設計から実測運用に至るネットゼロカーボン建築の実現プロセスと、1年間の性能検証結果についての報告です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 建築構成：軽量鋼フレーム（リサイクル鋼75%、GGBS混合率65%コンクリート）と木材（CLT、グルラム）を組み合わせ、建築化炭素を低減した低炭素構造体 - 空調戦略：CO₂センサによる外気量制御と熱回収効率80%のプレート熱交換機を備えたMVHRシステム、R32冷媒の空気熱源ヒートポンプによる加熱・冷却に対応 - 室内環境性能：CO₂濃度1,000ppm以下達成が9/11室で100%、甲醛濃度28µg/m³（目標100以下）、オーバーヒート防止により28°C超過が10/11室で1%以下 - エネルギー消費と節水：年間70kWh/m²でRIBA CC新築学校目標達成、節水は1.7m³/生徒/年で目標値1.5に近い実績 - 設計と実績のギャップ：設計時のSFP 1.4 W·L⁻¹·s⁻¹が実測で2.0に悪化、配管抵抗の評価精度向上が課題&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国は地域熱供給ネットワークなどのインフラが既に発達しており、脱炭素化の推進が電力供給体制の整備と連動しています。気候が日本より冷涼で降雨が多く、冷房負荷とオーバーヒート対策の重点が異なります。RIBA 2030 Climate ChallengeやLETI基準など業界統一の環境性能評価指標が確立している点も大きな相違です。また建築音響規準や火災安全基準が異なるため、材料選定や換気方式が日本の実務とは大きく異なります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/a-new-chapter-at-dulwich-college/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>遺産優先：ハミルトンハウスのネットゼロ監査</title>
-    <link href="https://www.cibsejournal.com/case-studies/heritage-first-net-zero-audit-of-hamilton-house/" />
-    <id>urn:cibse:45193</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Heritage first: net zero audit of Hamilton House&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国で2024年に開始されたネットゼロカーボンビルディング基準（UK NZCBS）に基づき、ロンドンのハミルトンハウス（1880年築の歴史的オフィスビル）の改修実績を遡及監査した事例。既存の歴史的建物でも基準達成が現実的であることを示している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 改修工事でVRFシステムを導入し、LED照明、エネルギーモニタリング（33個のセンサー設置）と合わせてビル全体を電動化・化石燃料廃止化 - 年間エネルギー消費原単位が105kWh・㎡/年のオフィス基準を達成し、ネットゼロ適合の基礎条件をクリア - 再生可能エネルギー（ソーラーPV）導入が、歴史的建造物の計画認可制約により困難であり、基準の現実的課題として顕在化 - 低コスト最適化措置（照明制御改善、エネルギーモニタリング強化）により、さらなる消費量削減の余地あり - 過去の改修工事における建材・機器のエネルギー関連データを遡及収集することが困難で、今後のデータ取得メカニズム整備が課題&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国には体系的なネットゼロ基準が公式に整備されているのに対し、日本は現在段階的な制度化過程。気候が異なり、本記事で課題とされる冷房負荷や南向きオフィスの過熱は日本ほど急迫していない可能性がある。歴史的建造物保護制度（Grade II-listed）の位置付けと厳密さが日本の文化財保護制度と相違。英国の電力グリッドは脱炭素化が進行中で、再生可能エネルギー導入の優先度が日本と異なる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/heritage-first-net-zero-audit-of-hamilton-house/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ニューホール機関車博物館：カーボン削減に向けた取り組み</title>
-    <link href="https://www.cibsejournal.com/case-studies/new-hall-locomotion-museum-on-track-for-carbon-savings/" />
-    <id>urn:cibse:45197</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;New Hall Locomotion museum: On track for carbon savings&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国ダーラム州シルドンのLocomotionという鉄道博物館に建設された新ホール（New Hall）は、蒸気機関車などの鉄道遺産品を保存しながら来館者に公開するための博物館建築です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 高性能断熱パネルと気密工事（1.45m³·h⁻¹·m⁻²@50Pa）により、複雑なHVACシステムを廃止して建築躯体で環境を自然安定化 - 相対湿度35～60%の安定管理を最優先し、温度は緩やかに制御する方針でBS 4971に準拠 - 床暖房システムを採用し、空気源ヒートポンプ2台（流出温度45℃）で供給、湿度上昇時に加熱して相対湿度を調整 - 来館者向けの機械換気は新鮮空気供給のみで、CO₂センサーで自動調節 - エネルギー消費は49.7kWh·m⁻²/年、太陽光パネル268m²追加後23.8kWh·m⁻²/年を達成&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国は比較的冷涼で湿度変動が限定的な気候であり、高性能断熱による空調負荷削減効果が日本の高温多湿環境とは大きく異なります。英国の建築物省エネ基準（UK Net Zero Carbon Buildings Standard）が引用基準となっており、日本の建築基準法やエネルギー基準との整合性確認が必要です。電力事情や地域供給制度については記事からは判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/new-hall-locomotion-museum-on-track-for-carbon-savings/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>脱炭素化への直接的アプローチ：Addenbrooke's DCシステム</title>
-    <link href="https://www.cibsejournal.com/case-studies/direct-route-to-decarbonisation-addenbrookes-dc-systems/" />
-    <id>urn:cibse:45764</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Direct route to decarbonisation: Addenbrooke’s DC systems&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国ケンブリッジの大規模病院に導入された、太陽光発電とDC直流マイクログリッドを統合したHVACシステムの開発プロセス。従来型から次世代型への段階的な進化を示した事例である。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 第1期では可変速圧縮機とDC直流配電により太陽光パネルの電力を直接利用。6年経過した現在も安定稼働している - 第2期で1台のヒートポンプにより加熱と冷却を供給し、冷房時の廃熱を暖房に活用して全体効率を向上 - 第3期では10台のヒートポンプ（750kW）を統合管理し、複数ユニットの運転パターンが数千通りに及ぶ制御を自動化 - DC直流配電により従来の6パルス整流器を削除し、電力消費を7～8%削減。商用電源への調和電流を低減し、変圧器過熱を防止 - 機器内蔵のコンピュータが太陽光発電と系統電力をリアルタイム制御。クラウドの通過など気象変動に秒単位で自動追従&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国の三相交流電源システムにおける調和電流（6パルス整流器による）と変圧器過熱の問題は、日本の電力網環境と異なる可能性がある。また記事ではグリッド容量が制約される地域への言及があり、電力インフラの余裕度が相異なると考えられる。気候による冷房需要の季節性、英国の脱炭素政策2045年目標などの背景条件については、記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/direct-route-to-decarbonisation-addenbrookes-dc-systems/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>TM39：建物メータリングと監視ガイド</title>
-    <link href="https://www.cibsejournal.com/technical/tm39-building-metering-and-monitoring-guide/" />
-    <id>urn:cibse:45767</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;TM39: Building metering and monitoring guide&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の建築設備技術仕様書TM39の2026年改定版について。建物のエネルギー使用量を計測・監視するためのメーター設置と運用の実務ガイドラインが、2009年版から大幅に改定された。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ガス・電力に加えて、熱・水・蒸気メーターまで計測対象を拡大し、各々の精度等級や仕様選定の基準を提示 - メーター通信システム（Modbus、M-Bus等の選択、クラウド型とオンサイト型アーキテクチャの判断基準）についての新規セクションを大幅拡充 - データ検証、分析、可視化の方法論と、テナント請求やエネルギー輸出契約といった実運用上の課題への対応 - 既存機器の負荷計測から更新後の適切なサイズ決定までをサポートする実践的トラブルシューティングと調試チェックリスト - ヒートポンプシステム、太陽光発電・蓄電池、地中熱システムなど多様な機械設備の計測・監視事例を収録&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国の電力規制「Part L」への準拠要件や系統への余剰電力売却制度（Grid export）が背景にあり、日本の法規体系とは異なる。また、ヒートポンプが標準的な採暖技術となっていることから、熱メーターの計測が日本よりも重要視されている。テナント請求の考慮も、欧米の賃貸制度を前提とした内容である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/tm39-building-metering-and-monitoring-guide/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ラウンドテーブル：データセンターにおける液体冷却</title>
-    <link href="https://www.cibsejournal.com/technical/roundtable-liquid-cooling-in-data-centres/" />
-    <id>urn:cibse:45785</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Roundtable: Liquid cooling in data centres&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;AIチップの高性能化に伴うデータセンターの冷却方式の転換と、それに伴う建築設備設計上の課題を扱う、英国建築設備学会主催の円卓会議の報告。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- Nvidia Blackwellチップ（130kW/ラック）の導入により、従来の空気冷却では熱容量が不足し、液冷却への急速な転換が進行している - 液冷却には直接チップ冷却、浸漬冷却、リアドア熱交換器の3種類があり、二次ループで熱を取り出し、冷却液配分ユニット（CDU）を通じて施設用水ループに接続する方式が一般的 - 業界が予想を大きく上回るペースで液冷却に移行したため、設計手法の最適化や標準化が進まず、将来の不確実性に対応できる柔軟性を確保するコストが増大している - データホール（ホワイトスペース）が縮小する一方、機械・電気設備エリア（グレースペース）が拡大することで、建築許可申請や空間計画に構造的な変化をもたらしている - 液冷却導入時には配管の複雑さ、既存建物の床構造の耐荷重不足、失冷時の圧力急変による室内壊変、ASHRAE 27℃基準への対応など、複数の技術的課題が存在する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国ではASHRAE基準（27℃）が労働指令に基づく人間作業環境の安全基準に基づいており、欧州では40℃以上での作業時間が規制されている。また、グリッド接続には最大9年を要するなど、電力インフラの制約と系統接続の時間軸が日本と大きく異なる。これらは日本の電力事情や労働基準とは異なる前提条件である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/roundtable-liquid-cooling-in-data-centres/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>頂上からの視点：脱炭素化とヒートポンプ会議からの主要な教訓</title>
-    <link href="https://www.cibsejournal.com/technical/view-from-the-summit-key-lessons-from-decarbonisation-and-heat-pump-conferences/" />
-    <id>urn:cibse:45788</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;View from the summit: key lessons from decarbonisation and heat pump conferences&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国のCIBSE（特許技術者協会）が開催したヒートポンプサミットと脱炭素化カンファレンスにおける、ヒートポンプを中心とした建築設備の脱炭素化戦略と効率的な設計・施工・保守の課題について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 高温ヒートポンプはガスボイラーの直接置き換えを技術的に可能にしたが、建築費用とのバランスを考慮して建物性能改善の優先順位を判断することが重要 - 公共部門では予算が限定的であるため、複雑なシステムではなくシンプルな設計が運用段階での人的負荷軽減に必要 - 非UV対策の配管断熱材、圧縮機周辺の不十分な通風、高圧洗浄による凝縮器損傷など、施工・保守の不備が深刻な効率低下を招く（配管内への水分吸収1%で熱効率が7.5%低下） - テムズ川などの河川を利用した廃熱ネットワーク（SWAN計画）が低炭素供熱の主要な手段として実装されている - 2030年代中盤までに英国住宅の最大90%が過度な過熱リスク対象となる見込みで、夜間自然換気などのパッシブ冷却戦略が重要&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国は法的にネットゼロ達成が義務付けられており、建築設備設計がその実現に占める役割が法的・政策的に明確に位置付けられている。気候面では英国は現在のところ冷却需要が限定的であるが、温暖化に伴う急増への対応が課題。テムズ川などの大規模河川を熱源として利用するシステムは、英国の地理的条件に特化した解決策。公共医療施設（NHS）の予算制約と設備管理体制が日本と異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/view-from-the-summit-key-lessons-from-decarbonisation-and-heat-pump-conferences/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>統合加熱の統合設計</title>
-    <link href="https://www.cibsejournal.com/technical/joined-up-heating-integrated-design/" />
-    <id>urn:cibse:45792</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Joined up heating: integrated design&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国における低炭素暖房への政策転換が実装段階に入る中で、特にヒートポンプの非住宅建築への大規模導入における性能不足の問題と、その改善策としての統合型ヒートポンプシステムアーキテクチャについて論じた記事です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ヒートポンプシステムの性能問題は個別機器の不具合ではなく、選択・統合・制御・運用という全体のプロセスにおける系統的な問題である - コンサルタント、メーカー、施工業者が分断された現在の設計・施工体制では、スケジュール圧力や価値エンジニアリング、制御ロジックの誤解により設計意図が施工段階で損なわれやすい - 統合型システムアーキテクチャは、水理学・蓄熱・制御・運用ロジックを統一的に設計することで、施工・運用段階での不要な変動を最小化し、設計意図を保護する - 給湯は特に高リスク分野で、蓄熱の層分離制御、需要プロファイルへの出力調整、効率運転と容量運転の切り替え管理が重要である - 制御システムは複雑さを削減して標準化することが、理論的最適性よりも実際の信頼性と実行可能性を向上させる&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国は脱炭素化政策の推進によりヒートポンプ導入が急速に進み、ガス給湯からの転換が大きな課題となっています。電力インフラ制約やレジオネラ対策の考え方、給湯需要パターンが日本と異なる可能性がありますが、記事からは具体的な法規・気候・電力事情の詳細は判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/joined-up-heating-integrated-design/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>鉱山水による住宅の脱炭素化</title>
-    <link href="https://www.cibsejournal.com/case-studies/deep-impact-decarbonising-homes-with-mine-water/" />
-    <id>urn:cibse:45794</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Deep impact: decarbonising homes with mine-water&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の既存低層住宅を低温熱ネットワーク（LTHN）に接続し、鉱山水を熱源として脱炭素化するパイロットプロジェクトの技術検証事例。ゲーツヘッドの16軒の社会住宅で、既存ラジエーターを交換しない改修方法が試みられた。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 2050年時点で既存住宅が約80%を占める英国では、熱供給がカーボン排出全体の約1/3を占めるため、低温熱ネットワークが低コスト脱炭素化ルートとして注目 - 10～20℃の鉱山水を水源ヒートポンプで約80℃に昇温するシステムで、地域熱供給ネットワークを構築 - 既存ラジエーターの交換工事を避け、外部の防雨キャビネットに設置した熱交換器ユニット（HIU）から65℃程度の低温で室内に供給 - 圧力独立型温度制御バルブにより55℃程度のリターン温度を達成し、ネットワーク効率の低下を最小化 - ゲーツヘッド市内の16軒で試験した12室中8室が最寒週においてCIBSE快適基準を満たし、既存システムを変更しない接続の実用性を実証&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国では低温熱ネットワークがネットゼロ目標達成の重要施策として制度設計されており、法規制環境が異なります。放棄炭鉱が広範に存在して安定的な低温熱源を供給できるという社会インフラの前提が、日本には当てはまりません。また英国の気候条件における低温熱ネットワークの性能が、日本の寒冷地での実用性とどう異なるかは、記事からは判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/deep-impact-decarbonising-homes-with-mine-water/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>HEM活用の実現：フューチャーホームズスタンダードにおける換気のモデル化</title>
-    <link href="https://www.cibsejournal.com/technical/hem-unlocked-modelling-ventilation-under-the-future-homes-standard/" />
-    <id>urn:cibse:46275</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Alex Smith</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;HEM unlocked: modelling ventilation under the Future Homes Standard&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alex Smith ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;2027年3月からイングランドの新築住宅に導入される「Future Homes Standard（FHS）」と、それに伴う建築物の省エネルギー性能評価方法の変更について。現在使用されている月単位平均値による計算手法（SAP）から、30分間隔での動的シミュレーション方法（HEM）への移行を論じ、実測建物での両手法の比較結果を報告している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- FHS導入により、新築住宅のより高い気密性・断熱性が求められ、機械換気が選択肢ではなく必須となる - SAPは月単位の平均値で建物エネルギーを計算するのに対し、HEMは30分間隔で動的にシミュレーションし、建物の時間的応答を詳細に再現する - HEMで計算した場合、暖房需要がSAPより約24%高く算出され、これは特に冬季の風速と気温の同時変動をHEMが捕捉することに起因する - 機械熱回収換気（MVHR）については、ダクト内熱損失、実際の風圧条件による流量変動、ファン電力の再利用などをHEMはより詳細に計算する - SAPの月単位平均化方式では英国冬季の強風と気温低下が同時に発生する現象による熱損失が過小評価される&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;FHSの前提となる英国の気候環境と基準制度は日本と大きく異なる。英国冬季は強風と低気温が同時に発生する気象パターンが特徴であり、この現象をモデル化することが評価方法の重要な要素となっている。また、FHSは全国統一の標準気象データを採用するため、地域的気候差が反映されない。日本は湿度条件、季節パターン、電力供給構成が異なり、さらに日本の省エネルギー基準の評価体系も独立しているため、英国の手法をそのまま適用することは不適切である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/hem-unlocked-modelling-ventilation-under-the-future-homes-standard/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>郊外の冷房化：空気熱源ヒートポンプ</title>
-    <link href="https://www.cibsejournal.com/technical/cooling-the-suburbs-air-to-air-heat-pumps/" />
-    <id>urn:cibse:46445</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Cooling the suburbs: air-to-air heat pumps&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国政府の暖房改修補助制度が拡充され、可逆型室内外空調ヒートポンプ（RAAHP）が対象に加わった。ロンドン近郊の1930年代住宅改修事例を通じて、この低炭素技術が暖冷房と室内環境改善に有効であることを実証している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- RAAHPは空対水ヒートポンプより安価で、室内ファンコイルユニットにより暖房と冷房の両機能を提供する - 改修では外壁に外張り断熱を施工し、屋根間にも高性能断熱材を適用、U値は壁で0.15～0.21W·m⁻²·K⁻¹、屋根で0.104W·m⁻²·K⁻¹を達成 - 太陽熱集熱器で一次蓄熱槽を加熱し、自然循環で給湯と床暖房に供給、オフピーク時間帯の電気加熱で補助 - 1kW定格のRAAHP単体で標準条件下で3kW以上の暖房能力を発揮、除湿機能で結露防止に有効に機能 - 太陽光発電とRAAHPを組み合わせることで、夏季冷房時の電力需要をほぼ相殺し、気候変動対応として機能&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国ではオフピーク電力料金制度が普及しており、冬季の日射が限定的なため、太陽熱・太陽光利用の設計思想が異なる。建物の熱容量で温度変動を緩和する「パッシブファースト」戦略が設計の基本として重視される点も特徴的である。気候上のオーバーヒーティングが新たな課題として認識されており、冷暖房需要のバランスが日本と相違する。またF-gas規制など環境規制基準も異なっている。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/cooling-the-suburbs-air-to-air-heat-pumps/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>介護施設における過熱対策：脆弱な利用者の保護</title>
-    <link href="https://www.cibsejournal.com/technical/cooling-for-the-vulnerable-mitigating-overheating-in-care-homes/" />
-    <id>urn:cibse:46447</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Cooling for the vulnerable: mitigating overheating in care homes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の癲癇患者向けケアホームを事例に、気候変動に伴う室内過熱リスクと、その対策としての受動的・主動的冷房戦略の有効性を検証した研究です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 現在の気象条件でも26℃を超える時間が占有時間の3分の1に達し、2080年代には約38%まで増加する可能性がある - 外部シャッターと夜間自然換気の組み合わせなどのパッシブ対策は現在の気象下では有効だが、将来の気象シナリオでは限界を示す - ポータブル空調ユニットはエネルギー消費が大きく非効率である一方、可逆式エアソースヒートポンプは既存冷房と比べてエネルギー削減率66%を実現できる - 冷房システムの実装では、技術的性能よりも操作性・自動化度・職員の負担軽減が実際の運用成果に大きく影響する - ケア環境では、建築設備が居住者の健康と職員の業務効率に直結するため、設計段階での利用者ニーズの把握が不可欠である&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国のケアホームで強調されている夜間自然換気の有効性は、日本の高温多湿気候では夜間も気温が低下しにくいため、同じ効果が期待できない可能性があります。また、記事の気象モデルは英国の気候シナリオに基づいており、日本への直接適用は困難です。さらに、英国の建築物規制や電力事情（脱炭素化への圧力）と日本のそれは異なり、採用可能な技術や経済性の評価も異なる可能性があります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/cooling-for-the-vulnerable-mitigating-overheating-in-care-homes/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>熱ネットワーク設計の最適化</title>
-    <link href="https://www.cibsejournal.com/technical/optimising-network-heat/" />
-    <id>urn:cibse:46450</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Optimising heat network design&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の熱供給ネットワークにおいて、電力がガスより割高という制約条件の下で、ヒートポンプを活用しながら低コスト暖房と脱炭素化を同時に実現するための設計手法。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ヒートポンプの経済性はCOP3以上で初めてガスボイラーと競争でき、年間の気温変動や電力価格を反映した時間単位の運転モデルによる詳細な季節性能予測が必須 - ネットワークの流出・戻り温度の温度差を大きく、戻り温度を低く設計することで、ヒートポンプの冷凍サイクルの効率向上とポンプの消費電力削減を両立 - 高資本コストのヒートポンプと低資本コストの電気ボイラーを容量ベースで50/50に配置するハイブリッド戦略により、ヒートポンプが年間熱需要の99%をカバーしながら施設の建設費と機械室面積を削減 - 蓄熱槽と変動する時間帯別電力料金を組み合わせることで、ピーク時間帯の高額な電力を回避し、オフピーク時間の安価な電力を活用して運転コストを圧縮&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国はガスが電力より安いという価格構造を前提としているが、日本では電力とガスの相対的なコスト関係が異なる可能性がある。また、動的な時間帯別電力料金やグリッドバランシング需給調整制度は英国の電力市場固有の仕組みであり、日本の電力規制体系には直接適用できない可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/optimising-network-heat/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>水ミストの謎を解く</title>
-    <link href="https://www.cibsejournal.com/technical/water-misting-demystified/" />
-    <id>urn:cibse:46452</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Water misting demystified&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ウォーターミスト消火システムの過去20年間の課題と最近の改善について。かつては十分な検証方法がなく市場評判が混在していたが、昨年の欧州規格EN 14972制定により、初めてスプリンクラーと同等の検査・認証体系が整備された。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- EN 14972（17部構成のハーモナイズド規格）により、製造業者の自己主張だけでは不十分となり、完全規模火災試験による適合性の実証が各システムおよび各用途について必須化された - スプリンクラー設計パラメータ（水供給期間、適用面積、危険度分類）との整合が図られたことで、初めてウォーターミストとスプリンクラーの直接的で信頼性の高い性能比較が可能になった - 従来は保険会社から懐疑的に見られていたが、規格化による検査・認証体系の充実と第三者認証の普及により、業界全体の認識が改善された - ウォーターミストは製造業者ごとに異なる特性を持つため、スプリンクラーのように汎用的でなく、個別の建物・リスク・構成ごとの検証が不可欠 - ヘリテッジビル（水損を懸念する）、駐車場（大型水槽の設置スペースが限定される）、リチウムイオン電池火災など、従来工法が対応しにくい用途に適している&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;記事から判断できない。ただしEN 14972は欧州規格であり、日本での法的適用性、気候条件や電力事情への対応については別途の検討が必要。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/water-misting-demystified/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>隠れたダンパーの危険性：火災安全ガイダンス</title>
-    <link href="https://www.cibsejournal.com/technical/the-hidden-damper-danger-fire-safety-guidance/" />
-    <id>urn:cibse:46455</id>
-    <updated>2026-08-13T00:00:00+09:00</updated>
-    <author>
-      <name>Cathy King</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;The hidden damper danger: fire safety guidance&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;グレンフェル・タワー火災を背景に、英国が高層集合住宅などの高リスク建物を対象に防火ダンパーを含む火災安全情報の管理と記録を法的に義務付けた制度と、その実施基準の改訂について。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 防火ダンパーはダクトが火災遮断壁や床を貫通する箇所に設置され、火災時の煙の広がりを遅延させる重要な部材である - Building Safety Act に基づき、建物内の全ダンパーの把握、年1回の検査・テスト、信頼性の高い図面・写真・登録簿の記録保持が必須とされている - BESA ガイダンス DW145（2024/25年改訂）では、火災戦略文書からのダンパー位置特定、貫通シールの完全性確保、メンテナンスアクセスを容易にした設計が強調されている - 現状として、基本要件を満たす建物は1%未満で、70%のダンパーが初回検査で機能不全と判定され、多数の人命が危険にさらされている - 検査は「引き渡し時検証」「12ヶ月後確認」「既存建物の発見・検証」「定期テスト」の4段階に分類され、個別のリスク評価に基づいて実施間隔を設定する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国では Building Safety Act という法律で建築の安全情報管理が強制されており、日本の関連法規との具体的な対応関係は記事からは判断できない。気候や電力事情についても記事に記載がなく判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/the-hidden-damper-danger-fire-safety-guidance/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

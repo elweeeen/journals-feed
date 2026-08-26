@@ -3,7 +3,182 @@
   <title>建築環境・設備 新着論文｜日本建築学会 環境系論文集</title>
   <link href="https://elweeeen.github.io/journals-feed/aije.xml" rel="self" />
   <id>urn:jstage-journals:feed:aije</id>
-  <updated>2026-07-26T00:00:00+09:00</updated>
+  <updated>2026-08-26T00:00:00+09:00</updated>
+  <entry>
+    <title>温度差換気を用いるオフィスビルの各種設計条件と最適な自然換気口面積の関係</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_257/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.257</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>加藤 正宏</name>
+    </author>
+    <author>
+      <name>小林 知広</name>
+    </author>
+    <author>
+      <name>大西 直紀</name>
+    </author>
+    <author>
+      <name>弓野 沙織</name>
+    </author>
+    <content type="html">&lt;p&gt;加藤 正宏, 小林 知広, 大西 直紀, 弓野 沙織 ／ 日本建築学会環境系論文集 91巻843号 p.257-266&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;浮力を利用した自然通風は中規模建物で多く採用されている手法です。本研究では、最適化アルゴリズムと通風ネットワーク計算を組み合わせて、通風量を均一かつ最大にする開口面積を決定することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;開口面積、階数、内部発熱量、空調方式といった設計条件をパラメータとして変動させ、最適化計算を実施しました。各パラメータが自然通風開口部の最適値に及ぼす影響を詳細に分析しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;設計条件の変化に対応した最適開口面積の設計データが提示されました。これにより、要求される通風性能を満たす開口面積の決定基準が得られています。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;異なる建物条件に対応した最適開口面積の設計データが利用可能となることで、浮力通風を採用する際の開口面積設計の合理化が期待できます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_257/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Prediction of Pleasantness and Unpleasantness Assessment in Odor Addition for Sensory Deodorization</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_267/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.267</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>竹村 明久</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;感覚的消臭を意図した臭気へのにおい付加時の快・不快評価予測&lt;/em&gt;&lt;/p&gt;&lt;p&gt;竹村 明久 ／ 日本建築学会環境系論文集 91巻843号 p.267-275&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;感覚的消臭方法は複数の臭い成分を混合させることで消臭効果を得る手法である。しかし、異なる臭いの混合時に生じる相互作用は複雑であり、その混合結果を事前に予測することが困難である。そのため、効率的で信頼性の高い消臭設計対応が実務的な課題となっている。本研究は、消臭設計に必要な定量的かつ実用的な予測データの構築を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数の悪臭と添加臭の異なる組み合わせを対象に、3つの実験を系統的に実施した。各実験において、添加臭と悪臭の強度差と、混合臭と悪臭の嗜好度差の関係を詳細に検討し、混合時の定量的な規則性と傾向を追求した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;添加臭と悪臭の強度差と、混合臭と悪臭の嗜好度差との間には、臭いの組み合わせごとにほぼ線形の関係が存在することが明らかになった。同一種類の添加臭を用いた場合には類似した傾向が観察され、高濃度の悪臭条件では関係式の勾配がやや緩くなる特性が確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;消臭設計において、添加臭と悪臭の強度差に基づいて、混合臭の嗜好度変化を定量的に予測することが可能になり、試行錯誤を大幅に削減できる。得られた線形関係と勾配の特性は、消臭対象に応じた効果的な添加臭の種類選択と濃度設定に直接活用できる見通しが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_267/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>近隣環境による健康寿命への影響に関する階層構造分析</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_276/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.276</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>安藤 真太朗</name>
+    </author>
+    <author>
+      <name>前田 俊亮</name>
+    </author>
+    <author>
+      <name>川久保 俊</name>
+    </author>
+    <content type="html">&lt;p&gt;安藤 真太朗, 前田 俊亮, 川久保 俊 ／ 日本建築学会環境系論文集 91巻843号 p.276-283&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_276/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Trend Analysis of Shinkansen Railway Vibration in Elevated Bridge Sections Using Numerical Analysis and Examination of Applicability of Simplified Prediction Methods</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_284/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.284</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>野寄 真徳</name>
+    </author>
+    <author>
+      <name>横山 秀史</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;数値解析を用いた高架橋区間の新幹線鉄道振動の傾向分析と簡易予測法の適用性の検討&lt;/em&gt;&lt;/p&gt;&lt;p&gt;野寄 真徳, 横山 秀史 ／ 日本建築学会環境系論文集 91巻844号 p.284-295&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;新幹線による地盤振動は周辺環境に大きな影響を与えます。本研究では、高架橋区間における新幹線列車起因の地盤振動について、地盤特性と列車速度の条件を考慮し、全体加速度（OA値）と周波数特性を数値シミュレーションにより分析しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;数値シミュレーションを実施して地盤振動を計算し、その結果を簡便に予測できる方法の開発を検討しました。具体的には、多項式フィッティング法と人工ニューラルネットワーク（ANN）モデルを検討しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;地下深度の増加、列車速度の上昇、線路中心からの距離の短縮、N値の低下に伴い、OA値が増加することが明らかになりました。多項式フィッティング法とANNモデルは、数値シミュレーション結果を高精度で予測できることが確認されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;複雑な数値シミュレーション結果を多項式フィッティング法やANNモデルで簡便に予測可能であることが示されており、実務での振動評価に活用できる見通しがあります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_284/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Research on Quantitative Evaluation Methods for Condensation Prevention Performance Testing of Building Openings</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_296/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.296</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>齋藤 宏昭</name>
+    </author>
+    <author>
+      <name>齊藤 孝一郎</name>
+    </author>
+    <author>
+      <name>栗岩 賢史</name>
+    </author>
+    <author>
+      <name>喜田 高弘</name>
+    </author>
+    <author>
+      <name>上乗 正信</name>
+    </author>
+    <author>
+      <name>馬渕 賢作</name>
+    </author>
+    <author>
+      <name>斉藤 匠</name>
+    </author>
+    <author>
+      <name>岸本 尚子</name>
+    </author>
+    <author>
+      <name>井口 雅登</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;開口部の結露防止性能試験における定量的評価法に関する研究&lt;/em&gt;&lt;/p&gt;&lt;p&gt;齋藤 宏昭, 齊藤 孝一郎, 栗岩 賢史, 喜田 高弘, 上乗 正信, 馬渕 賢作, 斉藤 匠, 岸本 尚子, 井口 雅登 ／ 日本建築学会環境系論文集 91巻844号 p.296-304&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;開口部（窓など）システムの結露防止性能試験における結果のばらつきが問題となっていた。JIS A 1514の現行試験手順では再現性が十分でなく、試験の精度と定量性を向上させることが必要不可欠である。本研究は、より正確で再現性の高い評価方法の確立を目指すものである。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;試験室内における自然対流の検証方法と、表面に付着する結露水の質量測定方法について改善を検討した。また、複数の異なる実験室が同一試料を評価するラウンドロビン試験を実施し、提案手法の妥当性を実証的に検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案された試験方法により、従来よりも試験結果の再現性が向上することが明らかとなった。この成果は、結露防止性能試験に関する標準改定の経験的な基盤となるものである。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;JIS A 1514の改定を通じて、より精度の高い結露防止性能試験方法が実装される見通しが示された。これにより、建築実務における開口部の結露防止性能評価の信頼性が向上する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_296/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>申し訳ありませんが、翻訳対象の英語タイトルが記載されていないようです。コロンの後に英語のタイトルを提供していただければ、日本語に翻訳いたします。</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_305/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.305</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>清水 和真</name>
+    </author>
+    <author>
+      <name>森 太郎</name>
+    </author>
+    <author>
+      <name>大沢 飛智</name>
+    </author>
+    <author>
+      <name>林 基哉</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;後期高齢者の健康と住環境に関する研究：&lt;/em&gt;&lt;/p&gt;&lt;p&gt;清水 和真, 森 太郎, 大沢 飛智, 林 基哉 ／ 日本建築学会環境系論文集 91巻844号 p.305-315&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;高齢化が進む日本において、住宅などの生活環境が後期高齢者の季節性健康リスクおよび医療経済に及ぼす影響を解明することが重要課題である。本研究は、居住環境の物理特性（断熱性能、床面積、建築構造等）が季節別の死亡率および医療費に与える影響を、地域の気候特性を考慮して明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数の二次医療圏を対象にクラスター分析を実施した。地域気候に応じた住宅建築特性と季節別死亡率・医療費の関連性を検討し、後期高齢者の健康アウトカムに関連する因子を抽出した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;断熱改修施工は冬季死亡率の低下と関連していた。寒冷地では木造住宅が全原因死亡の夏季リスク低減と関連する一方で、住宅内死亡のリスクが増加していた。床面積が大きいほど医療費が低かった。これらの結果は、室内温熱環境の管理が後期高齢者の健康に大きく影響することを示唆している。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;季節性健康リスク軽減には、地域気候に応じた断熱改修と空調設備の導入が有効である。これら物理的介入により、高齢者の健康リスクと医療経済の改善が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_305/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>パッシブデザイン手法が快適性と省エネルギー性能に及ぼす影響に関する研究（第2報）―オフィスビルを対象とした検討</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/844/91_316/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.316</id>
+    <updated>2026-08-26T00:00:00+09:00</updated>
+    <author>
+      <name>菅 健太郎</name>
+    </author>
+    <author>
+      <name>大岡 龍三</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;パッシブデザイン手法が快適・省エネルギー性能に及ぼす影響度に関する研究（その２）：オフィスビルを対象とした検討&lt;/em&gt;&lt;/p&gt;&lt;p&gt;菅 健太郎, 大岡 龍三 ／ 日本建築学会環境系論文集 91巻844号 p.316-324&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来の住宅を対象とした研究から発展させ、事務所建築を対象にパッシブ設計戦略の効果を定量的に評価することを目指している。事務所では照明・機器・在室者からの内部熱負荷が住宅より大きく、かつ時間的に変動しやすいという特性を十分に考慮する必要がある。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;年間エネルギー消費と空間熱自立度（Spatial Thermal Autonomy：sTA）をパフォーマンス指標として採用した。照明、機器設備、在室密度を系統的に変化させることで、複数の設計条件を分析した。設計因子間の非線形性と相互作用を捉えるため、SHAP法に基づくグローバル感度分析を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;エネルギー消費とsTAでは支配的な影響因子が異なることが明らかになった。内部負荷が低下するほど、パッシブ設計戦略の相対的な重要性が高まることが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;評価指標によって支配的な設計因子が異なることから、目標指標を明確にしたうえで設計対策の優先順位を定める必要がある。また低内部負荷の事務所ではパッシブ設計戦略がより重要な役割を果たすことが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/844/91_316/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>小学校普通教室における窓開け換気による児童居住域温度と換気量</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/842/91_223/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.223</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>合原 妙美</name>
+    </author>
+    <author>
+      <name>岩下 剛</name>
+    </author>
+    <author>
+      <name>田辺 新一</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;小学校普通教室における「窓開け換気」による児童居住域温度と換気量&lt;/em&gt;&lt;/p&gt;&lt;p&gt;合原 妙美, 岩下 剛, 田辺 新一 ／ 日本建築学会環境系論文集 91巻842号 p.223-234&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;COVID-19パンデミック後の2023年度において、機械換気装置を備えていない教室が公式推奨に従いウインドウとドア開放による自然換気を推進している。本研究は、このような自然換気を中心とした実践的環境における換気効率と室内温熱環境の実態を定量的に把握することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;測定教室の1人当たり換気率は、春秋の中間期で29 m³/hであったが、冷暖房期では約20 m³/hに低下し、中間期比で約30%の低下を示した。室内温度環境は季節間で顕著な差が生じ、冷房期に児童の着座位置で気温が28°Cを超える時間が学校時間の9%、暖房期には18°C以下の時間が91%に達した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;外気条件に依存する自然換気の制約が明らかになり、季節ごとに異なる適切な換気戦略の構築が求められる。自然換気のみでは室内の温熱快適性を十分に確保することが困難であることが示唆された。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/842/91_223/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ご指示のプロンプトが矛盾しています。提供いただいているテキストは既に日本語です。</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/842/91_235/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.235</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>登尾 育海</name>
+    </author>
+    <author>
+      <name>森本 理仁</name>
+    </author>
+    <author>
+      <name>西村 智賢</name>
+    </author>
+    <author>
+      <name>杜 偉薇</name>
+    </author>
+    <author>
+      <name>村本 真</name>
+    </author>
+    <content type="html">&lt;p&gt;登尾 育海, 森本 理仁, 西村 智賢, 杜 偉薇, 村本 真 ／ 日本建築学会環境系論文集 91巻842号 p.235-246&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;伝統的な日本の左官工事では、職人が視覚によって表面品質を評価し、鏝の動きを予測しながら作業を行っている。本研究は、こうした職人の経験的判断をロボットアームが支援する形で、人間と機械が協働する連続塗り壁システムの開発を目指している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;深度画像と深層畳み込みニューラルネットワークを活用した自動品質評価手法を採用した。異なる画像解像度と照明条件下での塗り壁欠陥を含む学習用データセットを構築し、その評価結果に基づいてロボットが未塗装エリアを補塗する仕組みとしている。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;本システムにより、様々な環境条件下での連続的な運用が実現でき、人間の左官職人の作業負荷を軽減することが可能になった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;AI技術を用いた自動品質評価により、職人の経験的判断の一部を機械化できる可能性が示された。ロボット補助により、労働環境の改善と施工効率の向上が期待される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/842/91_235/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>推計気象分布の日照率を用いた日射量の推定</title>
+    <link href="https://www.jstage.jst.go.jp/article/aije/91/843/91_247/_article/-char/ja/" />
+    <id>urn:doi:10.3130/aije.91.247</id>
+    <updated>2026-08-25T00:00:00+09:00</updated>
+    <author>
+      <name>赤坂 裕</name>
+    </author>
+    <author>
+      <name>武田 和大</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;推計気象分布の日照率を用いた日射量の推定&lt;/em&gt;&lt;/p&gt;&lt;p&gt;赤坂 裕, 武田 和大 ／ 日本建築学会環境系論文集 91巻843号 p.247-256&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;気象庁が提供するひまわり8号衛星に基づく日射時間情報を利用して、地上における時間単位の日射量を推定する方法を開発することを目的とした。衛星データは広い地域で利用可能であり、地上測定ネットワークの空間的な制限を補う可能性がある。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;気象庁の推定天気分布に含まれるひまわり8号ベースの日射時間データから、地上の時間単位日射量を推定するための計算式を開発し、係数を決定した。全国47の気象台における実測値と比較することで、提案式の推定精度を定量的に検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;提案した推定式による予測値は、地上で直接測定した日射時間を用いた従来の推定法よりも精度はやや低いものの、メソスケールモデル（MSM）ファイルを基に推定する方法よりは大幅に精度が優れていることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;衛星データに基づく推定式は、地上測定値が得られない地域での日射量推定の有用な補助手段となる。ただし、高精度が必要な設計時には、可能な限り地上測定値の活用が望ましい。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.jstage.jst.go.jp/article/aije/91/843/91_247/_article/-char/ja/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>火災報告に基づく建物用途ごとの火災成長率αの階層ベイズ推定</title>
     <link href="https://www.jstage.jst.go.jp/article/aije/91/839/91_1/_article/-char/ja/" />

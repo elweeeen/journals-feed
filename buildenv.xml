@@ -3,7 +3,82 @@
   <title>建築環境・設備 新着論文｜Building and Environment</title>
   <link href="https://elweeeen.github.io/journals-feed/buildenv.xml" rel="self" />
   <id>urn:jstage-journals:feed:buildenv</id>
-  <updated>2026-08-15T00:00:00+09:00</updated>
+  <updated>2026-08-24T00:00:00+09:00</updated>
+  <entry>
+    <title>多階建て建物における通風型太陽光ファサード：気流合流を伴う自然通風</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115114" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115114</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Hua Huang</name>
+    </author>
+    <author>
+      <name>Yao Tao</name>
+    </author>
+    <author>
+      <name>Long Shi</name>
+    </author>
+    <author>
+      <name>Yidan Shang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Ventilated solar façades in multi-storey buildings: natural ventilation with flow confluences&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hua Huang, Yao Tao, Long Shi, Yidan Shang ／ Building and Environment 304巻 p.115114-115114&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115114"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>室内環境におけるグリーンウォールのCO2フィトレメディエーション効率の実験的評価</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115131" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115131</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Gianluca Coccia</name>
+    </author>
+    <author>
+      <name>Feliciano Falcone</name>
+    </author>
+    <author>
+      <name>Luca Tarabelli</name>
+    </author>
+    <author>
+      <name>Costanzo Di Perna</name>
+    </author>
+    <author>
+      <name>Elisa Di Giuseppe</name>
+    </author>
+    <author>
+      <name>Marco D’Orazio</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Experimental assessment of the CO2 phytoremediation efficiency of living walls in indoor environments&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Gianluca Coccia, Feliciano Falcone, Luca Tarabelli, Costanzo Di Perna, Elisa Di Giuseppe, Marco D’Orazio ／ Building and Environment 304巻 p.115131-115131&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;グリーンウォール（LW）は室内空気質を改善し、CO₂蓄積を緩和する生物基盤システムである。パッシブ型グリーンウォールのCO₂浄化性能を評価することが目的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;フルスケール気候室に、3種類の植物で構成された2つのパッシブLWを設置。20～24°C、LED照明なし・50%・100%の条件下で減衰テストと脈動テストを実施し、CO₂除去速度定数と等価気流率を測定した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;照明により減衰定数が増加し、累積曝露が最大44%削減。等価気流率は13.0～27.6 m³/h⁻¹に増加した。脈動テストでは、温度と照度に応じて20～39%のCO₂増加削減を達成し、フル照明下では呼吸負荷が3.3から2.1占有者に低下した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;パッシブ型グリーンウォールは室内CO₂軽減に測定可能な効果を示している。照明の加算によって効果が向上し、ハイブリッド換気戦略を補完する手段として活用できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115131"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>昼夜放射冷却により駆動される放射蓄熱冷却システムの全規模実験評価</title>
+    <link href="https://doi.org/10.1016/j.buildenv.2026.115136" />
+    <id>urn:doi:10.1016/j.buildenv.2026.115136</id>
+    <updated>2026-08-24T00:00:00+09:00</updated>
+    <author>
+      <name>Eduardo González-Cruz</name>
+    </author>
+    <author>
+      <name>Gloria Alemany Pérez</name>
+    </author>
+    <author>
+      <name>Borja Frutos</name>
+    </author>
+    <author>
+      <name>Carmen Alonso</name>
+    </author>
+    <author>
+      <name>Fernando Martín-Consuega</name>
+    </author>
+    <author>
+      <name>Álvaro Gutiérrez</name>
+    </author>
+    <author>
+      <name>Eduardo  L. Kruger</name>
+    </author>
+    <author>
+      <name>Lorenzo Pattelli</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Full-scale experimental assessment of a radiant-capacitive cooling system driven by nocturnal and diurnal radiative cooling&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Eduardo González-Cruz, Gloria Alemany Pérez, Borja Frutos, Carmen Alonso, Fernando Martín-Consuega, Álvaro Gutiérrez, Eduardo  L. Kruger, Lorenzo Pattelli ／ Building and Environment 304巻 p.115136-115136&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.buildenv.2026.115136"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>都市環境における歩行者快適性への風の影響：風不快感、熱ストレス、および雨曝露</title>
     <link href="https://doi.org/10.1016/j.buildenv.2026.115120" />

@@ -3,7 +3,20 @@
   <title>建築環境・設備 新着論文｜Science and Technology for the Built Environment</title>
   <link href="https://elweeeen.github.io/journals-feed/stbe.xml" rel="self" />
   <id>urn:jstage-journals:feed:stbe</id>
-  <updated>2026-08-27T00:00:00+09:00</updated>
+  <updated>2026-09-09T00:00:00+09:00</updated>
+  <entry>
+    <title>米国における熱回収換気を用いたフリークーリング戦略</title>
+    <link href="https://doi.org/10.1080/23744731.2026.2715319" />
+    <id>urn:doi:10.1080/23744731.2026.2715319</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>Andrew Shore</name>
+    </author>
+    <author>
+      <name>Yunho Hwang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Energy recovery ventilator free cooling strategies across the U.S&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Andrew Shore, Yunho Hwang ／ Science and Technology for the Built Environment p.1-17&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;高性能建築の実現にあたり、全熱交換装置（ERV）のバイパスモード活用が冷房季節の省エネルギー化を可能にする。屋外条件が室内条件より低い時にバイパスモードを使用することで、建物への熱負荷を削減し、ヒートポンプの運転負荷を軽減できる。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ERVの通常運用と温度ベース制御およびエンタルピーベース制御の2つのバイパス制御を比較した。TRNSYSを用いてNIST住宅試験施設をモデル化し、米国15都市でシミュレーション解析を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;温度ベース制御はホットドライ気候および海洋気候でHVACエネルギー1～4.7%を削減した。エンタルピーベース制御は潜熱負荷を制限する一方で自然冷却ポテンシャルが低下し、HVAC削減は-1.5～1.7%にとどまった。温度ベース制御はPMV±0.5超過時間をホットドライ気候で3%以上、海洋気候で最大60%削減した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;温度ベース制御は換気量がより多く、全気候区分で熱快適性を向上させながら、ホット・ドライ・海洋気候ゾーンでエネルギー削減を実現する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/23744731.2026.2715319"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>実車客室における換気気流の特性評価：実験的ベンチマーク</title>
     <link href="https://doi.org/10.1080/23744731.2026.2718003" />

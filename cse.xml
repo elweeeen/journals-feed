@@ -3,7 +3,94 @@
   <title>建築環境・設備 新着論文｜Consulting-Specifying Engineer</title>
   <link href="https://elweeeen.github.io/journals-feed/cse.xml" rel="self" />
   <id>urn:jstage-journals:feed:cse</id>
-  <updated>2026-08-16T00:00:00+09:00</updated>
+  <updated>2026-10-03T00:00:00+09:00</updated>
+  <entry>
+    <title>事例研究：オフィスビル所有者がユニタリーパッケージRTUを選択した理由</title>
+    <link href="https://www.csemag.com/case-study-why-an-office-building-owner-selected-a-unitary-packaged-rtu/" />
+    <id>urn:cse:32284</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Alexandria Stuart and Caley Johnson</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Why an office building owner selected a unitary packaged RTU&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alexandria Stuart and Caley Johnson ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国気候ゾーン4Aに建設予定のオフィスビルにおいて、2024年米国エネルギー保全法典(IECC)に基づくエコノマイザー装備要件を満たすため、屋上ユニット型冷却システムとスプリットシステムの設計比較を行った事例を紹介している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 2024 IECC では、チルド水システムおよび容量54,000 Btuh以上の個別ファンシステムなど一定規模以上の冷却設備にエコノマイザーの装備が法的に義務化される - 20トンルーフトップユニット(RTU)は8,000cfmの気流を供給ダクト30×30インチ、返空気ダクト32×32インチで処理し、ユニット内蔵のエコノマイザーと制御機器のみで機能する - RTUは追加装備が最小限で施工が簡潔、工事の調整や交差作業の負担が軽減される - スプリットシステムはエコノマイザー機能に吸気・排気ルーバー(6×6フィート)、外部ダクト、制御用ダンパー・コントローラなど多数の補助機器が必要となる - スプリットシステムは機械室の著しい拡張が必要となるため賃貸スペースの減少につながり、初期コスト・施工工程・維持保全の複雑性でRTUが有利&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国のIECC では容量54,000 Btuh や270,000 Btuh といった具体的な数値基準を用いてエコノマイザー装備の適用判定を行う。また気候ゾーン4Aなど統一的なクライマテゾーン分類に基づいた設計が一般的である。日本の建築基準では異なる法規体系であり、気候区分の定義方法や冷却装置の法定要件が相異する可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-why-an-office-building-owner-selected-a-unitary-packaged-rtu/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：病院におけるハイブリッド空気熱源ヒートポンプの選定</title>
+    <link href="https://www.csemag.com/case-study-choosing-a-hybrid-air-to-water-heat-pump-in-a-hospital/" />
+    <id>urn:cse:32311</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Robert Thompson</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>and Lhymwell Manalo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Choosing a hybrid air-to-water heat pump in a hospital&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Robert Thompson, PE, and Lhymwell Manalo ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;遠隔地の医療施設（気候帯Zone 5B、冬が暖房主要）でのオペ室・救急室を含む施設での、空気熱源ヒートポンプシステムの導入事例。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- アクティブ放射冷暖房パネルと空気熱源ヒートポンプの組み合わせで、従来システムから32%のエネルギー削減を達成した - 廃熱回収機能により、冷却塔エネルギー消費を70%削減し、暖房エネルギーを80%削減した - 信頼性の懸念から、従来型の空冷チラーと電気ボイラーを主系として、ヒートポンプを冗長機器に位置づけた設計とした - ヒートポンプを優先段階として起動し、需要が超過する際に従来型機器を段階的に追加起動する制御戦略を導入した - 屋外気温10°F以下で効率が低下し、0°F以下では一部ユニットが停止するという低温環境での制約がある&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;気候帯Zone 5B（冬が暖房主要）は米国西部の地域特性であり、日本の気候帯および建築省エネ基準と異なります。給湯温度基準（140°F/158°F）やレジオネラ対策（ASHRAE 188）といった米国固有の法規要件、地域的な水資源の制限が想定されており、日本の法規・気候・電力事情にそのまま適用することはできません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-choosing-a-hybrid-air-to-water-heat-pump-in-a-hospital/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ケーススタディ：バイオテク施設の設計がオーナーのエネルギー目標をいかに達成したか</title>
+    <link href="https://www.csemag.com/case-study-how-a-biotech-buildings-design-achieved-an-owners-energy-goals/" />
+    <id>urn:cse:32327</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Mitch Hickmann</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How a biotech building’s design achieved an owner’s energy goals&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mitch Hickmann, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ウィスコンシン州のバイオテック施設が、モジュール式6管ヒートリカバリーチラーと56本の地中熱交換機を組み合わせたシステムで、2021年から低消費エネルギー運用を実現している事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- モジュール式6管HRCと全熱交換ホイール、太陽光パネル、二重ファサードを統合し、2007 ASHRAE基準比で197 kBtu/m²/年のエネルギー削減を実現 - HRCを4モジュール構成とし、同時加熱・冷却とともに地中熱源への余剰熱排放に対応 - キャンパス中央プラント経由でHRCを接続し、サイドカー配置と個別ポンプで安定した流量供給を確保 - 異なる負荷シナリオでの運用時に、メーカーと設計段階からの技術協力と制御プログラム調整が不可欠 - 試運転時の流量・温度バランス調整とメーカー派遣の専門家による支援で、複雑なシステムの安定化を図る&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国のASHRAE基準を評価基準としており、日本の建築物環境衛生管理基準や省エネ基準とは評価体系が異なります。56本の深いボーリングによる地中熱利用は、米国の地盤条件と冷暖房需要パターンに基づいており、日本の気候や地質への直接適用には検討が必要です。キャンパス型の中央プラントシステムも米国の大規模施設特有の設備体系です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-a-biotech-buildings-design-achieved-an-owners-energy-goals/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>飲料水処理施設の配管所要量の算定方法：ケーススタディ</title>
+    <link href="https://www.csemag.com/case-study-how-to-calculate-drinking-water-treatment-plant-plumbing-needs/" />
+    <id>urn:cse:32385</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Zak Charette</name>
+    </author>
+    <author>
+      <name>CDM Smith</name>
+    </author>
+    <author>
+      <name>Boston</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: How to calculate drinking water treatment plant plumbing needs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Zak Charette, CDM Smith, Boston ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;飲料水処理施設において、PFAS（過フッ素化合物）を粒状活性炭で処理する建物の給水システム設計について、設計者が実際に行った給水管路のサイジングと圧力損失の計算プロセスを示した事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- WSFU（給水器具単位）による需要負荷の算定：トイレ10、洗面器2、シャワー4、実験用シンク4の計20WSFUから、フラッシュバルブ使用時の需要を35gpmと推定した - 管径の決定：初期案の1.5インチ（6.5fps）から2インチにアップサイズし、流速を3.66fpsに低減して騒音を抑制 - 圧力損失の評価：水道メーター10psi、圧力調整弁5psi、逆流防止弁9psiの総24psiを考慮 - 有効圧力の確認：入水圧65psiから各機器の損失を差引き、最遠の器具（200フィート先）に21psiの有効圧力を確保 - 管路損失の検証：250フィート相当長に対する損失17.5psiが許容範囲内（残3.5psi）であることを確認し、システムの適切性を実証&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;米国はIPC（国際配管基準）に基づいた設計手法とpsiという圧力単位を採用している一方、日本では給水装置工事主任技術者規程に基づいた異なる基準が適用されます。また、PFAS処理の導入が規制背景として急速に進展している米国の水質規制環境は、日本の状況と異なります。記事からは、気候条件や電力事情に関する具体的な影響については判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-how-to-calculate-drinking-water-treatment-plant-plumbing-needs/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：新保健科学センターが野心的な脱炭素化目標を達成</title>
+    <link href="https://www.csemag.com/case-study-new-health-sciences-center-achieves-ambitious-decarbonization-goals/" />
+    <id>urn:cse:32411</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Keith Hammelman</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: New health sciences center achieves ambitious decarbonization goals&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Keith Hammelman, PE ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ニューヨーク市クイーンズのセント・ジョンズ大学が建設した70,000平方フィートの健康科学教育施設において、ニューヨーク市の炭素排出規制（Local Law 97）に対応するため、エネルギーモデリングに基づいて複数のHVAC方式を比較検討し、最も効率的な地熱ベースシステムを採用・構築した事例です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 建物面積25,000平方フィート超に適用されるLocal Law 97での炭素排出ペナルティ対応のため、スキーマティック設計段階からエネルギーモデリングを実施し、地熱とアクティブ冷却ビーム、分散型・集中型地熱ヒートポンプなど複数のHVAC方式を候補に比較評価した - 各システムのエネルギー使用指標（EUI）を計算した結果、採用された中央型地熱水-水ヒートポンプシステムのEUIは54で、従来型ガスボイラーシステムの100と比べて炭素排出コストで50%以上の削減効果がある - 中央プラントを構成する10台の30トンヒートポンプユニット、66本の500フィート深さ地熱井戸、二つの各16,600立方フィート/分DOAS用ユニットで300トン冷水と3,446 MBH低温温水を供給し、ディーゼル24,500ガロン相当のCO2排出削減を達成した - 高性能外壁などの受動的設計対策と組み合わせてHVACシステムを構築し、建物の冷暖房負荷を最小化することで機器の最適稼働を確保した - 占有センサーとCO2センサーによる需要制御換気システムを全域に導入し、室内環境品質を維持しながら省エネを実現する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ニューヨーク市のLocal Law 97のように、建物全体の炭素排出量に法定上限を設定し違反時に罰金を課す強制的な規制枠組みは日本に存在しません。また米国東部の気候、地熱資源賦存条件、電力系統の炭素排出プロファイルが日本と異なるため、同一システムでも実現可能な削減量や経済性が異なる可能性があります。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-new-health-sciences-center-achieves-ambitious-decarbonization-goals/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>事例研究：手術室空調システムのエネルギー削減と改善方法</title>
+    <link href="https://www.csemag.com/case-study-tips-to-reduce-energy-improve-hvac-systems-in-or-ahus/" />
+    <id>urn:cse:32091</id>
+    <updated>2026-09-03T00:00:00+09:00</updated>
+    <author>
+      <name>Louis J. Lercara</name>
+    </author>
+    <author>
+      <name>PE</name>
+    </author>
+    <author>
+      <name>HFDP</name>
+    </author>
+    <author>
+      <name>LEED AP</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Case study: Tips to reduce energy, improve HVAC systems in OR AHUs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Louis J. Lercara, PE, HFDP, LEED AP ／ Consulting-Specifying Engineer｜Case Study&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;米国の高温多湿地域における手術室空調システムの制御最適化についての実例報告。ASHRAE Standard 170基準に適合しながら省エネを両立させるための制御戦略の改善過程を描いている。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- ASHRAE Standard 170により手術室の相対湿度は30～60%に厳密に管理する必要があり、従来の省エネ制御である経済器やSAT（供給空気温度）リセットの効果が限定される&lt;/p&gt;&lt;p&gt;- 露点ベース制御システムで、一次冷却コイルと除湿ホイールが露点を低くして除湿性能を確保し、二次冷却コイルが乾球温度を調整する二段階冷却方式を採用&lt;/p&gt;&lt;p&gt;- ゾーン需要に応じてSATを動的にリセットする戦略により、低負荷時の不要な冷却と再熱を削減しながら湿度管理を維持&lt;/p&gt;&lt;p&gt;- 経済器の制御ロジックを改善：有効温度設定の見直し、冷却コイル弁の開度閾値を20%から5%に縮小、加湿出力が5%を超える場合の経済器ロックアウト機能を追加&lt;/p&gt;&lt;p&gt;- コミッショニングで制御閾値の微細な調整が性能に大きく影響することが判明し、省エネ効果と湿度制御のバランス取得に不可欠&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;ASHRAE Standard 170は米国の基準であり、日本の手術室設計ではJIS規格やガイドラインが異なる可能性がある。また米国南部の高温多湿気候での実例のため、日本の地域気候特性や冷房期間の差が制御戦略に影響する。米国の電力事情や法規環境も異なるが、記事からは具体的な詳細は判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.csemag.com/case-study-tips-to-reduce-energy-improve-hvac-systems-in-or-ahus/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>省エネルギーで持続可能なオフィスビルの重要な考慮事項</title>
     <link href="https://www.csemag.com/key-considerations-for-energy-efficient-and-sustainable-office-buildings-2/" />

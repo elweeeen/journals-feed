@@ -3,7 +3,107 @@
   <title>建築環境・設備 新着論文｜CIBSE Journal</title>
   <link href="https://elweeeen.github.io/journals-feed/cibse.xml" rel="self" />
   <id>urn:jstage-journals:feed:cibse</id>
-  <updated>2026-08-13T00:00:00+09:00</updated>
+  <updated>2026-10-03T00:00:00+09:00</updated>
+  <entry>
+    <title>Hidden beneath the wave: Sydney Fish Market</title>
+    <link href="https://www.cibsejournal.com/case-studies/hidden-beneath-the-wave-sydney-fish-market/" />
+    <id>urn:cibse:47111</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;シドニーのBlackwattle Bayに建設された新しい魚市場施設で、商業的な卸売機能と公共の飲食・小売空間を同一建築内で両立させた施設です。建築設備システムが商業・公共両機能を統合的に支える中核的な役割を果たしています。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- アンモニア冷凍機を用いた3つの温度制御回路（-30℃、-10℃、6℃）を一元管理し、冷凍室・冷却室・全館空調を供給 - 1日約50トンの製氷と-22℃冷凍室、1℃冷却室を備え、鮮度維持と食品衛生を確保 - 冷凍機からの廃熱を24時間回収し、給湯・暖房・除霜に利用して運用エネルギーを最適化 - 床排水と雨水を集約して1日15万リットルのグレイウォーター処理で処理し、洗浄・冷却塔補給・トイレ・灌漑に再利用 - 旧市場比で上水使用量50%削減、屋根のソーラーパネル10,000m²で建物エネルギー5%を発電し、Green Star5つ星評価を達成&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;オーストラリア（シドニー）の気候は夏季35℃に達する高温で冬季暖房負荷が小さいため、廃熱活用の優先度が日本と異なります。アンモニア冷凍機は大規模工業用冷凍に適用される規制環境が整備されており、日本での導入実績や規制との相違があります。日本の高温多湿気候下での実務的な除湿・結露対策やグレイウォーター処理の実装課題については記事からは判断できません。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/hidden-beneath-the-wave-sydney-fish-market/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>将来対応型防火</title>
+    <link href="https://www.cibsejournal.com/uncategorized/future-proof-fire-safety/" />
+    <id>urn:cibse:47413</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Nhurley</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Future-proof fire safety&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nhurley ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国のファサード（外装）設計では、現代的なカーテンウォールやビルトアップウォール外装が従来の火災安全規制に適合させることが困難になっているため、CWCT（英国窓・外装技術センター）が新たな技術ガイドラインを発表した件。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- Approved Document B（英国の従来的な火災安全規制）は伝統的建築法を前提としており、複雑で多層構造の現代的ファサード設計には対応困難となっている - カーテンウォール用の火災停止部材には3つのアプローチが提案：試験による直接的な適用方法、試験結果の拡張適用範囲での利用、および火災エンジニアリング評価に基づく詳細な設計方法 - ビルトアップウォール内部のキャビティ（空隙）は通常時には通気性を維持する開状態型キャビティバリアで処理し、火災時に膨張して遮断するシステムを採用 - 既存の試験規格（BS EN 1364、BS EN 1366、BS 8414など）には限界があり、特に軽量パネル外装では実際のファサード挙動を完全に再現できない可能性がある - Grenfell Tower Inquiryの教訓に基づき、BS 8414試験単体での適合性確認は不十分であり、火災エンジニアリングの専門家による総合的な評価が必須条件とされている&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国の規制体系は高層集合住宅における火災事故（Grenfell Tower Inquiry）の教訓を明示的に反映させ、複数の試験方法と専門家による総合評価を組み合わせた包括的なアプローチを採用している点が特徴である。気候条件、電力供給体制、および日本の建築火災安全規制との具体的な相違については、記事から判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/uncategorized/future-proof-fire-safety/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>英国のデータセンター急速拡大：スキルと基盤は対応できるか？</title>
+    <link href="https://www.cibsejournal.com/technical/the-uks-data-centre-boom-can-skills-and-infrastructure-keep-pace/" />
+    <id>urn:cibse:47457</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Nhurley</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;The UK’s data centre boom: can skills and infrastructure keep pace?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nhurley ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国のデータセンター市場の急速な拡大に対応する過程で、建築設備業界が直面する人材確保と電力網容量の課題、および業界団体（ECA）が政府と連携して実施する対応策について論じた記事です。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- AI・クラウドサービスの需要増加により、英国のデータセンター市場が数十年で最大の成長機会を迎えており、設備業界の建設・施工から長期保守・技術業務まで幅広い領域に経済的メリットがもたらされている - 地域の電力網に対する過度な負荷と、熟練した電気技術者の著しい不足が、プロジェクト実現のための重大な課題となっている - ECAがBESAと共同でデータセンタースキル円卓会議を開催し、政府・Skills England・主要業者が人材育成と労働力計画について検討している - ETCAsなどのイニシアティブを通じて、雇用主・訓練機関・地域当局が連携し、地域における人材パイプラインと職業へのアクセス経路の構築に取り組んでいる - 現在確立される技術標準・スキルフレームワーク・政策決定が今後10年間の産業の成功者を左右する&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国の電力系統整備状況は日本と異なり、地域電力網への負荷が産業展開の制約要因になっているという前提が異なる可能性がある。また、ECAのような業界団体の役割や、政府との協働体制、技術者の訓練・認定制度の枠組みが日本の建築設備業界の構造と大きく異なる。記事からは英国独特の気候条件やデータセンター冷却方式の詳細は判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/the-uks-data-centre-boom-can-skills-and-infrastructure-keep-pace/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>適合性を超えた建築安全：CIBSE会議のハイライト</title>
+    <link href="https://www.cibsejournal.com/general/beyond-compliance-cibse-building-safety-conference-highlights/" />
+    <id>urn:cibse:47787</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Beyond compliance: CIBSE Building Safety conference highlights&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;Building Safety Act導入後の英国における建築安全性の実装状況と課題を扱うカンファレンスレポート。Grenfell Tower火災以降の改革がどのように進められているか、その進捗と課題を報告している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- レトロフィット部門での深刻なスキルギャップと既占有建物の安全管理体制の不備が大きな課題として指摘されている - Gateway 2の承認時間がほぼ半減し、承認率が倍増するなど制度改善は進んでいるが、建設施工段階での専門性と倫理観の定着が引き続き必要である - 建築管理部門への過度な依存が問題であり、他の関係者の能力向上と適切な役割分担が急務である - サプライチェーン全体での建設製品安全への責任認識が欠落しており、製品安全標準検証に必要な技術文書の提供が不十分である - BESAの調査では64%が要件達成を主張する一方、50%未満しか文書化された証拠を保有しておらず、30年に延長された責任期間への対応が懸念されている&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;記事からは判断できない&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/general/beyond-compliance-cibse-building-safety-conference-highlights/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>組積造壁およびカーテンウォールにおける耐火ファサードの確保</title>
+    <link href="https://www.cibsejournal.com/technical/ensuring-fire-safe-facades-in-built-up-walls-and-curtain-walling/" />
+    <id>urn:cibse:47118</id>
+    <updated>2026-08-30T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Ensuring fire-safe façades in built-up walls and curtain walling&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;複雑なモダンファサード設計において、従来の火災安全規制では対応できない問題が生じているため、英国のCWCT（窓・クラッディング技術センター）が、カーテンウォールおよび建ち上げ壁を対象とした火災安全技術ノート（TN115、TN116）を新たに発表した。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- カーテンウォールのファイアストップ戦略として、試験による直接適用、試験結果の拡張適用、あるいは火災エンジニアリング評価に基づく3つのアプローチを提示 - 現状では複雑なカーテンウォール向けに火災エンジニアリング評価が最も要求される傾向であり、十分な試験エビデンスの蓄積をCWCTは求めている - 建ち上げ壁のキャビティはスタック効果により火と煙が急速に拡散するため、常時開放で火災時に遮断する開閉式キャビティバリアを配置 - 既存の試験基準（BS 8414など）のみに依存した評価では不十分であり、火災エンジニアによる総合的な安全評価が必須 - スプリンクラーや避難計画を含めた、設計初期段階からの火災エンジニアと外装設計の協働が必須&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国ではApproved Document Bという処方的規制により火災安全が定められており、この規制の限界補完が目的の技術ノート。Grenfell Tower Inquiryという大規模火災事例が規制改善を駆動している。一方、記事からは英国の気候条件や電力事情が火災安全設計にどう影響するかは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/ensuring-fire-safe-facades-in-built-up-walls-and-curtain-walling/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>TM59：住宅の過熱ストレステスト</title>
+    <link href="https://www.cibsejournal.com/technical/tm59-stress-testing-homes-for-overheating/" />
+    <id>urn:cibse:47134</id>
+    <updated>2026-08-30T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;TM59: stress testing homes for overheating&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;イギリスの住宅における夏季過熱対策の標準評価方法CIBSE TM59が2026年に改訂された。動的熱シミュレーションを用いた設計段階でのオーバーヒーティングリスク評価の新しい評価方法と対策要件について示したもの。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- シーリングファンを低エネルギー冷却ツールとして新たに導入し、熱快適性閾値を最大2.1°C向上させることでエネルギー消費型の冷房の必要性を減らす - コンプライアンスチェックリストを新規導入することで、北軸の設定ミスなど設計段階で見落としやすいエラーを防止 - 気象データベースを2020年代から2050年代に更新し、地理的ゾーン数を16から28に拡大することで気候変動への適応に対応 - 受動的冷却を優先する段階的評価体系を導入（Stage 1：理想条件下での受動冷却、Stage 2：実際の制限要因を適用、Stage 3：最後の手段としてアクティブ冷却を許可） - 夜間室温を平均27°C以下に保ち、超過夜数を4夜以下に制限する新しい基準を導入、共有循環スペースのオーバーヒーティング評価を義務化&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;イギリスはApproved Document Part O（2022年）によって新規住宅のオーバーヒーティング防止が法的に義務化されているのに対し、日本には同等の強制的な法規制が存在しない。またイギリスの気候は日本より相対的に涼しく冷房への依存度が低いため、パッシブ冷却手法が有効であるのに対し、日本は高温多湿気候であるため機械冷房を前提とした設計が主流である。さらにイギリスが2050年代の予測気象データを設計基準に組み込むことは気候変動への適応を明示的に想定した前提であり、日本の現在の設計基準ではまだこのような長期予測データの標準化は進んでいない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/tm59-stress-testing-homes-for-overheating/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>外部シェーディング：実世界での有効性とは？</title>
+    <link href="https://www.cibsejournal.com/technical/external-shading-what-works-in-the-real-world/" />
+    <id>urn:cibse:47138</id>
+    <updated>2026-08-30T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;External shading: what works in the real world?&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/external-shading-what-works-in-the-real-world/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>学校におけるヒートポンプの設置場所が騒音曝露に及ぼす影響</title>
+    <link href="https://www.cibsejournal.com/technical/disruptive-influence-influence-of-heat-pump-placement-on-noise-exposure-in-schools/" />
+    <id>urn:cibse:47214</id>
+    <updated>2026-08-30T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Disruptive influence? Influence of heat pump placement on noise exposure in schools&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;英国の中等学校でカーボンニュートラル化のため化石燃料暖房をASHP（空気源ヒートポンプ）に置き換えた際、ヒートポンプの騒音が学習環境を阻害する問題が発生。マンチェスターの学校でASHPの設置位置が騒音伝播に及ぼす影響を実測とシミュレーションで検証したケーススタディです。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 中庭に設置された2台のASHPから、2～5メートル離れた隣接する10教室の窓で最大79dB(A)の騒音が計測され、Building Bulletin 93で定める学校室内最大許容騒音レベル45dB(A)を大幅に超過して学習環境を阻害 - 同じ2台のASHPを代替位置に配置したシミュレーション結果では最大56dB(A)まで低減でき、静かな運転モードでは10教室中8以上がBB93基準を達成する見通し - ASHPの物理的サイズと指向性、低周波成分による共鳴、フラッターエコーが複合的に作用するため、従来型の防音スクリーン設置では大型機器の騒音軽減が困難 - 開放窓での15dB減衰を仮定しても現在位置では基準達成が不可能であり、運転時間の制限や他の緩和策との組み合わせが必須 - 教室から可能な限り遠距離に配置し、建物の自然遮蔽を活用し、ASHP隣接側に低感度用途を配置することが有効&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国ではBuilding Bulletin 93が学校室内許容騒音を法定基準として規定しているが、日本の学校設備騒音規制との基準値や適用範囲が異なる可能性がある。また記事が前提とする暖冷房運用形態（冷却期間中の教室窓開放）は、日本の気候条件および室内空調管理の慣行を考慮すると条件が大きく異なる。その他ASHP導入に関する英国の法規やエネルギー政策との詳細な比較については、記事からは判断できない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/disruptive-influence-influence-of-heat-pump-placement-on-noise-exposure-in-schools/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>測定可能な進展：2026年のデザイン・アワード・データが明らかにするもの</title>
+    <link href="https://www.cibsejournal.com/technical/measurable-progress-what-awards-data-reveals-about-design-in-2026/" />
+    <id>urn:cibse:47075</id>
+    <updated>2026-08-28T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Measurable progress: what awards data reveals about design in 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Technical&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;CIBSE建築パフォーマンスアワード2026年度の分析報告で、英国の応募建物のエネルギー性能データと脱炭素の進展状況を示す。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;• エネルギー使用強度（EUI）評価の信頼性が向上し、太陽光発電がある場合でも完全な評価が可能に。地域熱供給はデータ不完全性が課題で、信頼性問題の3分の2の原因 • 新カテゴリーでoperational performance gaps対策、デマンド制御システム、ポートフォリオ単位での評価を導入 • 新築建物の太陽光発電導入率83%（平均74kWh/m²/年）、全電化建物71%、埋蔵炭素評価実施57%に進展 • 冷媒はR32が主流だが多様な選択肢が使用；オフィス給水は1人1日9～11リットルが標準値 • 既存建物と運用段階への注目シフト、テナント向けの運用支援と資源利用の透明化が重視される&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国では地域熱供給ネットワークが広く普及しているが日本の大部分には該当しない。気候、太陽光資源、電力グリッド構成が異なり、再生可能エネルギー導入方針とカーボン評価の前提が大きく異なる。冷媒規制と建築法規の枠組みも両国で異なり、UK NZCBSに相当する統一的な脱炭素基準が日本には存在しない。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/technical/measurable-progress-what-awards-data-reveals-about-design-in-2026/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ウィスコンシン州におけるネットゼロスクール基準の達成</title>
+    <link href="https://www.cibsejournal.com/case-studies/passing-the-net-zero-school-test-in-wisconsin-usa/" />
+    <id>urn:cibse:47129</id>
+    <updated>2026-08-28T00:00:00+09:00</updated>
+    <author>
+      <name>Cathy King</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Passing the net zero school test in Wisconsin, USA&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cathy King ／ CIBSE Journal｜Case Studies&lt;/p&gt;&lt;h3&gt;何の話か&lt;/h3&gt;&lt;p&gt;ウィスコンシン州に2025年秋に竣工したMenasha Maplewood Middle School（校舎面積20,700m²、生徒数約1,000人）が、ネットゼロレディ建築として実現した事例。低炭素技術の選定と同等以上に、コミッショニング、制御統合、運用最適化が重要であることを示している。&lt;/p&gt;&lt;h3&gt;要点&lt;/h3&gt;&lt;p&gt;- 地中熱ボーリング約160本と分散型水源ヒートポンプ156台で暖冷房を実現し、需要削減を優先した設計戦略を採用 - 専用外気システム9台、屋上PV1.15MW（約2,750パネル）、蓄電池を整備し、ネットゼロへの準備基盤を構築 - BMS（建物管理システム）が地中熱ポンプ、換気、太陽光発電、蓄電池を統一制御し、余剰電力の活用とピーク需要削減を最適化 - 設計段階からコミッショニングを組み込み、設計検討・仕様決定・建設・試運転を一貫して管理 - 竣工後の第1年間を継続学習期間として位置づけ、実測値と予測値の比較から制御戦略を段階的に改善&lt;/p&gt;&lt;h3&gt;日本との違い&lt;/h3&gt;&lt;p&gt;英国ではCISBE Commission Code MやSoft Landingsなどの制度枠組みにより、設計から運用後評価まで一貫したコミッショニングプロセスが標準化されている。気候面では英国は冷房負荷が相対的に小さく地中熱活用が有利である一方、日本は高温多湿による大きな冷房需要に対応する必要がある。また電力料金のピークシフト戦略が重要度の高い設計要件として扱われており、電力網の特性と価格体系が大きく異なる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cibsejournal.com/case-studies/passing-the-net-zero-school-test-in-wisconsin-usa/"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>リーズオフィスがNABERS UKエネルギー格付けで5つ星を獲得</title>
     <link href="https://www.cibsejournal.com/case-studies/leeds-office-achieves-landmark-5-star-nabers-uk-energy-rating/" />

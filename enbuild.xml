@@ -3,7 +3,481 @@
   <title>建築環境・設備 新着論文｜Energy and Buildings</title>
   <link href="https://elweeeen.github.io/journals-feed/enbuild.xml" rel="self" />
   <id>urn:jstage-journals:feed:enbuild</id>
-  <updated>2026-08-27T00:00:00+09:00</updated>
+  <updated>2026-10-03T00:00:00+09:00</updated>
+  <entry>
+    <title>リークセーフなクロスドメインAHU故障検知：限定的な目標情報下での適応信頼性</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118275" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118275</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Shen Jiang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Leakage-safe cross-domain AHU fault detection for building operation: adaptation reliability under limited target information&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shen Jiang ／ Energy and Buildings 372巻 p.118275-118275&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;限定的なターゲット情報がクロスドメイン型空調設備故障診断モデルに有用とされていますが、時間的重複や分布シフト下では過度に楽観的な評価や負の転移が生じる可能性があります。本研究は新しい診断手法の提案ではなく、モデルの適応信頼性を実環境で検証することが目的です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;6つの空気処理ユニット（AHU）から58,484個のデータウィンドウを抽出し、110個の特徴量と12タイムステップで構成しました。4ドメインをモデル開発用に、CyberとHILを外部検証環境として設定し、時系列順序を守った訓練・検証プロトコルを採用しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;開発環境でのMacro-F1スコアは0.790～0.811でしたが、外部環境では0.436（Cyber）と0.498（HIL）に低下しました。GRUベース適応法により、Cyberは0.255から0.538に改善した一方、HILでは0.444から0.249へ悪化しています。信頼度ベースのレビューはCyberで有効でしたがHILでは機能しません。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ターゲット情報は性能を向上させる場合と悪影響をもたらす場合があります。モデル適応やレビュー手法を現場運用する前に、適切な漏洩防止検証プロセスを実施することの重要性が示唆されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118275"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Analysis of the work of a high-temperature concrete-ground thermal energy storage unit integrated with RES</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118276" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118276</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Sebastian Rulik</name>
+    </author>
+    <author>
+      <name>Jakub Ochmann</name>
+    </author>
+    <author>
+      <name>Krzysztof Rusin</name>
+    </author>
+    <author>
+      <name>Aleksander ROŻEK</name>
+    </author>
+    <author>
+      <name>Wojciech Uchman</name>
+    </author>
+    <author>
+      <name>Mirosław Szczepanik</name>
+    </author>
+    <author>
+      <name>Kamil Stańczyk</name>
+    </author>
+    <author>
+      <name>Ryszard Kaptur</name>
+    </author>
+    <author>
+      <name>D. Słowikowski</name>
+    </author>
+    <author>
+      <name>Zygmunt Bartoszek</name>
+    </author>
+    <author>
+      <name>Marian Ohl</name>
+    </author>
+    <author>
+      <name>Tomasz Mazur</name>
+    </author>
+    <author>
+      <name>Łukasz Bartela</name>
+    </author>
+    <content type="html">&lt;p&gt;Sebastian Rulik, Jakub Ochmann, Krzysztof Rusin, Aleksander ROŻEK, Wojciech Uchman, Mirosław Szczepanik, Kamil Stańczyk, Ryszard Kaptur, D. Słowikowski, Zygmunt Bartoszek, Marian Ohl, Tomasz Mazur, Łukasz Bartela ／ Energy and Buildings 372巻 p.118276-118276&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118276"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>地域エネルギーコミュニティの設計と運用に向けた建築物の集約熱容量エネルギー柔軟性の評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118291" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118291</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Farzaneh Mousavi Motlagh</name>
+    </author>
+    <author>
+      <name>Pieter-Jan Hoes</name>
+    </author>
+    <author>
+      <name>Jlm Jan Hensen</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Assessing aggregated building thermal mass energy flexibility for the design and operation of local energy communities&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Farzaneh Mousavi Motlagh, Pieter-Jan Hoes, Jlm Jan Hensen ／ Energy and Buildings 372巻 p.118291-118291&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ローカルエネルギーコミュニティは再生可能エネルギー導入と系統負荷緩和を実現します。従来研究は電池やPVの柔軟性に注目し、建物躯体の熱的質量によるエネルギー調整機能は十分検討されていません。本研究はコミュニティ規模での複数建物熱的質量統合制御による柔軟性を定量評価することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;OpenModelicaの建物エネルギーシミュレーションをPythonの混合整数線形計画法モデルに連携させ、ヒートポンプ運転、電池充放電、太陽光発電抑制の日中最適スケジューリングを実施しました。オランダ7棟のオフィスビルで経済・環境・技術指標を複合評価しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;複数建物の熱的質量を統合制御すると個別制御比で性能が大幅向上しました。熱的質量の柔軟性は700 kWh電池に相当し、従来の分散エネルギー資源を上回る場合もあります。700 kWh電池と屋根70%の太陽光で純現在価値1.25 M€、CO₂削減9.1%、ピークカット65 kWを達成しました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建物躯体の熱的質量は追加投資を要しないエネルギー柔軟性資源であり、コミュニティの経済・環境・技術性能向上に有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118291"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>グリーンルーフ導入による雨水軽減と冷房エネルギー削減の複合性能の定量評価</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118293" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118293</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Xiaohang Zhou</name>
+    </author>
+    <author>
+      <name>Jingfeng Zhou</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Quantifying combined performance of stormwater mitigation and cooling energy savings for green roof deployment&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Xiaohang Zhou, Jingfeng Zhou ／ Energy and Buildings 372巻 p.118293-118293&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市部は集中豪雨と冷房需要の増加に同時に直面しており、緑化屋根がこれらに対する複合的な対策として注目されている。しかし防水と省エネの効果を異なる気象条件と建物特性の下で同時に評価した研究は限定的である。本研究は上海の暖期における緑化屋根の複合性能を定量的に評価することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;屋根スケールの水文モデルと都市建物エネルギーモデル（UBEM）を統合した。3つの緑化屋根タイプを113棟の代表的な建物と複数の極端降雨イベントセットに適用し、暖期（5〜9月）の防水・冷房性能を評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;緑化屋根は6時間雨水流出削減率0.35〜0.39、ピーク流量削減0.33〜0.35 m³/s/km²を達成した。建物冷房エネルギー使用密度は平均2.3〜2.4%削減されたが、削減幅は建物形状と運用特性に大きく依存する。複合性能解析では、建物と降雨事象の組み合わせが中程度の性能レジームに集中することが示された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;都市規模への外挺は展開可能な屋上面積により制約される。建物とイベントの異質性を考慮した複合性能空間全体の評価が、堅牢な緑化屋根展開に必須である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118293"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>セメント系相変化材料複合材料による建築物のエネルギー効率化：統合戦略、性能トレードオフ、および実用化への道筋に関する総説</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118296" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118296</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Pengyang Cai</name>
+    </author>
+    <author>
+      <name>Guochen Sang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Cement-based phase change material composites for building energy efficiency: a critical review of integration strategies, performance trade-offs, and pathways to practical application&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pengyang Cai, Guochen Sang ／ Energy and Buildings 372巻 p.118296-118296&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;潜熱蓄熱材料（PCM）は限定的な温度範囲で大きな蓄熱容量を持ち、セメント系建築材への組込みによる熱蓄熱機能の向上が期待されています。数十年の研究にもかかわらず実用化が進んでいません。本論文は、材料設計における基本的なトレードオフを統一的な枠組みで明らかにします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数のデータベースからPCM、セメント系複合材、熱蓄熱に関連する論文を体系的に検索し、スクリーニングを経て査読済み英語論文215件を対象に分析しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;PCM－マトリックス、PCM－キャリア、キャリア－マトリックス間の相互性が複合材の性能を左右することが判明しました。単一の戦略では蓄熱容量、機械強度、熱伝導率、漏洩安定性、施工性を同時に最適化できません。報告データの大多数は短期室内試験によるもので、長期耐久性の検証は限定的です。コスト面では、低充填システム（5 wt%）で従来コンクリートの2～4倍、15 wt%安定システムで7～10倍となります。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;用途によって優先される性能が異なり、全ての要求を同時に満たすことは困難です。長期耐久性データが不足しているため、現在の採用には注意が必要です。実用化に向けては、標準化試験プロトコルと建築基準の整備が重要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118296"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>オープンメータリングプラットフォームを用いた建物のプラグロード非侵襲的負荷監視データセット</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118300" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118300</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Carlos Rodríguez-Navarro</name>
+    </author>
+    <author>
+      <name>Francisco Portillo</name>
+    </author>
+    <author>
+      <name>Manuel Soler‐Ortiz</name>
+    </author>
+    <author>
+      <name>Alfredo Alcayde</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Office plug-load dataset for non-intrusive load monitoring in buildings using an open metering platform&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Carlos Rodríguez-Navarro, Francisco Portillo, Manuel Soler‐Ortiz, Alfredo Alcayde ／ Energy and Buildings 372巻 p.118300-118300&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;非侵襲的負荷監視（NILM）は集約電力から機器別消費を推定し、建築省エネ管理を支援します。既存研究は住宅向けが主流で、オフィスデータが不足しています。本研究は低コスト計測プラットフォーム「Open Multi Power Meter v2」を用いて、実運用に近い条件下でオフィス機器の電力データセットを構築しました。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オフィスの集約電力と個別機器の有効電力を15秒間隔で同時測定し、約10日間で6メーターから346,252レコードを取得しました。人工的負荷パターンを避け、待機時低電力や機器間相互作用など現実的運用形態を保持したデータをNILMTK互換形式で構築しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;Factorial Hidden Markov Modelが最適性能を示しました。消費電力最低の機器は分解精度が低く、機器の観測可能性がオフィス負荷分解の限定要因であることが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;機器の消費電力レベルに応じた監視戦略が必要です。複数機器のグループ化監視、消費電力の大きい機器への選別的部分計量、電気・環境データの相補的活用などの対策が有効です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118300"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>低温地域熱供給のためのエネルギーレトロフィットの再設計：住民の暖房実践と多基準選択の統合</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118303" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118303</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Iris Loche</name>
+    </author>
+    <author>
+      <name>Carolina Recart</name>
+    </author>
+    <author>
+      <name>Diletta Ricci</name>
+    </author>
+    <author>
+      <name>Thaleia Konstantinou</name>
+    </author>
+    <author>
+      <name>Lenneke Kuijer</name>
+    </author>
+    <author>
+      <name>Roel Loonen</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Re-sizing energy retrofits for low-temperature district heating: Integrating residents' heating practices and a multi-criteria selection&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Iris Loche, Carolina Recart, Diletta Ricci, Thaleia Konstantinou, Lenneke Kuijer, Roel Loonen ／ Energy and Buildings 372巻 p.118303-118303&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;低温地域熱供給（LTDH）接続には深い改築が標準的に推奨されるが、この推奨は標準的な仮定に基づき、住民の実際の暖房習慣の多様性を無視している。その結果、改修は高額で施工負荷が大きく、期待される省エネ効果が達成されないことが多い。本研究は住民の暖房実践をLTDH対応の改修計画に組み込んで、必要な規模を再評価した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;オランダのテラスハウスを事例に、多基準フレームワークとシミュレーションで改修戦略を評価した。熱快適性、省エネ、環境影響、費用、施工負荷の5項目を比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;深い改築（ラジエータ全交換）は技術的に最も堅牢だが、住民タイプにより効果が異なる。経済的な暖房習慣の世帯では予想より省エネ効果が低く、回収期間が長い。より低強度の戦略でも技術的には十分であり、費用が低く施工負荷が少ない場合が多く、最大28の改修パターンを特定した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;住民の暖房実践をLTDH対応改修計画に統合することで、一律の深い改築ではなく、より柔軟で資源効率的、社会的に公正な低炭素暖房への転換が実現可能である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118303"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>混合用途地区における改修とエネルギー共有を通じた再生可能エネルギー地域コミュニティ便益の実現</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118307" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118307</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Francesca Vecchi</name>
+    </author>
+    <author>
+      <name>Simona Semeraro</name>
+    </author>
+    <author>
+      <name>Roberto Stasi</name>
+    </author>
+    <author>
+      <name>Umberto Berardi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Unlocking renewable energy community benefits through retrofit and energy sharing in mixed-use districts&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Francesca Vecchi, Simona Semeraro, Roberto Stasi, Umberto Berardi ／ Energy and Buildings 372巻 p.118307-118307&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物の省エネ改修のみでは脱炭素化目標達成が困難であり、再生可能エネルギー導入が制約される密集市街地では特に課題です。再生可能エネルギーコミュニティ（REC）を活用した地区スケール戦略により建物間のシナジーが生かせます。本研究は改修深度がRECの自己消費率・自給率・運用エネルギーコストに及ぼす影響を明らかにします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;利用者行動を反映した都市建物エネルギーモデリング（UBEM）とRECのエネルギー共有・経済評価を統合しました。イタリア・バーリの混合用途地区で、ベースライン、外皮改修、外皮改善と空冷ヒートポンプによる全電化改修の3ケースを分析しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;全電化改修シナリオで自己消費指数0.93を達成し、地域PV発電利用が14%増加、天然ガス消費は最大94%削減されました。一方、電力需要と運用コストが増加し、再生可能発電不足時に顕著です。集合的自己消費の最大化は運用コスト最小化と必ずしも一致しません。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;改修を地区レベルのエネルギー管理の中で計画すると改修効果が増幅されます。建物単位の改修決定から、REC導入とポジティブエネルギー地区実現を視野に入れた地区レベルの計画へシフトすることが、密集市街地での有効な方策です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118307"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>六角形および矩形プレハブ建築モジュールのエネルギー性能とモジュラー設計可能性：BIMベース比較研究</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118317" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118317</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Monika Siewczyńska</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Energy performance and modular design potential of hexagonal and rectangular prefabricated building modules: A BIM-based comparative study&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Monika Siewczyńska ／ Energy and Buildings 372巻 p.118317-118317&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;鉄道駅舎のプレファブ化において、正方形と六角形のモジュール形状がエネルギー性能に与える影響をBIMシミュレーションにより比較検討した。使用床面積や内部体積を等価にした条件下で評価を行った。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;EcoDesigner STARを用いて、ポーランドのポズナニおよびヨーロッパ4都市での気候条件下で、モジュール幾何学・窓構成・方角・エネルギーバランスを分析した。無窓モジュールの伝熱損失内訳も評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;六角形モジュールは正方形比で年間正味エネルギー需要が10～14%低かった。主因は暖房需要の削減である。窓なし時の熱損失差は伝熱75%・浸透19%・換気6%の割合であった。複数モジュール配置時は、個別形状の影響が減少し、配置の密度と全体形状が支配的になった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;単体建物では形状がエネルギー効率に寄与する可能性があるが、概念段階の分析は推定値であり、詳細設計段階でエネルギー・材料・コストを含めた総合評価で検証する必要がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118317"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>中国北部農村地域における二重蓄熱を備えた太陽－空気源ヒートポンプシステムの異なる暖房シナリオ下での最適容量設計</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118321" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118321</id>
+    <updated>2026-10-03T00:00:00+09:00</updated>
+    <author>
+      <name>Pengli Yuan</name>
+    </author>
+    <author>
+      <name>Haozhe Li</name>
+    </author>
+    <author>
+      <name>Shu Zheng</name>
+    </author>
+    <author>
+      <name>Ziyang Du</name>
+    </author>
+    <author>
+      <name>Huifan Zheng</name>
+    </author>
+    <author>
+      <name>Guoji Tian</name>
+    </author>
+    <author>
+      <name>Congmin Wang</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Optimal capacity configuration of a solar–air source heat pump system coupled with dual thermal storage under different heating scenarios in northern rural China&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pengli Yuan, Haozhe Li, Shu Zheng, Ziyang Du, Huifan Zheng, Guoji Tian, Congmin Wang ／ Energy and Buildings 372巻 p.118321-118321&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;太陽光支援ヒートポンプ（SAASHP）とデュアル蓄熱の組み合わせは農村部建築のCO₂削減に有効ですが、従来の設計手法は終末端の蓄熱効果と動的な加熱需要を考慮していません。本研究は砂質蓄熱床（SBTSF）統合SAAASHPシステムについてマルチ目的最適化フレームワークを適用し、容量需要関係を明確化することを目指しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;終末端配置・室内温度需要特性・地域暖房負荷の影響を体系的に評価するマルチ目的最適化分析と、回帰分析による定量関係の構築を実施しました。暖房負荷とソーラーコレクタ面積・ヒートポンプ容量・蓄熱槽体積の関係性を分析しています。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;最適化設定により全終末端で容量削減が実現されました。特にSBTSFはソーラーコレクタ43.5%、ヒートポンプ26.2%、蓄熱槽68.7%の削減を達成し、負荷調整能力の優位性を示しています。回帰分析でR²≈0.73の関係を確立し、デュアル蓄熱システムの実用的な配置範囲を提供できます。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;従来の負荷ベース設計から、需要・蓄熱・終末端が統合された設計フレームワークへの転換が必要です。本研究が構築した定量関係式は、デュアル蓄熱を備えたSAASHPシステムの最適設計に実用的な根拠を提供します。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118321"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>米国における建物の負荷柔軟性ポテンシャルのモデル化</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118141" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118141</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>Samanvitha Murthy</name>
+    </author>
+    <author>
+      <name>Wanni Zhang</name>
+    </author>
+    <author>
+      <name>Kaiyu Sun</name>
+    </author>
+    <author>
+      <name>Handi Chandra Putra</name>
+    </author>
+    <author>
+      <name>Yingli Lou</name>
+    </author>
+    <author>
+      <name>Rajendra Adhikari</name>
+    </author>
+    <author>
+      <name>Christopher CaraDonna</name>
+    </author>
+    <author>
+      <name>Andrew Parker</name>
+    </author>
+    <author>
+      <name>Margaret Pigman</name>
+    </author>
+    <author>
+      <name>Jared Langevin</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Modeling buildings load flexibility potential in the United States&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Samanvitha Murthy, Wanni Zhang, Kaiyu Sun, Handi Chandra Putra, Yingli Lou, Rajendra Adhikari, Christopher CaraDonna, Andrew Parker, Margaret Pigman, Jared Langevin ／ Energy and Buildings 371巻 p.118141-118141&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;米国の電力需要が前例のないペースで増加すると予想されており、電力供給システムのコスト増加が懸念されている。建築物(住宅・商業)は全米電力消費の約3/4を占めるため、その柔軟な需要対応は電力システムの重要なリソースとなる可能性がある。しかし既存研究の多くは現存する需要応答プログラムの平均的なパフォーマンスパラメータに基づいており、建築物が本来持つ全ての能力を十分に反映していない。また異なる需要予測シナリオにおける柔軟リソースの必要性と利用可能性の変化も適切に考慮されていない。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;建築物の応答能力に基づいて、負荷削減と負荷シフト対策の技術的なポテンシャルをモデル化する手法を開発した。4つの需要シナリオと2030年、2040年、2050年の3つの評価時点を設定し、米国全域における柔軟リソースのポテンシャルを評価・比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;建築物の柔軟性対策により、いくつかのシナリオでは季節ピークを30％以上削減することが可能であることが示された。さらに電力システムにおけるこれらのリソースの相対的重要性は、時間経過と需要シナリオによって変動することが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;電力システムの計画と運用において、需要側の建築物の柔軟性をより積極的に検討・活用することの重要性が示唆される。建築物由来の柔軟リソースは、電力システムの課題解決に向けた有用なツールとなる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118141"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>新規藁ベイル壁の気候応答湿熱性能：局所適用性から全球適用可能性への統合実験・数値解析</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118144" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118144</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>Marwan Assaf</name>
+    </author>
+    <author>
+      <name>Franck Brachelet</name>
+    </author>
+    <author>
+      <name>Pierre Tittelein</name>
+    </author>
+    <author>
+      <name>Didier Defer</name>
+    </author>
+    <author>
+      <name>Emmanuel Antczak</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;From local suitability to global applicability: An integrated experimental-numerical investigation of climate-responsive hygrothermal performance of a novel straw bale wall&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Marwan Assaf, Franck Brachelet, Pierre Tittelein, Didier Defer, Emmanuel Antczak ／ Energy and Buildings 370巻 p.118144-118144&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築エンベロープ設計では、断熱性能と防湿性のバランスが課題である。バイオベース材と地域資源由来材のみで構成された藁ベールウォールは、温帯海洋性気候で優れた耐久性を示した。様々な気候条件での適用可能性確認には、包括的な吸湿・放湿特性と断熱性能の評価が必須である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;実験監視と数値シミュレーションを統合した手法を採用した。WUFI 2D®モデルを実験データで検証し、複数の代表的気候条件へ適用した。WUFI®Bio生物湿度温度モデルで、断熱効率、湿度レベル、カビ発生リスクを評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;藁ベールウォールはほとんどの環境条件で要件を満たし、高い吸湿・放湿・断熱性能を発揮した。厳しい気候条件では、生態材料を用いた設計修正により性能を向上させた。原設計は17気候で適用可能、修正版は6つの厳しい気候で適用可能である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;藁ベールウォールは多くの気候条件で断熱・防湿の両立が実現できる。厳しい気候では、設計段階での材料変更により性能課題を克服できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118144"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>複数のコミュニティレベルにおけるエネルギー管理システムのモデル予測制御探索に向けたエネルギーシステム構成要素のレビュー</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118172" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118172</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>Imene Benrabia</name>
+    </author>
+    <author>
+      <name>Dirk Söffker</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Review of energy systems components for exploring model predictive control in energy management systems for multiple community levels&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Imene Benrabia, Dirk Söffker ／ Energy and Buildings p.118172-118172&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物・地区・コミュニティレベルのエネルギー管理システム（EMS）ではモデル予測制御（MPC）が用いられていますが、性能はコンポーネントモデルと予測精度に依存します。実装に必要なモデル選択基準が不明確なため、97件のEMS-based MPC研究を比較し、各レベルでのモデリング手法を体系化します。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;97件の研究について、消費・生産・蓄電設備のモデル、予測不確実性、運用コスト、需要柔軟性を分析しました。レベル区分を建物数ではなく内部エネルギー交換パターンで行い、モデリング構造を評価しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;各レベルのコンポーネントモデルは本質的に同じで、時間解像度と交換変数のみが異なります。予測不確実性は2～30%偏差で設定される研究が多く、報告精度（MAPE 6～25%）との乖離が著しいという課題が明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;EMS設計時に、各レベルで必要なモデリング詳細度を判断する基準が提供されます。文献から採用可能なパラメータと検証が必要な仮定が明確化されます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118172"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>モジュラー住宅の統合的性能評価：システマティックレビューとメタアナリシス</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118174" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118174</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>Udara Sachinthana Perera</name>
+    </author>
+    <author>
+      <name>Priyadarsini Rajagopalan</name>
+    </author>
+    <author>
+      <name>Jin Woo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;An integrated performance assessment of modular residential buildings: Systematic review and meta-analysis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Udara Sachinthana Perera, Priyadarsini Rajagopalan, Jin Woo ／ Energy and Buildings 371巻 p.118174-118174&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118174"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ブラジル南部の実運用条件下における屋上両面太陽光発電システムの両面ゲインの長期比較分析と実験的検証</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118166" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118166</id>
+    <updated>2026-09-08T00:00:00+09:00</updated>
+    <author>
+      <name>Letícia T. Scarabelot</name>
+    </author>
+    <author>
+      <name>Giuliano A. Rampinelli</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Long-term comparative analysis and experimental validation of bifacial gain in rooftop PV systems under real operating conditions in Southern Brazil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Letícia T. Scarabelot, Giuliano A. Rampinelli ／ Energy and Buildings 371巻 p.118166-118166&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118166"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>フランスにおける建築年代に基づくエネルギー性能ギャップに起因する改修シナリオの不確実性</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118184" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118184</id>
+    <updated>2026-09-07T00:00:00+09:00</updated>
+    <author>
+      <name>Qiqi Tao</name>
+    </author>
+    <author>
+      <name>Alexis Tantet</name>
+    </author>
+    <author>
+      <name>Philippe Drobinski</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Uncertainty of retrofitting scenarios in France based on building ages due to energy performance gap&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Qiqi Tao, Alexis Tantet, Philippe Drobinski ／ Energy and Buildings p.118184-118184&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;フランスは建築エネルギー規制（RT1974, RT1982, RT2005）を段階的に強化し、過去基準から25%、20%、15%の削減を目指してきました。しかし、これらの規制導入が実際に熱性能を改善させたかは検証されていません。大規模リノベーション時代において、実際の暖房消費削減が理論値と一致しているか確認することが急務です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;実際の電力消費データを分析し、建設時期と地域別に暖房消費量の温度感度を推定するモデルを構築しました。同時にエネルギー性能証書（EPC）から理論上の暖房需要を算出し、両者の乖離（エネルギー性能ギャップ）を特定したうえで、リノベーション効果を予測しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;ほとんどの地域で規制強化が温度感度の削減をもたらしていないことが判明しました。EPCは特に新築物件の需要を過大評価する傾向があり、EPC予測では最大60%の削減が見込まれるのに対し、実モデルでは30%以上の建物がリノベーション後に消費増加する可能性を示唆しています。特に2006年以降の建物と低所得層住宅で乖離が大きいです。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;EPC基準のみによるリノベーション効果予測は信頼性が限定的です。実効的な省エネ効果を推定するには、住宅所有者や住まい手の行動・社会経済的特性を考慮したモデルの構築が不可欠であり、これはネットゼロ達成に向けた政策の実効性向上に必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118184"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Grounding Agentic AI in Building Semantics: From Information Retrieval to Automated Simulation</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118187" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118187</id>
+    <updated>2026-09-07T00:00:00+09:00</updated>
+    <author>
+      <name>Zeng Peng</name>
+    </author>
+    <author>
+      <name>Yangzhe Chen</name>
+    </author>
+    <author>
+      <name>Thomas Ohlson Timoudas</name>
+    </author>
+    <author>
+      <name>Qian Wang</name>
+    </author>
+    <content type="html">&lt;p&gt;Zeng Peng, Yangzhe Chen, Thomas Ohlson Timoudas, Qian Wang ／ Energy and Buildings p.118187-118187&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築データが分散し、セマンティックモデリングに多くの手作業を要する一方、検証可能な建物情報に基づくAIツールが不足している。本研究は、簡素化されたセマンティックモデリング手法「KebGraph」と大規模言語モデル（LLM）ベースのエージェンティックAIを統合し、自然言語指示から建築エンジニアリングサービスの実行までを一貫して実現するフレームワークを提案している。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;KebGraphが多元的な建物情報をクエリ可能なセマンティック層に組織化し、マルチエージェント構造がユーザーの要求を具体的な工学作業へ変換する。実際のオフィスビルで4種類のLLMモデルを用いて213問のベンチマーク評価を行った。また、冬期1ヶ月間のデータで室内熱モデリングワークフローの自動構築・キャリブレーション・評価を検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;KebGraph接地は従来的なBrickモデルおよび生文書ベースラインを上回る事実問答精度を実現しながら、入力トークン数を最小化した。エージェント関数呼び出し評価でも最高の引数生成スコアを達成した。無効・敵対的要求に対しては、モデルは虚偽データを返さず拒否または説明を求めた。冬期熱モデリングワークフローではエージェント駆動で建物モデルの構築からキャリブレーション・評価までの自動化を実証した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;軽量なセマンティック層への接地により、当該建物における情報検索とツール利用の精度・効率・信頼性が向上する可能性が示された。他建物への展開や季節間での汎化は今後の課題である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118187"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>深層強化学習と線形計画法によるスケーラブルなHVAC柔軟性の集約</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118199" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118199</id>
+    <updated>2026-09-07T00:00:00+09:00</updated>
+    <author>
+      <name>Ren Sasaki</name>
+    </author>
+    <author>
+      <name>Dafang Zhao</name>
+    </author>
+    <author>
+      <name>Yang Deng</name>
+    </author>
+    <author>
+      <name>Hiroki Nishikawa</name>
+    </author>
+    <author>
+      <name>Ittetsu Taniguchi</name>
+    </author>
+    <author>
+      <name>Takao Onoye</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Scalable HVAC Flexibility Aggregation with DRL and Linear Programming&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ren Sasaki, Dafang Zhao, Yang Deng, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye ／ Energy and Buildings p.118199-118199&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;HVAC大規模デマンドレスポンスは電力系統の柔軟性を提供しますが、迅速な集約配分と利用者快適性保護の両立が課題です。多数の下位集約機器への配分時に、快適性負荷を考慮した手法は限定的です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;深層強化学習（DRL）と線形計画法（LP）の階層的フレームワークを提案しました。DRLが現在状態と累積快適性影響を考慮して市場要求を各機器に配分し、下位LPコントローラがHVAC運転をスケジュールします。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;計算時間を1000秒以上から数秒に短縮しました。3600室規模で0.792MWを3時間配分でき、±10%許容誤差内に維持し、快適性違反は中央集約型に近く、温度誤差は0.052℃以下です。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;スケーラブルで快適性を考慮した配分手法が有効であることが示されました。暖房や異質な建物への適用、フィールド検証は課題です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118199"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ブラジル住宅部門の脱炭素化に向けた経路探索</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118131" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118131</id>
+    <updated>2026-09-02T00:00:00+09:00</updated>
+    <author>
+      <name>Matheus Geraldi</name>
+    </author>
+    <author>
+      <name>Ana Paula Melo</name>
+    </author>
+    <author>
+      <name>Roberto Lamberts</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Towards a pathway for residential sector decarbonization in Brazil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Matheus Geraldi, Ana Paula Melo, Roberto Lamberts ／ Energy and Buildings 370巻 p.118131-118131&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;エネルギー転換における住宅部門のエネルギー使用削減は重要な課題である。本研究は、ブラジルの住宅部門におけるエネルギー消費を脱炭素化するための概念モデルを構築することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;国家データセットを用いてブラジルの住宅部門のエネルギー消費を州別・所得階級別に分析し、1人当たり電力消費とエネルギー・ジニ指数で地域格差を把握した。変化の理論に基づき、社会志向的エネルギー効率教育、最小エネルギー性能基準（MEPS）適合、公正な電化、再生可能エネルギー拡大の4つの柱から構成される脱炭素化経路を提案した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;抄録に記載なし&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;脱炭素化とエネルギー正義の実現には、エネルギー効率教育と性能基準への適合、公正な電化推進、再生可能エネルギー拡大が有効である。気候変動への対応力向上には、ガバナンスとデータインフラの整備が必要である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118131"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>CFD-RSM法による医療用腫瘍薬学クリーンルームの給気条件の多目的最適化</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118155" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118155</id>
+    <updated>2026-09-02T00:00:00+09:00</updated>
+    <author>
+      <name>Oseas Carlos da Silva</name>
+    </author>
+    <author>
+      <name>Manoel Antônio da Fonseca Costa Filho</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;CFD-RSM-based multi-objective optimization of supply-air conditions in a hospital oncology pharmaceutical cleanroom&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Oseas Carlos da Silva, Manoel Antônio da Fonseca Costa Filho ／ Energy and Buildings 370巻 p.118155-118155&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ISO 7病院薬剤クリーンルームにおいて、作業者の熱快適性と室内空気質、設備エネルギー性能を同時に向上させるための多目的最適化フレームワークを構築しました。CFD、Box-Behnken設計、応答曲面法およびAHP-Entropy重み付けの統合手法を用いて、化学療法薬準備作業のための設計基準を確立することを目的としています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;検証されたCFDモデルで作業台の熱快適性、呼吸域汚染物質曝露、汚染物質除去効率、通気エネルギー利用効率の4指標を評価しました。初期分析から有望な操作領域を特定し、その領域を中心とした最適化ドメインで15回のCFDシミュレーションによるBox-Behnken設計を実施しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;個別指標の一つ抜き交差検証の予測R²値は0.8980～0.9804、総合多基準スコアのモデルはR²=0.9721（p=0.0023）を示しました。最適操作領域は入口風速0.33 m/s、入口温度17.8℃、湿度比0.0050 kg/kgを中心とし、感度分析により安定性が確認されました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;供給風速、温度、湿度比について定量的な推奨条件が得られ、温度環境制御、作業者の熱条件、呼吸域曝露、汚染物質除去、通気要求の改善が期待できます。クリーンルームの密閉性と運用要件を維持しながらレトロフィットが可能です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118155"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>将来の極端気候下におけるカナダ戸建住宅の室内過熱軽減のためのパッシブ冷却改修</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118127" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118127</id>
+    <updated>2026-08-31T00:00:00+09:00</updated>
+    <author>
+      <name>Pedram Nojedehi</name>
+    </author>
+    <author>
+      <name>Farid Bahiraei</name>
+    </author>
+    <author>
+      <name>William (Liam) O&amp;apos;Brien</name>
+    </author>
+    <author>
+      <name>Burak Gunay</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Passive cooling retrofits for mitigating indoor overheating in Canadian single-family housing under future extreme climates&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pedram Nojedehi, Farid Bahiraei, William (Liam) O&amp;amp;apos;Brien, Burak Gunay ／ Energy and Buildings 370巻 p.118127-118127&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;カナダの既存住宅では夏季の過熱が深刻化しており、現在のストックは当時の設計基準では過熱を重視していなかった。国家エネルギーコードとEnerGuide for Housesデータベースに基づき、エネルギー性能の異なる3つの代表的一戸建て住宅モデルを構築した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;ダイナミックエネルギーシミュレーションを用いて、低コストで実現可能な受動冷却改修戦略を歴史気候と将来気候シナリオの両方で評価した。自然通風の挙動として、理想条件と気候変動や利用者適応性の制約を反映した複数シナリオを設定した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;窓閉鎖の自由運転条件では、世紀末に室温超過時間が年間の12～15%に達する可能性がある。適応的通風により過熱が顕著に低減され、提案改修戦略により過熱リスクが15～21%、冷房負荷が20～40%削減される。ただし気候温暖化により、特に既存住宅では依然として有意なリスクが存在する。乾球温度と室温の評価指標間で5～13%の差異が認められた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;受動改修と適応的通風は熱的レジリエンスの向上に有効だが、将来の過熱リスクを完全には相殺できない。運用制御の強化と場合によっては機械冷房の導入が必要となる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118127"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>物理インフォームドRC-MLPモデリングによる建物熱予測</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118134" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118134</id>
+    <updated>2026-08-31T00:00:00+09:00</updated>
+    <author>
+      <name>Samir Shrestha</name>
+    </author>
+    <author>
+      <name>Gaurav Kattel</name>
+    </author>
+    <author>
+      <name>Seungkeun Yeom</name>
+    </author>
+    <author>
+      <name>Juui Kim</name>
+    </author>
+    <author>
+      <name>Taehoon Hong</name>
+    </author>
+    <author>
+      <name>Jun‐Ki Choi</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Physics-informed RC–MLP modelling for building thermal prediction&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Samir Shrestha, Gaurav Kattel, Seungkeun Yeom, Juui Kim, Taehoon Hong, Jun‐Ki Choi ／ Energy and Buildings 370巻 p.118134-118134&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物温度予測はHVAC制御に必須だが、物理的解釈可能性、データ効率性、精度のバランスが課題である。本研究は実オフィスデータを活用し、物理情報を組み込んだRC-MLPモデルで多予測地平温度予測を実現することを目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;複数の抵抗・静電容量モデル（RC）から最適構造を選定し、ニューラルネットワーク（MLP）で予測誤差を補正するハイブリッドモデルを構築した。熱履歴と太陽放射の特徴量を用い、5分～360分の多様な条件で検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;予測精度のみでは最適なRC構造を特定できず、物理パラメータ検証により4R3C構造が選定された。RC-MLPモデルは30分予測で4.4%、360分予測で21.3%の精度向上を達成し、季節変動下でも16.8%の改善を維持した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;物理的に妥当なRCモデルは堅牢な基盤予測を提供し、ニューラルネットワーク補正はキャリブレーション条件が実運用と一致する場合に最大効果を発揮する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118134"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>気候応答型エネルギー制御のための多層・多物理受動適応型熱囲構造の最適化に関する数値研究</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118148" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118148</id>
+    <updated>2026-08-31T00:00:00+09:00</updated>
+    <author>
+      <name>Rajae Bousselham</name>
+    </author>
+    <author>
+      <name>Mingjiang Tao</name>
+    </author>
+    <author>
+      <name>Sergio Granados-Fócil</name>
+    </author>
+    <author>
+      <name>Adriana Hera</name>
+    </author>
+    <author>
+      <name>Steven Van Dessel</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Optimizing multi-layer/multi-physics passive adaptive thermal enclosures for climate-responsive energy regulation: a numerical study&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rajae Bousselham, Mingjiang Tao, Sergio Granados-Fócil, Adriana Hera, Steven Van Dessel ／ Energy and Buildings 370巻 p.118148-118148&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;受動的適応システム（蓄熱材、放射率制御、導電率可変層）は有望ですが、個別メカニズム研究が主で、多層構成における相互作用が未検討です。エネルギー削減と材料使用量のトレードオフの定量評価が課題です。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;3次元数値解析で、年間エネルギー消費と外壁厚さの最小化を検討しました。複数の蓄熱材、気候条件（Phoenix、Baltimore、Fairbanks）、システム構成を組み合わせ、従来型と比較しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;理想的限界で熱利得44.4～81.4％削減、熱損失47.9～80.1％削減が可能です。現実的限界では19.1～49.1％と30～70％の削減です。最適厚さは16.6cmから4～7.1cm（理想）と9.5～10.8cm（現実）に低減しました。蓄熱は冷温度、放射変調は高温で有効です。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;気候に応じた材料選択と層構成設計の定量的指針が得られます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118148"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>空気源ヒートポンプ屋外ユニットにおけるエアバイパスの特性評価と定量化</title>
+    <link href="https://doi.org/10.1016/j.enbuild.2026.118154" />
+    <id>urn:doi:10.1016/j.enbuild.2026.118154</id>
+    <updated>2026-08-31T00:00:00+09:00</updated>
+    <author>
+      <name>Maheswar Chaudhary</name>
+    </author>
+    <author>
+      <name>Kittapas Tulananda</name>
+    </author>
+    <author>
+      <name>Madeline Scott</name>
+    </author>
+    <author>
+      <name>Ian M. Shapiro</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Air bypass in air source heat pump outdoor units: characterization and quantification&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Maheswar Chaudhary, Kittapas Tulananda, Madeline Scott, Ian M. Shapiro ／ Energy and Buildings 370巻 p.118154-118154&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;Air source heat pumps（空気源ヒートポンプ）は低炭素排出で建物の暖冷房に採用が増加している。しかし実際のエネルギー消費が予想を上回ることが報告されている。本研究は、屋外熱交換器周辺のエアバイパスが、これまで十分に検討されていなかったASHP屋外ユニット性能への影響要因であることに着眼した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;異なるメーカーの4モデルのヒートポンプで現地実験を行い、エアバイパス経路を特定し、その特性と大きさを定量化した。他メーカーの6ユニットでは追加的にバイパス部位を測定した。主要4ユニットでは直接気流測定と流体力学に基づくオリフィス流量法の2つの手法で評価した。段階的な気密化実験により改善効果を検証した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;4つのテストユニットでのエアバイパスは定格気流比で4.5～7.1%、オリフィス法では5.7～10.9%を示した。全10ユニットでバイパスが確認され、複数製造業者での広がりを示唆している。気密化により43～87%の削減が可能で、コイル周辺の大きな隙間があるユニットで改善が最大であった。同型ユニット2組での直接測定値の差は0.4～1.8ポイントで、再現性が確認された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;エアバイパスは測定可能で再現性のある現象であり、適切な設計改善により容量と効率を向上させることが可能であることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118154"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>シミュレーションに基づく間欠的利用高密度空間の運用熱レジリエンスフレームワーク：開発と湾岸モスク礼拝堂への応用</title>
     <link href="https://doi.org/10.1016/j.enbuild.2026.118137" />
@@ -539,218 +1013,5 @@
       <name>Gyeong-Seok Choi</name>
     </author>
     <content type="html">&lt;p&gt;&lt;em&gt;Rebound effects of residential PV adoption under progressive electricity tariffs in South Korea&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jiyoung Eum, Gyeong-Seok Choi ／ Energy and Buildings p.118061-118061&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;家庭用太陽光発電（PV）システムは、自家消費による系統電力削減を通じて脱炭素化を実現する重要な手段です。しかし、発電による費用削減が家庭の電力消費を増加させる「リバウンド効果」を誘発し、期待されるエネルギー削減効果と排出削減効果が部分的に相殺される可能性があります。本研究は、段階的電気料金制度下における韓国の家庭用PV導入に伴うリバウンド効果を定量化することを目的とします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;時間別PV発電データと家庭用電力負荷データに基づくシミュレーション枠組みを構築し、リバウンド効果を代替効果と所得効果に分解しました。因子分析により、消費水準とシステム容量を季節別に独立させ、ネットメータリングシナリオも検討しています。リバウンドは、期待される削減量に占める相殺分の割合として報告し、既往研究との比較を可能にしました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;リバウンド効果は、PV導入後の純負荷が料金段階の境界を越えるかどうかで主に決定されます。料金段階の遷移がある家庭では11.1～21.9%のリバウンド（消費量ベース定式化では0～6.7%）を示す一方、遷移がない家庭ではほぼゼロとなります。ネットメータリング導入下では、より多くの家庭が料金段階を越え、代替効果によるリバウンドが増加します。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;リバウンド調整係数を、料金段階の遷移の有無、システム容量、ネットメータリング適格性によって差別化することが重要です。これにより、家庭用PV導入による脱炭素化成果の評価精度が向上すると考えられます。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.118061"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>EUにおける住宅建築物のエネルギー改修の促進要因と阻害要因：体系的文献レビュー</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117923" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117923</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Victor Mannoni</name>
-    </author>
-    <author>
-      <name>Sandra Karina Löschke</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Drivers and barriers to the energy renovation of residential buildings in the EU: a systematic literature review&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Victor Mannoni, Sandra Karina Löschke ／ Energy and Buildings 369巻 p.117923-117923&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;住宅のエネルギー改修は、家庭のエネルギー貧困削減とEU2050年気候中立目標達成に不可欠である。しかし、EU全域の改修率は目標を下回っており、既存研究やポリシーアプローチでは、プロセス・人間・プロジェクトの各側面が個別に扱われ、統合的な検討が限定的である。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;システム志向的アプローチによるシステマティック文献レビューを実施し、EU研究・ポリシー文脈における29件の研究を分析した。プロセス関連、人間関連、プロジェクト関連の3次元で62の促進要因と阻害要因を特定し、EUポリシー文書に整合した分析枠組みを開発した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;文献とEUポリシーフレームワークの間に持続的な断絶が存在することが明らかになった。プロセス関連要因と人的要因は強く関連する一方、プロジェクト関連要因は断絶したままであり、統合的なレトロフィット・ガバナンスと実装戦略のギャップが浮き彫りになった。証拠基盤は事例固有研究に支配され、国際比較分析が限定的である。2024年改正EPBD評価では、3アプローチ統合の強みが識別された。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;住宅エネルギー改修を加速させるため、人的・プロセス・プロジェクト関連アプローチをより統合的・多次元的・文脈に敏感に展開する必要がある。ポリシー野心と実装実績の乖離を是正し、既存住宅ストックの大規模変革を実現する統合的研究・政策アプローチが求められる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117923"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>皮膚温度を入力とした行動的熱適応によるエネルギー効率的HVAC制御</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117933" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117933</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Yu Dong</name>
-    </author>
-    <author>
-      <name>Yuan Shi</name>
-    </author>
-    <author>
-      <name>Yanfeng Liu</name>
-    </author>
-    <author>
-      <name>Cong Song</name>
-    </author>
-    <author>
-      <name>Bintian Lin</name>
-    </author>
-    <author>
-      <name>Jørn Toftum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Skin temperature as input to behavioral thermal adaptation for energy-efficient HVAC control&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yu Dong, Yuan Shi, Yanfeng Liu, Cong Song, Bintian Lin, Jørn Toftum ／ Energy and Buildings 369巻 p.117933-117933&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;居住者の適応行動への理解不足は、建築物のエネルギー使用量削減の可能性を大きく制限する。本研究では、皮膚温度と熱的適応行動（窓操作、衣服調整、扇風機使用、姿勢変化）の関係を調査し、生理学ベースの予測モデルおよびHVAC制御戦略の開発を目指した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;12名の参加者を18～33℃の温度環境に曝露する半制御実験を実施した。窓操作、衣服調整、扇風機使用、姿勢変化の4つの自発的適応行動を記録し、これらと環境パラメータ、皮膚温度、主観的熱感覚との関連性を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;行動起動前後の皮膚温度変化は行動調整の有効性を効果的に定量化でき、衣服調整と扇風機使用が中～高程度の有効性、姿勢変化と暑熱条件下での窓操作が低い有効性を示した。行動起動は順序依存性と状態依存性を示し、参加者は段階的な対応パターンに従う傾向を示した。熱快適性において、行動調整のある参加者とない参加者の平均皮膚温度に有意な差は認められなかった。行動の有効性とHVAC補償需要を統合した皮膚温度ベースの行動調整モデルを開発し、「行動優先、エネルギー補償は後」という階層制御戦略を実装した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;行動有効性の定量的評価方法と階層的な制御戦略が提示されており、適応的でエネルギー効率的な建築運用の設計に活用できる可能性がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117933"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ブラジルの社会住宅における居住者の適応行動と温熱知覚</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117943" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117943</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Marina Ribeiro Viana</name>
-    </author>
-    <author>
-      <name>Brenda da Costa Loeser</name>
-    </author>
-    <author>
-      <name>Christhina Candido</name>
-    </author>
-    <author>
-      <name>Enedir Ghisi</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Occupants' adaptive behaviour and thermal perception in social housing buildings in Brazil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Marina Ribeiro Viana, Brenda da Costa Loeser, Christhina Candido, Enedir Ghisi ／ Energy and Buildings 369巻 p.117943-117943&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;社会住宅の設計不備が熱的側面で劣悪な室内環境をもたらしており、居住者の適応能力は限定されている。本研究はブラジルの高温多湿地域における社会住宅を対象に、居住者の適応行動戦略、温熱知覚、および主観的温熱応答の影響要因を明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;混合研究法により、103名の居住者に対して室内環境計測、インタビュー、温熱快適性調査を実施した。ロジスティック回帰モデルにより物理的・社会経済的要因の影響を分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;夏季の室内環境は高温で、平均実効温度は31.22°Cに達し、69.35%の居住者が温かい/暑い感覚を報告した。温熱感覚は実効温度、相対湿度、年齢、扇風機使用と有意に関連し、温熱快適性は知覚される安全性や居住期間などの多面的要因と関連していた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;温熱快適性の向上には、物理環境の改善に加え、居住者の社会的・心理的・行動的側面を統合したアプローチが重要であることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117943"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>在室者の年齢と活動度が置換換気システムの性能に及ぼす影響</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117944" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117944</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Farah Youssef</name>
-    </author>
-    <author>
-      <name>Stéphane Hallé</name>
-    </author>
-    <author>
-      <name>Katherine D’Avignon</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Effect of occupant age and activity level on the performance of a displacement ventilation system&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Farah Youssef, Stéphane Hallé, Katherine D’Avignon ／ Energy and Buildings 369巻 p.117944-117944&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;下吹き出し換気（DV）システムは人体発熱による熱プルームに駆動される方式で、システム性能は発熱量に大きく影響される。従来、小学校教室などの設計では成人データが用いられてきたが、成人より発熱量が低く室内での位置も低い思春期前児童が在室した場合の動作が十分に検討されていなかった。本研究では、児童特有の発熱量を考慮した熱収支モデルにより、HVAC設計に必要な児童の顕熱・潜熱生成値を算出することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;8歳児を表現する加熱円柱2本を配置したDV調和室の数値流体力学（CFD）モデルを構築し、実験に基づいて検証した。検証済みのモデルを用いて、低・中・高の3段階の代謝率条件における児童と成人女性の性能を比較した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;児童が在室すると鉛直温度成層が約1.9℃低下し、特に低活動レベルで気流パターンが大きく変化した。児童低活動時には給気流線がほぼ等温特性を示すようになり、室内空気質の性能が低下し、空気齢が11%増加、人間活動域における換気効率が10%低下した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;成人用に設計されたDVシステムが児童の利用環境に用いられた場合、特に低活動条件下では気流・温度成層化・空気質に著しく影響することが明らかとなった。本研究で示された児童の顕熱・潜熱表は、教室などの児童利用空間におけるHVAC設計シミュレーションおよび温熱快適性評価の実用的な参考資料として活用可能である。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117944"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>寒冷気候における太陽熱補助地中熱ヒートポンプシステムと単一・二重U字型垂直地中熱交換器のフィールドスケール実験的特性評価</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117948" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117948</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Philip Adebayo</name>
-    </author>
-    <author>
-      <name>Roman Shor</name>
-    </author>
-    <author>
-      <name>Aggrey Mwesigye</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Field-scale experimental characterization of a solar-assisted ground source heat pump system coupled with single and double U-loop vertical ground heat exchangers in a cold climate&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Philip Adebayo, Roman Shor, Aggrey Mwesigye ／ Energy and Buildings 369巻 p.117948-117948&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;従来の地中熱ヒートポンプシステムの研究は豊富だが、太陽熱支援型（SAGSHP）システムの現地実験研究は少ない。本研究ではカナダ・カルガリーの2つのテストサイトで、150m単一および二重U字ループ地中熱交換器を統合したSAGSHPシステムのパフォーマンスを現地計器実験で調査した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2つのテストサイトで計器装備による現地実験を実施した。土壌層と地下水の状況は異なるが、2024年11月から2026年2月までの期間でシステムデータを収集した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;太陽熱利用時、地中熱交換器ループ出口温度は最大1.8℃上昇した。二重U字ループシステムの月平均暖房COP は4.5～5.05で、外気温度最低となった2025年2月に最低値を示した。ループ出口温度は常に初期地中温度を上回り、太陽熱蓄熱を示唆している。単一U字ループシステムは2026年1月・2月で時間平均暖房COP が2.53～6.76の範囲で、最高値は太陽熱利用可能時間帯に対応した。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;太陽熱の利用可能性がシステムパフォーマンスに大きく影響することが実験で実証された。太陽熱蓄熱による地中温度維持が、従来の地中熱ヒートポンプより高いCOP実現に貢献することが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117948"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>エネルギー性能証書、介護品質評価、および規制上の情報ギャップ：イギリスの介護施設に関する全国的なリンク分析</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117954" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117954</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Amit Kaushik</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Energy performance certificates, care quality ratings, and the regulatory information gap: A national linked analysis of english care homes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amit Kaushik ／ Energy and Buildings 369巻 p.117954-117954&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;イングランドのケアホーム（約40万人対応）は、ケア品質監督のCQCとエネルギー効率評価のEPC制度という2つの独立した規制体制の下にある。両体制は形式的なつながりなく機能している。本研究は、CQCとEPC記録をリンクさせた初の国家規模データセットを構築し、両評価体制の関連性を明らかにすることを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;11,768のケアホーム（登録施設の79.4%）について、CQCとEPCの行政データセットをマッチング・リンクした。マッチングデータに対して統計分析、クラスター分析、空間分析を実施した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;平均EPCアセットレーティングスコアは55.6（バンドC）で、83.8%が天然ガス暖房、年間CO₂排出量は約144万トンであった。CQC総合評価とEPCスコア間に統計的有意な関連性がなく、両指標は施設の異なる側面を評価していることが示された。燃料タイプがEPCスコアの最強相関要因であり、ガス暖房主流型（86.7%）、電気暖房型（9.0%）、石油暖房型（4.3%）の3セグメントが同定された。エネルギー性能が低い地域の地理的クラスタリングが有意に認められた。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;各セグメントは異なる脱炭素化経路を示唆している：燃料転換、建物深層改修、オフグリッド再生可能熱である。地理的に限定した場所ベースの介入設計により、15%の施設対応で年間CO₂排出量17.1%の削減が見込まれる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117954"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>気候感応型多目的最適化フレームワークによる建物外壁改修の意思決定支援：方法論と概念実証</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117962" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117962</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Konstantinos Alexakis</name>
-    </author>
-    <author>
-      <name>Vasilis Benekis</name>
-    </author>
-    <author>
-      <name>Panagiotis Kokkinakos</name>
-    </author>
-    <author>
-      <name>Spiros Mouzakitis</name>
-    </author>
-    <author>
-      <name>Dimitris Askounis</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;A climate-sensitive multi-objective optimisation framework for building envelope retrofit decision support: Methodology and proof-of-concept&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Konstantinos Alexakis, Vasilis Benekis, Panagiotis Kokkinakos, Spiros Mouzakitis, Dimitris Askounis ／ Energy and Buildings 369巻 p.117962-117962&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建物外皮改修の最適化研究が単一の標準気象年データに依存しており、改修建物は25～50年間、変動する気候条件で運用されます。現在の最適改修戦略が将来の気候変動と微気候変化下で有効であり続けるかが課題です。既存研究の75.2%が単一気象ファイルで最適化し、複数シナリオに対応するフレームワークが欠落しています。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;EnergyPlus、NSGA-II、将来気象生成ツール（CMIP6/SSP）、多基準意思決定法を統合したウェブベースプラットフォームを開発しました。DOE小規模オフィス（1980年以前竣工、アトランタ）に対して、気候シナリオと微気候条件の直交設計により、7つの気象シナリオでエネルギー、温熱不快性、改修コストを最適化しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;気象シナリオの選択が最適構成を根本的に変化させます。現在気候と将来気候シナリオはパレート最適解の22.7%のみを共有し、35の構成は全シナリオで最適です。不透光部位の断熱は高い堅牢性（r &amp;gt; 0.85）、窓ガラスは高感度（r = 0.41）を示し、温暖化に伴い改修効果は縮小します。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;単一気象ファイル最適化は将来条件下で堅牢性を欠く可能性があります。気候適応型改修には、複数シナリオを検討する体系的フレームワークが必要です。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117962"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ドイツの住宅部門における改善型ヒートポンプの導入効果の定量化：シミュレーションベースシナリオ分析</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117963" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117963</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Karim Yassin</name>
-    </author>
-    <author>
-      <name>Sahil Vishram Vadadkar</name>
-    </author>
-    <author>
-      <name>Beatrice Rodenbücher</name>
-    </author>
-    <author>
-      <name>Hannes Fugmann</name>
-    </author>
-    <author>
-      <name>Norman Trötschler</name>
-    </author>
-    <author>
-      <name>Lukas Joos</name>
-    </author>
-    <author>
-      <name>Stefan Reichert</name>
-    </author>
-    <author>
-      <name>Hans‐Martin Henning</name>
-    </author>
-    <author>
-      <name>Andreas Velte</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Quantifying the impact of improved heat pumps in Germany's residential sector: A simulation-based scenario analysis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Karim Yassin, Sahil Vishram Vadadkar, Beatrice Rodenbücher, Hannes Fugmann, Norman Trötschler, Lukas Joos, Stefan Reichert, Hans‐Martin Henning, Andreas Velte ／ Energy and Buildings 369巻 p.117963-117963&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ヒートポンプによる住宅加熱の電化はエネルギー転換戦略の重要な課題です。既存の評価では、ヒートポンプの性能が静的または平均的な効率値で仮定されてきました。コンポーネント技術の継続的進展が効率向上をもたらすと期待される一方で、こうした改善がコンポーネントレベルから建築・国内エネルギーシステムレベルまで、どのような影響を及ぼすかは定量化されていません。本研究は、このギャップに対処することを目的とします。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;周波数コンバータ・コンプレッサシステムの実験室計測に基づき、コンポーネント効率の向上を建築・国内電力需要への影響に結びつけるボトムアップフレームワークを構築しました。実験を通じ、周波数コンバータの効率がコンプレッサ回転速度に依存することを確認しました。運転条件に応じた効率改善を仮定し、改善されたヒートポンプ性能マップを作成し、動的建築シミュレーションに組み込みました。さらに、ドイツの代表的な住宅建築ストックモデルを用いて国レベルに集計し、脱炭素化シナリオ下での2045年を投影しました。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;検討された効率改善は平均約2%の増加を示しました。これにより国内電力需要をテラワット時間規模で削減でき、2045年までに年間3 TWh以上の削減効果に達することが明らかになりました。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;実験的根拠に基づくコンポーネント改善が、建築・システムレベルでの意義ある効果を持つことが実証されました。本研究が示すような透明性の高い技術評価フレームワークは、今後の設備技術の導入判断に有用な知見を提供します。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117963"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>革新的な動的建物統合型太陽光発電シェーディング装置の性能シミュレーション</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117981" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117981</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Alessandro Dama</name>
-    </author>
-    <author>
-      <name>Cahyo Adisaputro</name>
-    </author>
-    <author>
-      <name>Emanuele Piccoli</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Building integrated performance simulation of an innovative dynamic BIPV shading device&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alessandro Dama, Cahyo Adisaputro, Emanuele Piccoli ／ Energy and Buildings 369巻 p.117981-117981&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;本研究は、動的かつ可変式のブラインドとPV（太陽光パネル）を統合した建物一体型光起電力（BIPV）シェーディング装置の性能評価方法を提示する。イタリア・ミラノの一般的なオフィスモジュール（南向きファサード）をケーススタディとして、異なる窓壁比率（WWR）および異なる制御方式を備えたBIPVシステムの有効性を検証することを主な目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;シェーディング制御戦略はBuilding Controls Virtual Test Bed（BCVTB）上に実装された。EnergyPlus（熱計算）とRadiance（昼光評価）を動的に結合し、固定シェーディングおよび室内温度・日射量に基づくラメラ角度の自動調整の2つの制御方式を比較した。暖房、冷房、照明需要、PV発電を含めた全体的なエネルギー性能を統合的に評価した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;動的制御システムは、PVなしの場合でも全体的なエネルギー需要を削減する効果を示した。さらにPV発電と組み合わせることにより、ニアゼロエネルギー建築（NZEB）目標の達成が可能であることが明らかになった。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;動的シェーディング制御とBIPVシステムの組み合わせは、建物のエネルギー性能向上とNZEB達成に有効な手法である。室内温度および日射量に基づいた自動制御方式の導入により、固定シェーディングと比べてさらなるエネルギー削減が期待できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117981"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>ドイツのヒートポンプ設置費用がなぜ高いのか：ヨーロッパ規模の比較分析からの実証</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117998" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117998</id>
-    <updated>2026-07-27T00:00:00+09:00</updated>
-    <author>
-      <name>Marek Miara</name>
-    </author>
-    <author>
-      <name>Jan Rosenow</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Why are heat pump installation costs so much higher in Germany? Evidence from a European comparison&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Marek Miara, Jan Rosenow ／ Energy and Buildings 369巻 p.117998-117998&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;ヒートポンプは住宅暖房の脱炭素化を実現する重要な技術であり、ヨーロッパ全域での導入が進められている。しかし既存戸建住宅への空気熱源ヒートポンプ設置費用は、ドイツ（23,000～40,000ユーロ以上）が同等のヨーロッパ諸国（9,000～20,000ユーロ）より著しく高い。本研究は、この大きな費用格差の原因を定量的に分析することを目的とする。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;2022年から2025年の市場データ、消費者団体分析、エンジニアリングコスト研究、および現地調査を用いて分析を実施した。イギリスとの仕様適合二国間比較により、格差を識別可能な費用要素に分解した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;機器価格、基礎工事、電気接続工事、労務費などの根本的なコスト構造が格差の約半分を占める。付加価値税（ドイツ19%、イギリス非課税）の差がさらに3分の1を占める。残りは補助金制度のインセンティブ効果と市場動向による。ドイツは手厚いパーセンテージベースの支援制度を実施しているにもかかわらず、実質的な費用負担はイギリスより高い「補助金パラドックス」が生じている。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;ヒートポンプ導入の費用削減には、補助金の単純な増額よりも、技術標準化と補助金設計の改革が重要である。パーセンテージ型から固定給付型への転換や市場構造の改善により、より効果的なコスト低減が実現する。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117998"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>熱帯建築におけるバイオベース材料の使用が気候に及ぼす影響：タイの戸建住宅における事例研究</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117939" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117939</id>
-    <updated>2026-07-26T00:00:00+09:00</updated>
-    <author>
-      <name>Bergpob Viriyaroj</name>
-    </author>
-    <author>
-      <name>Shabbir H. Gheewala</name>
-    </author>
-    <author>
-      <name>Matti Kuittinen</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Climate implications of using bio-based materials in tropical buildings: a case study in Thai detached houses&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bergpob Viriyaroj, Shabbir H. Gheewala, Matti Kuittinen ／ Energy and Buildings 369巻 p.117939-117939&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;建築・建設セクターは世界全体の温室効果ガス排出量に大きく貢献しており、地球温暖化を2℃以下に抑制する国際目標の達成には排出削減が急務である。東南アジアの高都市化地域、特にタイは建設慣行における排出削減に課題を抱えており、2065年までのカーボンニュートラル達成を目指している。タイではコンクリートフレーム構造が小規模住宅建設の主流であり、2023年の総建築面積の49%が戸建て住宅である。本研究は、コンクリートおよび鋼材をバイオベース建設材料に置き換えることで、戸建て住宅からの排出削減手法を検討した。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;削減戦略を検討するため、2種類のバイオベース設計を作成した。タイの規制エネルギー基準が小規模住宅を対象としていないため、将来のエネルギー状況の不確実性に対応するよう、3つのエネルギーシナリオを設定して研究を進めた。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;太陽光発電統合シナリオにおける拡張バイオベース設計は、従来のコンクリート・鋼材設計と比較して最高の削減効果を達成し、平屋で64%、2階建てで56%の排出削減を実現した。元の断熱性能を基準としたシナリオでは、平屋で73%、2階建てで68%の削減に達した。タイが2065年までに将来の住宅すべてに拡張バイオベース設計を採用した場合、最大473 MtCO2eの排出回避が可能である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;建築設計段階でコンクリートおよび鋼材をバイオベース建設材料に置き換えることで、大幅な排出削減が実現可能である。特に、高性能な断熱や太陽光発電などのエネルギー効率改善とバイオベース材料の併用によって、削減効果がさらに高まることが示唆される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117939"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>屋上太陽光発電システムによる都市ヒートアイランド現象の緩和：5つのケッペン気候区分における比較検討</title>
-    <link href="https://doi.org/10.1016/j.enbuild.2026.117950" />
-    <id>urn:doi:10.1016/j.enbuild.2026.117950</id>
-    <updated>2026-07-26T00:00:00+09:00</updated>
-    <author>
-      <name>Guang Hu</name>
-    </author>
-    <author>
-      <name>Guang Hu</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;Rooftop solar photovoltaic Systems for Urban Heat Island Mitigation: A comparative multi-climate review across five Köppen climate zones&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Guang Hu, Guang Hu ／ Energy and Buildings 369巻 p.117950-117950&lt;/p&gt;&lt;h3&gt;背景・目的&lt;/h3&gt;&lt;p&gt;都市ヒートアイランド現象は世界中の都市で熱的快適性の低下やエネルギー消費増加による課題となっている。屋上太陽光発電（PV）システムは再生可能電力を発電しながら都市表面のエネルギーバランスを変化させる戦略として期待されている。本研究では、屋上PVが異なる気候条件下で建物の冷房負荷と都市ヒートアイランド強度に与える影響を体系的に定量化することを目的とした。&lt;/p&gt;&lt;h3&gt;方法&lt;/h3&gt;&lt;p&gt;異なるケッペン気候区分に代表される5都市を対象に、公表されている実験的・数値的・衛星由来データを比較検証した。現地測定データとPVGIS衛星太陽資源データ、WRFメソスケール数値モデル、建物エネルギーモデル（BEP-BEM）フレームワークを統合して分析した。&lt;/p&gt;&lt;h3&gt;結果&lt;/h3&gt;&lt;p&gt;屋上PVは昼間の屋根表面温度を5～20 K低減し、天井への熱流束を最大63%低減する。大規模導入により地表近傍大気を0.2～1.0 K冷却し、建物冷房負荷は4.4～16%低減される。都市環境でのPVセル温度は52～78 °Cに達し、効率低下は5～18%、発電量は194～395 kWh/m²/年である。&lt;/p&gt;&lt;h3&gt;実務への示唆&lt;/h3&gt;&lt;p&gt;本分析は太陽エネルギー導入と都市熱緩和戦略を統合する際の気候区分別ガイダンスを提供する。ただし単一の代表都市に基づいており、極地および亜寒帯気候が除外されているという限界がある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1016/j.enbuild.2026.117950"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

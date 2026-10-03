@@ -3,7 +3,17 @@
   <title>建築環境・設備 新着論文｜Journal of Building Performance Simulation</title>
   <link href="https://elweeeen.github.io/journals-feed/jbps.xml" rel="self" />
   <id>urn:jstage-journals:feed:jbps</id>
-  <updated>2026-08-25T00:00:00+09:00</updated>
+  <updated>2026-09-09T00:00:00+09:00</updated>
+  <entry>
+    <title>訂正</title>
+    <link href="https://doi.org/10.1080/19401493.2026.2715792" />
+    <id>urn:doi:10.1080/19401493.2026.2715792</id>
+    <updated>2026-09-09T00:00:00+09:00</updated>
+    <author>
+      <name>- **掲載**: Journal of Building Performance Simulation p.1-2</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Correction&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- **掲載**: Journal of Building Performance Simulation p.1-2 ／ Journal of Building Performance Simulation p.1-2&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1080/19401493.2026.2715792"&gt;本文を読む&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>モデル予測制御に基づく建物熱蓄熱のエネルギー柔軟性評価フレームワーク</title>
     <link href="https://doi.org/10.1080/19401493.2026.2706838" />
